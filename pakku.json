@@ -4,6 +4,73 @@
     "overrides": [
         "config"
     ],
+    "projects": {
+        "archers": {
+            "subpath": "content.rpg"
+        },
+        "azurelib-armor": {
+            "subpath": "0libs"
+        },
+        "cloth-config": {
+            "subpath": "0libs"
+        },
+        "combat-roll": {
+            "subpath": "content.rpg"
+        },
+        "fabric-language-kotlin": {
+            "subpath": "0libs"
+        },
+        "gazebos": {
+            "side": "BOTH",
+            "subpath": "worldgen.structures"
+        },
+        "jewelry": {
+            "subpath": "content.rpg"
+        },
+        "kinecraft-serialization": {
+            "subpath": "0libs"
+        },
+        "kotlin-for-forge": {
+            "subpath": "0libs"
+        },
+        "paladins-and-priests": {
+            "subpath": "content.rpg"
+        },
+        "playeranimator": {
+            "subpath": "0libs"
+        },
+        "ranged-weapon-api": {
+            "subpath": "0libs"
+        },
+        "rogues-and-warriors": {
+            "subpath": "content.rpg"
+        },
+        "runes": {
+            "subpath": "content.rpg"
+        },
+        "shield-api": {
+            "subpath": "0libs"
+        },
+        "spell-engine": {
+            "subpath": "content.rpg"
+        },
+        "spell-power": {
+            "subpath": "content.rpg"
+        },
+        "structure-pool-api": {
+            "side": "BOTH",
+            "subpath": "0libs"
+        },
+        "trinkets": {
+            "subpath": "content.rpg"
+        },
+        "wizards": {
+            "subpath": "content.rpg"
+        },
+        "yacl": {
+            "subpath": "0libs"
+        }
+    },
     "project_aliases": {
         "fabric-api": "forgified-fabric-api"
     }

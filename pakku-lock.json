@@ -9,6 +9,357 @@
     },
     "projects": [
         {
+            "pakku_id": "8KWnUgneADyk9vHY",
+            "pakku_links": [
+                "MHYpE9BWcnIYOxXa",
+                "ef5klbGotStdSXTQ",
+                "5sxLlohcnSg5l56f",
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "archers",
+                "modrinth": "archers"
+            },
+            "name": {
+                "curseforge": "Archers (RPG Series)",
+                "modrinth": "Archers (RPG Series)"
+            },
+            "id": {
+                "curseforge": "932359",
+                "modrinth": "QgooUXAJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "archers-1.2.5+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5514/12/archers-1.2.5+1.20.1.jar",
+                    "id": "5514012",
+                    "parent_id": "932359",
+                    "hashes": {
+                        "sha1": "3d120b27a00b0ac13d7db7a650eb62882c57fa2a",
+                        "md5": "27e4504ea0bec385fa5bf412b839291c"
+                    },
+                    "required_dependencies": [
+                        "962162",
+                        "912767",
+                        "807653",
+                        "306612"
+                    ],
+                    "size": 1025656
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "archers-1.2.5+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QgooUXAJ/versions/SOJ4DVD4/archers-1.2.5+1.20.1.jar",
+                    "id": "SOJ4DVD4",
+                    "parent_id": "QgooUXAJ",
+                    "hashes": {
+                        "sha512": "dde9c908c61a247ddf6505d1b7338b864428c743dfde582db7f26e0701eb197818ce0304a20613380c17328676595ef1dbecf41390920758f0a9eb94fe6549f2",
+                        "sha1": "3d120b27a00b0ac13d7db7a650eb62882c57fa2a"
+                    },
+                    "required_dependencies": [
+                        "AqaIIO6D",
+                        "P7dR8mSH",
+                        "XvoWJaA2",
+                        "pduQXSbl"
+                    ],
+                    "size": 1025656
+                }
+            ]
+        },
+        {
+            "pakku_id": "ef5klbGotStdSXTQ",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "azurelib-armor",
+                "modrinth": "azurelib-armor"
+            },
+            "name": {
+                "curseforge": "AzureLib Armor",
+                "modrinth": "AzureLib Armor"
+            },
+            "id": {
+                "curseforge": "912767",
+                "modrinth": "pduQXSbl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "azurelibarmor-fabric-1.20.1-2.0.12.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5782/711/azurelibarmor-fabric-1.20.1-2.0.12.jar",
+                    "id": "5782711",
+                    "parent_id": "912767",
+                    "hashes": {
+                        "sha1": "262913d37d802f7d0988c73475e4176e43917088",
+                        "md5": "8704d4e97f565fe881f5db0b4f1d2a90"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 422379
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "azurelibarmor-fabric-1.20.1-2.0.12.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/fOBtbpUU/azurelibarmor-fabric-1.20.1-2.0.12.jar",
+                    "id": "fOBtbpUU",
+                    "parent_id": "pduQXSbl",
+                    "hashes": {
+                        "sha512": "19a05e4fa260e806f89fe7d55f92dabe57715f513737226acf2c719cffade363b6855419391c77d1b856e45c3e17cb11ccd80bc712a290c95792ddee379a4e07",
+                        "sha1": "262913d37d802f7d0988c73475e4176e43917088"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 422379
+                }
+            ]
+        },
+        {
+            "pakku_id": "mfRGu6INpZ1FA91X",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX",
+                "40s41vtYZh8r5Ef0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "better-combat",
+                "curseforge": "better-combat-by-daedelus"
+            },
+            "name": {
+                "modrinth": "Better Combat",
+                "curseforge": "Better Combat [Fabric & Forge]"
+            },
+            "id": {
+                "modrinth": "5sy6g3kz",
+                "curseforge": "639842"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bettercombat-forge-1.8.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/UjlaL0Fm/bettercombat-forge-1.8.6+1.20.1.jar",
+                    "id": "UjlaL0Fm",
+                    "parent_id": "5sy6g3kz",
+                    "hashes": {
+                        "sha512": "24b3acd2b1ff3e24b2828ec003bcf2f5af7b4556be728996ddc8bdca3244bb92e91ef76f3c1bc10a15a5e59cd80b388f4994097fd258aadcb7abb7f3bd6959c3",
+                        "sha1": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "gedNE4y2"
+                    ],
+                    "size": 1050118
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "bettercombat-forge-1.8.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5625/757/bettercombat-forge-1.8.6+1.20.1.jar",
+                    "id": "5625757",
+                    "parent_id": "639842",
+                    "hashes": {
+                        "sha1": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d",
+                        "md5": "28f4682af86e8bdee7b808fa0adbdf81"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "658587"
+                    ],
+                    "size": 1050118
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZjVRXkiYqcOO3dUX",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cloth-config",
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "curseforge": "348521",
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-11.1.136-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
+                    "id": "5729105",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+                        "md5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1181413
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cloth-config-11.1.136-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+                    "id": "t8TXrZvZ",
+                    "parent_id": "9s6osm5g",
+                    "hashes": {
+                        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef",
+                        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1181413
+                }
+            ]
+        },
+        {
+            "pakku_id": "K8DFEQF3JLBHEw0a",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE",
+                "ZjVRXkiYqcOO3dUX",
+                "40s41vtYZh8r5Ef0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "combat-roll",
+                "modrinth": "combat-roll"
+            },
+            "name": {
+                "curseforge": "Combat Roll [Fabric & Forge]",
+                "modrinth": "Combat Roll"
+            },
+            "id": {
+                "curseforge": "678036",
+                "modrinth": "wGKYL7st"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "combatroll-fabric-1.3.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5625/934/combatroll-fabric-1.3.3+1.20.1.jar",
+                    "id": "5625934",
+                    "parent_id": "678036",
+                    "hashes": {
+                        "sha1": "7711c08770aa5d15f215093b6884c473350e2e1f",
+                        "md5": "96f6261f2e2153f195785d6836813f1d"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "348521",
+                        "658587"
+                    ],
+                    "size": 191873
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "combatroll-fabric-1.3.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3+1.20.1.jar",
+                    "id": "FyOp03FS",
+                    "parent_id": "wGKYL7st",
+                    "hashes": {
+                        "sha512": "6703c3b2b6e6b063102b50e65aa4be29bc4b46f7830cf3a396bfb5fac78c3a29d1bcfe2b796fbe2c79f948bdb098931d076bee58f5ce5ff37a40ad699544ff04",
+                        "sha1": "7711c08770aa5d15f215093b6884c473350e2e1f"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "P7dR8mSH",
+                        "gedNE4y2"
+                    ],
+                    "size": 191873
+                }
+            ]
+        },
+        {
             "pakku_id": "idmS3r2ex2Wy4RUr",
             "type": "MOD",
             "side": "BOTH",
@@ -165,6 +516,153 @@
                     "required_dependencies": [
                     ],
                     "size": 3041071
+                }
+            ]
+        },
+        {
+            "pakku_id": "9eHStb4RlvkGEviu",
+            "pakku_links": [
+                "AQ1eEoZP1gevG9ym",
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "gazebos",
+                "modrinth": "gazebos"
+            },
+            "name": {
+                "curseforge": "Gazebos (RPG Series)",
+                "modrinth": "Gazebos (RPG Series)"
+            },
+            "id": {
+                "curseforge": "865298",
+                "modrinth": "XIpMGI6r"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gazebo-1.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4819/337/gazebo-1.1.1+1.20.1.jar",
+                    "id": "4819337",
+                    "parent_id": "865298",
+                    "hashes": {
+                        "sha1": "e8a341fc5db0d62bc82995adcecfd6404f3c4a0e",
+                        "md5": "a02f9cea52ec3e0239a330a1ddc72dbd"
+                    },
+                    "required_dependencies": [
+                        "927915",
+                        "306612"
+                    ],
+                    "size": 319890
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gazebo-1.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/7OXOb67d/gazebo-1.1.1+1.20.1.jar",
+                    "id": "7OXOb67d",
+                    "parent_id": "XIpMGI6r",
+                    "hashes": {
+                        "sha512": "2abfd61675de3c0703528939f87ff8511432b283de2381955b6feac99a486e4d6fd361987264319262a07cea4edea50f485d628a844bb5b5ef38f553c8e6986a",
+                        "sha1": "e8a341fc5db0d62bc82995adcecfd6404f3c4a0e"
+                    },
+                    "required_dependencies": [
+                        "LrYZi08Q",
+                        "P7dR8mSH"
+                    ],
+                    "size": 319890
+                }
+            ]
+        },
+        {
+            "pakku_id": "cEjsnFdt5u5edNsf",
+            "pakku_links": [
+                "DuBWkC5IokuggOXP",
+                "AQ1eEoZP1gevG9ym",
+                "MHYpE9BWcnIYOxXa",
+                "ZOndG1Gkz1BcP5Tt",
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jewelry",
+                "modrinth": "jewelry"
+            },
+            "name": {
+                "curseforge": "Jewelry (RPG Series)",
+                "modrinth": "Jewelry (RPG Series)"
+            },
+            "id": {
+                "curseforge": "910706",
+                "modrinth": "sNJAIjUm"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Jewelry-1.3.7+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5672/344/Jewelry-1.3.7+1.20.1.jar",
+                    "id": "5672344",
+                    "parent_id": "910706",
+                    "hashes": {
+                        "sha1": "4943324eb735305ae42e619a78d11e5136e1d321",
+                        "md5": "d564e95d8e7c05d2129e59cd64997502"
+                    },
+                    "required_dependencies": [
+                        "771265",
+                        "927915",
+                        "962162",
+                        "341284",
+                        "306612"
+                    ],
+                    "size": 641972
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Jewelry-1.3.7+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sNJAIjUm/versions/O9B6r9VO/Jewelry-1.3.7+1.20.1.jar",
+                    "id": "O9B6r9VO",
+                    "parent_id": "sNJAIjUm",
+                    "hashes": {
+                        "sha512": "8f003e80e56421efec6e0f0745d6b26c12bd41783b92d28572fa93c502ff988b8a3b35f0424197fc7ccbefb4a31f594fd28f30e5abe9ce03225e33d621603c06",
+                        "sha1": "4943324eb735305ae42e619a78d11e5136e1d321"
+                    },
+                    "required_dependencies": [
+                        "5aaWibi9",
+                        "8ooWzSQP",
+                        "AqaIIO6D",
+                        "LrYZi08Q",
+                        "P7dR8mSH"
+                    ],
+                    "size": 641972
                 }
             ]
         },
@@ -374,6 +872,354 @@
             ]
         },
         {
+            "pakku_id": "63pBTSZjrMRBvcOK",
+            "pakku_links": [
+                "ef5klbGotStdSXTQ",
+                "5sxLlohcnSg5l56f",
+                "rJC6pRiL9CVhnAPE",
+                "lOl9VqYNjSUrbxH8",
+                "r3HIoc5c77b77ywf"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "paladins-and-priests",
+                "modrinth": "paladins-and-priests"
+            },
+            "name": {
+                "curseforge": "Paladins & Priests (RPG Series)",
+                "modrinth": "Paladins & Priests (RPG Series)"
+            },
+            "id": {
+                "curseforge": "856548",
+                "modrinth": "FxXkHaLe"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "paladins-1.3.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5562/701/paladins-1.3.1+1.20.1.jar",
+                    "id": "5562701",
+                    "parent_id": "856548",
+                    "hashes": {
+                        "sha1": "d47498d495a108bcc79a618f14a73214c9e193c7",
+                        "md5": "46f161228cc63cd2c46090ea621003e6"
+                    },
+                    "required_dependencies": [
+                        "912767",
+                        "807653",
+                        "306612",
+                        "1048720",
+                        "775518"
+                    ],
+                    "size": 2520694
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "paladins-1.3.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/9FbzwRpY/paladins-1.3.1+1.20.1.jar",
+                    "id": "9FbzwRpY",
+                    "parent_id": "FxXkHaLe",
+                    "hashes": {
+                        "sha512": "a9b7e6da3205207a7fce6fe35e17f91a4130089c17c1963fb59a51f7875070e10022bd51347db6e6c5a8ba56f5145ff77dd149a628b323476373947467025806",
+                        "sha1": "d47498d495a108bcc79a618f14a73214c9e193c7"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "XvoWJaA2",
+                        "lP9Yrr1E",
+                        "pduQXSbl",
+                        "y9clIFY4"
+                    ],
+                    "size": 2520694
+                }
+            ]
+        },
+        {
+            "pakku_id": "MHYpE9BWcnIYOxXa",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ranged-weapon-api",
+                "modrinth": "ranged-weapon-api"
+            },
+            "name": {
+                "curseforge": "Ranged Weapon API",
+                "modrinth": "Ranged Weapon API"
+            },
+            "id": {
+                "curseforge": "962162",
+                "modrinth": "AqaIIO6D"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ranged_weapon_api-1.1.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5655/499/ranged_weapon_api-1.1.4+1.20.1.jar",
+                    "id": "5655499",
+                    "parent_id": "962162",
+                    "hashes": {
+                        "sha1": "0766a20408c19c5abed47784220f9d33fbac22dd",
+                        "md5": "3a7797f55299d2de2aa7ce9698264779"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 114936
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ranged_weapon_api-1.1.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/6LUH2hok/ranged_weapon_api-1.1.4+1.20.1.jar",
+                    "id": "6LUH2hok",
+                    "parent_id": "AqaIIO6D",
+                    "hashes": {
+                        "sha512": "07834834ba62de6ee480dd9186569aa079c29df185963148b12c9fc5b4fea48590b3de95f2ae200f74cf302a75731f916014052b7d3b7a73ba50a7fe79f230f8",
+                        "sha1": "0766a20408c19c5abed47784220f9d33fbac22dd"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 114936
+                }
+            ]
+        },
+        {
+            "pakku_id": "FhxXUXT4RVFWpp5f",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE",
+                "ef5klbGotStdSXTQ",
+                "5sxLlohcnSg5l56f"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rogues-and-warriors",
+                "modrinth": "rogues-and-warriors"
+            },
+            "name": {
+                "curseforge": "Rogues & Warriors (RPG Series)",
+                "modrinth": "Rogues & Warriors (RPG Series)"
+            },
+            "id": {
+                "curseforge": "1048409",
+                "modrinth": "3MKqoGuP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rogues-1.1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5562/692/rogues-1.1.0+1.20.1.jar",
+                    "id": "5562692",
+                    "parent_id": "1048409",
+                    "hashes": {
+                        "sha1": "927fb01c05fa96adad72e9d88f3c945dcf638585",
+                        "md5": "92264a3a1258cdbd5b362f091d20fe09"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "912767",
+                        "807653"
+                    ],
+                    "size": 1007218
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "rogues-1.1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3MKqoGuP/versions/Zv9heBzC/rogues-1.1.0+1.20.1.jar",
+                    "id": "Zv9heBzC",
+                    "parent_id": "3MKqoGuP",
+                    "hashes": {
+                        "sha512": "619289546554549092c0fedc1bc9893bc8ac9681a81dc640cc5b6f5e7051ffeed3c2765a44f00cceb371e5c32ca03881b90ec845af74e5a958338710fe242fd8",
+                        "sha1": "927fb01c05fa96adad72e9d88f3c945dcf638585"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "XvoWJaA2",
+                        "pduQXSbl"
+                    ],
+                    "size": 1007218
+                }
+            ]
+        },
+        {
+            "pakku_id": "r3HIoc5c77b77ywf",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rune-crafting",
+                "modrinth": "runes"
+            },
+            "name": {
+                "curseforge": "Runes [Fabric]",
+                "modrinth": "Runes"
+            },
+            "id": {
+                "curseforge": "775518",
+                "modrinth": "lP9Yrr1E"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "runes-0.9.13+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5446/151/runes-0.9.13+1.20.1.jar",
+                    "id": "5446151",
+                    "parent_id": "775518",
+                    "hashes": {
+                        "sha1": "9a13275dc0cf1c092fda619bfb88415fee7e2e67",
+                        "md5": "9421182fa45686ae55b60e49722d7125"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 242139
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "runes-0.9.13+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13+1.20.1.jar",
+                    "id": "Z915LCkR",
+                    "parent_id": "lP9Yrr1E",
+                    "hashes": {
+                        "sha512": "a4f4de8577788c52ce6264adc0d9f301040bad21c53e3c8a59b159b746bc5181a209250f6982af70830882a278914d98bc1d45f913291b8bed1946b3523aaabf",
+                        "sha1": "9a13275dc0cf1c092fda619bfb88415fee7e2e67"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 242139
+                }
+            ]
+        },
+        {
+            "pakku_id": "lOl9VqYNjSUrbxH8",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "shield-api",
+                "modrinth": "shield-api"
+            },
+            "name": {
+                "curseforge": "Shield API",
+                "modrinth": "Shield API"
+            },
+            "id": {
+                "curseforge": "1048720",
+                "modrinth": "y9clIFY4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ShieldAPI-1.0.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5520/298/ShieldAPI-1.0.1+1.20.1.jar",
+                    "id": "5520298",
+                    "parent_id": "1048720",
+                    "hashes": {
+                        "sha1": "3eff6896e92094df2fefc8175f8416d0532eec53",
+                        "md5": "101ea3b59c44e0286afa6a546a20103e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 43294
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ShieldAPI-1.0.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/y9clIFY4/versions/sLbfVkc1/ShieldAPI-1.0.1+1.20.1.jar",
+                    "id": "sLbfVkc1",
+                    "parent_id": "y9clIFY4",
+                    "hashes": {
+                        "sha512": "0e3e7c67a6caf5824a6e0329cc41eb3dc4669cc08fe844b150a98bcce69c375b75a740281bdb6013707a4db8cb84c94e18982bd847be46ed10b254c84e18b807",
+                        "sha1": "3eff6896e92094df2fefc8175f8416d0532eec53"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 43294
+                }
+            ]
+        },
+        {
             "pakku_id": "tJAqEPS0J9BkuAQc",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE"
@@ -440,6 +1286,356 @@
             ]
         },
         {
+            "pakku_id": "5sxLlohcnSg5l56f",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX",
+                "40s41vtYZh8r5Ef0",
+                "ZOndG1Gkz1BcP5Tt",
+                "rJC6pRiL9CVhnAPE",
+                "DuBWkC5IokuggOXP"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spell-engine",
+                "modrinth": "spell-engine"
+            },
+            "name": {
+                "curseforge": "Spell Engine",
+                "modrinth": "Spell Engine"
+            },
+            "id": {
+                "curseforge": "807653",
+                "modrinth": "XvoWJaA2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spell_engine-0.15.11+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5735/356/spell_engine-0.15.11+1.20.1.jar",
+                    "id": "5735356",
+                    "parent_id": "807653",
+                    "hashes": {
+                        "sha1": "4803a34641e9c9e4b945a4da68104c13ce1eacfd",
+                        "md5": "6879e4ce29ad46721b39be85239236f9"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "658587",
+                        "341284",
+                        "306612",
+                        "771265"
+                    ],
+                    "size": 1460857
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spell_engine-0.15.11+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/G75QvvY1/spell_engine-0.15.11+1.20.1.jar",
+                    "id": "G75QvvY1",
+                    "parent_id": "XvoWJaA2",
+                    "hashes": {
+                        "sha512": "101f3179d66751337fa6afe62ff0a3d2342da7361c5a43bc4cc02bbd0bd9252ff10d53f23e3a7b4a32d079aeb4dd9119be88aaacbeb2d29b975a08158464ddb2",
+                        "sha1": "4803a34641e9c9e4b945a4da68104c13ce1eacfd"
+                    },
+                    "required_dependencies": [
+                        "5aaWibi9",
+                        "8ooWzSQP",
+                        "9s6osm5g",
+                        "P7dR8mSH",
+                        "gedNE4y2"
+                    ],
+                    "size": 1460857
+                }
+            ]
+        },
+        {
+            "pakku_id": "DuBWkC5IokuggOXP",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spell-power",
+                "modrinth": "spell-power"
+            },
+            "name": {
+                "curseforge": "Spell Power Attributes [Fabric]",
+                "modrinth": "Spell Power Attributes"
+            },
+            "id": {
+                "curseforge": "771265",
+                "modrinth": "8ooWzSQP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spell_power-0.12.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5672/350/spell_power-0.12.0+1.20.1.jar",
+                    "id": "5672350",
+                    "parent_id": "771265",
+                    "hashes": {
+                        "sha1": "777fcfb31857f233977172370fd612d087650f94",
+                        "md5": "3f4446e824c9bd45506e639e5aad55b4"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 184963
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spell_power-0.12.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8ooWzSQP/versions/G74msHHs/spell_power-0.12.0+1.20.1.jar",
+                    "id": "G74msHHs",
+                    "parent_id": "8ooWzSQP",
+                    "hashes": {
+                        "sha512": "9c3b57ee5a7732031889cfbbf86fc9087f67aec89af851ca35e1c76ead94a990beb478b27e9641d0353bf863a68b232593e3368d167b42bd24357ff8d6ba0861",
+                        "sha1": "777fcfb31857f233977172370fd612d087650f94"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 184963
+                }
+            ]
+        },
+        {
+            "pakku_id": "AQ1eEoZP1gevG9ym",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "structure-pool-api",
+                "modrinth": "structure-pool-api"
+            },
+            "name": {
+                "curseforge": "Structure Pool API",
+                "modrinth": "Structure Pool API"
+            },
+            "id": {
+                "curseforge": "927915",
+                "modrinth": "LrYZi08Q"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "structure_pool_api-1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4818/11/structure_pool_api-1.0+1.20.1.jar",
+                    "id": "4818011",
+                    "parent_id": "927915",
+                    "hashes": {
+                        "sha1": "4af199a3930dc5b1d343a7824b69063d240f0c0f",
+                        "md5": "8c2d058d7f6aceab59adcf244cd144cc"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 271058
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "structure_pool_api-1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/Syp6lSTL/structure_pool_api-1.0+1.20.1.jar",
+                    "id": "Syp6lSTL",
+                    "parent_id": "LrYZi08Q",
+                    "hashes": {
+                        "sha512": "1436abdff001eb90e86ca69601f022e97708878395964300d50c6afbbb63d4bca030e99062faeaed692cdbf3f7476cc6f422e039091b3d453008e3bcf98a8e71",
+                        "sha1": "4af199a3930dc5b1d343a7824b69063d240f0c0f"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 271058
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZOndG1Gkz1BcP5Tt",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "trinkets",
+                "modrinth": "trinkets"
+            },
+            "name": {
+                "curseforge": "Trinkets (Fabric)",
+                "modrinth": "Trinkets"
+            },
+            "id": {
+                "curseforge": "341284",
+                "modrinth": "5aaWibi9"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trinkets-3.7.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5173/501/trinkets-3.7.2.jar",
+                    "id": "5173501",
+                    "parent_id": "341284",
+                    "hashes": {
+                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008",
+                        "md5": "c010ccc2015e5b1f3cb1994694ecc512"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 238532
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trinkets-3.7.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar",
+                    "id": "AHxQGtuC",
+                    "parent_id": "5aaWibi9",
+                    "hashes": {
+                        "sha512": "bedf97c87c5e556416410267108ad358b32806448be24ef8ae1a79ac63b78b48b9c851c00c845b8aedfc7805601385420716b9e65326fdab21340e8ba3cc4274",
+                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 238532
+                }
+            ]
+        },
+        {
+            "pakku_id": "VpLOmpfiyv34ZDQ9",
+            "pakku_links": [
+                "DuBWkC5IokuggOXP",
+                "ef5klbGotStdSXTQ",
+                "rJC6pRiL9CVhnAPE",
+                "5sxLlohcnSg5l56f",
+                "r3HIoc5c77b77ywf"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "wizards",
+                "modrinth": "wizards"
+            },
+            "name": {
+                "curseforge": "Wizards (RPG Series)",
+                "modrinth": "Wizards (RPG Series)"
+            },
+            "id": {
+                "curseforge": "734325",
+                "modrinth": "NkGaQMDA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wizards-1.3.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5562/700/wizards-1.3.0+1.20.1.jar",
+                    "id": "5562700",
+                    "parent_id": "734325",
+                    "hashes": {
+                        "sha1": "d72cf4692d6e1164497e2238484309a1f9496a83",
+                        "md5": "6ef52353decf222b007ae1b18342e116"
+                    },
+                    "required_dependencies": [
+                        "771265",
+                        "912767",
+                        "306612",
+                        "775518",
+                        "807653"
+                    ],
+                    "size": 2877001
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "wizards-1.3.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/hMGphtUf/wizards-1.3.0+1.20.1.jar",
+                    "id": "hMGphtUf",
+                    "parent_id": "NkGaQMDA",
+                    "hashes": {
+                        "sha512": "44a4c9f7d6d48fd3981178a8a4bb78e1ac6b30f05bc1cd1ed238562f67aec7b5a017435ef79773a5424c6f128322d231264e9996218b4435ce4750d68a63e7c8",
+                        "sha1": "d72cf4692d6e1164497e2238484309a1f9496a83"
+                    },
+                    "required_dependencies": [
+                        "8ooWzSQP",
+                        "P7dR8mSH",
+                        "XvoWJaA2",
+                        "lP9Yrr1E",
+                        "pduQXSbl"
+                    ],
+                    "size": 2877001
+                }
+            ]
+        },
+        {
             "pakku_id": "QFkRoDD2cAh8pHAO",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE"
@@ -502,6 +1698,72 @@
                         "P7dR8mSH"
                     ],
                     "size": 1151778
+                }
+            ]
+        },
+        {
+            "pakku_id": "40s41vtYZh8r5Ef0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "playeranimator",
+                "modrinth": "playeranimator"
+            },
+            "name": {
+                "curseforge": "playerAnimator",
+                "modrinth": "playerAnimator"
+            },
+            "id": {
+                "curseforge": "658587",
+                "modrinth": "gedNE4y2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4587/215/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                    "id": "4587215",
+                    "parent_id": "658587",
+                    "hashes": {
+                        "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617",
+                        "md5": "03dfb09aabe5c2c8167568cd5c32666b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 181008
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                    "id": "yDqYTUaf",
+                    "parent_id": "gedNE4y2",
+                    "hashes": {
+                        "sha512": "4ed2659c9e9c1a1fa8936523f7d6de1b8012d8e06e6c58ef65ea5c7acef2b3a113afe584b3a31d70eee00423dbe533c06022cc5f169ab5a2ddf8167acf259ec8",
+                        "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 181008
                 }
             ]
         }
