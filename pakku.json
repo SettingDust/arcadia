@@ -3,5 +3,8 @@
     "version": "0.0.1",
     "overrides": [
         "config"
-    ]
+    ],
+    "project_aliases": {
+        "fabric-api": "forgified-fabric-api"
+    }
 }

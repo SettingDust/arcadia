@@ -9,7 +9,7 @@
     },
     "projects": [
         {
-            "pakku_id": "mTJBff4f4HSCcx6l",
+            "pakku_id": "idmS3r2ex2Wy4RUr",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -169,10 +169,127 @@
             ]
         },
         {
-            "pakku_id": "zw9zzf5njHCXxTVX",
+            "pakku_id": "uUDhZXKctBSm7r0M",
             "pakku_links": [
-                "mTJBff4f4HSCcx6l",
-                "OblncMf8y3miRPbK"
+                "6U6jmvSXg5m3oy9Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "kinecraft-serialization"
+            },
+            "name": {
+                "modrinth": "Kinecraft Serialization"
+            },
+            "id": {
+                "modrinth": "epmEbmF0"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "kinecraft-serialization-1.15.0-lexforge.jar",
+                    "mc_versions": [
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/epmEbmF0/versions/fkcEKnNH/kinecraft-serialization-1.15.0-lexforge.jar",
+                    "id": "fkcEKnNH",
+                    "parent_id": "epmEbmF0",
+                    "hashes": {
+                        "sha512": "e046ce94990fee658497ffd77287635cf9abe31aba0269b1758e290efbdf6a7a8bd4c9fc6cf6e841cbcbcf7cab8f78cd7ed385dc8ca77a136e38a7ebb87b8b84",
+                        "sha1": "1e9a49a1e221f82033ec46531c81e4c3b5e7f8c9"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ],
+                    "size": 291521
+                }
+            ]
+        },
+        {
+            "pakku_id": "6U6jmvSXg5m3oy9Y",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kotlin-for-forge",
+                "modrinth": "kotlin-for-forge"
+            },
+            "name": {
+                "curseforge": "Kotlin for Forge",
+                "modrinth": "Kotlin for Forge"
+            },
+            "id": {
+                "curseforge": "351264",
+                "modrinth": "ordsPcFz"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kotlinforforge-4.11.0-all.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5402/61/kotlinforforge-4.11.0-all.jar",
+                    "id": "5402061",
+                    "parent_id": "351264",
+                    "hashes": {
+                        "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+                        "md5": "417caa90d17dc86cf7d24b802c2a5c56"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 7193768
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "kotlinforforge-4.11.0-all.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
+                    "id": "hmeyC41q",
+                    "parent_id": "ordsPcFz",
+                    "hashes": {
+                        "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c",
+                        "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 7193768
+                }
+            ]
+        },
+        {
+            "pakku_id": "b6QNltCtIJda4lH9",
+            "pakku_links": [
+                "idmS3r2ex2Wy4RUr",
+                "QFkRoDD2cAh8pHAO",
+                "uUDhZXKctBSm7r0M"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -191,12 +308,14 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "mod_sets-1.8.0+sha.00f0f84.jar",
+                    "file_name": "mod_sets-1.9.0.jar",
                     "mc_versions": [
                         "1.20.2",
+                        "1.20.5",
                         "1.20.3",
                         "1.20.1",
                         "1.20",
+                        "1.20.6",
                         "1.20.4"
                     ],
                     "loaders": [
@@ -205,22 +324,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5728/282/mod_sets-1.8.0+sha.00f0f84.jar",
-                    "id": "5728282",
+                    "url": "https://edge.forgecdn.net/files/5785/186/mod_sets-1.9.0.jar",
+                    "id": "5785186",
                     "parent_id": "890349",
                     "hashes": {
-                        "sha1": "c5a96a1e616ab5c79685cb32da53f4cc72d03e92",
-                        "md5": "47d87c87b6d85480fe4a8b5198ac4d72"
+                        "sha1": "afc756d929e906e401813110d111d9f834554359",
+                        "md5": "0dab54e0c23318c848f17ff4d98d9851"
                     },
                     "required_dependencies": [
                         "308769",
                         "667299"
                     ],
-                    "size": 826689
+                    "size": 290364
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "mod_sets-1.8.0+sha.00f0f84.jar",
+                    "file_name": "mod_sets-1.9.0.jar",
                     "mc_versions": [
                         "1.19.4",
                         "1.20",
@@ -230,8 +349,7 @@
                         "1.20.4",
                         "1.20.5",
                         "1.20.6",
-                        "1.21",
-                        "1.21.1"
+                        "1.21"
                     ],
                     "loaders": [
                         "fabric",
@@ -239,18 +357,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/nXIbnBDO/mod_sets-1.8.0+sha.00f0f84.jar",
-                    "id": "nXIbnBDO",
+                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/OUGcNV7u/mod_sets-1.9.0.jar",
+                    "id": "OUGcNV7u",
                     "parent_id": "b313lC4Y",
                     "hashes": {
-                        "sha512": "5911967a1af7b0e878413c17c35f6ff16ace6f6267d0d9951d584d3b534257267a79fc95e30d87fa7baf115c02b108fe90f2d49570bde8ab1f3c416ab1452ed5",
-                        "sha1": "c5a96a1e616ab5c79685cb32da53f4cc72d03e92"
+                        "sha512": "ecaa86eb00b943f5af62e5801220476c676f555906c435ef8dc45dc4519526ea63d7ef5c0e98f632a2ff60cefde6a8a5ae9f56816baf8d8b61ecee8814fb9f5b",
+                        "sha1": "afc756d929e906e401813110d111d9f834554359"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "1eAoo2KR"
+                        "epmEbmF0",
+                        "1eAoo2KR",
+                        "Ha28R6CL"
                     ],
-                    "size": 826689
+                    "size": 290364
                 }
             ]
         },
@@ -321,7 +440,10 @@
             ]
         },
         {
-            "pakku_id": "OblncMf8y3miRPbK",
+            "pakku_id": "QFkRoDD2cAh8pHAO",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
