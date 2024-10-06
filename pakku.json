@@ -11,6 +11,9 @@
         "azurelib-armor": {
             "subpath": "0libs"
         },
+        "better-combat": {
+            "subpath": "content.rpg"
+        },
         "cloth-config": {
             "subpath": "0libs"
         },
@@ -68,6 +71,9 @@
             "subpath": "content.rpg"
         },
         "yacl": {
+            "subpath": "0libs"
+        },
+        "forgified-fabric-api": {
             "subpath": "0libs"
         }
     },
