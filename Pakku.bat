@@ -34,7 +34,7 @@ set APP_HOME=%DIRNAME%
 for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi
 
 @rem Add default JVM options here. You can also use JAVA_OPTS and PAKKU_OPTS to pass JVM options to this script.
-set DEFAULT_JVM_OPTS=-Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=2080
+set DEFAULT_JVM_OPTS=
 
 @rem Find java.exe
 if defined JAVA_HOME goto findJavaFromJavaHome
