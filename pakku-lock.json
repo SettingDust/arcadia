@@ -213,6 +213,83 @@
             ]
         },
         {
+            "pakku_id": "pw6HxnKvMTjkKh7x",
+            "pakku_links": [
+                "eX0kuzOxbMfJNfYc"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "bad-horse-fix",
+                "modrinth": "bad-horse-fix"
+            },
+            "name": {
+                "curseforge": "Bad Horse Fix",
+                "modrinth": "Bad Horse Fix"
+            },
+            "id": {
+                "curseforge": "999835",
+                "modrinth": "A4pJeHgM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Bad-Horse-Fix-2.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5301/614/Bad-Horse-Fix-2.0.0-forge.jar",
+                    "id": "5301614",
+                    "parent_id": "999835",
+                    "hashes": {
+                        "sha1": "f8b849e28294e6ab90202613dba3c97a6b6f5a5f",
+                        "md5": "5e642bb724103119e226ca593b48bf98"
+                    },
+                    "required_dependencies": [
+                        "581495"
+                    ],
+                    "size": 19506
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Bad-Horse-Fix-2.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/A4pJeHgM/versions/XuTNiENi/Bad-Horse-Fix-2.0.0-forge.jar",
+                    "id": "XuTNiENi",
+                    "parent_id": "A4pJeHgM",
+                    "hashes": {
+                        "sha512": "7b91d3ae444c6193837abf2fcb29ea6fbcc9123364cad9b1db22abe7ea116781c5e4ae800d47d814b9c9e9aada271dc81804884f74ba6fa24d42927785d862d5",
+                        "sha1": "f8b849e28294e6ab90202613dba3c97a6b6f5a5f"
+                    },
+                    "required_dependencies": [
+                        "GchcoXML"
+                    ],
+                    "size": 19506
+                }
+            ]
+        },
+        {
             "pakku_id": "mfRGu6INpZ1FA91X",
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
@@ -923,6 +1000,87 @@
             ]
         },
         {
+            "pakku_id": "cjUvp2JhyR5IXX1v",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "geckoanimfix",
+                "modrinth": "geckoanimfix"
+            },
+            "name": {
+                "curseforge": "Iris/Oculus & GeckoLib Compat",
+                "modrinth": "Iris/Oculus & GeckoLib Compat"
+            },
+            "id": {
+                "curseforge": "959388",
+                "modrinth": "TbriQCWD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.5-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5018/199/GeckoLibOculusCompat-Forge-1.0.1.jar",
+                    "id": "5018199",
+                    "parent_id": "959388",
+                    "hashes": {
+                        "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5",
+                        "md5": "4dd6b749ec2ca69a208a15091530825b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 6239
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+                    "mc_versions": [
+                        "1.18.2",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar",
+                    "id": "uWXuMaW4",
+                    "parent_id": "TbriQCWD",
+                    "hashes": {
+                        "sha512": "12c17477ad82bad2d80348732ee1e0d19cf1b68ca64527a251af46e664a8a5473bfba4262441d5bb0b5ff2b5f515df4387d4fce327d5906e3c3d073eb9bd9652",
+                        "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 6239
+                }
+            ]
+        },
+        {
             "pakku_id": "cEjsnFdt5u5edNsf",
             "pakku_links": [
                 "DuBWkC5IokuggOXP",
@@ -1552,6 +1710,74 @@
                         "lhGA9TYQ"
                     ],
                     "size": 470536
+                }
+            ]
+        },
+        {
+            "pakku_id": "eX0kuzOxbMfJNfYc",
+            "pakku_links": [
+                "Mh3lyIsrv17X2X33"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "oculus",
+                "modrinth": "oculus"
+            },
+            "name": {
+                "curseforge": "Oculus",
+                "modrinth": "Oculus"
+            },
+            "id": {
+                "curseforge": "581495",
+                "modrinth": "GchcoXML"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "oculus-mc1.20.1-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5299/671/oculus-mc1.20.1-1.7.0.jar",
+                    "id": "5299671",
+                    "parent_id": "581495",
+                    "hashes": {
+                        "sha1": "27410903d3af950378776106b76503cfebe7ea3a",
+                        "md5": "45b96133bb46cc61dd9778bd4fca741d"
+                    },
+                    "required_dependencies": [
+                        "908741"
+                    ],
+                    "size": 2831148
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "oculus-mc1.20.1-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar",
+                    "id": "vVuYfukI",
+                    "parent_id": "GchcoXML",
+                    "hashes": {
+                        "sha512": "8f7e56e65a12c7cfa4719c69e1de552dc8651ab202ff9bf78ff180c4bf81a82f3e569641046b1915b6f9e60f54451ae4b8b0d9a688a0c966473b91de9cefb923",
+                        "sha1": "27410903d3af950378776106b76503cfebe7ea3a"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA"
+                    ],
+                    "size": 2831148
                 }
             ]
         },
@@ -2700,7 +2926,6 @@
                 "3Bk6ZmkNZc8ia7VR"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "entity-model-features",
                 "modrinth": "entity-model-features"
@@ -2713,6 +2938,7 @@
                 "curseforge": "844662",
                 "modrinth": "4I1XuqiY"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -2771,7 +2997,6 @@
                 "ZC0Ya9zBDX75Afm5"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "esf",
                 "curseforge": "esf-entity-sound-features"
@@ -2784,6 +3009,7 @@
                 "modrinth": "IMuO8COj",
                 "curseforge": "1060324"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -2845,7 +3071,6 @@
         {
             "pakku_id": "3Bk6ZmkNZc8ia7VR",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "entitytexturefeatures",
                 "curseforge": "entity-texture-features-fabric"
@@ -2858,6 +3083,7 @@
                 "modrinth": "BVzZfTc1",
                 "curseforge": "568563"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "modrinth",

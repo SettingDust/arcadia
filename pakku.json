@@ -138,6 +138,15 @@
         },
         "entity-model-features": {
             "subpath": "decoration.client"
+        },
+        "oculus": {
+            "subpath": "decoration.client"
+        },
+        "geckoanimfix": {
+            "subpath": "fix.client"
+        },
+        "bad-horse-fix": {
+            "subpath": "fix.client"
         }
     },
     "project_aliases": {
