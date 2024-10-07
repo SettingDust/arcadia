@@ -147,6 +147,30 @@
         },
         "bad-horse-fix": {
             "subpath": "fix.client"
+        },
+        "better-fabric-console": {
+            "subpath": "tool"
+        },
+        "particle-core": {
+            "subpath": "optimization.client"
+        },
+        "cull-less-leaves-reforged": {
+            "subpath": "optimization.client"
+        },
+        "moreculling": {
+            "subpath": "optimization.client"
+        },
+        "morecullingextra": {
+            "subpath": "optimization.client"
+        },
+        "entityculling": {
+            "subpath": "optimization.client"
+        },
+        "better-modlist": {
+            "subpath": "decoration.client"
+        },
+        "fzzy-config": {
+            "subpath": "0libs"
         }
     },
     "project_aliases": {

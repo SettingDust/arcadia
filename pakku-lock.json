@@ -218,7 +218,6 @@
                 "eX0kuzOxbMfJNfYc"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "bad-horse-fix",
                 "modrinth": "bad-horse-fix"
@@ -231,6 +230,7 @@
                 "curseforge": "999835",
                 "modrinth": "A4pJeHgM"
             },
+            "subpath": "fix.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -357,6 +357,115 @@
                         "gedNE4y2"
                     ],
                     "size": 1050118
+                }
+            ]
+        },
+        {
+            "pakku_id": "sAAcss5RLBgw3ggQ",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-fabric-console",
+                "modrinth": "better-fabric-console"
+            },
+            "name": {
+                "curseforge": "Better Fabric Console",
+                "modrinth": "Better Fabric Console"
+            },
+            "id": {
+                "curseforge": "584778",
+                "modrinth": "Y8o1j1Sf"
+            },
+            "redistributable": false,
+            "subpath": "tool",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "better-fabric-console-mc1.20.1-1.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Y8o1j1Sf/versions/8YUqYot0/better-fabric-console-mc1.20.1-1.1.6.jar",
+                    "id": "8YUqYot0",
+                    "parent_id": "Y8o1j1Sf",
+                    "hashes": {
+                        "sha512": "2a82b76b75d58482b6e21d5c18b74a9856bb2be2bb6a6224b8a28fe0306258e96abbfc0e7b48b60be0b5b2e5aa573f887559f7f02f8367a7328d568017c4b8aa",
+                        "sha1": "7850bce7cb851a8296da5ef5eb2b7c2862874bf4"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 2781095
+                }
+            ]
+        },
+        {
+            "pakku_id": "CDmRCO8VJrWnW0iu",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "better-modlist",
+                "curseforge": "better-modlist-neoforge"
+            },
+            "name": {
+                "modrinth": "Better ModList [(Neo)Forge]",
+                "curseforge": "Better Modlist [(Neo)Forge]"
+            },
+            "id": {
+                "modrinth": "sbpqhzIG",
+                "curseforge": "1089803"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Better_Modlist-0.1.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sbpqhzIG/versions/nSL0zKLY/Better_Modlist-0.1.3.jar",
+                    "id": "nSL0zKLY",
+                    "parent_id": "sbpqhzIG",
+                    "hashes": {
+                        "sha512": "19c8d84457e5b296642dac8be294f14b9fe0c5cd8127c5121d1429c990101dfdbbd3a6756db86de0c74ebd8a52d307e53061db40f56cf0764eb727230869caa7",
+                        "sha1": "a7157a31b83adda6a9a4a3016802f23f616a3585"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 630361
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Better_Modlist-0.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5770/230/Better_Modlist-0.1.3.jar",
+                    "id": "5770230",
+                    "parent_id": "1089803",
+                    "hashes": {
+                        "sha1": "a7157a31b83adda6a9a4a3016802f23f616a3585",
+                        "md5": "b16f4432e9739e4b7a8b8056afa70a85"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 630361
                 }
             ]
         },
@@ -493,6 +602,69 @@
                         "gedNE4y2"
                     ],
                     "size": 217962
+                }
+            ]
+        },
+        {
+            "pakku_id": "MPjTCcU9tzSbqfJo",
+            "type": "MOD",
+            "slug": {
+                "modrinth": "cull-less-leaves-reforged",
+                "curseforge": "culllessleaves-reforged"
+            },
+            "name": {
+                "modrinth": "Cull Less Leaves Reforged",
+                "curseforge": "CullLessLeaves Reforged (Unofficial)"
+            },
+            "id": {
+                "modrinth": "qthuEuVy",
+                "curseforge": "840788"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                    "id": "wPOb8yEG",
+                    "parent_id": "qthuEuVy",
+                    "hashes": {
+                        "sha512": "1d037fd49a9b80eecf2ed8e3b64178d1fbae7cc2a511813ab8b627479713e79a98af0896366e1ad2a3fa3f9849eab086166c1a27227f6d9370c2738132d859e6",
+                        "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22474
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4917/82/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                    "id": "4917082",
+                    "parent_id": "840788",
+                    "hashes": {
+                        "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
+                        "md5": "a675b07bb3fbe0d6a8d9559190133fd3"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22474
                 }
             ]
         },
@@ -692,6 +864,68 @@
                         "P7dR8mSH"
                     ],
                     "size": 490690
+                }
+            ]
+        },
+        {
+            "pakku_id": "xIDWBnfjelSIwLCU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "entityculling",
+                "modrinth": "entityculling"
+            },
+            "name": {
+                "curseforge": "Entity Culling Fabric/Forge",
+                "modrinth": "Entity Culling"
+            },
+            "id": {
+                "curseforge": "448233",
+                "modrinth": "NNAgCjsB"
+            },
+            "redistributable": false,
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-forge-1.7.0-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5672/088/entityculling-forge-1.7.0-mc1.20.1.jar",
+                    "id": "5672088",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "d2edb93aefdc1b104a8ef975e72c53796b752293",
+                        "md5": "972ecec86e34cf5e2172c15e6e68119b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 71441
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "entityculling-forge-1.7.0-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/dlg7nMa6/entityculling-forge-1.7.0-mc1.20.1.jar",
+                    "id": "dlg7nMa6",
+                    "parent_id": "NNAgCjsB",
+                    "hashes": {
+                        "sha512": "6128b06de4fdc2e368339d0fbc40e6e42d1ccbac1284db3f0624278fd2a176b8b22dd39e71b21f7343e29c323978fdc7c40e6a508342e007037fc1092dcbdb8b",
+                        "sha1": "d2edb93aefdc1b104a8ef975e72c53796b752293"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 71441
                 }
             ]
         },
@@ -930,6 +1164,74 @@
             ]
         },
         {
+            "pakku_id": "coZNuZ9oPgo7Z35n",
+            "pakku_links": [
+                "6U6jmvSXg5m3oy9Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fzzy-config",
+                "modrinth": "fzzy-config"
+            },
+            "name": {
+                "curseforge": "Fzzy Config",
+                "modrinth": "Fzzy Config"
+            },
+            "id": {
+                "curseforge": "1005914",
+                "modrinth": "hYykXjDp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fzzy_config-0.5.2+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5781/574/fzzy_config-0.5.2+1.20.1+forge.jar",
+                    "id": "5781574",
+                    "parent_id": "1005914",
+                    "hashes": {
+                        "sha1": "ce19b105cd108566e3145befaf32dc3e7dee362c",
+                        "md5": "6cce0f99a406acdf2dd763e138a907c4"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 1441878
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fzzy_config-0.5.2+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/HNXqa69Z/fzzy_config-0.5.2+1.20.1+forge.jar",
+                    "id": "HNXqa69Z",
+                    "parent_id": "hYykXjDp",
+                    "hashes": {
+                        "sha512": "1deec83ab680d27421e19c9e840ca83fc711f2c703f06072fec5c87918b16504477049f66e9a9c689980a5d01b05473b372c9282edd827d49cfd33dce11c7242",
+                        "sha1": "ce19b105cd108566e3145befaf32dc3e7dee362c"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ],
+                    "size": 1441878
+                }
+            ]
+        },
+        {
             "pakku_id": "9eHStb4RlvkGEviu",
             "pakku_links": [
                 "AQ1eEoZP1gevG9ym",
@@ -1002,7 +1304,6 @@
         {
             "pakku_id": "cjUvp2JhyR5IXX1v",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "geckoanimfix",
                 "modrinth": "geckoanimfix"
@@ -1015,6 +1316,7 @@
                 "curseforge": "959388",
                 "modrinth": "TbriQCWD"
             },
+            "subpath": "fix.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -1595,6 +1897,102 @@
             ]
         },
         {
+            "pakku_id": "iuIFj98o3nVitOpr",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "moreculling",
+                "modrinth": "moreculling"
+            },
+            "name": {
+                "curseforge": "MoreCulling",
+                "modrinth": "More Culling"
+            },
+            "id": {
+                "curseforge": "630104",
+                "modrinth": "51shyZVL"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "moreculling-1.20.4-0.24.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar",
+                    "id": "3m5znPWm",
+                    "parent_id": "51shyZVL",
+                    "hashes": {
+                        "sha512": "3a8accedfa48ce86b4091ce7994d63b2c7d1f6654119a5dc8430bd7370084bf04801c71600bb2b1546a58aef972797048f86eebbff2a666905a86c2b1cf7632e",
+                        "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 272851
+                }
+            ]
+        },
+        {
+            "pakku_id": "D54q9sh4siKl5bU0",
+            "pakku_links": [
+                "iuIFj98o3nVitOpr"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "morecullingextra",
+                "modrinth": "morecullingextra"
+            },
+            "name": {
+                "curseforge": "MoreCullingExtra",
+                "modrinth": "More Culling Extra"
+            },
+            "id": {
+                "curseforge": "729197",
+                "modrinth": "dFKMFBrn"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "MoreCullingExtra-1.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dFKMFBrn/versions/5i4XW7V3/MoreCullingExtra-1.1-1.20.1.jar",
+                    "id": "5i4XW7V3",
+                    "parent_id": "dFKMFBrn",
+                    "hashes": {
+                        "sha512": "b6897510892c9d3a4379004fd53989d8e90af6512a1dd1df5d5a44ae60c486c957396792d32c40ac8f885de960ee8f7a9938d57553cc0336fbc1a2cafc52b43b",
+                        "sha1": "2e20c8818758b4daf8b1dd034d21fef0d13b56a2"
+                    },
+                    "required_dependencies": [
+                        "51shyZVL"
+                    ],
+                    "size": 40233
+                }
+            ]
+        },
+        {
             "pakku_id": "3vQw673d4YJ4Tagk",
             "type": "MOD",
             "slug": {
@@ -1719,7 +2117,6 @@
                 "Mh3lyIsrv17X2X33"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "oculus",
                 "modrinth": "oculus"
@@ -1732,6 +2129,7 @@
                 "curseforge": "581495",
                 "modrinth": "GchcoXML"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -1856,6 +2254,77 @@
                         "lP9Yrr1E"
                     ],
                     "size": 2520694
+                }
+            ]
+        },
+        {
+            "pakku_id": "2DPRdYyQ6yFh5TbG",
+            "pakku_links": [
+                "6U6jmvSXg5m3oy9Y",
+                "coZNuZ9oPgo7Z35n"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "particle-core",
+                "modrinth": "particle-core"
+            },
+            "name": {
+                "curseforge": "Particle Core",
+                "modrinth": "Particle Core"
+            },
+            "id": {
+                "curseforge": "985426",
+                "modrinth": "RSeLon5O"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "particle_core-0.2.5+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/965/particle_core-0.2.5+1.20.1+forge.jar",
+                    "id": "5729965",
+                    "parent_id": "985426",
+                    "hashes": {
+                        "sha1": "d791c2000b0985bdef906db93b9313319ac47aba",
+                        "md5": "e8ac337d4436d8b3dfbbb9edf503c338"
+                    },
+                    "required_dependencies": [
+                        "351264",
+                        "1005914"
+                    ],
+                    "size": 95351
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "particle_core-0.2.5+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/2pgXWmty/particle_core-0.2.5+1.20.1+forge.jar",
+                    "id": "2pgXWmty",
+                    "parent_id": "RSeLon5O",
+                    "hashes": {
+                        "sha512": "1da3ce936ce34f60ee96aa1faab9fec89f1227152a3c146bbe48a404cb93918f1f8722a6c44afc3eda8a9e4ea6f97a61ad6788da6085aec1816b1c3871e15c9c",
+                        "sha1": "d791c2000b0985bdef906db93b9313319ac47aba"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz",
+                        "hYykXjDp"
+                    ],
+                    "size": 95351
                 }
             ]
         },
