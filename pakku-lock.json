@@ -191,25 +191,25 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "azurelibarmor-fabric-1.20.1-2.0.12.jar",
+                    "file_name": "azurelibarmor-neo-1.20.1-2.0.12.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/fOBtbpUU/azurelibarmor-fabric-1.20.1-2.0.12.jar",
-                    "id": "fOBtbpUU",
+                    "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/YfL2u83k/azurelibarmor-neo-1.20.1-2.0.12.jar",
+                    "id": "YfL2u83k",
                     "parent_id": "pduQXSbl",
                     "hashes": {
-                        "sha512": "19a05e4fa260e806f89fe7d55f92dabe57715f513737226acf2c719cffade363b6855419391c77d1b856e45c3e17cb11ccd80bc712a290c95792ddee379a4e07",
-                        "sha1": "262913d37d802f7d0988c73475e4176e43917088"
+                        "sha512": "612f9c790f78f698a6d8535516469cca60cf5bc828e54b6223fa1f96f857b664dd845b17858e2d216b549838adb1d8ff16fec680b23ebe4f356707fc41f45b9b",
+                        "sha1": "8bda32621adfade0d6c4555343e6ec2ba669cb61"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 422379
+                    "size": 412795
                 }
             ]
         },
@@ -397,28 +397,27 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "combatroll-fabric-1.3.3+1.20.1.jar",
+                    "file_name": "combatroll-forge-1.3.3+1.20.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3+1.20.1.jar",
-                    "id": "FyOp03FS",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/532t65Zz/combatroll-forge-1.3.3+1.20.1.jar",
+                    "id": "532t65Zz",
                     "parent_id": "wGKYL7st",
                     "hashes": {
-                        "sha512": "6703c3b2b6e6b063102b50e65aa4be29bc4b46f7830cf3a396bfb5fac78c3a29d1bcfe2b796fbe2c79f948bdb098931d076bee58f5ce5ff37a40ad699544ff04",
-                        "sha1": "7711c08770aa5d15f215093b6884c473350e2e1f"
+                        "sha512": "0839e7b1a83dcc7a5eb42824d46ca4544a3f4ac376bd12a85509da00ae2737d836aaebf6fed6d2aa05ebcd816cff26dc3febe3b32f531b3ca3814ba2ade9c782",
+                        "sha1": "4ff92ecd8df9b5a280330f68ef9c7a8a2300b23f"
                     },
                     "required_dependencies": [
                         "9s6osm5g",
-                        "P7dR8mSH",
                         "gedNE4y2"
                     ],
-                    "size": 191873
+                    "size": 217962
                 }
             ]
         },
@@ -465,25 +464,88 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "cyanide-fabric-1.20.1-4.1.1.jar",
+                    "file_name": "cyanide-forge-1.20.1-4.1.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fXbvd6mf/versions/XqTNiiKd/cyanide-fabric-1.20.1-4.1.1.jar",
-                    "id": "XqTNiiKd",
+                    "url": "https://cdn.modrinth.com/data/fXbvd6mf/versions/kDtknk5c/cyanide-forge-1.20.1-4.1.1.jar",
+                    "id": "kDtknk5c",
                     "parent_id": "fXbvd6mf",
                     "hashes": {
-                        "sha512": "526a633718cdc101f878c11d6e86b26ab85fa41f9204e5824ad580b1970d7f255377ec996c58b61d5fcb8c0b3cc11d859293e8e3f0e3d098f2dd547f994bd2af",
-                        "sha1": "69fec8ed0f7aaf04302bc5c8d26bb6f2502b0a64"
+                        "sha512": "381b7142d63c0cad3266f4a25fb09e76329f1aeadad46de5ddae2835dff36e8bbbad1ca94adf57d290e05620bf1bd24ac546a7e91cdeb0341fca566189cc97dd",
+                        "sha1": "e2db7885a23f32c816ba8fb7db904fe68099ce09"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
                     ],
-                    "size": 80708
+                    "size": 76558
+                }
+            ]
+        },
+        {
+            "pakku_id": "Mh3lyIsrv17X2X33",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "embeddium",
+                "modrinth": "embeddium"
+            },
+            "name": {
+                "curseforge": "Embeddium",
+                "modrinth": "Embeddium"
+            },
+            "id": {
+                "curseforge": "908741",
+                "modrinth": "sk9rgfiA"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "embeddium-0.3.31+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31+mc1.20.1.jar",
+                    "id": "5681725",
+                    "parent_id": "908741",
+                    "hashes": {
+                        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+                        "md5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1320675
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "embeddium-0.3.31+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31+mc1.20.1.jar",
+                    "id": "UTbfe5d1",
+                    "parent_id": "sk9rgfiA",
+                    "hashes": {
+                        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+                        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1320675
                 }
             ]
         },
@@ -493,7 +555,6 @@
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "ebe",
                 "curseforge": "enhanced-block-entities"
@@ -506,6 +567,7 @@
                 "modrinth": "OVuFYfre",
                 "curseforge": "452046"
             },
+            "subpath": "optimization.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -1349,32 +1411,29 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "MoreProfiling-0.14.3.jar",
+                    "file_name": "MoreProfiling-0.11.0+sha.82b1d2a.jar",
                     "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1"
+                        "1.20",
+                        "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "fabric",
+                        "forge",
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sFFmwP9u/versions/TsbKEWev/MoreProfiling-0.14.3.jar",
-                    "id": "TsbKEWev",
+                    "url": "https://cdn.modrinth.com/data/sFFmwP9u/versions/RbPgaffr/MoreProfiling-0.11.0+sha.82b1d2a.jar",
+                    "id": "RbPgaffr",
                     "parent_id": "sFFmwP9u",
                     "hashes": {
-                        "sha512": "c200e92cb8aa6b4f4e6a4cb60afe403ce9825b58aaf7c54264ffa93e27e6b954a0a19deb8cb161897e4f45f3fbfa2e6b55cd8f0c415e240be8e08ca55bff435a",
-                        "sha1": "e2444b062d632526b214805e2f284efc35fd6412"
+                        "sha512": "ee6c95b64538db8b9a14bb89eff46ecd2dc96ba832cc0c287d0fe9bf6fd73ae69d7cf08c41c7318d9cb067f9a2e60654b48de3faca97c47af79915171c4f1209",
+                        "sha1": "97f7b40bee85966a0604c7e46e60bb97a9d8fe41"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "u58R1TMW"
                     ],
-                    "size": 102487
+                    "size": 107666
                 }
             ]
         },
@@ -1912,6 +1971,208 @@
             ]
         },
         {
+            "pakku_id": "T2Y151GSkPyM6RBf",
+            "pakku_links": [
+                "eDKHTAPzflLwxAD7"
+            ],
+            "type": "MOD",
+            "slug": {
+                "modrinth": "sodium-dynamic-lights",
+                "curseforge": "dynamiclights-reforged"
+            },
+            "name": {
+                "modrinth": "Sodium Dynamic Lights",
+                "curseforge": "Sodium/Embeddium Dynamic Lights"
+            },
+            "id": {
+                "modrinth": "PxQSWIcD",
+                "curseforge": "551736"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/63Nxw7Hj/sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+                    "id": "63Nxw7Hj",
+                    "parent_id": "PxQSWIcD",
+                    "hashes": {
+                        "sha512": "c468bf607d27afb249b4507a890c082ca03ccd0e8ab04db7b35e69327227c6564b5cf8b2261f72fbc5ac4913edba4da6bd768d24499d4802d35acd708d0d6a92",
+                        "sha1": "13719a0ec4c04347c402630ef278f2e21ba91f71"
+                    },
+                    "required_dependencies": [
+                        "Es5v4eyq"
+                    ],
+                    "size": 301648
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5752/342/sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+                    "id": "5752342",
+                    "parent_id": "551736",
+                    "hashes": {
+                        "sha1": "13719a0ec4c04347c402630ef278f2e21ba91f71",
+                        "md5": "786f645ac7fc0d3073df4a2a7c5110b8"
+                    },
+                    "required_dependencies": [
+                        "1103431"
+                    ],
+                    "size": 301648
+                }
+            ]
+        },
+        {
+            "pakku_id": "3sEy2Q1K2xeZuAq1",
+            "pakku_links": [
+                "eDKHTAPzflLwxAD7",
+                "Mh3lyIsrv17X2X33"
+            ],
+            "type": "MOD",
+            "slug": {
+                "modrinth": "sodium-extras",
+                "curseforge": "magnesium-extras"
+            },
+            "name": {
+                "modrinth": "Sodium Extras",
+                "curseforge": "Sodium/Embeddium Extras"
+            },
+            "id": {
+                "modrinth": "vqqx0QiE",
+                "curseforge": "558905"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumextras-forge-1.0.5-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/lPxnnNWM/sodiumextras-forge-1.0.5-1.20.1.jar",
+                    "id": "lPxnnNWM",
+                    "parent_id": "vqqx0QiE",
+                    "hashes": {
+                        "sha512": "2a590fc929f3c62418a4d0bb97005ef033b1b56dd5ae4c92c463ee634914e9e2e53fa5fbff555379bbe26e726f05ce01cf486dabfd47f1d53316a99ecf964cff",
+                        "sha1": "0fac37990fe161f1db07eb557281b919de2e14b7"
+                    },
+                    "required_dependencies": [
+                        "Es5v4eyq",
+                        "sk9rgfiA"
+                    ],
+                    "size": 439674
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumextras-forge-1.0.5-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5752/211/sodiumextras-forge-1.0.5-1.20.1.jar",
+                    "id": "5752211",
+                    "parent_id": "558905",
+                    "hashes": {
+                        "sha1": "0fac37990fe161f1db07eb557281b919de2e14b7",
+                        "md5": "ca5266171091ce0c12ea2758bb04e406"
+                    },
+                    "required_dependencies": [
+                        "1103431",
+                        "908741"
+                    ],
+                    "size": 439674
+                }
+            ]
+        },
+        {
+            "pakku_id": "eDKHTAPzflLwxAD7",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sodium-options-api",
+                "modrinth": "sodium-options-api"
+            },
+            "name": {
+                "curseforge": "Sodium/Embeddium Options API",
+                "modrinth": "Sodium Options API"
+            },
+            "id": {
+                "curseforge": "1103431",
+                "modrinth": "Es5v4eyq"
+            },
+            "subpath": "0libs",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumoptionsapi-forge-1.0.2-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5727/854/sodiumoptionsapi-forge-1.0.2-1.20.1.jar",
+                    "id": "5727854",
+                    "parent_id": "1103431",
+                    "hashes": {
+                        "sha1": "87e7a288c1905ffe66e0f2c7268d2cc73d6e4f48",
+                        "md5": "081ddc9d698aaf7baeec43a7096dea32"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 443088
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumoptionsapi-forge-1.0.2-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/nD6iGcEU/sodiumoptionsapi-forge-1.0.2-1.20.1.jar",
+                    "id": "nD6iGcEU",
+                    "parent_id": "Es5v4eyq",
+                    "hashes": {
+                        "sha512": "2a142829dde6520c2961ea8a4b54c78bf8654f35e9b4664a2cec825cca1e1817b1a4a4d33662dc25abcf61c1778583bffdd2440ad147ff62e1c1e9c8699e3d7d",
+                        "sha1": "87e7a288c1905ffe66e0f2c7268d2cc73d6e4f48"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 443088
+                }
+            ]
+        },
+        {
             "pakku_id": "5sxLlohcnSg5l56f",
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
@@ -2165,27 +2426,25 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "structure_void_toggle-4.2.7+1.20.1.jar",
+                    "file_name": "structure_void_toggle-forge-4.2.6+1.20.1.jar",
                     "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
+                        "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/S1tbzJ6Y/versions/te56DL5J/structure_void_toggle-4.2.7+1.20.1.jar",
-                    "id": "te56DL5J",
+                    "url": "https://cdn.modrinth.com/data/S1tbzJ6Y/versions/zok0ZoAJ/structure_void_toggle-forge-4.2.6+1.20.1.jar",
+                    "id": "zok0ZoAJ",
                     "parent_id": "S1tbzJ6Y",
                     "hashes": {
-                        "sha512": "2d209ad89f74501a651076aa4b86b28ada8fa744155df16c5d534ce0ea4b026bf2640f9ae9593601e8b5e757a871f2796388195b99b0cb377bbbaecbdaebd946",
-                        "sha1": "712da3a143883c2136e0ebe67fdfdd57b2884171"
+                        "sha512": "d9dad77508ae62c29bb076ee4d8b306e43240f9be76ebde7e07235936455f511d6298e2f7cf0feb70ce85f6182e08eb4ce0c95481d241dda7590557ebd37d655",
+                        "sha1": "e55ca8c39607dbf7cc9d96f13bf11adc6da79cf0"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 23206
+                    "size": 21643
                 }
             ]
         },
@@ -2596,26 +2855,25 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                    "file_name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-                    "id": "yDqYTUaf",
+                    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                    "id": "xe2EVE6q",
                     "parent_id": "gedNE4y2",
                     "hashes": {
-                        "sha512": "4ed2659c9e9c1a1fa8936523f7d6de1b8012d8e06e6c58ef65ea5c7acef2b3a113afe584b3a31d70eee00423dbe533c06022cc5f169ab5a2ddf8167acf259ec8",
-                        "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
+                        "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729",
+                        "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 181008
+                    "size": 181437
                 }
             ]
         },
@@ -2660,25 +2918,25 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "spark-1.10.53-fabric.jar",
+                    "file_name": "spark-1.10.53-forge.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar",
-                    "id": "XGW2fviP",
+                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
+                    "id": "4FXHDE9F",
                     "parent_id": "l6YH9Als",
                     "hashes": {
-                        "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7",
-                        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140"
+                        "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343",
+                        "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 3082974
+                    "size": 3114590
                 }
             ]
         }

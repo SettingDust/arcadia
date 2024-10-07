@@ -20,8 +20,26 @@
         "combat-roll": {
             "subpath": "content.rpg"
         },
+        "cyanide": {
+            "subpath": "debug"
+        },
+        "ebe": {
+            "subpath": "optimization.client"
+        },
+        "embeddium": {
+            "subpath": "optimization.client"
+        },
         "fabric-language-kotlin": {
             "subpath": "0libs"
+        },
+        "forgified-fabric-api": {
+            "subpath": "0libs"
+        },
+        "fullstack-watchdog": {
+            "subpath": "debug"
+        },
+        "gadget": {
+            "subpath": "debug"
         },
         "gazebos": {
             "side": "BOTH",
@@ -35,6 +53,21 @@
         },
         "kotlin-for-forge": {
             "subpath": "0libs"
+        },
+        "mixin-conflict-helper": {
+            "subpath": "debug"
+        },
+        "mixintrace": {
+            "subpath": "debug"
+        },
+        "more-profiling": {
+            "subpath": "debug"
+        },
+        "nsight-loader": {
+            "subpath": "debug"
+        },
+        "observable": {
+            "subpath": "debug"
         },
         "paladins-and-priests": {
             "subpath": "content.rpg"
@@ -54,6 +87,9 @@
         "shield-api": {
             "subpath": "0libs"
         },
+        "spark": {
+            "subpath": "debug"
+        },
         "spell-engine": {
             "subpath": "content.rpg"
         },
@@ -64,56 +100,33 @@
             "side": "BOTH",
             "subpath": "0libs"
         },
+        "structure-void-toggle": {
+            "subpath": "debug"
+        },
         "trinkets": {
             "subpath": "content.rpg"
         },
         "wizards": {
             "subpath": "content.rpg"
         },
-        "yacl": {
-            "subpath": "0libs"
-        },
-        "forgified-fabric-api": {
-            "subpath": "0libs"
-        },
-        "gadget": {
-            "subpath": "debug"
-        },
-        "mixin-conflict-helper": {
-            "subpath": "debug"
-        },
-        "mixintrace": {
-            "subpath": "debug"
-        },
-        "more-profiling": {
-            "subpath": "debug"
-        },
-        "nsight-loader": {
-            "subpath": "debug"
-        },
-        "observable": {
-            "subpath": "debug"
-        },
-        "spark": {
-            "subpath": "debug"
-        },
-        "structure-void-toggle": {
-            "subpath": "debug"
-        },
         "worldgen-profiling": {
             "subpath": "debug"
         },
-        "fullstack-watchdog": {
-            "subpath": "debug"
+        "yacl": {
+            "subpath": "0libs"
         },
-        "cyanide": {
-            "subpath": "debug"
-        },
-        "ebe": {
+        "sodium-extras": {
             "subpath": "optimization.client"
+        },
+        "sodium-options-api": {
+            "subpath": "0libs"
+        },
+        "sodium-dynamic-lights": {
+            "subpath": "decoration.client"
         }
     },
     "project_aliases": {
-        "fabric-api": "forgified-fabric-api"
+        "fabric-api": "forgified-fabric-api",
+        "sodium": "embeddium"
     }
 }
