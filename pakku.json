@@ -108,6 +108,9 @@
         },
         "cyanide": {
             "subpath": "debug"
+        },
+        "ebe": {
+            "subpath": "optimization.client"
         }
     },
     "project_aliases": {
