@@ -51,9 +51,6 @@
         "kinecraft-serialization": {
             "subpath": "0libs"
         },
-        "kotlin-for-forge": {
-            "subpath": "0libs"
-        },
         "mixin-conflict-helper": {
             "subpath": "debug"
         },

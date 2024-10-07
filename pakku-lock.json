@@ -408,7 +408,6 @@
         {
             "pakku_id": "CDmRCO8VJrWnW0iu",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "better-modlist",
                 "curseforge": "better-modlist-neoforge"
@@ -421,6 +420,7 @@
                 "modrinth": "sbpqhzIG",
                 "curseforge": "1089803"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -1169,7 +1169,6 @@
                 "6U6jmvSXg5m3oy9Y"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "fzzy-config",
                 "modrinth": "fzzy-config"
@@ -1182,6 +1181,7 @@
                 "curseforge": "1005914",
                 "modrinth": "hYykXjDp"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -1506,6 +1506,7 @@
         {
             "pakku_id": "6U6jmvSXg5m3oy9Y",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "kotlin-for-forge",
                 "modrinth": "kotlin-for-forge"
@@ -1518,7 +1519,6 @@
                 "curseforge": "351264",
                 "modrinth": "ordsPcFz"
             },
-            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -1822,7 +1822,7 @@
             ]
         },
         {
-            "pakku_id": "2lIbgci3sNhTQAxv",
+            "pakku_id": "gr3WZnpoGwxoEew9",
             "pakku_links": [
                 "idmS3r2ex2Wy4RUr"
             ],
@@ -1843,7 +1843,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "MoreProfiling-0.14.3.jar",
+                    "file_name": "MoreProfiling-0.14.4.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -1856,139 +1856,48 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5788/429/MoreProfiling-0.14.3.jar",
-                    "id": "5788429",
+                    "url": "https://edge.forgecdn.net/files/5791/334/MoreProfiling-0.14.4.jar",
+                    "id": "5791334",
                     "parent_id": "1116346",
                     "hashes": {
-                        "sha1": "e2444b062d632526b214805e2f284efc35fd6412",
-                        "md5": "85447bd623cc5940c9e304a02c1a3011"
+                        "sha1": "0d0b5106efb1e856a2775d899baf747d79612df5",
+                        "md5": "6f8e631b9a0d576616ebe99d209d9134"
                     },
                     "required_dependencies": [
                         "308769"
                     ],
-                    "size": 102487
+                    "size": 103976,
+                    "data_published": "2024-10-07T11:26:12.383Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "MoreProfiling-0.11.0+sha.82b1d2a.jar",
+                    "file_name": "MoreProfiling-0.14.4.jar",
                     "mc_versions": [
-                        "1.20",
-                        "1.20.1"
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "forge",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sFFmwP9u/versions/RbPgaffr/MoreProfiling-0.11.0+sha.82b1d2a.jar",
-                    "id": "RbPgaffr",
+                    "url": "https://cdn.modrinth.com/data/sFFmwP9u/versions/qSc3hAzI/MoreProfiling-0.14.4.jar",
+                    "id": "qSc3hAzI",
                     "parent_id": "sFFmwP9u",
                     "hashes": {
-                        "sha512": "ee6c95b64538db8b9a14bb89eff46ecd2dc96ba832cc0c287d0fe9bf6fd73ae69d7cf08c41c7318d9cb067f9a2e60654b48de3faca97c47af79915171c4f1209",
-                        "sha1": "97f7b40bee85966a0604c7e46e60bb97a9d8fe41"
+                        "sha512": "c97d7b90fbd17035b9191d42b2ebefd42e623d85bf64265e4b59c954663ebcbd663e94311ea48e1de41c7317866f92dfb3ee289952376d530ba118ef0e0083ee",
+                        "sha1": "0d0b5106efb1e856a2775d899baf747d79612df5"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "u58R1TMW"
+                        "Ha28R6CL"
                     ],
-                    "size": 107666
-                }
-            ]
-        },
-        {
-            "pakku_id": "iuIFj98o3nVitOpr",
-            "pakku_links": [
-                "ZjVRXkiYqcOO3dUX"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "moreculling",
-                "modrinth": "moreculling"
-            },
-            "name": {
-                "curseforge": "MoreCulling",
-                "modrinth": "More Culling"
-            },
-            "id": {
-                "curseforge": "630104",
-                "modrinth": "51shyZVL"
-            },
-            "subpath": "optimization.client",
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "moreculling-1.20.4-0.24.0.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar",
-                    "id": "3m5znPWm",
-                    "parent_id": "51shyZVL",
-                    "hashes": {
-                        "sha512": "3a8accedfa48ce86b4091ce7994d63b2c7d1f6654119a5dc8430bd7370084bf04801c71600bb2b1546a58aef972797048f86eebbff2a666905a86c2b1cf7632e",
-                        "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 272851
-                }
-            ]
-        },
-        {
-            "pakku_id": "D54q9sh4siKl5bU0",
-            "pakku_links": [
-                "iuIFj98o3nVitOpr"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "morecullingextra",
-                "modrinth": "morecullingextra"
-            },
-            "name": {
-                "curseforge": "MoreCullingExtra",
-                "modrinth": "More Culling Extra"
-            },
-            "id": {
-                "curseforge": "729197",
-                "modrinth": "dFKMFBrn"
-            },
-            "subpath": "optimization.client",
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "MoreCullingExtra-1.1-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dFKMFBrn/versions/5i4XW7V3/MoreCullingExtra-1.1-1.20.1.jar",
-                    "id": "5i4XW7V3",
-                    "parent_id": "dFKMFBrn",
-                    "hashes": {
-                        "sha512": "b6897510892c9d3a4379004fd53989d8e90af6512a1dd1df5d5a44ae60c486c957396792d32c40ac8f885de960ee8f7a9938d57553cc0336fbc1a2cafc52b43b",
-                        "sha1": "2e20c8818758b4daf8b1dd034d21fef0d13b56a2"
-                    },
-                    "required_dependencies": [
-                        "51shyZVL"
-                    ],
-                    "size": 40233
+                    "size": 103976,
+                    "data_published": "2024-10-07T11:26:15.195036Z"
                 }
             ]
         },
