@@ -123,6 +123,21 @@
         },
         "sodium-dynamic-lights": {
             "subpath": "decoration.client"
+        },
+        "owo-lib": {
+            "subpath": "0libs"
+        },
+        "architectury": {
+            "subpath": "0libs"
+        },
+        "entitytexturefeatures": {
+            "subpath": "decoration.client"
+        },
+        "esf": {
+            "subpath": "decoration.client"
+        },
+        "entity-model-features": {
+            "subpath": "decoration.client"
         }
     },
     "project_aliases": {
