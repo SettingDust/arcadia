@@ -303,7 +303,6 @@
                 "Mh3lyIsrv17X2X33"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "bedrodium"
             },
@@ -313,6 +312,7 @@
             "id": {
                 "modrinth": "5roWs6VO"
             },
+            "subpath": "optimization.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -531,7 +531,6 @@
                 "Ke4CWEmBk39ZPRWe"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "blinkload",
                 "modrinth": "blinkload"
@@ -544,6 +543,7 @@
                 "curseforge": "1082541",
                 "modrinth": "2qcrCATG"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "curseforge",
@@ -1455,6 +1455,77 @@
                     ],
                     "size": 319890,
                     "dataPublished": "2023-10-27T14:59:21.253Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gu0LJy4zvDYkOWFQ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "immediatelyfast",
+                "modrinth": "immediatelyfast"
+            },
+            "name": {
+                "curseforge": "ImmediatelyFast",
+                "modrinth": "ImmediatelyFast"
+            },
+            "id": {
+                "curseforge": "686911",
+                "modrinth": "5ZwdcRci"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5672/335/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "id": "5672335",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239",
+                        "md5": "36889096689f9a60549f2da2a2c2327a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432352,
+                    "dataPublished": "2024-08-28T20:26:23.160Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/t7nOFG1k/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "id": "t7nOFG1k",
+                    "parent_id": "5ZwdcRci",
+                    "hashes": {
+                        "sha512": "7492c6c82d5a6ea288547f5533a990d93ed3858054cd03298d184ee294d9e8a2692456ab286394fb5dd49841833bb551552bfbf018e24f8e9d22e034fb128eca",
+                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432352,
+                    "dataPublished": "2024-08-28T20:26:22.585777Z"
                 }
             ]
         },
@@ -3255,7 +3326,6 @@
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "tmp",
                 "modrinth": "tmp"
@@ -3268,6 +3338,7 @@
                 "curseforge": "663273",
                 "modrinth": "KPVN4aiJ"
             },
+            "subpath": "optimization.client",
             "files": [
                 {
                     "type": "curseforge",

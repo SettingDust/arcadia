@@ -186,6 +186,9 @@
         },
         "blinkload": {
             "subpath": "optimization"
+        },
+        "immediatelyfast": {
+            "subpath": "optimization.client"
         }
     }
 }
