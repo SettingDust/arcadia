@@ -298,6 +298,48 @@
             ]
         },
         {
+            "pakku_id": "tBS61EBeUjvqnTYT",
+            "pakku_links": [
+                "Mh3lyIsrv17X2X33"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "bedrodium"
+            },
+            "name": {
+                "modrinth": "Bedrodium"
+            },
+            "id": {
+                "modrinth": "5roWs6VO"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bedrodium-0.2.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5roWs6VO/versions/KPvmTtFT/bedrodium-0.2.2.jar",
+                    "id": "KPvmTtFT",
+                    "parent_id": "5roWs6VO",
+                    "hashes": {
+                        "sha512": "05313db831d31500a4df3059905d1e0d5dff292c0d1a8aa5328aaf57d63b89fd79db46419168e0f2c74bb1a05924863ad99ae5c2e6fe5813d52247e065b21555",
+                        "sha1": "bfe09da3af096a6b7c39a892026d65eb10520347"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 26591,
+                    "dataPublished": "2023-07-11T07:27:10.042306Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mfRGu6INpZ1FA91X",
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
@@ -480,6 +522,77 @@
                     ],
                     "size": 630456,
                     "dataPublished": "2024-10-07T14:28:00.117Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BrstcakoXDMkvoi1",
+            "pakku_links": [
+                "Ke4CWEmBk39ZPRWe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "blinkload",
+                "modrinth": "blinkload"
+            },
+            "name": {
+                "curseforge": "BlinkLoad",
+                "modrinth": "BlinkLoad"
+            },
+            "id": {
+                "curseforge": "1082541",
+                "modrinth": "2qcrCATG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5703/998/blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "id": "5703998",
+                    "parent_id": "1082541",
+                    "hashes": {
+                        "sha1": "40f7deda8c340fe7f450d856c7f8620893cf368f",
+                        "md5": "2e967d00a356bbdf1646b8e714c41289"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 220372,
+                    "dataPublished": "2024-09-08T19:04:42.223Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2qcrCATG/versions/bAsteREW/blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "id": "bAsteREW",
+                    "parent_id": "2qcrCATG",
+                    "hashes": {
+                        "sha512": "0a112fa84b01ff900a2d47852ced969d0ec8a61b5363f1efb84d39533f482702eae0cefca633b96f97c2f327d3490a9a0debbabfbdf8b23fe8b9c150d0f9a68b",
+                        "sha1": "40f7deda8c340fe7f450d856c7f8620893cf368f"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 220372,
+                    "dataPublished": "2024-09-08T19:04:44.784598Z"
                 }
             ]
         },
@@ -772,6 +885,9 @@
                 "modrinth": "sk9rgfiA"
             },
             "subpath": "optimization.client",
+            "aliases": [
+                "sodium"
+            ],
             "files": [
                 {
                     "type": "modrinth",
@@ -1074,6 +1190,9 @@
                 "modrinth": "Aqlf1Shp"
             },
             "subpath": "0libs",
+            "aliases": [
+                "fabric-api"
+            ],
             "files": [
                 {
                     "type": "modrinth",
@@ -3127,6 +3246,76 @@
                     ],
                     "size": 21643,
                     "dataPublished": "2023-08-28T20:37:24.867Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZkYCmEd9B6veBhDs",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "tmp",
+                "modrinth": "tmp"
+            },
+            "name": {
+                "curseforge": "Too Many Players",
+                "modrinth": "Too Many Players"
+            },
+            "id": {
+                "curseforge": "663273",
+                "modrinth": "KPVN4aiJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "toomanyplayers-1.20-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4801/327/toomanyplayers-1.20-1.1.5.jar",
+                    "id": "4801327",
+                    "parent_id": "663273",
+                    "hashes": {
+                        "sha1": "1e9f1a2c4c0313b5c947c598ad817dd314c5a16b",
+                        "md5": "efcf12ca4088fe75f2494b3773535230"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 470590,
+                    "dataPublished": "2023-10-16T10:01:01.433Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "toomanyplayers-1.20-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KPVN4aiJ/versions/34TBzClS/toomanyplayers-1.20-1.1.5.jar",
+                    "id": "34TBzClS",
+                    "parent_id": "KPVN4aiJ",
+                    "hashes": {
+                        "sha512": "bf977beddf64c3f93f75bdc8e989e6396e1a2c7aea8b55dd2842c2b5da69e17ab46610430ec7235c6a8c1899220258806973ceaeb96092540060a2427fc251e3",
+                        "sha1": "1e9f1a2c4c0313b5c947c598ad817dd314c5a16b"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 470590,
+                    "dataPublished": "2023-10-16T09:48:30.632162Z"
                 }
             ]
         },
