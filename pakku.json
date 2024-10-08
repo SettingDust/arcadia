@@ -1,177 +1,176 @@
 {
-    "name": "arcadia",
-    "version": "0.0.1",
-    "overrides": [
-        "config"
-    ],
-    "projects": {
-        "archers": {
-            "subpath": "content.rpg"
-        },
-        "azurelib-armor": {
-            "subpath": "0libs"
-        },
-        "better-combat": {
-            "subpath": "content.rpg"
-        },
-        "cloth-config": {
-            "subpath": "0libs"
-        },
-        "combat-roll": {
-            "subpath": "content.rpg"
-        },
-        "cyanide": {
-            "subpath": "debug"
-        },
-        "ebe": {
-            "subpath": "optimization.client"
-        },
-        "embeddium": {
-            "subpath": "optimization.client"
-        },
-        "fabric-language-kotlin": {
-            "subpath": "0libs"
-        },
-        "forgified-fabric-api": {
-            "subpath": "0libs"
-        },
-        "fullstack-watchdog": {
-            "subpath": "debug"
-        },
-        "gadget": {
-            "subpath": "debug"
-        },
-        "gazebos": {
-            "side": "BOTH",
-            "subpath": "worldgen.structures"
-        },
-        "jewelry": {
-            "subpath": "content.rpg"
-        },
-        "kinecraft-serialization": {
-            "subpath": "0libs"
-        },
-        "mixin-conflict-helper": {
-            "subpath": "debug"
-        },
-        "mixintrace": {
-            "subpath": "debug"
-        },
-        "more-profiling": {
-            "subpath": "debug"
-        },
-        "nsight-loader": {
-            "subpath": "debug"
-        },
-        "observable": {
-            "subpath": "debug"
-        },
-        "paladins-and-priests": {
-            "subpath": "content.rpg"
-        },
-        "playeranimator": {
-            "subpath": "0libs"
-        },
-        "ranged-weapon-api": {
-            "subpath": "0libs"
-        },
-        "rogues-and-warriors": {
-            "subpath": "content.rpg"
-        },
-        "runes": {
-            "subpath": "content.rpg"
-        },
-        "shield-api": {
-            "subpath": "0libs"
-        },
-        "spark": {
-            "subpath": "debug"
-        },
-        "spell-engine": {
-            "subpath": "content.rpg"
-        },
-        "spell-power": {
-            "subpath": "content.rpg"
-        },
-        "structure-pool-api": {
-            "side": "BOTH",
-            "subpath": "0libs"
-        },
-        "structure-void-toggle": {
-            "subpath": "debug"
-        },
-        "trinkets": {
-            "subpath": "content.rpg"
-        },
-        "wizards": {
-            "subpath": "content.rpg"
-        },
-        "worldgen-profiling": {
-            "subpath": "debug"
-        },
-        "yacl": {
-            "subpath": "0libs"
-        },
-        "sodium-extras": {
-            "subpath": "optimization.client"
-        },
-        "sodium-options-api": {
-            "subpath": "0libs"
-        },
-        "sodium-dynamic-lights": {
-            "subpath": "decoration.client"
-        },
-        "owo-lib": {
-            "subpath": "0libs"
-        },
-        "architectury": {
-            "subpath": "0libs"
-        },
-        "entitytexturefeatures": {
-            "subpath": "decoration.client"
-        },
-        "esf": {
-            "subpath": "decoration.client"
-        },
-        "entity-model-features": {
-            "subpath": "decoration.client"
-        },
-        "oculus": {
-            "subpath": "decoration.client"
-        },
-        "geckoanimfix": {
-            "subpath": "fix.client"
-        },
-        "bad-horse-fix": {
-            "subpath": "fix.client"
-        },
-        "better-fabric-console": {
-            "subpath": "tool"
-        },
-        "particle-core": {
-            "subpath": "optimization.client"
-        },
-        "cull-less-leaves-reforged": {
-            "subpath": "optimization.client"
-        },
-        "moreculling": {
-            "subpath": "optimization.client"
-        },
-        "morecullingextra": {
-            "subpath": "optimization.client"
-        },
-        "entityculling": {
-            "subpath": "optimization.client"
-        },
-        "better-modlist": {
-            "subpath": "decoration.client"
-        },
-        "fzzy-config": {
-            "subpath": "0libs"
-        }
+  "name": "arcadia",
+  "version": "0.0.1",
+  "overrides": ["config"],
+  "projects": {
+    "archers": {
+      "subpath": "content.rpg"
     },
-    "project_aliases": {
-        "fabric-api": "forgified-fabric-api",
-        "sodium": "embeddium"
+    "azurelib-armor": {
+      "subpath": "0libs"
+    },
+    "better-combat": {
+      "subpath": "content.rpg"
+    },
+    "cloth-config": {
+      "subpath": "0libs"
+    },
+    "combat-roll": {
+      "subpath": "content.rpg"
+    },
+    "cyanide": {
+      "subpath": "debug"
+    },
+    "ebe": {
+      "subpath": "optimization.client"
+    },
+    "embeddium": {
+      "subpath": "optimization.client",
+      "aliases": ["sodium"]
+    },
+    "fabric-language-kotlin": {
+      "subpath": "0libs"
+    },
+    "kotlin-for-forge": {
+      "subpath": "0libs"
+    },
+    "forgified-fabric-api": {
+      "subpath": "0libs",
+      "aliases": ["fabric-api"]
+    },
+    "fullstack-watchdog": {
+      "subpath": "debug"
+    },
+    "gadget": {
+      "subpath": "debug"
+    },
+    "gazebos": {
+      "side": "BOTH",
+      "subpath": "worldgen.structures"
+    },
+    "jewelry": {
+      "subpath": "content.rpg"
+    },
+    "kinecraft-serialization": {
+      "subpath": "0libs"
+    },
+    "mixin-conflict-helper": {
+      "subpath": "debug"
+    },
+    "mixintrace": {
+      "subpath": "debug"
+    },
+    "more-profiling": {
+      "subpath": "debug"
+    },
+    "nsight-loader": {
+      "subpath": "debug"
+    },
+    "observable": {
+      "subpath": "debug"
+    },
+    "paladins-and-priests": {
+      "subpath": "content.rpg"
+    },
+    "playeranimator": {
+      "subpath": "0libs"
+    },
+    "ranged-weapon-api": {
+      "subpath": "0libs"
+    },
+    "rogues-and-warriors": {
+      "subpath": "content.rpg"
+    },
+    "runes": {
+      "subpath": "content.rpg"
+    },
+    "shield-api": {
+      "subpath": "0libs"
+    },
+    "spark": {
+      "subpath": "debug"
+    },
+    "spell-engine": {
+      "subpath": "content.rpg"
+    },
+    "spell-power": {
+      "subpath": "content.rpg"
+    },
+    "structure-pool-api": {
+      "side": "BOTH",
+      "subpath": "0libs"
+    },
+    "structure-void-toggle": {
+      "subpath": "debug"
+    },
+    "trinkets": {
+      "subpath": "content.rpg"
+    },
+    "wizards": {
+      "subpath": "content.rpg"
+    },
+    "worldgen-profiling": {
+      "subpath": "debug"
+    },
+    "yacl": {
+      "subpath": "0libs"
+    },
+    "sodium-extras": {
+      "subpath": "optimization.client"
+    },
+    "sodium-options-api": {
+      "subpath": "0libs"
+    },
+    "sodium-dynamic-lights": {
+      "subpath": "decoration.client"
+    },
+    "owo-lib": {
+      "subpath": "0libs"
+    },
+    "architectury": {
+      "subpath": "0libs"
+    },
+    "entitytexturefeatures": {
+      "subpath": "decoration.client"
+    },
+    "esf": {
+      "subpath": "decoration.client"
+    },
+    "entity-model-features": {
+      "subpath": "decoration.client"
+    },
+    "oculus": {
+      "subpath": "decoration.client"
+    },
+    "geckoanimfix": {
+      "subpath": "fix.client"
+    },
+    "bad-horse-fix": {
+      "subpath": "fix.client"
+    },
+    "better-fabric-console": {
+      "subpath": "tool"
+    },
+    "particle-core": {
+      "subpath": "optimization.client"
+    },
+    "cull-less-leaves-reforged": {
+      "subpath": "optimization.client"
+    },
+    "moreculling": {
+      "subpath": "optimization.client"
+    },
+    "morecullingextra": {
+      "subpath": "optimization.client"
+    },
+    "entityculling": {
+      "subpath": "optimization.client"
+    },
+    "better-modlist": {
+      "subpath": "decoration.client"
+    },
+    "fzzy-config": {
+      "subpath": "0libs"
     }
+  }
 }
