@@ -9,6 +9,75 @@
     },
     "projects": [
         {
+            "pakku_id": "AnJ0N2uNqMT0JiXR",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "accessories",
+                "modrinth": "accessories"
+            },
+            "name": {
+                "curseforge": "Accessories",
+                "modrinth": "Accessories"
+            },
+            "id": {
+                "curseforge": "938917",
+                "modrinth": "jtmvUHXj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5790/67/accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
+                    "id": "5790067",
+                    "parent_id": "938917",
+                    "hashes": {
+                        "sha1": "831f2fbe6c8ffe8529e3010dadc381186dd1f983",
+                        "md5": "e19dc1c3707f6cb6386ad21da2f8c443"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1074728,
+                    "date_published": "2024-10-06T23:41:51.200Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/t7mBC14r/accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
+                    "id": "t7mBC14r",
+                    "parent_id": "jtmvUHXj",
+                    "hashes": {
+                        "sha512": "ffceb04b907e1233969ba0e79782ef039d05c6d0e7fe4c0583119bb4287fdf15f484e00e9aa77353c9481687bb58e1a103ba415591b2bbfcb6d681342c3498f2",
+                        "sha1": "831f2fbe6c8ffe8529e3010dadc381186dd1f983"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 1074728,
+                    "date_published": "2024-10-06T23:38:10.145665Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8KWnUgneADyk9vHY",
             "pakku_links": [
                 "MHYpE9BWcnIYOxXa",
@@ -419,15 +488,12 @@
             ],
             "type": "MOD",
             "slug": {
-                "curseforge": "better-fabric-console",
                 "modrinth": "better-fabric-console"
             },
             "name": {
-                "curseforge": "Better Fabric Console",
                 "modrinth": "Better Fabric Console"
             },
             "id": {
-                "curseforge": "584778",
                 "modrinth": "Y8o1j1Sf"
             },
             "redistributable": false,
@@ -477,7 +543,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Better_Modlist-0.1.4.jar",
+                    "file_name": "Better_Modlist-0.1.5.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -487,21 +553,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sbpqhzIG/versions/vWihKnhB/Better_Modlist-0.1.4.jar",
-                    "id": "vWihKnhB",
+                    "url": "https://cdn.modrinth.com/data/sbpqhzIG/versions/tslHpPrw/Better_Modlist-0.1.5.jar",
+                    "id": "tslHpPrw",
                     "parent_id": "sbpqhzIG",
                     "hashes": {
-                        "sha512": "bce0874b80543676336d63b7a1f9e2c362cea9225eb8886ba59e3ed439e38bf73fb93c924aaa2d138f8a0d983dfcaa034fbf8fba1d0998081c81590774226e69",
-                        "sha1": "f6b29c03efac669c56aafdec283c23f2b3e6e8a1"
+                        "sha512": "f8c922e99b91e58cae6c4b87ed821e90ea1116ccc2c1e35f4e467770248490aefff1499eca4087d5197f5d41f21cae366a5adb3bbbce03efcc8a6fc14c589625",
+                        "sha1": "ed8befccf52b38db0045464cf4eb4d0a1a438cc6"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 630456,
-                    "date_published": "2024-10-07T14:25:18.995390Z"
+                    "size": 630483,
+                    "date_published": "2024-10-09T09:38:50.844909Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Better_Modlist-0.1.4.jar",
+                    "file_name": "Better_Modlist-0.1.5.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -511,17 +577,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5791/812/Better_Modlist-0.1.4.jar",
-                    "id": "5791812",
+                    "url": "https://edge.forgecdn.net/files/5796/897/Better_Modlist-0.1.5.jar",
+                    "id": "5796897",
                     "parent_id": "1089803",
                     "hashes": {
-                        "sha1": "f6b29c03efac669c56aafdec283c23f2b3e6e8a1",
-                        "md5": "2a8225d591f2a253453d7e979b8282b4"
+                        "sha1": "ed8befccf52b38db0045464cf4eb4d0a1a438cc6",
+                        "md5": "60ed2ea8d1711dfdc104396c04ac5e0b"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 630456,
-                    "date_published": "2024-10-07T14:28:00.117Z"
+                    "size": 630483,
+                    "date_published": "2024-10-09T09:41:33.520Z"
                 }
             ]
         },
@@ -733,6 +799,44 @@
                     ],
                     "size": 217962,
                     "date_published": "2024-08-13T21:12:27.610Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cJzLm0zg0HXN3uPW",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "configured"
+            },
+            "name": {
+                "curseforge": "Configured"
+            },
+            "id": {
+                "curseforge": "457570"
+            },
+            "subpath": "tool",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "configured-forge-1.20.1-2.2.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar",
+                    "id": "5180900",
+                    "parent_id": "457570",
+                    "hashes": {
+                        "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+                        "md5": "9380dc31c599c523a5682a4025fceb92"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 418929,
+                    "date_published": "2024-03-14T03:01:07.233Z"
                 }
             ]
         },
@@ -1618,7 +1722,6 @@
                 "DuBWkC5IokuggOXP",
                 "AQ1eEoZP1gevG9ym",
                 "MHYpE9BWcnIYOxXa",
-                "ZOndG1Gkz1BcP5Tt",
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
@@ -1995,7 +2098,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mod_sets-1.9.5.jar",
+                    "file_name": "mod_sets-1.9.6.jar",
                     "mc_versions": [
                         "1.19.4",
                         "1.20",
@@ -2013,24 +2116,24 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/4rZ7r9lQ/mod_sets-1.9.5.jar",
-                    "id": "4rZ7r9lQ",
+                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/3sTqoHGu/mod_sets-1.9.6.jar",
+                    "id": "3sTqoHGu",
                     "parent_id": "b313lC4Y",
                     "hashes": {
-                        "sha512": "c72cb9a1cb0165cbd328753efa2311c4d4be6055557f2afb85d12284747c0c7aa0b5503aaf08c3a46184b6c0fb107c5803b48e0340b3a0758e36f68111f1085c",
-                        "sha1": "e3c0e4f501e110c96292c590de27a5d664d78c99"
+                        "sha512": "fdf57395e66eb9a21b79ae60ea0c82da8eaa0d54a57fb6b9edb2f850ce0fe5feea9aa191109c073e1a338cce948c248de9cb9100591fbbadcdffe9795fd04c40",
+                        "sha1": "16e6dc0ef0f3ebb00cb5d6d334c770ff444acb34"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "1eAoo2KR",
-                        "epmEbmF0",
-                        "Ha28R6CL"
+                        "epmEbmF0"
                     ],
-                    "size": 292017,
-                    "date_published": "2024-10-09T05:46:07.046793Z"
+                    "size": 292037,
+                    "date_published": "2024-10-09T08:11:36.995126Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "mod_sets-1.9.5.jar",
+                    "file_name": "mod_sets-1.9.6.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -2046,19 +2149,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5796/583/mod_sets-1.9.5.jar",
-                    "id": "5796583",
+                    "url": "https://edge.forgecdn.net/files/5796/794/mod_sets-1.9.6.jar",
+                    "id": "5796794",
                     "parent_id": "890349",
                     "hashes": {
-                        "sha1": "e3c0e4f501e110c96292c590de27a5d664d78c99",
-                        "md5": "c0e969838ba57aeea18bdd49a4092ea4"
+                        "sha1": "16e6dc0ef0f3ebb00cb5d6d334c770ff444acb34",
+                        "md5": "4434923575b8529399a8a5fe80c467b6"
                     },
                     "required_dependencies": [
-                        "308769",
-                        "667299"
+                        "667299",
+                        "308769"
                     ],
-                    "size": 292017,
-                    "date_published": "2024-10-09T05:46:04.260Z"
+                    "size": 292037,
+                    "date_published": "2024-10-09T08:11:32.990Z"
                 }
             ]
         },
@@ -3109,7 +3212,6 @@
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
                 "40s41vtYZh8r5Ef0",
-                "ZOndG1Gkz1BcP5Tt",
                 "rJC6pRiL9CVhnAPE",
                 "DuBWkC5IokuggOXP"
             ],
@@ -3457,66 +3559,70 @@
             ]
         },
         {
-            "pakku_id": "ZOndG1Gkz1BcP5Tt",
+            "pakku_id": "BCKvjPEV2zeN5Dd5",
+            "pakku_links": [
+                "AnJ0N2uNqMT0JiXR"
+            ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "trinkets",
-                "modrinth": "trinkets"
+                "curseforge": "accessories-tc-layer",
+                "modrinth": "accessories-tc-layer"
             },
             "name": {
-                "curseforge": "Trinkets (Fabric)",
-                "modrinth": "Trinkets"
+                "curseforge": "Trinkets Compat Layer for Accessories",
+                "modrinth": "Trinkets Compat Layer for Accessories"
             },
             "id": {
-                "curseforge": "341284",
-                "modrinth": "5aaWibi9"
+                "curseforge": "1005680",
+                "modrinth": "TkWgV1AW"
             },
-            "subpath": "content.rpg",
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "trinkets-3.7.2.jar",
+                    "type": "curseforge",
+                    "file_name": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
                     "mc_versions": [
-                        "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar",
-                    "id": "AHxQGtuC",
-                    "parent_id": "5aaWibi9",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5780/755/accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
+                    "id": "5780755",
+                    "parent_id": "1005680",
                     "hashes": {
-                        "sha512": "bedf97c87c5e556416410267108ad358b32806448be24ef8ae1a79ac63b78b48b9c851c00c845b8aedfc7805601385420716b9e65326fdab21340e8ba3cc4274",
-                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008"
+                        "sha1": "d64fa7d29699e5cb0849cede205a9a2841ffad9b",
+                        "md5": "01d87ba69f4dfc8cd1ab33e791f9ddcd"
                     },
                     "required_dependencies": [
+                        "938917"
                     ],
-                    "size": 238532,
-                    "date_published": "2024-03-11T04:25:11.224830Z"
+                    "size": 203357,
+                    "date_published": "2024-10-03T20:45:16.117Z"
                 },
                 {
-                    "type": "curseforge",
-                    "file_name": "trinkets-3.7.2.jar",
+                    "type": "modrinth",
+                    "file_name": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5173/501/trinkets-3.7.2.jar",
-                    "id": "5173501",
-                    "parent_id": "341284",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/TkWgV1AW/versions/dfzKbUiE/accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
+                    "id": "dfzKbUiE",
+                    "parent_id": "TkWgV1AW",
                     "hashes": {
-                        "sha1": "d58cc8759587f03f320f188972ca66baa788d008",
-                        "md5": "c010ccc2015e5b1f3cb1994694ecc512"
+                        "sha512": "caaeff26f344cf9503915844f598e25144a14dcca116d10f470fbffaa8681f6587ac109f47aed91d33c7d61214068062b96e56f3f15acf9c9801f09e654154b5",
+                        "sha1": "d64fa7d29699e5cb0849cede205a9a2841ffad9b"
                     },
                     "required_dependencies": [
+                        "jtmvUHXj"
                     ],
-                    "size": 238532,
-                    "date_published": "2024-03-11T04:22:11.220Z"
+                    "size": 203357,
+                    "date_published": "2024-10-03T20:42:10.185197Z"
                 }
             ]
         },

@@ -192,6 +192,18 @@
         },
         "modernfix": {
             "subpath": "optimization"
+        },
+        "configured": {
+            "subpath": "tool"
+        },
+        "accessories-tc-layer": {
+            "subpath": "content.rpg",
+            "aliases": [
+                "trinkets"
+            ]
+        },
+        "accessories": {
+            "subpath": "content.rpg"
         }
     }
 }
