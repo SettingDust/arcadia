@@ -204,6 +204,31 @@
         },
         "accessories": {
             "subpath": "content.rpg"
+        },
+        "item-highlighter": {
+            "subpath": "decoration.client"
+        },
+        "legendary-tooltips": {
+            "subpath": "decoration.client"
+        },
+        "item-borders": {
+            "subpath": "decoration.client"
+        },
+        "equipment-compare": {
+            "subpath": "decoration.client"
+        },
+        "merchant-markers": {
+            "subpath": "decoration.client"
+        },
+        "prism-lib": {
+            "subpath": "0libs"
+        },
+        "iceberg": {
+            "subpath": "0libs"
+        },
+        "advancement-plaques": {
+            "side": "BOTH",
+            "subpath": "decoration"
         }
     }
 }

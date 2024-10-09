@@ -14,7 +14,6 @@
                 "ZjVRXkiYqcOO3dUX"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "accessories",
                 "modrinth": "accessories"
@@ -27,6 +26,7 @@
                 "curseforge": "938917",
                 "modrinth": "jtmvUHXj"
             },
+            "subpath": "content.rpg",
             "files": [
                 {
                     "type": "curseforge",
@@ -74,6 +74,74 @@
                     ],
                     "size": 1074728,
                     "date_published": "2024-10-06T23:38:10.145665Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1d1OrMnl4as1tq8B",
+            "pakku_links": [
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "advancement-plaques",
+                "modrinth": "advancement-plaques"
+            },
+            "name": {
+                "curseforge": "Advancement Plaques [Neo/Forge]",
+                "modrinth": "Advancement Plaques"
+            },
+            "id": {
+                "curseforge": "499826",
+                "modrinth": "9NM0dXub"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5762/256/AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+                    "id": "5762256",
+                    "parent_id": "499826",
+                    "hashes": {
+                        "sha1": "08b41d585c4cb9f6b3b70a0eb3035088e34f6f2f",
+                        "md5": "a8c63afeac05f6c356f96df9a8c13dfb"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 208851,
+                    "date_published": "2024-09-27T17:44:22.693Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/kgUIXD9e/AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+                    "id": "kgUIXD9e",
+                    "parent_id": "9NM0dXub",
+                    "hashes": {
+                        "sha512": "a7f829d475c7c2d72cdb8a1151b6a3e2bedc0150384e74a569b1fd17bb761645be2781d54acbbdb4fa51a52a00438400670e1e6609427b3472778e1f32d7b0fa",
+                        "sha1": "08b41d585c4cb9f6b3b70a0eb3035088e34f6f2f"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 208851,
+                    "date_published": "2024-09-27T17:45:43.359526Z"
                 }
             ]
         },
@@ -1178,6 +1246,76 @@
             ]
         },
         {
+            "pakku_id": "XEpYCH5DWYuoAj01",
+            "pakku_links": [
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "equipment-compare",
+                "modrinth": "equipment-compare"
+            },
+            "name": {
+                "curseforge": "Equipment Compare [Neo/Forge]",
+                "modrinth": "Equipment Compare"
+            },
+            "id": {
+                "curseforge": "502561",
+                "modrinth": "CYSUVOdj"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EquipmentCompare-1.20.1-forge-1.3.7.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4650/73/EquipmentCompare-1.20.1-forge-1.3.7.jar",
+                    "id": "4650073",
+                    "parent_id": "502561",
+                    "hashes": {
+                        "sha1": "ef4b24935e3fe8c9b811c4942c6f03e32405f4ca",
+                        "md5": "78b73cacd5244346d6faa9665544b215"
+                    },
+                    "required_dependencies": [
+                        "520110"
+                    ],
+                    "size": 31704,
+                    "date_published": "2023-07-17T19:56:32.790Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EquipmentCompare-1.20.1-forge-1.3.7.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CYSUVOdj/versions/x1lxEKIp/EquipmentCompare-1.20.1-forge-1.3.7.jar",
+                    "id": "x1lxEKIp",
+                    "parent_id": "CYSUVOdj",
+                    "hashes": {
+                        "sha512": "b5bcba3d91a5f278b18030160b9d74e6e8f3f0773d9de76ebef9646f4d60e57657930ab36ca63cb93bff1100c8d1ebf4a4ff35f6bbd68d41df0427fe5ee2f2dd",
+                        "sha1": "ef4b24935e3fe8c9b811c4942c6f03e32405f4ca"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 31704,
+                    "date_published": "2023-07-17T20:02:58.626259Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "idmS3r2ex2Wy4RUr",
             "type": "MOD",
             "slug": {
@@ -1563,6 +1701,71 @@
             ]
         },
         {
+            "pakku_id": "H4aSCPb44mSUz5cC",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "iceberg",
+                "modrinth": "iceberg"
+            },
+            "name": {
+                "curseforge": "Iceberg [Neo/Forge]",
+                "modrinth": "Iceberg"
+            },
+            "id": {
+                "curseforge": "520110",
+                "modrinth": "5faXoLqX"
+            },
+            "subpath": "0libs",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.21.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5138/899/Iceberg-1.20.1-forge-1.1.21.jar",
+                    "id": "5138899",
+                    "parent_id": "520110",
+                    "hashes": {
+                        "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b",
+                        "md5": "7d8be08fbc719d19f9d71c026fb8d5f4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 133685,
+                    "date_published": "2024-02-26T20:59:07.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.21.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/boNnPeth/Iceberg-1.20.1-forge-1.1.21.jar",
+                    "id": "boNnPeth",
+                    "parent_id": "5faXoLqX",
+                    "hashes": {
+                        "sha512": "c1ff313558583049648e5612d9698bd1f4a506ccd26e2085d74dd6931d17603d1859a23b23cd8823cbc184564bcb214e0dc344f1df9f3f8da1f2d228597f32af",
+                        "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 133685,
+                    "date_published": "2024-02-26T21:00:02.396530Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gu0LJy4zvDYkOWFQ",
             "type": "MOD",
             "slug": {
@@ -1713,6 +1916,149 @@
                     ],
                     "size": 6239,
                     "date_published": "2024-01-08T19:29:44.317Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sDJWEVPAmzLXM1yv",
+            "pakku_links": [
+                "RHvBdNlPjsRIB1o8",
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "item-borders",
+                "modrinth": "item-borders"
+            },
+            "name": {
+                "curseforge": "Item Borders [Neo/Forge]",
+                "modrinth": "Item Borders"
+            },
+            "id": {
+                "curseforge": "513769",
+                "modrinth": "b1fMg6sH"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ItemBorders-1.20.1-forge-1.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4985/587/ItemBorders-1.20.1-forge-1.2.1.jar",
+                    "id": "4985587",
+                    "parent_id": "513769",
+                    "hashes": {
+                        "sha1": "496947f22a6b860af7a6211342714735f1f014c5",
+                        "md5": "9675753d41e6163451f69f61cc391a18"
+                    },
+                    "required_dependencies": [
+                        "638111",
+                        "520110"
+                    ],
+                    "size": 20829,
+                    "date_published": "2023-12-26T22:47:25.863Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ItemBorders-1.20.1-forge-1.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/fNO9EpxU/ItemBorders-1.20.1-forge-1.2.1.jar",
+                    "id": "fNO9EpxU",
+                    "parent_id": "b1fMg6sH",
+                    "hashes": {
+                        "sha512": "1026f3a63bc42c9cc71cce03da16903a0758e4c93f34269f2c70dd08e66d4aeb35fb720498c7e6fe7df930d3f1499c1b97f5e5b7893480fa19e8a72a9de2e7fd",
+                        "sha1": "496947f22a6b860af7a6211342714735f1f014c5"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 20829,
+                    "date_published": "2023-12-26T22:50:07.621039Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2jE0lCw0GduW6iID",
+            "pakku_links": [
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "item-highlighter",
+                "modrinth": "item-highlighter"
+            },
+            "name": {
+                "curseforge": "Item Highlighter [Neo/Forge]",
+                "modrinth": "Item Highlighter"
+            },
+            "id": {
+                "curseforge": "521590",
+                "modrinth": "cVNW5lr6"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Highlighter-1.20.1-forge-1.1.9.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4985/588/Highlighter-1.20.1-forge-1.1.9.jar",
+                    "id": "4985588",
+                    "parent_id": "521590",
+                    "hashes": {
+                        "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
+                        "md5": "650eec32fdb7c58c30c4d9aa911073d5"
+                    },
+                    "required_dependencies": [
+                        "520110"
+                    ],
+                    "size": 29438,
+                    "date_published": "2023-12-26T22:48:09.410Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Highlighter-1.20.1-forge-1.1.9.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar",
+                    "id": "rcQOLnyI",
+                    "parent_id": "cVNW5lr6",
+                    "hashes": {
+                        "sha512": "a8b9e114281c1390ecded38a6114516dc0b3ae0e4cb0f041162d54b6cabfacf077c7394075c43c1565a01362cdbf37e45c3bdeac2aa5b8dede93970bafd44c65",
+                        "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 29438,
+                    "date_published": "2023-12-26T22:49:07.367328Z"
                 }
             ]
         },
@@ -1911,6 +2257,151 @@
                     ],
                     "size": 7193768,
                     "date_published": "2024-06-05T23:45:43.380Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ApUOqYAy0lejE8X5",
+            "pakku_links": [
+                "RHvBdNlPjsRIB1o8",
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "legendary-tooltips",
+                "modrinth": "legendary-tooltips"
+            },
+            "name": {
+                "curseforge": "Legendary Tooltips [Neo/Forge]",
+                "modrinth": "Legendary Tooltips"
+            },
+            "id": {
+                "curseforge": "532127",
+                "modrinth": "atHH8NyV"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4662/781/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "id": "4662781",
+                    "parent_id": "532127",
+                    "hashes": {
+                        "sha1": "7d83a56572d333ea352706872f565b8b8537085c",
+                        "md5": "18c8e50bb98e24d86aa96a8b25dc6091"
+                    },
+                    "required_dependencies": [
+                        "638111",
+                        "520110"
+                    ],
+                    "size": 55258,
+                    "date_published": "2023-07-24T22:59:56.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "id": "JhxD2e6J",
+                    "parent_id": "atHH8NyV",
+                    "hashes": {
+                        "sha512": "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257",
+                        "sha1": "7d83a56572d333ea352706872f565b8b8537085c"
+                    },
+                    "required_dependencies": [
+                        "1OE8wbN0",
+                        "5faXoLqX"
+                    ],
+                    "size": 55258,
+                    "date_published": "2023-07-24T23:02:22.821486Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uPsFQfnzaK3uTZLs",
+            "pakku_links": [
+                "H4aSCPb44mSUz5cC"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "merchant-markers",
+                "modrinth": "merchant-markers"
+            },
+            "name": {
+                "curseforge": "Merchant Markers [Neo/Forge]",
+                "modrinth": "Merchant Markers"
+            },
+            "id": {
+                "curseforge": "549275",
+                "modrinth": "AGhiJWsU"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MerchantMarkers-1.20.1-forge-1.3.3.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5027/474/MerchantMarkers-1.20.1-forge-1.3.3.jar",
+                    "id": "5027474",
+                    "parent_id": "549275",
+                    "hashes": {
+                        "sha1": "d5c05f24ade1c06db215b4fcb74d96ebad4b8f2b",
+                        "md5": "17e032b8070cf6791b1bf50b29421daf"
+                    },
+                    "required_dependencies": [
+                        "520110"
+                    ],
+                    "size": 72908,
+                    "date_published": "2024-01-12T19:56:53.253Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MerchantMarkers-1.20.1-forge-1.3.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AGhiJWsU/versions/F26aEOdk/MerchantMarkers-1.20.1-forge-1.3.3.jar",
+                    "id": "F26aEOdk",
+                    "parent_id": "AGhiJWsU",
+                    "hashes": {
+                        "sha512": "2bdc95959751e6b779220ff9685e3bf9b56642b3fdfdf6455c6bbee72213da261f7a464be57ee6a47406b01de6bbdc20fc5db0326c3fbfeafa6a56d00bc2a8d4",
+                        "sha1": "d5c05f24ade1c06db215b4fcb74d96ebad4b8f2b"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 72908,
+                    "date_published": "2024-01-12T20:28:53.521768Z"
                 }
             ]
         },
@@ -2650,6 +3141,73 @@
                     ],
                     "size": 95351,
                     "date_published": "2024-09-16T22:23:18.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RHvBdNlPjsRIB1o8",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "prism-lib",
+                "modrinth": "prism-lib"
+            },
+            "name": {
+                "curseforge": "Prism [Neo/Forge]",
+                "modrinth": "Prism"
+            },
+            "id": {
+                "curseforge": "638111",
+                "modrinth": "1OE8wbN0"
+            },
+            "subpath": "0libs",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Prism-1.20.1-forge-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4650/325/Prism-1.20.1-forge-1.0.5.jar",
+                    "id": "4650325",
+                    "parent_id": "638111",
+                    "hashes": {
+                        "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+                        "md5": "de0e319e29e813f407314b33739f7eb8"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 52205,
+                    "date_published": "2023-07-17T22:39:15.030Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Prism-1.20.1-forge-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+                    "id": "FFyss87M",
+                    "parent_id": "1OE8wbN0",
+                    "hashes": {
+                        "sha512": "b73de6bf581f5f28d86baa3eeb8ac0ff30aa9a35280da7fa528547bbb9e0aff5f931b434e143a4dfc4d11ae03ce52bc1cfa359beb8b656880e75bf1aa8d91b81",
+                        "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 52205,
+                    "date_published": "2023-07-17T22:42:36.121075Z"
                 }
             ]
         },
@@ -3564,7 +4122,6 @@
                 "AnJ0N2uNqMT0JiXR"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "accessories-tc-layer",
                 "modrinth": "accessories-tc-layer"
@@ -3577,6 +4134,10 @@
                 "curseforge": "1005680",
                 "modrinth": "TkWgV1AW"
             },
+            "subpath": "content.rpg",
+            "aliases": [
+                "trinkets"
+            ],
             "files": [
                 {
                     "type": "curseforge",
