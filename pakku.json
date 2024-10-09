@@ -189,6 +189,9 @@
         },
         "immediatelyfast": {
             "subpath": "optimization.client"
+        },
+        "modernfix": {
+            "subpath": "optimization"
         }
     }
 }

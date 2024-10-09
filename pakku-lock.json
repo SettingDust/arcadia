@@ -49,13 +49,13 @@
                         "sha1": "3d120b27a00b0ac13d7db7a650eb62882c57fa2a"
                     },
                     "required_dependencies": [
-                        "XvoWJaA2",
                         "AqaIIO6D",
                         "P7dR8mSH",
+                        "XvoWJaA2",
                         "pduQXSbl"
                     ],
                     "size": 1025656,
-                    "dataPublished": "2024-07-08T15:08:57.273127Z"
+                    "date_published": "2024-07-08T15:08:57.273127Z"
                 },
                 {
                     "type": "curseforge",
@@ -81,7 +81,7 @@
                         "306612"
                     ],
                     "size": 1025656,
-                    "dataPublished": "2024-07-08T15:09:00.433Z"
+                    "date_published": "2024-07-08T15:09:00.433Z"
                 }
             ]
         },
@@ -123,7 +123,7 @@
                     "required_dependencies": [
                     ],
                     "size": 580602,
-                    "dataPublished": "2024-02-26T13:19:00.816154Z"
+                    "date_published": "2024-02-26T13:19:00.816154Z"
                 },
                 {
                     "type": "curseforge",
@@ -146,7 +146,7 @@
                     "required_dependencies": [
                     ],
                     "size": 580602,
-                    "dataPublished": "2024-02-26T13:18:59.227Z"
+                    "date_published": "2024-02-26T13:18:59.227Z"
                 }
             ]
         },
@@ -191,7 +191,7 @@
                     "required_dependencies": [
                     ],
                     "size": 412795,
-                    "dataPublished": "2024-10-04T14:15:52.383761Z"
+                    "date_published": "2024-10-04T14:15:52.383761Z"
                 },
                 {
                     "type": "curseforge",
@@ -214,7 +214,7 @@
                     "required_dependencies": [
                     ],
                     "size": 412795,
-                    "dataPublished": "2024-10-04T14:15:51.563Z"
+                    "date_published": "2024-10-04T14:15:51.563Z"
                 }
             ]
         },
@@ -264,7 +264,7 @@
                         "GchcoXML"
                     ],
                     "size": 19506,
-                    "dataPublished": "2024-04-29T17:17:41.310100Z"
+                    "date_published": "2024-04-29T17:17:41.310100Z"
                 },
                 {
                     "type": "curseforge",
@@ -293,7 +293,7 @@
                         "581495"
                     ],
                     "size": 19506,
-                    "dataPublished": "2024-04-29T17:23:26.033Z"
+                    "date_published": "2024-04-29T17:23:26.033Z"
                 }
             ]
         },
@@ -335,7 +335,7 @@
                         "AANobbMI"
                     ],
                     "size": 26591,
-                    "dataPublished": "2023-07-11T07:27:10.042306Z"
+                    "date_published": "2023-07-11T07:27:10.042306Z"
                 }
             ]
         },
@@ -383,7 +383,7 @@
                         "gedNE4y2"
                     ],
                     "size": 1050118,
-                    "dataPublished": "2024-08-13T20:18:43.130616Z"
+                    "date_published": "2024-08-13T20:18:43.130616Z"
                 },
                 {
                     "type": "curseforge",
@@ -408,7 +408,7 @@
                         "658587"
                     ],
                     "size": 1050118,
-                    "dataPublished": "2024-08-13T20:18:44.370Z"
+                    "date_published": "2024-08-13T20:18:44.370Z"
                 }
             ]
         },
@@ -454,7 +454,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 2781095,
-                    "dataPublished": "2023-08-02T20:25:22.076247Z"
+                    "date_published": "2023-08-02T20:25:22.076247Z"
                 }
             ]
         },
@@ -497,7 +497,7 @@
                     "required_dependencies": [
                     ],
                     "size": 630456,
-                    "dataPublished": "2024-10-07T14:25:18.995390Z"
+                    "date_published": "2024-10-07T14:25:18.995390Z"
                 },
                 {
                     "type": "curseforge",
@@ -521,7 +521,7 @@
                     "required_dependencies": [
                     ],
                     "size": 630456,
-                    "dataPublished": "2024-10-07T14:28:00.117Z"
+                    "date_published": "2024-10-07T14:28:00.117Z"
                 }
             ]
         },
@@ -546,30 +546,6 @@
             "subpath": "optimization",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5703/998/blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
-                    "id": "5703998",
-                    "parent_id": "1082541",
-                    "hashes": {
-                        "sha1": "40f7deda8c340fe7f450d856c7f8620893cf368f",
-                        "md5": "2e967d00a356bbdf1646b8e714c41289"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 220372,
-                    "dataPublished": "2024-09-08T19:04:42.223Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
                     "mc_versions": [
@@ -592,7 +568,31 @@
                         "lhGA9TYQ"
                     ],
                     "size": 220372,
-                    "dataPublished": "2024-09-08T19:04:44.784598Z"
+                    "date_published": "2024-09-08T19:04:44.784598Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5703/998/blinkload-forge-1.1.0+mc1.20-1.20.1.jar",
+                    "id": "5703998",
+                    "parent_id": "1082541",
+                    "hashes": {
+                        "sha1": "40f7deda8c340fe7f450d856c7f8620893cf368f",
+                        "md5": "2e967d00a356bbdf1646b8e714c41289"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 220372,
+                    "date_published": "2024-09-08T19:04:42.223Z"
                 }
             ]
         },
@@ -634,7 +634,7 @@
                     "required_dependencies": [
                     ],
                     "size": 1181413,
-                    "dataPublished": "2024-09-16T17:13:50.725690Z"
+                    "date_published": "2024-09-16T17:13:50.725690Z"
                 },
                 {
                     "type": "curseforge",
@@ -658,7 +658,7 @@
                     "required_dependencies": [
                     ],
                     "size": 1181413,
-                    "dataPublished": "2024-09-16T17:13:48.940Z"
+                    "date_published": "2024-09-16T17:13:48.940Z"
                 }
             ]
         },
@@ -707,7 +707,7 @@
                         "gedNE4y2"
                     ],
                     "size": 217962,
-                    "dataPublished": "2024-08-13T21:12:26.844144Z"
+                    "date_published": "2024-08-13T21:12:26.844144Z"
                 },
                 {
                     "type": "curseforge",
@@ -732,7 +732,7 @@
                         "348521"
                     ],
                     "size": 217962,
-                    "dataPublished": "2024-08-13T21:12:27.610Z"
+                    "date_published": "2024-08-13T21:12:27.610Z"
                 }
             ]
         },
@@ -774,7 +774,7 @@
                     "required_dependencies": [
                     ],
                     "size": 22474,
-                    "dataPublished": "2023-12-01T13:19:24.453871Z"
+                    "date_published": "2023-12-01T13:19:24.453871Z"
                 },
                 {
                     "type": "curseforge",
@@ -797,7 +797,7 @@
                     "required_dependencies": [
                     ],
                     "size": 22474,
-                    "dataPublished": "2023-12-01T13:12:36.260Z"
+                    "date_published": "2023-12-01T13:12:36.260Z"
                 }
             ]
         },
@@ -842,7 +842,7 @@
                     "required_dependencies": [
                     ],
                     "size": 76558,
-                    "dataPublished": "2024-10-03T02:30:00.148631Z"
+                    "date_published": "2024-10-03T02:30:00.148631Z"
                 },
                 {
                     "type": "curseforge",
@@ -865,7 +865,7 @@
                     "required_dependencies": [
                     ],
                     "size": 76558,
-                    "dataPublished": "2024-10-03T02:32:45.850Z"
+                    "date_published": "2024-10-03T02:32:45.850Z"
                 }
             ]
         },
@@ -910,7 +910,7 @@
                     "required_dependencies": [
                     ],
                     "size": 1320675,
-                    "dataPublished": "2024-08-31T23:11:49.184634Z"
+                    "date_published": "2024-08-31T23:11:49.184634Z"
                 },
                 {
                     "type": "curseforge",
@@ -933,7 +933,7 @@
                     "required_dependencies": [
                     ],
                     "size": 1320675,
-                    "dataPublished": "2024-08-31T23:11:49.240Z"
+                    "date_published": "2024-08-31T23:11:49.240Z"
                 }
             ]
         },
@@ -980,7 +980,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 490690,
-                    "dataPublished": "2023-06-26T05:15:05.839603Z"
+                    "date_published": "2023-06-26T05:15:05.839603Z"
                 },
                 {
                     "type": "curseforge",
@@ -1005,7 +1005,7 @@
                         "306612"
                     ],
                     "size": 490690,
-                    "dataPublished": "2023-06-26T05:15:38.160Z"
+                    "date_published": "2023-06-26T05:15:38.160Z"
                 }
             ]
         },
@@ -1047,7 +1047,7 @@
                     "required_dependencies": [
                     ],
                     "size": 71441,
-                    "dataPublished": "2024-08-28T18:55:12.587017Z"
+                    "date_published": "2024-08-28T18:55:12.587017Z"
                 },
                 {
                     "type": "curseforge",
@@ -1069,7 +1069,7 @@
                     "required_dependencies": [
                     ],
                     "size": 71441,
-                    "dataPublished": "2024-08-28T18:55:10.557Z"
+                    "date_published": "2024-08-28T18:55:10.557Z"
                 }
             ]
         },
@@ -1142,7 +1142,7 @@
                     "required_dependencies": [
                     ],
                     "size": 7136729,
-                    "dataPublished": "2024-09-18T09:52:50.763703Z"
+                    "date_published": "2024-09-18T09:52:50.763703Z"
                 },
                 {
                     "type": "curseforge",
@@ -1170,7 +1170,7 @@
                     "required_dependencies": [
                     ],
                     "size": 7136729,
-                    "dataPublished": "2024-09-18T09:52:49.170Z"
+                    "date_published": "2024-09-18T09:52:49.170Z"
                 }
             ]
         },
@@ -1214,7 +1214,7 @@
                     "required_dependencies": [
                     ],
                     "size": 3041071,
-                    "dataPublished": "2024-05-31T16:19:12.148148Z"
+                    "date_published": "2024-05-31T16:19:12.148148Z"
                 },
                 {
                     "type": "curseforge",
@@ -1236,7 +1236,7 @@
                     "required_dependencies": [
                     ],
                     "size": 3041071,
-                    "dataPublished": "2024-05-31T16:19:06.747Z"
+                    "date_published": "2024-05-31T16:19:06.747Z"
                 }
             ]
         },
@@ -1288,7 +1288,7 @@
                     "required_dependencies": [
                     ],
                     "size": 14539,
-                    "dataPublished": "2023-04-13T14:20:54.257382Z"
+                    "date_published": "2023-04-13T14:20:54.257382Z"
                 },
                 {
                     "type": "curseforge",
@@ -1312,7 +1312,7 @@
                     "required_dependencies": [
                     ],
                     "size": 14539,
-                    "dataPublished": "2023-04-13T14:20:50.590Z"
+                    "date_published": "2023-04-13T14:20:50.590Z"
                 }
             ]
         },
@@ -1358,7 +1358,7 @@
                         "ordsPcFz"
                     ],
                     "size": 1441878,
-                    "dataPublished": "2024-10-04T03:52:41.310952Z"
+                    "date_published": "2024-10-04T03:52:41.310952Z"
                 },
                 {
                     "type": "curseforge",
@@ -1382,7 +1382,7 @@
                         "351264"
                     ],
                     "size": 1441878,
-                    "dataPublished": "2024-10-04T03:52:34.450Z"
+                    "date_published": "2024-10-04T03:52:34.450Z"
                 }
             ]
         },
@@ -1430,7 +1430,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 319890,
-                    "dataPublished": "2023-10-27T14:59:19.427459Z"
+                    "date_published": "2023-10-27T14:59:19.427459Z"
                 },
                 {
                     "type": "curseforge",
@@ -1454,14 +1454,13 @@
                         "306612"
                     ],
                     "size": 319890,
-                    "dataPublished": "2023-10-27T14:59:21.253Z"
+                    "date_published": "2023-10-27T14:59:21.253Z"
                 }
             ]
         },
         {
             "pakku_id": "gu0LJy4zvDYkOWFQ",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "immediatelyfast",
                 "modrinth": "immediatelyfast"
@@ -1474,33 +1473,8 @@
                 "curseforge": "686911",
                 "modrinth": "5ZwdcRci"
             },
+            "subpath": "optimization.client",
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5672/335/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-                    "id": "5672335",
-                    "parent_id": "686911",
-                    "hashes": {
-                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239",
-                        "md5": "36889096689f9a60549f2da2a2c2327a"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 432352,
-                    "dataPublished": "2024-08-28T20:26:23.160Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
@@ -1525,7 +1499,33 @@
                     "required_dependencies": [
                     ],
                     "size": 432352,
-                    "dataPublished": "2024-08-28T20:26:22.585777Z"
+                    "date_published": "2024-08-28T20:26:22.585777Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5672/335/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "id": "5672335",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239",
+                        "md5": "36889096689f9a60549f2da2a2c2327a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432352,
+                    "date_published": "2024-08-28T20:26:23.160Z"
                 }
             ]
         },
@@ -1578,7 +1578,7 @@
                     "required_dependencies": [
                     ],
                     "size": 6239,
-                    "dataPublished": "2024-03-16T05:05:39.509736Z"
+                    "date_published": "2024-03-16T05:05:39.509736Z"
                 },
                 {
                     "type": "curseforge",
@@ -1608,7 +1608,7 @@
                     "required_dependencies": [
                     ],
                     "size": 6239,
-                    "dataPublished": "2024-01-08T19:29:44.317Z"
+                    "date_published": "2024-01-08T19:29:44.317Z"
                 }
             ]
         },
@@ -1655,13 +1655,13 @@
                     },
                     "required_dependencies": [
                         "5aaWibi9",
-                        "LrYZi08Q",
                         "8ooWzSQP",
                         "AqaIIO6D",
+                        "LrYZi08Q",
                         "P7dR8mSH"
                     ],
                     "size": 641972,
-                    "dataPublished": "2024-08-28T20:29:03.368942Z"
+                    "date_published": "2024-08-28T20:29:03.368942Z"
                 },
                 {
                     "type": "curseforge",
@@ -1688,7 +1688,7 @@
                         "306612"
                     ],
                     "size": 641972,
-                    "dataPublished": "2024-08-28T20:29:06.403Z"
+                    "date_published": "2024-08-28T20:29:06.403Z"
                 }
             ]
         },
@@ -1732,7 +1732,7 @@
                         "ordsPcFz"
                     ],
                     "size": 291521,
-                    "dataPublished": "2024-10-04T15:06:15.071365Z"
+                    "date_published": "2024-10-04T15:06:15.071365Z"
                 }
             ]
         },
@@ -1780,7 +1780,7 @@
                     "required_dependencies": [
                     ],
                     "size": 7193768,
-                    "dataPublished": "2024-06-06T01:10:20.253226Z"
+                    "date_published": "2024-06-06T01:10:20.253226Z"
                 },
                 {
                     "type": "curseforge",
@@ -1807,7 +1807,7 @@
                     "required_dependencies": [
                     ],
                     "size": 7193768,
-                    "dataPublished": "2024-06-05T23:45:43.380Z"
+                    "date_published": "2024-06-05T23:45:43.380Z"
                 }
             ]
         },
@@ -1853,7 +1853,7 @@
                     "required_dependencies": [
                     ],
                     "size": 171690,
-                    "dataPublished": "2022-08-19T18:41:58.645405Z"
+                    "date_published": "2022-08-19T18:41:58.645405Z"
                 },
                 {
                     "type": "curseforge",
@@ -1877,7 +1877,7 @@
                     "required_dependencies": [
                     ],
                     "size": 171690,
-                    "dataPublished": "2022-08-19T18:41:55.020Z"
+                    "date_published": "2022-08-19T18:41:55.020Z"
                 }
             ]
         },
@@ -1937,7 +1937,7 @@
                     "required_dependencies": [
                     ],
                     "size": 36039,
-                    "dataPublished": "2022-06-13T19:40:27.890912Z"
+                    "date_published": "2022-06-13T19:40:27.890912Z"
                 },
                 {
                     "type": "curseforge",
@@ -1967,7 +1967,7 @@
                     "required_dependencies": [
                     ],
                     "size": 36039,
-                    "dataPublished": "2022-06-13T19:40:11.703Z"
+                    "date_published": "2022-06-13T19:40:11.703Z"
                 }
             ]
         },
@@ -2026,7 +2026,7 @@
                         "1eAoo2KR"
                     ],
                     "size": 291148,
-                    "dataPublished": "2024-10-07T15:48:53.279421Z"
+                    "date_published": "2024-10-07T15:48:53.279421Z"
                 },
                 {
                     "type": "curseforge",
@@ -2058,7 +2058,70 @@
                         "667299"
                     ],
                     "size": 291148,
-                    "dataPublished": "2024-10-07T15:48:49.987Z"
+                    "date_published": "2024-10-07T15:48:49.987Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "W9cI8A84yHL651ax",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "modernfix",
+                "modrinth": "modernfix"
+            },
+            "name": {
+                "curseforge": "ModernFix",
+                "modrinth": "ModernFix"
+            },
+            "id": {
+                "curseforge": "790626",
+                "modrinth": "nmDcB62a"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5676/14/modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "id": "5676014",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "3475345dc6b407f72e96825ffc7e8e76864cecc9",
+                        "md5": "359e779ab4f91fa48f1b1aab0dfb0821"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 778504,
+                    "date_published": "2024-08-30T01:03:17.227Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/m83ZRQdk/modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "id": "m83ZRQdk",
+                    "parent_id": "nmDcB62a",
+                    "hashes": {
+                        "sha512": "0393f7db1d957a32c5b9030bfb053f98068b0760e6f2a8ba730dc5393d66e98aa9a165b3fc3f5165fa593ee4d94c15035c73d697248bbd53bd215441582aab3a",
+                        "sha1": "3475345dc6b407f72e96825ffc7e8e76864cecc9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 778504,
+                    "date_published": "2024-08-30T01:03:20.951941Z"
                 }
             ]
         },
@@ -2107,7 +2170,7 @@
                         "u58R1TMW"
                     ],
                     "size": 90067,
-                    "dataPublished": "2024-04-22T11:16:17.118411Z"
+                    "date_published": "2024-04-22T11:16:17.118411Z"
                 },
                 {
                     "type": "curseforge",
@@ -2135,7 +2198,7 @@
                         "308769"
                     ],
                     "size": 103976,
-                    "dataPublished": "2024-10-07T11:26:12.383Z"
+                    "date_published": "2024-10-07T11:26:12.383Z"
                 }
             ]
         },
@@ -2157,6 +2220,8 @@
                     "type": "modrinth",
                     "file_name": "nsight-loader-1.2.0.jar",
                     "mc_versions": [
+                        "1.18",
+                        "1.18.1",
                         "1.18.2",
                         "1.19",
                         "1.19.1",
@@ -2170,7 +2235,8 @@
                         "1.20.4",
                         "1.20.5",
                         "1.20.6",
-                        "1.21"
+                        "1.21",
+                        "1.21.1"
                     ],
                     "loaders": [
                         "fabric"
@@ -2186,7 +2252,7 @@
                     "required_dependencies": [
                     ],
                     "size": 7495486,
-                    "dataPublished": "2024-06-07T20:30:38.002035Z"
+                    "date_published": "2024-06-07T20:30:38.002035Z"
                 }
             ]
         },
@@ -2229,11 +2295,11 @@
                         "sha1": "c8a0ae25512d0cedef478df411c87e43703ae237"
                     },
                     "required_dependencies": [
-                        "ordsPcFz",
-                        "lhGA9TYQ"
+                        "lhGA9TYQ",
+                        "ordsPcFz"
                     ],
                     "size": 470536,
-                    "dataPublished": "2024-08-19T06:49:10.624807Z"
+                    "date_published": "2024-08-19T06:49:10.624807Z"
                 },
                 {
                     "type": "curseforge",
@@ -2257,7 +2323,7 @@
                         "419699"
                     ],
                     "size": 470536,
-                    "dataPublished": "2024-08-19T06:49:09.183Z"
+                    "date_published": "2024-08-19T06:49:09.183Z"
                 }
             ]
         },
@@ -2303,7 +2369,7 @@
                         "sk9rgfiA"
                     ],
                     "size": 2831148,
-                    "dataPublished": "2024-04-28T21:22:46.942307Z"
+                    "date_published": "2024-04-28T21:22:46.942307Z"
                 },
                 {
                     "type": "curseforge",
@@ -2327,7 +2393,7 @@
                         "908741"
                     ],
                     "size": 2831148,
-                    "dataPublished": "2024-04-28T21:22:38.047Z"
+                    "date_published": "2024-04-28T21:22:38.047Z"
                 }
             ]
         },
@@ -2373,14 +2439,14 @@
                         "sha1": "d47498d495a108bcc79a618f14a73214c9e193c7"
                     },
                     "required_dependencies": [
-                        "y9clIFY4",
-                        "pduQXSbl",
-                        "XvoWJaA2",
                         "P7dR8mSH",
-                        "lP9Yrr1E"
+                        "XvoWJaA2",
+                        "lP9Yrr1E",
+                        "pduQXSbl",
+                        "y9clIFY4"
                     ],
                     "size": 2520694,
-                    "dataPublished": "2024-07-24T21:44:39.802615Z"
+                    "date_published": "2024-07-24T21:44:39.802615Z"
                 },
                 {
                     "type": "curseforge",
@@ -2407,7 +2473,7 @@
                         "775518"
                     ],
                     "size": 2520694,
-                    "dataPublished": "2024-07-24T21:44:41.457Z"
+                    "date_published": "2024-07-24T21:44:41.457Z"
                 }
             ]
         },
@@ -2451,11 +2517,11 @@
                         "sha1": "d791c2000b0985bdef906db93b9313319ac47aba"
                     },
                     "required_dependencies": [
-                        "ordsPcFz",
-                        "hYykXjDp"
+                        "hYykXjDp",
+                        "ordsPcFz"
                     ],
                     "size": 95351,
-                    "dataPublished": "2024-09-16T22:23:21.437733Z"
+                    "date_published": "2024-09-16T22:23:21.437733Z"
                 },
                 {
                     "type": "curseforge",
@@ -2480,7 +2546,7 @@
                         "1005914"
                     ],
                     "size": 95351,
-                    "dataPublished": "2024-09-16T22:23:18.103Z"
+                    "date_published": "2024-09-16T22:23:18.103Z"
                 }
             ]
         },
@@ -2525,7 +2591,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 114936,
-                    "dataPublished": "2024-08-23T10:08:08.193079Z"
+                    "date_published": "2024-08-23T10:08:08.193079Z"
                 },
                 {
                     "type": "curseforge",
@@ -2548,7 +2614,7 @@
                         "306612"
                     ],
                     "size": 114936,
-                    "dataPublished": "2024-08-23T10:08:10.660Z"
+                    "date_published": "2024-08-23T10:08:10.660Z"
                 }
             ]
         },
@@ -2592,12 +2658,12 @@
                         "sha1": "927fb01c05fa96adad72e9d88f3c945dcf638585"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
                         "pduQXSbl",
+                        "P7dR8mSH",
                         "XvoWJaA2"
                     ],
                     "size": 1007218,
-                    "dataPublished": "2024-07-24T21:41:57.424665Z"
+                    "date_published": "2024-07-24T21:41:57.424665Z"
                 },
                 {
                     "type": "curseforge",
@@ -2622,7 +2688,7 @@
                         "807653"
                     ],
                     "size": 1007218,
-                    "dataPublished": "2024-07-24T21:41:58.917Z"
+                    "date_published": "2024-07-24T21:41:58.917Z"
                 }
             ]
         },
@@ -2667,7 +2733,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 242139,
-                    "dataPublished": "2024-06-19T18:07:55.710908Z"
+                    "date_published": "2024-06-19T18:07:55.710908Z"
                 },
                 {
                     "type": "curseforge",
@@ -2690,7 +2756,7 @@
                         "306612"
                     ],
                     "size": 242139,
-                    "dataPublished": "2024-06-19T18:07:57.157Z"
+                    "date_published": "2024-06-19T18:07:57.157Z"
                 }
             ]
         },
@@ -2735,7 +2801,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 43294,
-                    "dataPublished": "2024-07-10T14:13:44.634105Z"
+                    "date_published": "2024-07-10T14:13:44.634105Z"
                 },
                 {
                     "type": "curseforge",
@@ -2758,7 +2824,7 @@
                         "306612"
                     ],
                     "size": 43294,
-                    "dataPublished": "2024-07-10T14:13:46.540Z"
+                    "date_published": "2024-07-10T14:13:46.540Z"
                 }
             ]
         },
@@ -2803,7 +2869,7 @@
                         "Aqlf1Shp"
                     ],
                     "size": 5043375,
-                    "dataPublished": "2024-09-27T11:09:31.639201Z"
+                    "date_published": "2024-09-27T11:09:31.639201Z"
                 },
                 {
                     "type": "curseforge",
@@ -2826,7 +2892,7 @@
                         "889079"
                     ],
                     "size": 5043384,
-                    "dataPublished": "2024-09-27T11:10:59.270Z"
+                    "date_published": "2024-09-27T11:10:59.270Z"
                 }
             ]
         },
@@ -2872,7 +2938,7 @@
                         "Es5v4eyq"
                     ],
                     "size": 301648,
-                    "dataPublished": "2024-09-24T15:08:19.842012Z"
+                    "date_published": "2024-09-24T15:08:19.842012Z"
                 },
                 {
                     "type": "curseforge",
@@ -2896,7 +2962,7 @@
                         "1103431"
                     ],
                     "size": 301648,
-                    "dataPublished": "2024-09-24T15:08:18.543Z"
+                    "date_published": "2024-09-24T15:08:18.543Z"
                 }
             ]
         },
@@ -2940,11 +3006,11 @@
                         "sha1": "0fac37990fe161f1db07eb557281b919de2e14b7"
                     },
                     "required_dependencies": [
-                        "sk9rgfiA",
-                        "Es5v4eyq"
+                        "Es5v4eyq",
+                        "sk9rgfiA"
                     ],
                     "size": 439674,
-                    "dataPublished": "2024-09-24T14:27:24.669098Z"
+                    "date_published": "2024-09-24T14:27:24.669098Z"
                 },
                 {
                     "type": "curseforge",
@@ -2969,7 +3035,7 @@
                         "908741"
                     ],
                     "size": 439674,
-                    "dataPublished": "2024-09-24T14:27:23Z"
+                    "date_published": "2024-09-24T14:27:23Z"
                 }
             ]
         },
@@ -3011,7 +3077,7 @@
                     "required_dependencies": [
                     ],
                     "size": 443088,
-                    "dataPublished": "2024-09-16T07:00:34.120810Z"
+                    "date_published": "2024-09-16T07:00:34.120810Z"
                 },
                 {
                     "type": "curseforge",
@@ -3034,7 +3100,7 @@
                     "required_dependencies": [
                     ],
                     "size": 443088,
-                    "dataPublished": "2024-09-16T07:00:33.197Z"
+                    "date_published": "2024-09-16T07:00:33.197Z"
                 }
             ]
         },
@@ -3080,14 +3146,14 @@
                         "sha1": "4803a34641e9c9e4b945a4da68104c13ce1eacfd"
                     },
                     "required_dependencies": [
-                        "5aaWibi9",
-                        "8ooWzSQP",
                         "9s6osm5g",
                         "P7dR8mSH",
+                        "5aaWibi9",
+                        "8ooWzSQP",
                         "gedNE4y2"
                     ],
                     "size": 1460857,
-                    "dataPublished": "2024-09-18T20:30:03.296198Z"
+                    "date_published": "2024-09-18T20:30:03.296198Z"
                 },
                 {
                     "type": "curseforge",
@@ -3114,7 +3180,7 @@
                         "771265"
                     ],
                     "size": 1460857,
-                    "dataPublished": "2024-09-18T20:30:06.783Z"
+                    "date_published": "2024-09-18T20:30:06.783Z"
                 }
             ]
         },
@@ -3159,7 +3225,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 184963,
-                    "dataPublished": "2024-08-28T20:30:27.550544Z"
+                    "date_published": "2024-08-28T20:30:27.550544Z"
                 },
                 {
                     "type": "curseforge",
@@ -3182,7 +3248,7 @@
                         "306612"
                     ],
                     "size": 184963,
-                    "dataPublished": "2024-08-28T20:30:28.903Z"
+                    "date_published": "2024-08-28T20:30:28.903Z"
                 }
             ]
         },
@@ -3228,7 +3294,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 271058,
-                    "dataPublished": "2023-10-26T17:21:02.589599Z"
+                    "date_published": "2023-10-26T17:21:02.589599Z"
                 },
                 {
                     "type": "curseforge",
@@ -3251,7 +3317,7 @@
                         "306612"
                     ],
                     "size": 271058,
-                    "dataPublished": "2023-10-26T17:21:05.360Z"
+                    "date_published": "2023-10-26T17:21:05.360Z"
                 }
             ]
         },
@@ -3293,7 +3359,7 @@
                     "required_dependencies": [
                     ],
                     "size": 21643,
-                    "dataPublished": "2023-08-28T20:37:24.138739Z"
+                    "date_published": "2023-08-28T20:37:24.138739Z"
                 },
                 {
                     "type": "curseforge",
@@ -3316,7 +3382,7 @@
                     "required_dependencies": [
                     ],
                     "size": 21643,
-                    "dataPublished": "2023-08-28T20:37:24.867Z"
+                    "date_published": "2023-08-28T20:37:24.867Z"
                 }
             ]
         },
@@ -3341,30 +3407,6 @@
             "subpath": "optimization.client",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "toomanyplayers-1.20-1.1.5.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4801/327/toomanyplayers-1.20-1.1.5.jar",
-                    "id": "4801327",
-                    "parent_id": "663273",
-                    "hashes": {
-                        "sha1": "1e9f1a2c4c0313b5c947c598ad817dd314c5a16b",
-                        "md5": "efcf12ca4088fe75f2494b3773535230"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 470590,
-                    "dataPublished": "2023-10-16T10:01:01.433Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "toomanyplayers-1.20-1.1.5.jar",
                     "mc_versions": [
@@ -3386,7 +3428,31 @@
                         "P7dR8mSH"
                     ],
                     "size": 470590,
-                    "dataPublished": "2023-10-16T09:48:30.632162Z"
+                    "date_published": "2023-10-16T09:48:30.632162Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "toomanyplayers-1.20-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4801/327/toomanyplayers-1.20-1.1.5.jar",
+                    "id": "4801327",
+                    "parent_id": "663273",
+                    "hashes": {
+                        "sha1": "1e9f1a2c4c0313b5c947c598ad817dd314c5a16b",
+                        "md5": "efcf12ca4088fe75f2494b3773535230"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 470590,
+                    "date_published": "2023-10-16T10:01:01.433Z"
                 }
             ]
         },
@@ -3428,7 +3494,7 @@
                     "required_dependencies": [
                     ],
                     "size": 238532,
-                    "dataPublished": "2024-03-11T04:25:11.224830Z"
+                    "date_published": "2024-03-11T04:25:11.224830Z"
                 },
                 {
                     "type": "curseforge",
@@ -3450,7 +3516,7 @@
                     "required_dependencies": [
                     ],
                     "size": 238532,
-                    "dataPublished": "2024-03-11T04:22:11.220Z"
+                    "date_published": "2024-03-11T04:22:11.220Z"
                 }
             ]
         },
@@ -3496,14 +3562,14 @@
                         "sha1": "d72cf4692d6e1164497e2238484309a1f9496a83"
                     },
                     "required_dependencies": [
-                        "XvoWJaA2",
                         "lP9Yrr1E",
-                        "8ooWzSQP",
                         "P7dR8mSH",
-                        "pduQXSbl"
+                        "pduQXSbl",
+                        "XvoWJaA2",
+                        "8ooWzSQP"
                     ],
                     "size": 2877001,
-                    "dataPublished": "2024-07-24T21:44:14.875774Z"
+                    "date_published": "2024-07-24T21:44:14.875774Z"
                 },
                 {
                     "type": "curseforge",
@@ -3530,7 +3596,7 @@
                         "807653"
                     ],
                     "size": 2877001,
-                    "dataPublished": "2024-07-24T21:44:16.977Z"
+                    "date_published": "2024-07-24T21:44:16.977Z"
                 }
             ]
         },
@@ -3574,7 +3640,7 @@
                     "required_dependencies": [
                     ],
                     "size": 11521,
-                    "dataPublished": "2023-12-12T01:04:01.281939Z"
+                    "date_published": "2023-12-12T01:04:01.281939Z"
                 }
             ]
         },
@@ -3619,7 +3685,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 1151778,
-                    "dataPublished": "2024-06-13T16:08:26.916569Z"
+                    "date_published": "2024-06-13T16:08:26.916569Z"
                 },
                 {
                     "type": "curseforge",
@@ -3642,7 +3708,7 @@
                         "306612"
                     ],
                     "size": 1151778,
-                    "dataPublished": "2024-06-13T16:08:25.923Z"
+                    "date_published": "2024-06-13T16:08:25.923Z"
                 }
             ]
         },
@@ -3689,7 +3755,7 @@
                         "BVzZfTc1"
                     ],
                     "size": 432658,
-                    "dataPublished": "2024-09-14T16:13:31.074187Z"
+                    "date_published": "2024-09-14T16:13:31.074187Z"
                 },
                 {
                     "type": "curseforge",
@@ -3714,7 +3780,7 @@
                         "568563"
                     ],
                     "size": 432658,
-                    "dataPublished": "2024-09-14T16:13:28.090Z"
+                    "date_published": "2024-09-14T16:13:28.090Z"
                 }
             ]
         },
@@ -3762,11 +3828,11 @@
                         "sha1": "f8f605bbe442182d028c307728a2aeaa356cc188"
                     },
                     "required_dependencies": [
-                        "BVzZfTc1",
-                        "4I1XuqiY"
+                        "4I1XuqiY",
+                        "BVzZfTc1"
                     ],
                     "size": 99678,
-                    "dataPublished": "2024-07-09T06:30:46.383191Z"
+                    "date_published": "2024-07-09T06:30:46.383191Z"
                 },
                 {
                     "type": "curseforge",
@@ -3794,7 +3860,7 @@
                         "844662"
                     ],
                     "size": 99678,
-                    "dataPublished": "2024-07-09T06:54:18.240Z"
+                    "date_published": "2024-07-09T06:54:18.240Z"
                 }
             ]
         },
@@ -3837,7 +3903,7 @@
                     "required_dependencies": [
                     ],
                     "size": 663338,
-                    "dataPublished": "2024-09-18T14:02:35.468319Z"
+                    "date_published": "2024-09-18T14:02:35.468319Z"
                 },
                 {
                     "type": "curseforge",
@@ -3861,7 +3927,7 @@
                     "required_dependencies": [
                     ],
                     "size": 663338,
-                    "dataPublished": "2024-09-18T14:02:32.313Z"
+                    "date_published": "2024-09-18T14:02:32.313Z"
                 }
             ]
         },
@@ -3907,7 +3973,7 @@
                         "ccKDOlHs"
                     ],
                     "size": 888845,
-                    "dataPublished": "2023-10-04T17:40:47.827211Z"
+                    "date_published": "2023-10-04T17:40:47.827211Z"
                 }
             ]
         },
@@ -3954,7 +4020,7 @@
                         "P7dR8mSH"
                     ],
                     "size": 905421,
-                    "dataPublished": "2023-09-12T10:39:30.503498Z"
+                    "date_published": "2023-09-12T10:39:30.503498Z"
                 },
                 {
                     "type": "curseforge",
@@ -3979,7 +4045,7 @@
                         "306612"
                     ],
                     "size": 905421,
-                    "dataPublished": "2023-09-12T10:39:32.403Z"
+                    "date_published": "2023-09-12T10:39:32.403Z"
                 }
             ]
         },
@@ -4021,7 +4087,7 @@
                     "required_dependencies": [
                     ],
                     "size": 181437,
-                    "dataPublished": "2023-06-14T20:01:58.026800Z"
+                    "date_published": "2023-06-14T20:01:58.026800Z"
                 },
                 {
                     "type": "curseforge",
@@ -4044,7 +4110,7 @@
                     "required_dependencies": [
                     ],
                     "size": 181437,
-                    "dataPublished": "2023-06-14T20:01:58.627Z"
+                    "date_published": "2023-06-14T20:01:58.627Z"
                 }
             ]
         },
@@ -4086,7 +4152,7 @@
                     "required_dependencies": [
                     ],
                     "size": 3114590,
-                    "dataPublished": "2023-09-05T08:02:29.569207Z"
+                    "date_published": "2023-09-05T08:02:29.569207Z"
                 },
                 {
                     "type": "curseforge",
@@ -4109,7 +4175,7 @@
                     "required_dependencies": [
                     ],
                     "size": 3114590,
-                    "dataPublished": "2023-09-05T08:02:20.050Z"
+                    "date_published": "2023-09-05T08:02:20.050Z"
                 }
             ]
         }
