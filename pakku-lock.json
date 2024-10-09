@@ -1995,7 +1995,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mod_sets-1.9.2.jar",
+                    "file_name": "mod_sets-1.9.5.jar",
                     "mc_versions": [
                         "1.19.4",
                         "1.20",
@@ -2013,24 +2013,24 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/FGkPdB19/mod_sets-1.9.2.jar",
-                    "id": "FGkPdB19",
+                    "url": "https://cdn.modrinth.com/data/b313lC4Y/versions/4rZ7r9lQ/mod_sets-1.9.5.jar",
+                    "id": "4rZ7r9lQ",
                     "parent_id": "b313lC4Y",
                     "hashes": {
-                        "sha512": "e2a3dbc411ec62b64e45dd16c7f64df02cebbbdaec54c940ed32322c092b9369f1134ffcac538db0189b4903531b25b814944112f66f6d175a50b8532864d3a9",
-                        "sha1": "717de4b697613e7b7986cc5a52e90ce99811ab8c"
+                        "sha512": "c72cb9a1cb0165cbd328753efa2311c4d4be6055557f2afb85d12284747c0c7aa0b5503aaf08c3a46184b6c0fb107c5803b48e0340b3a0758e36f68111f1085c",
+                        "sha1": "e3c0e4f501e110c96292c590de27a5d664d78c99"
                     },
                     "required_dependencies": [
+                        "1eAoo2KR",
                         "epmEbmF0",
-                        "Ha28R6CL",
-                        "1eAoo2KR"
+                        "Ha28R6CL"
                     ],
-                    "size": 291148,
-                    "date_published": "2024-10-07T15:48:53.279421Z"
+                    "size": 292017,
+                    "date_published": "2024-10-09T05:46:07.046793Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "mod_sets-1.9.2.jar",
+                    "file_name": "mod_sets-1.9.5.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -2046,26 +2046,25 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5791/977/mod_sets-1.9.2.jar",
-                    "id": "5791977",
+                    "url": "https://edge.forgecdn.net/files/5796/583/mod_sets-1.9.5.jar",
+                    "id": "5796583",
                     "parent_id": "890349",
                     "hashes": {
-                        "sha1": "717de4b697613e7b7986cc5a52e90ce99811ab8c",
-                        "md5": "752b299cc2a1f766aeac5608be1b8335"
+                        "sha1": "e3c0e4f501e110c96292c590de27a5d664d78c99",
+                        "md5": "c0e969838ba57aeea18bdd49a4092ea4"
                     },
                     "required_dependencies": [
                         "308769",
                         "667299"
                     ],
-                    "size": 291148,
-                    "date_published": "2024-10-07T15:48:49.987Z"
+                    "size": 292017,
+                    "date_published": "2024-10-09T05:46:04.260Z"
                 }
             ]
         },
         {
             "pakku_id": "W9cI8A84yHL651ax",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "modernfix",
                 "modrinth": "modernfix"
@@ -2078,6 +2077,7 @@
                 "curseforge": "790626",
                 "modrinth": "nmDcB62a"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "curseforge",
@@ -2174,7 +2174,7 @@
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "MoreProfiling-0.14.4.jar",
+                    "file_name": "MoreProfiling-0.14.5.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -2187,18 +2187,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5791/334/MoreProfiling-0.14.4.jar",
-                    "id": "5791334",
+                    "url": "https://edge.forgecdn.net/files/5796/274/MoreProfiling-0.14.5.jar",
+                    "id": "5796274",
                     "parent_id": "1116346",
                     "hashes": {
-                        "sha1": "0d0b5106efb1e856a2775d899baf747d79612df5",
-                        "md5": "6f8e631b9a0d576616ebe99d209d9134"
+                        "sha1": "1743ff58adea0b7584fbc113d0e99774da8f8ca6",
+                        "md5": "0e0f1eaa185c139b2bb375e0bccb15ff"
                     },
                     "required_dependencies": [
                         "308769"
                     ],
                     "size": 103976,
-                    "date_published": "2024-10-07T11:26:12.383Z"
+                    "date_published": "2024-10-09T02:38:00.303Z"
                 }
             ]
         },
