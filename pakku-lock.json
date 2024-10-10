@@ -2118,52 +2118,26 @@
             ]
         },
         {
-            "pakku_id": "ke02KZkov2tSqSaO",
+            "pakku_id": "65diSd4HpEt9xe7J",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
                 "modrinth": "chunky",
-                "curseforge": "chunky-pregenerator-forge"
+                "curseforge": "chunky-pregenerator"
             },
             "name": {
                 "modrinth": "Chunky",
-                "curseforge": "Chunky (Forge/NeoForge)"
+                "curseforge": "Chunky (Fabric)"
             },
             "id": {
                 "modrinth": "fALzjamp",
-                "curseforge": "485681"
+                "curseforge": "433175"
             },
             "subpath": "utility",
             "aliases": [
                 "chunky-pregenerator"
             ],
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Chunky-1.3.146.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
-                    "id": "4FTDk9wv",
-                    "parent_id": "fALzjamp",
-                    "hashes": {
-                        "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
-                        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 341451,
-                    "date_published": "2024-05-06T07:28:42.102951Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "Chunky-1.3.146.jar",
@@ -2177,66 +2151,46 @@
                         "1.20.4"
                     ],
                     "loaders": [
-                        "forge"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5320/28/Chunky-1.3.146.jar",
-                    "id": "5320028",
-                    "parent_id": "485681",
+                    "url": "https://edge.forgecdn.net/files/5320/21/Chunky-1.3.146.jar",
+                    "id": "5320021",
+                    "parent_id": "433175",
                     "hashes": {
-                        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
-                        "md5": "ed46120ac4f30ec8e03f6416e295577c"
+                        "sha1": "b5672d69dc2b210ab2165a27afc03a424fa2b46a",
+                        "md5": "b1e31424db96ae83246efd0390598e01"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 341451,
-                    "date_published": "2024-05-06T07:10:57.567Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ftT4IBHoGNcfXS71",
-            "pakku_links": [
-                "ke02KZkov2tSqSaO"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "chunky-autopause"
-            },
-            "name": {
-                "modrinth": "Chunky Autopause"
-            },
-            "id": {
-                "modrinth": "sFQLq6Xy"
-            },
-            "subpath": "utility",
-            "aliases": [
-                "chunky-pregenerator"
-            ],
-            "files": [
+                    "size": 344004,
+                    "date_published": "2024-05-06T07:07:31.507Z"
+                },
                 {
                     "type": "modrinth",
-                    "file_name": "chunky-autopause-1.20.1-0.0.2.jar",
+                    "file_name": "Chunky-1.3.146.jar",
                     "mc_versions": [
-                        "1.20.1"
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
                     ],
                     "loaders": [
-                        "forge"
+                        "fabric"
                     ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/sFQLq6Xy/versions/Rl0BNZwV/chunky-autopause-1.20.1-0.0.2.jar",
-                    "id": "Rl0BNZwV",
-                    "parent_id": "sFQLq6Xy",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar",
+                    "id": "NHWYq9at",
+                    "parent_id": "fALzjamp",
                     "hashes": {
-                        "sha512": "bad9333fd0153ce2b0b827912926661a548063cf61ab9790be89d73a384cc8bc8d8d7c48db058dd3c66d6ef473c02f354097791e7a6af9d24e965715964c65ca",
-                        "sha1": "1247a17ea451d186f7e9c09110c239a02f6de016"
+                        "sha512": "9dbb82993302a8dfbe6ce1f46a051d72b5ada924424f4e23674ce660d209257584159a33248fa9247793e9ba03d3a117299ce1ff6685f06a7fb87c96504459aa",
+                        "sha1": "b5672d69dc2b210ab2165a27afc03a424fa2b46a"
                     },
                     "required_dependencies": [
-                        "fALzjamp"
                     ],
-                    "size": 11771,
-                    "date_published": "2024-06-07T00:32:40.684440Z"
+                    "size": 344004,
+                    "date_published": "2024-05-06T07:32:31.222951Z"
                 }
             ]
         },
@@ -2244,7 +2198,8 @@
             "pakku_id": "sQJFeRkdy9jZEgY2",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE",
-                "ke02KZkov2tSqSaO"
+                "Te5hCAHPZcfd7b2n",
+                "65diSd4HpEt9xe7J"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -8443,6 +8398,7 @@
             "id": {
                 "modrinth": "uy92ImJL"
             },
+            "subpath": "utility",
             "files": [
                 {
                     "type": "modrinth",
@@ -10374,49 +10330,6 @@
                     ],
                     "size": 432298,
                     "date_published": "2023-11-17T15:35:29.210Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "59t8qZOLWWO0kviF",
-            "pakku_links": [
-                "rJC6pRiL9CVhnAPE"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "villager-schedules"
-            },
-            "name": {
-                "modrinth": "Villager Schedules"
-            },
-            "id": {
-                "modrinth": "S5ZH1VsW"
-            },
-            "subpath": "debug",
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "VillagerSchedules-1.02.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/S5ZH1VsW/versions/7KixVfUR/VillagerSchedules-1.02.jar",
-                    "id": "7KixVfUR",
-                    "parent_id": "S5ZH1VsW",
-                    "hashes": {
-                        "sha512": "7acb06cbc102b2dc80ec2959cac1c4220a991f56135ed54fd6c39b8bea54ac8c2c6997c3cfca458b61cb855ec6d872c1d27aa422810da8122680a3c919343c97",
-                        "sha1": "a6728ffb55c39a0214777b2f28d836ad59b7f440"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 228678,
-                    "date_published": "2023-06-15T18:26:17.399981Z"
                 }
             ]
         },
