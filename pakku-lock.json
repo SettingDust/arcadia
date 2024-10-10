@@ -1169,7 +1169,6 @@
         {
             "pakku_id": "apCqIFBS1kNHurYY",
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
                 "curseforge": "bookshelf",
                 "modrinth": "bookshelf"
@@ -1182,6 +1181,7 @@
                 "curseforge": "228525",
                 "modrinth": "VUkUwfUG"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -1270,6 +1270,69 @@
                     ],
                     "size": 391752,
                     "date_published": "2024-03-30T15:27:18.309152Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QwuCK0gnHeHnGaVD",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "chunkumulator",
+                "modrinth": "chunkumulator"
+            },
+            "name": {
+                "curseforge": "Chunkumulator",
+                "modrinth": "Chunkumulator"
+            },
+            "id": {
+                "curseforge": "909640",
+                "modrinth": "NdXjQHpc"
+            },
+            "subpath": "optimization",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chunkumulator-1.0.3+MC1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4735/455/chunkumulator-1.0.3+MC1.20.1.jar",
+                    "id": "4735455",
+                    "parent_id": "909640",
+                    "hashes": {
+                        "sha1": "b99e11b277a13f55e73942c93107ed6289bdfcc3",
+                        "md5": "0837cf4700f73c68ac2cd156d7ad1886"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22528,
+                    "date_published": "2023-09-03T16:01:44.777Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "chunkumulator-1.0.3+MC1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NdXjQHpc/versions/fttPWJH2/chunkumulator-1.0.3+MC1.20.1.jar",
+                    "id": "fttPWJH2",
+                    "parent_id": "NdXjQHpc",
+                    "hashes": {
+                        "sha512": "7b889f2f9ad9fc448fea4a53ea962b0dd76919eccebf24c79d3eaf6132b9f1d9e11876d37dceb89782126a7be6addc8802f8c54a9324a3d60661d3b62c152e84",
+                        "sha1": "b99e11b277a13f55e73942c93107ed6289bdfcc3"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22528,
+                    "date_published": "2023-09-03T16:12:17.156909Z"
                 }
             ]
         },
@@ -1530,6 +1593,48 @@
                     ],
                     "size": 1181413,
                     "date_published": "2024-09-16T17:13:48.940Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "soCM9NolGF4s2a0H",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "slug": {
+                "modrinth": "cobaltmod"
+            },
+            "name": {
+                "modrinth": "Cobalt - Custom Chunk Renderer"
+            },
+            "id": {
+                "modrinth": "fBBol7qU"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "cobaltmod-1.5-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/fBBol7qU/versions/iuAOMdEB/cobaltmod-1.5-1.20.1.jar",
+                    "id": "iuAOMdEB",
+                    "parent_id": "fBBol7qU",
+                    "hashes": {
+                        "sha512": "8c728dacf6a90bc65eb60b663e0ffc7befaf5e1058e6a9ae698813527c820f9ba9869c7b7fc7f3f817df4666d50c9ab3be63877503075ddba68405c9d1f374a9",
+                        "sha1": "7cd0a81d3f62c75671be3a109cf2b5ce7e48c083"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 32797,
+                    "date_published": "2024-10-07T05:49:55.144819Z"
                 }
             ]
         },
@@ -2188,7 +2293,6 @@
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
                 "modrinth": "elo"
             },
@@ -2198,6 +2302,7 @@
             "id": {
                 "modrinth": "MKRCS0N2"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "modrinth",
@@ -3006,6 +3111,234 @@
                     ],
                     "size": 2915349,
                     "date_published": "2024-01-22T02:29:40.176044Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "T2E6xc4aashXDq7C",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fast-ip-ping",
+                "modrinth": "fast-ip-ping"
+            },
+            "name": {
+                "curseforge": "Fast IP Ping",
+                "modrinth": "Fast IP Ping"
+            },
+            "id": {
+                "curseforge": "904356",
+                "modrinth": "9mtu0sUO"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5746/970/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
+                    "id": "5746970",
+                    "parent_id": "904356",
+                    "hashes": {
+                        "sha1": "cba9a0f2b37706ae0486e74636049545580892fd",
+                        "md5": "4531ee0f3dec49c9d2e79cb00216aa67"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 10557,
+                    "date_published": "2024-09-22T17:36:01.897Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/lfk0K3KM/fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
+                    "id": "lfk0K3KM",
+                    "parent_id": "9mtu0sUO",
+                    "hashes": {
+                        "sha512": "1fc904dd25895fcf2c6fa75a1e42d88c1e082a1070e8a7d8559692cb5e538256686a128a84bf5326af9f92d84e478e2cfe6b6a53e055ac24631e8979aa7dedc8",
+                        "sha1": "cba9a0f2b37706ae0486e74636049545580892fd"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 10557,
+                    "date_published": "2024-09-22T17:36:02.937591Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4xe8A6qoNJxvWGrg",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fast-paintings",
+                "modrinth": "fast-paintings"
+            },
+            "name": {
+                "curseforge": "Fast Paintings",
+                "modrinth": "Fast Paintings"
+            },
+            "id": {
+                "curseforge": "883287",
+                "modrinth": "z3TzcquW"
+            },
+            "subpath": "optimization",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fastpaintings-1.20-1.2.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5324/825/fastpaintings-1.20-1.2.7.jar",
+                    "id": "5324825",
+                    "parent_id": "883287",
+                    "hashes": {
+                        "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+                        "md5": "d14882d3a9ddc95bb3b9dc1e53928e25"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 309400,
+                    "date_published": "2024-05-07T22:02:22.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fastpaintings-1.20-1.2.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/Bvjyyy1T/fastpaintings-1.20-1.2.7.jar",
+                    "id": "Bvjyyy1T",
+                    "parent_id": "z3TzcquW",
+                    "hashes": {
+                        "sha512": "917595dfe0834d765751ee7272ef212df3d5077a651483b285d4e252819f56db5628e174c22a419b9038c25aa36f85bf22964e862920d2835f77bbd9baa87168",
+                        "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 309400,
+                    "date_published": "2024-05-07T22:02:27.807525Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9kYAS26oQr738X5O",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "faster-random",
+                "modrinth": "faster-random"
+            },
+            "name": {
+                "curseforge": "Faster Random",
+                "modrinth": "Faster Random"
+            },
+            "id": {
+                "curseforge": "912121",
+                "modrinth": "RfFxanNh"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fasterrandom-5.1.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5559/269/fasterrandom-5.1.0.jar",
+                    "id": "5559269",
+                    "parent_id": "912121",
+                    "hashes": {
+                        "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73",
+                        "md5": "1223ed0fa413ed16f7d373e540789d37"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20697,
+                    "date_published": "2024-07-23T21:52:25.487Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fasterrandom-5.1.0.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar",
+                    "id": "BbFqiKvi",
+                    "parent_id": "RfFxanNh",
+                    "hashes": {
+                        "sha512": "af2d0825ec4e3521fd82b0a5fd5a3f04daf98e09b138d099407861c03a4e17546900befd791a7abe7cbe109c3045dee0646d02f1703b8e68bc37903d21c20acd",
+                        "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20697,
+                    "date_published": "2024-07-23T08:45:45.159601Z"
                 }
             ]
         },
@@ -6157,6 +6490,74 @@
             ]
         },
         {
+            "pakku_id": "gTqTATBTi2HEQVf6",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "slug": {
+                "modrinth": "universal-sawmill",
+                "curseforge": "sawmill"
+            },
+            "name": {
+                "modrinth": "Sawmill",
+                "curseforge": "Sawmill"
+            },
+            "id": {
+                "modrinth": "WRaRZdTd",
+                "curseforge": "964817"
+            },
+            "subpath": "content",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "sawmill-1.20-1.4.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WRaRZdTd/versions/t41Z8B1V/sawmill-1.20-1.4.3.jar",
+                    "id": "t41Z8B1V",
+                    "parent_id": "WRaRZdTd",
+                    "hashes": {
+                        "sha512": "b41aa792ada4d01dc2a38e16cea844022279e53462d7076bfdd257f971fcb112b0bc6c089adb3455da7ff9aa47541ec9412e5aac7107f6314a4eca55bd6ef0ea",
+                        "sha1": "dc0f804c9ac075db515c6717a05f49a0c2081aa5"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 573029,
+                    "date_published": "2024-06-27T00:14:19.454332Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "sawmill-1.20-1.4.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5477/977/sawmill-1.20-1.4.3.jar",
+                    "id": "5477977",
+                    "parent_id": "964817",
+                    "hashes": {
+                        "sha1": "dc0f804c9ac075db515c6717a05f49a0c2081aa5",
+                        "md5": "39966173a11dddb12fd7b6ce7698de1c"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 573029,
+                    "date_published": "2024-06-27T00:14:13.467Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5ojbW6hZA1y8CKEN",
             "pakku_links": [
                 "tJAqEPS0J9BkuAQc",
@@ -7173,7 +7574,6 @@
         {
             "pakku_id": "jHvSGjbebcnsNqsD",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "toadlib",
                 "modrinth": "toadlib"
@@ -7186,6 +7586,7 @@
                 "curseforge": "1105516",
                 "modrinth": "CYQ7VYrM"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -7246,7 +7647,6 @@
                 "xfsP5XmJpcrCuT6r"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "immersive-lanterns",
                 "modrinth": "immersive-lanterns"
@@ -7259,6 +7659,7 @@
                 "curseforge": "1116812",
                 "modrinth": "vskzdsyT"
             },
+            "subpath": "utility",
             "files": [
                 {
                     "type": "curseforge",
@@ -7895,7 +8296,6 @@
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
                 "modrinth": "zirconium"
             },
@@ -7905,6 +8305,7 @@
             "id": {
                 "modrinth": "4NKKYcVo"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "modrinth",

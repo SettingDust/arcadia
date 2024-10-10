@@ -408,6 +408,27 @@
         },
         "immersive-lanterns": {
             "subpath": "utility"
+        },
+        "cobaltmod": {
+            "subpath": "optimization.client"
+        },
+        "chunkumulator": {
+            "subpath": "optimization"
+        },
+        "optipainting": {
+            "subpath": "optimization.client"
+        },
+        "fast-paintings": {
+            "subpath": "optimization"
+        },
+        "sawmill": {
+            "subpath": "content"
+        },
+        "fast-ip-ping": {
+            "subpath": "optimization.client"
+        },
+        "faster-random": {
+            "subpath": "optimization"
         }
     }
 }
