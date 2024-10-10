@@ -5,196 +5,8 @@
         "config"
     ],
     "projects": {
-        "archers": {
+        "accessories": {
             "subpath": "content.rpg"
-        },
-        "azurelib-armor": {
-            "subpath": "0libs"
-        },
-        "better-combat": {
-            "subpath": "content.rpg"
-        },
-        "cloth-config": {
-            "subpath": "0libs.client"
-        },
-        "combat-roll": {
-            "subpath": "content.rpg"
-        },
-        "cyanide": {
-            "subpath": "debug"
-        },
-        "ebe": {
-            "subpath": "optimization.client"
-        },
-        "embeddium": {
-            "subpath": "optimization.client",
-            "aliases": [
-                "sodium"
-            ]
-        },
-        "fabric-language-kotlin": {
-            "subpath": "0libs"
-        },
-        "kotlin-for-forge": {
-            "subpath": "0libs"
-        },
-        "forgified-fabric-api": {
-            "subpath": "0libs",
-            "aliases": [
-                "fabric-api"
-            ]
-        },
-        "fullstack-watchdog": {
-            "subpath": "debug"
-        },
-        "gadget": {
-            "subpath": "debug"
-        },
-        "gazebos": {
-            "side": "BOTH",
-            "subpath": "worldgen.structures"
-        },
-        "jewelry": {
-            "subpath": "content.rpg"
-        },
-        "kinecraft-serialization": {
-            "subpath": "0libs"
-        },
-        "mixin-conflict-helper": {
-            "subpath": "debug"
-        },
-        "mixintrace": {
-            "subpath": "debug"
-        },
-        "more-profiling": {
-            "subpath": "debug"
-        },
-        "nsight-loader": {
-            "subpath": "debug"
-        },
-        "observable": {
-            "subpath": "debug"
-        },
-        "paladins-and-priests": {
-            "subpath": "content.rpg"
-        },
-        "playeranimator": {
-            "subpath": "0libs"
-        },
-        "ranged-weapon-api": {
-            "subpath": "0libs"
-        },
-        "rogues-and-warriors": {
-            "subpath": "content.rpg"
-        },
-        "runes": {
-            "subpath": "content.rpg"
-        },
-        "shield-api": {
-            "subpath": "0libs"
-        },
-        "spark": {
-            "subpath": "debug"
-        },
-        "spell-engine": {
-            "subpath": "content.rpg"
-        },
-        "spell-power": {
-            "subpath": "content.rpg"
-        },
-        "structure-pool-api": {
-            "side": "BOTH",
-            "subpath": "0libs"
-        },
-        "structure-void-toggle": {
-            "subpath": "debug"
-        },
-        "trinkets": {
-            "subpath": "content.rpg"
-        },
-        "wizards": {
-            "subpath": "content.rpg"
-        },
-        "worldgen-profiling": {
-            "subpath": "debug"
-        },
-        "yacl": {
-            "subpath": "0libs"
-        },
-        "sodium-extras": {
-            "subpath": "optimization.client"
-        },
-        "sodium-options-api": {
-            "subpath": "0libs.client"
-        },
-        "sodium-dynamic-lights": {
-            "subpath": "decoration.client"
-        },
-        "owo-lib": {
-            "subpath": "0libs"
-        },
-        "architectury": {
-            "subpath": "0libs"
-        },
-        "entitytexturefeatures": {
-            "subpath": "decoration.client"
-        },
-        "esf": {
-            "subpath": "decoration.client"
-        },
-        "entity-model-features": {
-            "subpath": "decoration.client"
-        },
-        "oculus": {
-            "subpath": "decoration.client"
-        },
-        "geckoanimfix": {
-            "subpath": "fix.client"
-        },
-        "bad-horse-fix": {
-            "subpath": "fix.client"
-        },
-        "better-fabric-console": {
-            "subpath": "tool"
-        },
-        "particle-core": {
-            "subpath": "optimization.client"
-        },
-        "cull-less-leaves-reforged": {
-            "subpath": "optimization.client"
-        },
-        "moreculling": {
-            "subpath": "optimization.client"
-        },
-        "morecullingextra": {
-            "subpath": "optimization.client"
-        },
-        "entityculling": {
-            "subpath": "optimization.client"
-        },
-        "better-modlist": {
-            "subpath": "decoration.client"
-        },
-        "fzzy-config": {
-            "subpath": "0libs"
-        },
-        "bedrodium": {
-            "subpath": "optimization.client"
-        },
-        "tmp": {
-            "subpath": "optimization.client"
-        },
-        "blinkload": {
-            "subpath": "optimization"
-        },
-        "immediatelyfast": {
-            "subpath": "optimization.client"
-        },
-        "modernfix": {
-            "subpath": "optimization"
-        },
-        "configured": {
-            "subpath": "tool"
         },
         "accessories-tc-layer": {
             "subpath": "content.rpg",
@@ -202,162 +14,66 @@
                 "trinkets"
             ]
         },
-        "accessories": {
-            "subpath": "content.rpg"
-        },
-        "item-highlighter": {
-            "subpath": "utility.client"
-        },
-        "legendary-tooltips": {
-            "subpath": "decoration.client"
-        },
-        "item-borders": {
-            "subpath": "decoration.client"
-        },
-        "equipment-compare": {
-            "subpath": "utility.client"
-        },
-        "merchant-markers": {
-            "subpath": "utility.client"
-        },
-        "prism-lib": {
-            "subpath": "0libs.client"
-        },
-        "iceberg": {
-            "subpath": "0libs"
-        },
         "advancement-plaques": {
             "side": "BOTH",
             "subpath": "decoration"
         },
-        "villager-schedules": {
-            "subpath": "debug"
+        "alternate-current": {
+            "subpath": "optimization"
         },
-        "villager-armor-layer": {
+        "amendments": {
+            "subpath": "mechanic"
+        },
+        "archers": {
+            "subpath": "content.rpg"
+        },
+        "architectury": {
+            "subpath": "0libs"
+        },
+        "azurelib-armor": {
+            "subpath": "0libs"
+        },
+        "bad-horse-fix": {
+            "subpath": "fix.client"
+        },
+        "badoptimizations": {
+            "subpath": "optimization.client"
+        },
+        "beans-backpacks": {
+            "subpath": "content"
+        },
+        "bedrodium": {
+            "subpath": "optimization.client"
+        },
+        "bendy-lib": {
+            "subpath": "0libs.client"
+        },
+        "better-combat": {
+            "subpath": "content.rpg"
+        },
+        "better-fabric-console": {
+            "subpath": "utility"
+        },
+        "better-mob-combat": {
+            "subpath": "0libs"
+        },
+        "better-modlist": {
             "subpath": "decoration.client"
         },
         "biome-tag-villagers": {
             "side": "BOTH",
             "subpath": "decoration"
         },
-        "libertyvillagers": {
-            "subpath": "mechanic"
-        },
-        "selfish-villager": {
-            "subpath": "mechanic"
-        },
-        "diagonal-walls": {
-            "subpath": "decoration"
-        },
-        "diagonal-windows": {
-            "subpath": "decoration"
-        },
-        "easy-anvils": {
-            "subpath": "utility"
-        },
-        "easy-magic": {
-            "subpath": "utility"
-        },
-        "visual-workbench": {
-            "subpath": "utility"
-        },
-        "puzzles-lib": {
-            "subpath": "0libs"
-        },
-        "pick-up-notifier": {
-            "subpath": "utility.client"
-        },
-        "distinguished-potions": {
-            "subpath": "utility.client"
-        },
-        "better-mob-combat": {
-            "subpath": "0libs"
-        },
-        "mob-player-animator": {
-            "subpath": "0libs"
-        },
-        "bendy-lib": {
-            "subpath": "0libs.client"
-        },
-        "cut-through": {
-            "subpath": "utility"
+        "blinkload": {
+            "subpath": "optimization"
         },
         "block-runner": {
             "subpath": "utility"
         },
-        "effect-descriptions": {
-            "subpath": "utility.client"
-        },
-        "stylish-effects": {
-            "subpath": "utility.client"
-        },
-        "enchantment-descriptions": {
-            "subpath": "utility.client"
-        },
-        "sneaky-curses": {
-            "subpath": "mechanic"
-        },
-        "dramatic-doors": {
-            "subpath": "decoration"
-        },
-        "moonlight": {
+        "bookshelf": {
             "subpath": "0libs"
         },
-        "mmmmmmmmmmmm": {
-            "subpath": "utility"
-        },
-        "amendments": {
-            "subpath": "mechanic"
-        },
-        "sleep-tight": {
-            "subpath": "mechanic"
-        },
-        "model-gap-fix": {
-            "subpath": "fix.client"
-        },
-        "every-compat": {
-            "subpath": "decoration"
-        },
-        "farmers-delight-refabricated": {
-            "subpath": "content"
-        },
-        "farmers-delight": {
-            "subpath": "content"
-        },
-        "supplementaries": {
-            "subpath": "mechanic"
-        },
-        "polytone": {
-            "subpath": "decoration.client"
-        },
-        "moremcmeta": {
-            "subpath": "decoration.client"
-        },
-        "moremcmeta-emissive": {
-            "subpath": "decoration.client"
-        },
-        "cit-resewn": {
-            "subpath": "decoration.client"
-        },
-        "alternate-current": {
-            "subpath": "optimization"
-        },
-        "radium": {
-            "subpath": "optimization"
-        },
-        "mpalladium": {
-            "subpath": "optimization"
-        },
-        "txnilib": {
-            "subpath": "0libs"
-        },
-        "ferrite-core": {
-            "subpath": "optimization"
-        },
-        "krypton": {
-            "subpath": "optimization"
-        },
-        "memoryleakfix": {
+        "chunkumulator": {
             "subpath": "optimization"
         },
         "chunky": {
@@ -366,66 +82,77 @@
                 "chunky-pregenerator"
             ]
         },
-        "chunky-border": {
-            "subpath": "utility"
-        },
         "chunky-autopause": {
             "subpath": "utility"
         },
-        "gputape": {
-            "subpath": "fix.client"
+        "chunky-border": {
+            "subpath": "utility"
         },
-        "noisium": {
-            "side": "BOTH",
-            "subpath": "optimization"
-        },
-        "rrls": {
-            "subpath": "utility.client"
-        },
-        "distant-horizons": {
+        "cit-resewn": {
             "subpath": "decoration.client"
         },
-        "starlight-forge": {
-            "subpath": "optimization"
-        },
-        "badoptimizations": {
-            "subpath": "optimization.client"
-        },
-        "elo": {
-            "subpath": "optimization"
-        },
-        "zirconium": {
-            "subpath": "optimization"
-        },
-        "bookshelf": {
-            "subpath": "0libs"
-        },
-        "toadlib": {
-            "subpath": "0libs"
-        },
-        "immersive-lanterns": {
-            "subpath": "utility"
+        "cloth-config": {
+            "subpath": "0libs.client"
         },
         "cobaltmod": {
             "subpath": "optimization.client"
         },
-        "chunkumulator": {
-            "subpath": "optimization"
+        "combat-roll": {
+            "subpath": "content.rpg"
         },
-        "optipainting": {
+        "configured": {
+            "subpath": "utility"
+        },
+        "continue": {
+            "subpath": "utility.client"
+        },
+        "cull-less-leaves-reforged": {
             "subpath": "optimization.client"
         },
-        "fast-paintings": {
-            "subpath": "optimization"
+        "cut-through": {
+            "subpath": "utility"
         },
-        "sawmill": {
-            "subpath": "content"
+        "cyanide": {
+            "subpath": "debug"
         },
-        "fast-ip-ping": {
+        "debugify": {
+            "subpath": "fix"
+        },
+        "diagonal-walls": {
+            "subpath": "decoration"
+        },
+        "diagonal-windows": {
+            "subpath": "decoration"
+        },
+        "distant-horizons": {
+            "subpath": "decoration.client"
+        },
+        "distinguished-potions": {
+            "subpath": "utility.client"
+        },
+        "dramatic-doors": {
+            "subpath": "decoration"
+        },
+        "easy-anvils": {
+            "subpath": "utility"
+        },
+        "easy-magic": {
+            "subpath": "utility"
+        },
+        "ebe": {
             "subpath": "optimization.client"
         },
-        "faster-random": {
+        "effect-descriptions": {
+            "subpath": "utility.client"
+        },
+        "elo": {
             "subpath": "optimization"
+        },
+        "embeddium": {
+            "subpath": "optimization.client",
+            "aliases": [
+                "sodium"
+            ]
         },
         "emi": {
             "subpath": "utility"
@@ -439,41 +166,329 @@
         "emitrades": {
             "subpath": "utility"
         },
-        "jei": {
-            "subpath": "utility"
-        },
-        "continue": {
+        "enchantment-descriptions": {
             "subpath": "utility.client"
         },
-        "flow": {
+        "entity-model-features": {
             "subpath": "decoration.client"
         },
-        "sound": {
+        "entityculling": {
+            "subpath": "optimization.client"
+        },
+        "entitytexturefeatures": {
+            "subpath": "decoration.client"
+        },
+        "equipment-compare": {
+            "subpath": "utility.client"
+        },
+        "esf": {
+            "subpath": "decoration.client"
+        },
+        "every-compat": {
+            "subpath": "decoration"
+        },
+        "fabric-language-kotlin": {
+            "subpath": "0libs"
+        },
+        "farmers-delight": {
+            "subpath": "content"
+        },
+        "farmers-delight-refabricated": {
+            "subpath": "content"
+        },
+        "fast-ip-ping": {
+            "subpath": "optimization.client"
+        },
+        "fast-paintings": {
+            "subpath": "optimization"
+        },
+        "fastboot": {
+            "subpath": "optimization"
+        },
+        "faster-random": {
+            "subpath": "optimization"
+        },
+        "ferrite-core": {
+            "subpath": "optimization"
+        },
+        "flow": {
             "subpath": "decoration.client"
         },
         "fog": {
             "subpath": "decoration.client"
         },
+        "forgified-fabric-api": {
+            "subpath": "0libs",
+            "aliases": [
+                "fabric-api"
+            ]
+        },
+        "fullstack-watchdog": {
+            "subpath": "debug"
+        },
+        "fzzy-config": {
+            "subpath": "0libs"
+        },
+        "gadget": {
+            "subpath": "debug"
+        },
+        "gazebos": {
+            "side": "BOTH",
+            "subpath": "worldgen.structures"
+        },
+        "geckoanimfix": {
+            "subpath": "fix.client"
+        },
+        "gputape": {
+            "subpath": "fix.client"
+        },
+        "iceberg": {
+            "subpath": "0libs"
+        },
+        "immediatelyfast": {
+            "subpath": "optimization.client"
+        },
+        "immersive-lanterns": {
+            "subpath": "utility"
+        },
+        "item-borders": {
+            "subpath": "decoration.client"
+        },
+        "item-highlighter": {
+            "subpath": "utility.client"
+        },
+        "jei": {
+            "subpath": "utility"
+        },
+        "jewelry": {
+            "subpath": "content.rpg"
+        },
+        "kinecraft-serialization": {
+            "subpath": "0libs"
+        },
+        "kotlin-for-forge": {
+            "subpath": "0libs"
+        },
+        "krypton": {
+            "subpath": "optimization"
+        },
+        "legendary-tooltips": {
+            "subpath": "decoration.client"
+        },
+        "libertyvillagers": {
+            "subpath": "mechanic"
+        },
+        "memoryleakfix": {
+            "subpath": "optimization"
+        },
+        "merchant-markers": {
+            "subpath": "utility.client"
+        },
+        "mixin-conflict-helper": {
+            "subpath": "debug"
+        },
+        "mixintrace": {
+            "subpath": "debug"
+        },
+        "mmmmmmmmmmmm": {
+            "subpath": "utility"
+        },
+        "mob-player-animator": {
+            "subpath": "0libs"
+        },
+        "model-gap-fix": {
+            "subpath": "fix.client"
+        },
+        "modernfix": {
+            "subpath": "optimization"
+        },
+        "moonlight": {
+            "subpath": "0libs"
+        },
+        "more-profiling": {
+            "subpath": "debug"
+        },
+        "moreculling": {
+            "subpath": "optimization.client"
+        },
+        "morecullingextra": {
+            "subpath": "optimization.client"
+        },
+        "moremcmeta": {
+            "subpath": "decoration.client"
+        },
+        "moremcmeta-emissive": {
+            "subpath": "decoration.client"
+        },
+        "mpalladium": {
+            "subpath": "optimization"
+        },
         "mru": {
             "subpath": "0libs"
         },
-        "pathunderfencegates": {
-            "subpath": "fix"
-        },
-        "fastboot": {
+        "noisium": {
+            "side": "BOTH",
             "subpath": "optimization"
-        },
-        "debugify": {
-            "subpath": "fix"
-        },
-        "beans-backpacks": {
-            "subpath": "content"
         },
         "notenoughrecipebook": {
             "subpath": "optimization"
         },
+        "nsight-loader": {
+            "subpath": "debug"
+        },
+        "observable": {
+            "subpath": "debug"
+        },
         "octo-lib": {
             "subpath": "0libs"
+        },
+        "oculus": {
+            "subpath": "decoration.client"
+        },
+        "optipainting": {
+            "subpath": "optimization.client"
+        },
+        "owo-lib": {
+            "subpath": "0libs"
+        },
+        "paladins-and-priests": {
+            "subpath": "content.rpg"
+        },
+        "particle-core": {
+            "subpath": "optimization.client"
+        },
+        "pathunderfencegates": {
+            "subpath": "fix"
+        },
+        "pick-up-notifier": {
+            "subpath": "utility.client"
+        },
+        "playeranimator": {
+            "subpath": "0libs"
+        },
+        "polytone": {
+            "subpath": "decoration.client"
+        },
+        "prism-lib": {
+            "subpath": "0libs.client"
+        },
+        "puzzles-lib": {
+            "subpath": "0libs"
+        },
+        "radium": {
+            "subpath": "optimization"
+        },
+        "ranged-weapon-api": {
+            "subpath": "0libs"
+        },
+        "rogues-and-warriors": {
+            "subpath": "content.rpg"
+        },
+        "rrls": {
+            "subpath": "utility.client"
+        },
+        "runes": {
+            "subpath": "content.rpg"
+        },
+        "sawmill": {
+            "subpath": "content"
+        },
+        "selfish-villager": {
+            "subpath": "mechanic"
+        },
+        "shield-api": {
+            "subpath": "0libs"
+        },
+        "sleep-tight": {
+            "subpath": "mechanic"
+        },
+        "sneaky-curses": {
+            "subpath": "mechanic"
+        },
+        "sodium-dynamic-lights": {
+            "subpath": "decoration.client"
+        },
+        "sodium-extras": {
+            "subpath": "optimization.client"
+        },
+        "sodium-options-api": {
+            "subpath": "0libs.client"
+        },
+        "sound": {
+            "subpath": "decoration.client"
+        },
+        "spark": {
+            "subpath": "debug"
+        },
+        "spell-engine": {
+            "subpath": "content.rpg"
+        },
+        "spell-power": {
+            "subpath": "content.rpg"
+        },
+        "starlight-forge": {
+            "subpath": "optimization"
+        },
+        "structure-pool-api": {
+            "side": "BOTH",
+            "subpath": "0libs"
+        },
+        "structure-void-toggle": {
+            "subpath": "debug"
+        },
+        "stylish-effects": {
+            "subpath": "utility.client"
+        },
+        "supplementaries": {
+            "subpath": "mechanic"
+        },
+        "tmp": {
+            "subpath": "optimization.client"
+        },
+        "toadlib": {
+            "subpath": "0libs"
+        },
+        "trinkets": {
+            "subpath": "content.rpg"
+        },
+        "txnilib": {
+            "subpath": "0libs"
+        },
+        "villager-armor-layer": {
+            "subpath": "decoration.client"
+        },
+        "villager-schedules": {
+            "subpath": "debug"
+        },
+        "visual-workbench": {
+            "subpath": "utility"
+        },
+        "wizards": {
+            "subpath": "content.rpg"
+        },
+        "worldgen-profiling": {
+            "subpath": "debug"
+        },
+        "yacl": {
+            "subpath": "0libs"
+        },
+        "zirconium": {
+            "subpath": "optimization"
+        },
+        "grass-overhaul": {
+            "subpath": "decoration"
+        },
+        "stormfest": {
+            "subpath": "decoration"
+        },
+        "purediscstrailstales": {
+            "subpath": "decoration"
+        },
+        "purediscstrickytrials": {
+            "subpath": "decoration"
+        },
+        "weaponmaster": {
+            "subpath": "decoration"
         }
     }
 }
