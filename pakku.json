@@ -323,6 +323,9 @@
         },
         "farmers-delight": {
             "subpath": "content"
+        },
+        "supplementaries": {
+            "subpath": "mechanic"
         }
     }
 }

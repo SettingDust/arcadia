@@ -2441,7 +2441,6 @@
         {
             "pakku_id": "I5Oaz2883phhHgNl",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "farmers-delight",
                 "modrinth": "farmers-delight"
@@ -2454,6 +2453,7 @@
                 "curseforge": "398521",
                 "modrinth": "R2OftAxM"
             },
+            "subpath": "content",
             "files": [
                 {
                     "type": "curseforge",
@@ -5852,6 +5852,76 @@
                     ],
                     "size": 127246,
                     "date_published": "2024-02-10T19:54:31.148527Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ac2ZRGDfzeXp05QT",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "supplementaries",
+                "modrinth": "supplementaries"
+            },
+            "name": {
+                "curseforge": "Supplementaries",
+                "modrinth": "Supplementaries"
+            },
+            "id": {
+                "curseforge": "412082",
+                "modrinth": "fFEIiSDQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "supplementaries-1.20-2.8.17.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5676/69/supplementaries-1.20-2.8.17.jar",
+                    "id": "5676069",
+                    "parent_id": "412082",
+                    "hashes": {
+                        "sha1": "b07b041e05693ebd7391015e0d8995aa6bc27e7e",
+                        "md5": "6bf283334d5c5e30384e2432a5155383"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 14531952,
+                    "date_published": "2024-08-30T01:41:00.570Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "supplementaries-1.20-2.8.17.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/eMF95dNK/supplementaries-1.20-2.8.17.jar",
+                    "id": "eMF95dNK",
+                    "parent_id": "fFEIiSDQ",
+                    "hashes": {
+                        "sha512": "92bc96f04afcf1dbadc72766a389d6be0a718c55d5ff22b73defae4e9408a27f27fd0708a417c3c70330bda9b16dee843af1ad7fcd70d7505dff3a26837b1728",
+                        "sha1": "b07b041e05693ebd7391015e0d8995aa6bc27e7e"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 14531952,
+                    "date_published": "2024-08-30T01:41:53.276147Z"
                 }
             ]
         },
