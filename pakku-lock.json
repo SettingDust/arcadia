@@ -29,31 +29,8 @@
             "subpath": "content.rpg",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5790/67/accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
-                    "id": "5790067",
-                    "parent_id": "938917",
-                    "hashes": {
-                        "sha1": "831f2fbe6c8ffe8529e3010dadc381186dd1f983",
-                        "md5": "e19dc1c3707f6cb6386ad21da2f8c443"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 1074728,
-                    "date_published": "2024-10-06T23:41:51.200Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
+                    "file_name": "accessories-neoforge-1.0.0-beta.41+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -62,18 +39,44 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/t7mBC14r/accessories-neoforge-1.0.0-beta.40+1.20.1.jar",
-                    "id": "t7mBC14r",
+                    "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/FvEv5xZ7/accessories-neoforge-1.0.0-beta.41+1.20.1.jar",
+                    "id": "FvEv5xZ7",
                     "parent_id": "jtmvUHXj",
                     "hashes": {
-                        "sha512": "ffceb04b907e1233969ba0e79782ef039d05c6d0e7fe4c0583119bb4287fdf15f484e00e9aa77353c9481687bb58e1a103ba415591b2bbfcb6d681342c3498f2",
-                        "sha1": "831f2fbe6c8ffe8529e3010dadc381186dd1f983"
+                        "sha512": "bc6b9b6277cf387b04895311bde6b480cc3042dda9e4f3c74802899a7f861bbc509604ec5e0aa04ec52443a54bfec0487e60a83792ff5b07ecd834b355a20d1a",
+                        "sha1": "e45d9a1612347d7c47dafa03544b2102e6ae2602"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 1074728,
-                    "date_published": "2024-10-06T23:38:10.145665Z"
+                    "size": 1077428,
+                    "date_published": "2024-10-10T00:10:26.002537Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "accessories-neoforge-1.0.0-beta.41+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5798/992/accessories-neoforge-1.0.0-beta.41+1.20.1.jar",
+                    "id": "5798992",
+                    "parent_id": "938917",
+                    "hashes": {
+                        "sha1": "e45d9a1612347d7c47dafa03544b2102e6ae2602",
+                        "md5": "9696b6de81c36f19958e6f0d44727a08"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "532610",
+                        "306612"
+                    ],
+                    "size": 1077428,
+                    "date_published": "2024-10-10T00:15:57.703Z"
                 }
             ]
         },
@@ -2441,7 +2444,6 @@
                 "rJC6pRiL9CVhnAPE"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "farmers-delight-refabricated",
                 "modrinth": "farmers-delight-refabricated"
@@ -2454,6 +2456,7 @@
                 "curseforge": "993166",
                 "modrinth": "7vxePowz"
             },
+            "subpath": "content",
             "files": [
                 {
                     "type": "curseforge",
@@ -3249,7 +3252,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "kinecraft-serialization-1.15.0-lexforge.jar",
+                    "file_name": "kinecraft-serialization-1.16.0-lexforge.jar",
                     "mc_versions": [
                         "1.19.4",
                         "1.20",
@@ -3259,18 +3262,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/epmEbmF0/versions/fkcEKnNH/kinecraft-serialization-1.15.0-lexforge.jar",
-                    "id": "fkcEKnNH",
+                    "url": "https://cdn.modrinth.com/data/epmEbmF0/versions/Z5gjlS6m/kinecraft-serialization-1.16.0-lexforge.jar",
+                    "id": "Z5gjlS6m",
                     "parent_id": "epmEbmF0",
                     "hashes": {
-                        "sha512": "e046ce94990fee658497ffd77287635cf9abe31aba0269b1758e290efbdf6a7a8bd4c9fc6cf6e841cbcbcf7cab8f78cd7ed385dc8ca77a136e38a7ebb87b8b84",
-                        "sha1": "1e9a49a1e221f82033ec46531c81e4c3b5e7f8c9"
+                        "sha512": "7de441e5f81443153e8a331ae966bf079984e9e4d372fd505459900435d9cc81540116c58a39bedfc37358a257bfcd8e5c389c04e39fb8232833e7de28b340cf",
+                        "sha1": "e9825db0e4909266d21132de8ce66c1afbd1692e"
                     },
                     "required_dependencies": [
                         "ordsPcFz"
                     ],
-                    "size": 291521,
-                    "date_published": "2024-10-04T15:06:15.071365Z"
+                    "size": 293861,
+                    "date_published": "2024-10-10T05:15:06.109747Z"
                 }
             ]
         },
@@ -3957,6 +3960,7 @@
         {
             "pakku_id": "5OuRsh1hTuTCAEoW",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "modelfix",
                 "curseforge": "model-gap-fix"
