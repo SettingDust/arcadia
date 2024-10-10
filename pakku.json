@@ -338,6 +338,9 @@
         },
         "cit-resewn": {
             "subpath": "decoration.client"
+        },
+        "alternate-current": {
+            "subpath": "optimization"
         }
     }
 }

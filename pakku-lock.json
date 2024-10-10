@@ -150,6 +150,77 @@
             ]
         },
         {
+            "pakku_id": "maZHenjRTvfmvqEI",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "alternate-current",
+                "modrinth": "alternate-current"
+            },
+            "name": {
+                "curseforge": "Alternate Current",
+                "modrinth": "Alternate Current"
+            },
+            "id": {
+                "curseforge": "548115",
+                "modrinth": "r0v8vy1s"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "alternate_current-mc1.20-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4721/662/alternate_current-mc1.20-1.7.0.jar",
+                    "id": "4721662",
+                    "parent_id": "548115",
+                    "hashes": {
+                        "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205",
+                        "md5": "43d4d8efddfa77a80aa7b1ae1a04ab48"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 36703,
+                    "date_published": "2023-08-25T14:54:29.603Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "alternate_current-mc1.20-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/kC6SY4Zp/alternate_current-mc1.20-1.7.0.jar",
+                    "id": "kC6SY4Zp",
+                    "parent_id": "r0v8vy1s",
+                    "hashes": {
+                        "sha512": "d9ae21a3a389c63466bf22b36d4a78c859f30c901397622f1f1438737901a2c67e4d911c83831e0d4f1edabf0b86b58f4192d9980ecef8278393fd4af64a9585",
+                        "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 36703,
+                    "date_published": "2023-08-25T14:51:43.305034Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EAddj8TfzPwebO6o",
             "pakku_links": [
                 "eZ0JlukYcEijO32Y"
@@ -1075,7 +1146,6 @@
         {
             "pakku_id": "Mzhm7WYUf3hMfwd7",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "cit-resewn",
                 "modrinth": "cit-resewn"
@@ -1088,6 +1158,7 @@
                 "curseforge": "521427",
                 "modrinth": "otVJckYQ"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -4288,7 +4359,6 @@
         {
             "pakku_id": "6FMZUvTOE9Ijylpk",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "moremcmeta",
                 "modrinth": "moremcmeta"
@@ -4301,6 +4371,7 @@
                 "curseforge": "442169",
                 "modrinth": "HFlxNpln"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -4354,7 +4425,6 @@
                 "6FMZUvTOE9Ijylpk"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "moremcmeta-emissive",
                 "curseforge": "moremcmeta-emissive-forge"
@@ -4367,6 +4437,7 @@
                 "modrinth": "oQ0dIGZg",
                 "curseforge": "880880"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "modrinth",
