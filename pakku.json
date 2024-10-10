@@ -489,6 +489,54 @@
         },
         "weaponmaster": {
             "subpath": "decoration"
+        },
+        "ambient-environment": {
+            "subpath": "decoration.client"
+        },
+        "bettergrassify": {
+            "subpath": "decoration.client"
+        },
+        "armortip": {
+            "subpath": "decoration.client"
+        },
+        "armor-trim-item-fix": {
+            "subpath": "decoration.client"
+        },
+        "better-clouds": {
+            "subpath": "decoration.client"
+        },
+        "bettersmithingtable": {
+            "subpath": "decoration.client"
+        },
+        "biome_particle_weather": {
+            "subpath": "decoration.client"
+        },
+        "particle-tweaks": {
+            "subpath": "decoration.client"
+        },
+        "blocky-bubbles": {
+            "subpath": "decoration.client"
+        },
+        "cameraoverhaul": {
+            "subpath": "decoration.client"
+        },
+        "cave-dust": {
+            "subpath": "decoration.client"
+        },
+        "chatanimation": {
+            "subpath": "decoration.client"
+        },
+        "clear-void": {
+            "subpath": "decoration.client"
+        },
+        "registry-blocker": {
+            "subpath": "utility"
+        },
+        "hocon-resource-loader": {
+            "subpath": "utility"
+        },
+        "data-dumper": {
+            "subpath": "utility"
         }
     }
 }
