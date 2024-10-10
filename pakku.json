@@ -305,6 +305,12 @@
         },
         "mmmmmmmmmmmm": {
             "subpath": "utility"
+        },
+        "amendments": {
+            "subpath": "mechanic"
+        },
+        "sleep-tight": {
+            "subpath": "mechanic"
         }
     }
 }
