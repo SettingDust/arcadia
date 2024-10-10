@@ -147,6 +147,74 @@
             ]
         },
         {
+            "pakku_id": "EAddj8TfzPwebO6o",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "amendments",
+                "modrinth": "amendments"
+            },
+            "name": {
+                "curseforge": "Amendments",
+                "modrinth": "Amendments"
+            },
+            "id": {
+                "curseforge": "896746",
+                "modrinth": "6iTJugQR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "amendments-1.20-1.2.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5697/384/amendments-1.20-1.2.11.jar",
+                    "id": "5697384",
+                    "parent_id": "896746",
+                    "hashes": {
+                        "sha1": "af9c75e2efea50786feeea783184946389582d2e",
+                        "md5": "b35006f5530cada50d968ed331f0464b"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 994495,
+                    "date_published": "2024-09-06T12:58:10.530Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "amendments-1.20-1.2.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/i0hLI4bR/amendments-1.20-1.2.11.jar",
+                    "id": "i0hLI4bR",
+                    "parent_id": "6iTJugQR",
+                    "hashes": {
+                        "sha512": "5a56d2d90667e4443c0cc6f179ef3cfb6e24491437776df257ca151bad693189ee47f7e20495a6f4c22d8412c65af674c658e8559b1eb545c4d4920baf0a10d7",
+                        "sha1": "af9c75e2efea50786feeea783184946389582d2e"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 994495,
+                    "date_published": "2024-09-06T12:58:18.111768Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8KWnUgneADyk9vHY",
             "pakku_links": [
                 "MHYpE9BWcnIYOxXa",
@@ -1585,7 +1653,6 @@
         {
             "pakku_id": "gbX2a9Vo2EsIsFFD",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "dramatic-doors",
                 "modrinth": "dramatic-doors"
@@ -1598,6 +1665,7 @@
                 "curseforge": "380617",
                 "modrinth": "aQ7h7gal"
             },
+            "subpath": "decoration",
             "files": [
                 {
                     "type": "curseforge",
@@ -3517,6 +3585,74 @@
             ]
         },
         {
+            "pakku_id": "zzCnRuA7BIGNEDll",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "mmmmmmmmmmmm",
+                "modrinth": "mmmmmmmmmmmm"
+            },
+            "name": {
+                "curseforge": "MmmMmmMmmMmm (Target Dummy)",
+                "modrinth": "MmmMmmMmmMmm"
+            },
+            "id": {
+                "curseforge": "225738",
+                "modrinth": "Adega8YN"
+            },
+            "subpath": "utility",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dummmmmmy-1.20-2.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5737/40/dummmmmmy-1.20-2.0.2.jar",
+                    "id": "5737040",
+                    "parent_id": "225738",
+                    "hashes": {
+                        "sha1": "c3418da11a2679fb1900aa3fc93342c6f1a5ea02",
+                        "md5": "5ed70d08eae8d82ea46de8384c48d170"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 360106,
+                    "date_published": "2024-09-19T13:22:43.320Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dummmmmmy-1.20-2.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Adega8YN/versions/NRqFuyt1/dummmmmmy-1.20-2.0.2.jar",
+                    "id": "NRqFuyt1",
+                    "parent_id": "Adega8YN",
+                    "hashes": {
+                        "sha512": "67270a6b60e499c6b166f1fbed71ccf56b913c9497a8c5629a5d1796777fe380a317a6d32f3270b51b1573ad755e495d29c37273998e8326483890d5c0c89fa9",
+                        "sha1": "c3418da11a2679fb1900aa3fc93342c6f1a5ea02"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 360106,
+                    "date_published": "2024-09-19T13:22:48.246704Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "s13WO1hhULkOdgjA",
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
@@ -3740,6 +3876,71 @@
                     ],
                     "size": 778504,
                     "date_published": "2024-08-30T01:03:20.951941Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eZ0JlukYcEijO32Y",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "selene",
+                "modrinth": "moonlight"
+            },
+            "name": {
+                "curseforge": "Moonlight Lib",
+                "modrinth": "Moonlight Lib"
+            },
+            "id": {
+                "curseforge": "499980",
+                "modrinth": "twkfQtEc"
+            },
+            "subpath": "0libs",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moonlight-1.20-2.13.7-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5798/366/moonlight-1.20-2.13.7-forge.jar",
+                    "id": "5798366",
+                    "parent_id": "499980",
+                    "hashes": {
+                        "sha1": "7c96b65005f7614f4a2fb0725c1d699778cda1fc",
+                        "md5": "90939b504ccc21bd71adf8862d2e369b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1185264,
+                    "date_published": "2024-10-09T19:43:47.717Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "moonlight-1.20-2.13.7-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/v3YSYkLe/moonlight-1.20-2.13.7-forge.jar",
+                    "id": "v3YSYkLe",
+                    "parent_id": "twkfQtEc",
+                    "hashes": {
+                        "sha512": "55cd1f052893676bda4517c279b2e90a43d406a82c63beed9b2dc88def2c4f2a332d637411f2009fcafe4abb81b858e70452fe5e5842c3ed3992fcf44b8d0e8a",
+                        "sha1": "7c96b65005f7614f4a2fb0725c1d699778cda1fc"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1185264,
+                    "date_published": "2024-10-09T19:43:54.758391Z"
                 }
             ]
         },
@@ -4757,6 +4958,76 @@
                     ],
                     "size": 5043384,
                     "date_published": "2024-09-27T11:10:59.270Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "iwaH7trCb5B8A5nP",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sleep-tight",
+                "modrinth": "sleep-tight"
+            },
+            "name": {
+                "curseforge": "Sleep Tight",
+                "modrinth": "Sleep Tight"
+            },
+            "id": {
+                "curseforge": "817564",
+                "modrinth": "tNai0h2Y"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sleep_tight-1.20-1.1.19.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5085/863/sleep_tight-1.20-1.1.19.jar",
+                    "id": "5085863",
+                    "parent_id": "817564",
+                    "hashes": {
+                        "sha1": "7080c6452bb7f3332e6f973d6ef75c456741b0b7",
+                        "md5": "2502dfd16eaacaa5eb87b82a877a6108"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 735748,
+                    "date_published": "2024-02-06T23:11:33.187Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sleep_tight-1.20-1.1.19.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tNai0h2Y/versions/iBTTQBfH/sleep_tight-1.20-1.1.19.jar",
+                    "id": "iBTTQBfH",
+                    "parent_id": "tNai0h2Y",
+                    "hashes": {
+                        "sha512": "b14b7f16c7d9bc4183e0781f4ded1913c285a3230d835e2654ed88731095aa32030c16462d040533e13450f25d97e80aa9c8f205e7f4204511415ef6024db2ea",
+                        "sha1": "7080c6452bb7f3332e6f973d6ef75c456741b0b7"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 735748,
+                    "date_published": "2024-02-06T23:11:44.141932Z"
                 }
             ]
         },

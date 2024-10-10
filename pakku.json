@@ -299,6 +299,12 @@
         },
         "dramatic-doors": {
             "subpath": "decoration"
+        },
+        "moonlight": {
+            "subpath": "0libs"
+        },
+        "mmmmmmmmmmmm": {
+            "subpath": "utility"
         }
     }
 }
