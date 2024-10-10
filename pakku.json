@@ -540,6 +540,132 @@
         },
         "leawind-third-person": {
             "subpath": "decoration.client"
+        },
+        "continuity": {
+            "subpath": "decoration.client"
+        },
+        "customskinloader": {
+            "subpath": "decoration.client"
+        },
+        "damagevignette": {
+            "subpath": "decoration.client"
+        },
+        "dyed": {
+            "subpath": "decoration.client"
+        },
+        "dynamiccrosshair": {
+            "subpath": "decoration.client"
+        },
+        "dynamiccrosshaircompat": {
+            "subpath": "decoration.client"
+        },
+        "presence-footsteps": {
+            "subpath": "decoration.client"
+        },
+        "dynamic-textures": {
+            "subpath": "decoration.client"
+        },
+        "dynamic-trim": {
+            "subpath": "decoration.client"
+        },
+        "eating-animation": {
+            "subpath": "decoration.client"
+        },
+        "edgeless-chat-screen": {
+            "subpath": "decoration.client"
+        },
+        "explosive-enhancement": {
+            "subpath": "decoration.client"
+        },
+        "fabricskyboxes": {
+            "subpath": "decoration.client"
+        },
+        "fabricskyboxes-interop": {
+            "subpath": "decoration.client"
+        },
+        "faded-widgets": {
+            "subpath": "decoration.client"
+        },
+        "fallingleaves": {
+            "subpath": "decoration.client"
+        },
+        "first-person-model": {
+            "subpath": "decoration.client"
+        },
+        "not-enough-animations": {
+            "subpath": "decoration.client"
+        },
+        "3dskinlayers": {
+            "subpath": "decoration.client"
+        },
+        "fluidvoidfading": {
+            "subpath": "decoration.client"
+        },
+        "fusion-connected-textures": {
+            "subpath": "decoration.client"
+        },
+        "immersivethunder": {
+            "subpath": "decoration.client"
+        },
+        "sound-physics-remastered": {
+            "subpath": "decoration.client"
+        },
+        "infinite-music": {
+            "subpath": "decoration.client"
+        },
+        "itemphysic": {
+            "subpath": "decoration"
+        },
+        "list-entry-highlight-fix": {
+            "subpath": "decoration.client"
+        },
+        "seamless": {
+            "subpath": "decoration.client"
+        },
+        "seamless-loading-screen": {
+            "subpath": "decoration.client"
+        },
+        "talkbubbles": {
+            "subpath": "decoration.client"
+        },
+        "immersive-winds": {
+            "subpath": "decoration.client"
+        },
+        "tips": {
+            "subpath": "decoration.client"
+        },
+        "transparent": {
+            "subpath": "decoration.client"
+        },
+        "travelers-titles": {
+            "subpath": "decoration.client"
+        },
+        "ukus-armor-hud": {
+            "subpath": "decoration.client"
+        },
+        "visuality": {
+            "subpath": "decoration.client"
+        },
+        "bookshelf-lib": {
+            "subpath": "0libs"
+        },
+        "euphoria-patches": {
+            "subpath": "decoration.client"
+        },
+        "ash-api": {
+            "subpath": "0libs"
+        },
+        "ukulib": {
+            "subpath": "0libs"
+        },
+        "particle-rain": {
+            "subpath": "decoration.client"
+        },
+        "creativecore": {
+            "subpath": "0libs"
+        },
+        "yungs-api": {
+            "subpath": "0libs"
         }
     }
 }
