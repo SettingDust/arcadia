@@ -326,6 +326,18 @@
         },
         "supplementaries": {
             "subpath": "mechanic"
+        },
+        "polytone": {
+            "subpath": "decoration.client"
+        },
+        "moremcmeta": {
+            "subpath": "decoration.client"
+        },
+        "moremcmeta-emissive": {
+            "subpath": "decoration.client"
+        },
+        "cit-resewn": {
+            "subpath": "decoration.client"
         }
     }
 }

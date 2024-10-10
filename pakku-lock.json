@@ -1073,6 +1073,71 @@
             ]
         },
         {
+            "pakku_id": "Mzhm7WYUf3hMfwd7",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "cit-resewn",
+                "modrinth": "cit-resewn"
+            },
+            "name": {
+                "curseforge": "CIT Resewn",
+                "modrinth": "CIT Resewn"
+            },
+            "id": {
+                "curseforge": "521427",
+                "modrinth": "otVJckYQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "citresewn-1.1.5+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5222/582/citresewn-1.1.5+1.20.1.jar",
+                    "id": "5222582",
+                    "parent_id": "521427",
+                    "hashes": {
+                        "sha1": "80d5b5b7bd73a1af7e3ea2c3a770efd7043d399e",
+                        "md5": "d0d036a2aeff226687f369269524653d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 391752,
+                    "date_published": "2024-03-30T15:27:13.327Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "citresewn-1.1.5+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/otVJckYQ/versions/8uQeAHwk/citresewn-1.1.5+1.20.1.jar",
+                    "id": "8uQeAHwk",
+                    "parent_id": "otVJckYQ",
+                    "hashes": {
+                        "sha512": "594af26a66dd2ef0bfc118b74485ed8717a5a1a0af4a40e63b77e5740a59595d0863a9b7db390c172da39623266f97716f29db41a8c9c52e5ff3ba8739f6ad26",
+                        "sha1": "80d5b5b7bd73a1af7e3ea2c3a770efd7043d399e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 391752,
+                    "date_published": "2024-03-30T15:27:18.309152Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZjVRXkiYqcOO3dUX",
             "type": "MOD",
             "slug": {
@@ -4221,6 +4286,137 @@
             ]
         },
         {
+            "pakku_id": "6FMZUvTOE9Ijylpk",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "moremcmeta",
+                "modrinth": "moremcmeta"
+            },
+            "name": {
+                "curseforge": "MoreMcmeta (Forge)",
+                "modrinth": "MoreMcmeta"
+            },
+            "id": {
+                "curseforge": "442169",
+                "modrinth": "HFlxNpln"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moremcmeta-1.20.1-4.4.7-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5066/777/moremcmeta-1.20.1-4.4.7-forge.jar",
+                    "id": "5066777",
+                    "parent_id": "442169",
+                    "hashes": {
+                        "sha1": "7049f7f160d9c1890281b7e71de83ebed3e31de8",
+                        "md5": "9c933c3ab72d2bbdedd41249991ce0e2"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 543713,
+                    "date_published": "2024-01-29T07:12:14.367Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "moremcmeta-1.20.1-4.4.7-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HFlxNpln/versions/jukFnzSE/moremcmeta-1.20.1-4.4.7-forge.jar",
+                    "id": "jukFnzSE",
+                    "parent_id": "HFlxNpln",
+                    "hashes": {
+                        "sha512": "95edc7eafa9f32591bc665ee6425ad7938bab596cc14931604cb22e80e2b6d8943244ec385c6cd75be359513f82d91caf1793f40338e8618fa9c0122dd512aa2",
+                        "sha1": "7049f7f160d9c1890281b7e71de83ebed3e31de8"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 543713,
+                    "date_published": "2024-01-29T07:12:18.556825Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GKCfohiPXdJjTWRQ",
+            "pakku_links": [
+                "6FMZUvTOE9Ijylpk"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "moremcmeta-emissive",
+                "curseforge": "moremcmeta-emissive-forge"
+            },
+            "name": {
+                "modrinth": "MoreMcmeta Emissive Textures",
+                "curseforge": "MoreMcmeta Emissive Textures (Forge)"
+            },
+            "id": {
+                "modrinth": "oQ0dIGZg",
+                "curseforge": "880880"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "emissive-plugin-1.20.1-2.0.4-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/oQ0dIGZg/versions/rkJ3fswP/emissive-plugin-1.20.1-2.0.4-forge.jar",
+                    "id": "rkJ3fswP",
+                    "parent_id": "oQ0dIGZg",
+                    "hashes": {
+                        "sha512": "1282ae1aad8000fd0976a984786022c452d43d9a173928e80bb91baf9c5125fac75330c813a1e9df33b560597887f9ede6af0e6c97e8f788e5f46f009879f8f2",
+                        "sha1": "3e8b0ff63e1fe62caed7fb6dfa86011a5f931fcc"
+                    },
+                    "required_dependencies": [
+                        "HFlxNpln"
+                    ],
+                    "size": 102164,
+                    "date_published": "2023-11-25T05:31:30.775870Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emissive-plugin-1.20.1-2.0.4-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4898/803/emissive-plugin-1.20.1-2.0.4-forge.jar",
+                    "id": "4898803",
+                    "parent_id": "880880",
+                    "hashes": {
+                        "sha1": "3e8b0ff63e1fe62caed7fb6dfa86011a5f931fcc",
+                        "md5": "6f1e35ebd7e1bd5218316598a2ce8ed2"
+                    },
+                    "required_dependencies": [
+                        "442169"
+                    ],
+                    "size": 102164,
+                    "date_published": "2023-11-25T05:31:26.873Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "3vQw673d4YJ4Tagk",
             "type": "MOD",
             "slug": {
@@ -4633,6 +4829,70 @@
                     ],
                     "size": 102164,
                     "date_published": "2023-06-28T09:12:00.519122Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OYjGDSqb5q6iu2iH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "polytone",
+                "modrinth": "polytone"
+            },
+            "name": {
+                "curseforge": "Polytone",
+                "modrinth": "Polytone"
+            },
+            "id": {
+                "curseforge": "958094",
+                "modrinth": "3qAYkBMB"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "polytone-1.20-2.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5615/613/polytone-1.20-2.3.1.jar",
+                    "id": "5615613",
+                    "parent_id": "958094",
+                    "hashes": {
+                        "sha1": "0bf7fc8005c62dffff659fee4ba74ebe8ca08999",
+                        "md5": "4f43cb363a64702a2ff4a38c7900a4dd"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 922675,
+                    "date_published": "2024-08-10T16:52:47.420Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "polytone-1.20-2.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/7MdXV8P5/polytone-1.20-2.3.3.jar",
+                    "id": "7MdXV8P5",
+                    "parent_id": "3qAYkBMB",
+                    "hashes": {
+                        "sha512": "71260ea184b517020b1533fa05f56caad8db5cfcae4faddfde6917c2bbbe48632a3c46514fcf0a6b9d9424e9510be76b511ecb36de8c5bfcdcacf9fd18d546db",
+                        "sha1": "d1a09e25536e7b10b8aa58ce3923787337781603"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 934823,
+                    "date_published": "2024-10-07T14:29:13.085253Z"
                 }
             ]
         },
@@ -5861,7 +6121,6 @@
                 "eZ0JlukYcEijO32Y"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "supplementaries",
                 "modrinth": "supplementaries"
@@ -5874,6 +6133,7 @@
                 "curseforge": "412082",
                 "modrinth": "fFEIiSDQ"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "curseforge",
