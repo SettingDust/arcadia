@@ -15,7 +15,7 @@
             "subpath": "content.rpg"
         },
         "cloth-config": {
-            "subpath": "0libs"
+            "subpath": "0libs.client"
         },
         "combat-roll": {
             "subpath": "content.rpg"
@@ -125,7 +125,7 @@
             "subpath": "optimization.client"
         },
         "sodium-options-api": {
-            "subpath": "0libs"
+            "subpath": "0libs.client"
         },
         "sodium-dynamic-lights": {
             "subpath": "decoration.client"
@@ -206,7 +206,7 @@
             "subpath": "content.rpg"
         },
         "item-highlighter": {
-            "subpath": "decoration.client"
+            "subpath": "utility.client"
         },
         "legendary-tooltips": {
             "subpath": "decoration.client"
@@ -215,13 +215,13 @@
             "subpath": "decoration.client"
         },
         "equipment-compare": {
-            "subpath": "decoration.client"
+            "subpath": "utility.client"
         },
         "merchant-markers": {
-            "subpath": "decoration.client"
+            "subpath": "utility.client"
         },
         "prism-lib": {
-            "subpath": "0libs"
+            "subpath": "0libs.client"
         },
         "iceberg": {
             "subpath": "0libs"
@@ -251,6 +251,24 @@
         },
         "diagonal-windows": {
             "subpath": "decoration"
+        },
+        "easy-anvils": {
+            "subpath": "utility"
+        },
+        "easy-magic": {
+            "subpath": "utility"
+        },
+        "visual-workbench": {
+            "subpath": "utility"
+        },
+        "puzzles-lib": {
+            "subpath": "0libs"
+        },
+        "pick-up-notifier": {
+            "subpath": "utility.client"
+        },
+        "distinguished-potions": {
+            "subpath": "utility.client"
         }
     }
 }
