@@ -320,6 +320,9 @@
         },
         "farmers-delight-refabricated": {
             "subpath": "content"
+        },
+        "farmers-delight": {
+            "subpath": "content"
         }
     }
 }

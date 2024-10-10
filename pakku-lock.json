@@ -2439,72 +2439,66 @@
             ]
         },
         {
-            "pakku_id": "5rZXlDalhpKmpxKt",
-            "pakku_links": [
-                "rJC6pRiL9CVhnAPE"
-            ],
+            "pakku_id": "I5Oaz2883phhHgNl",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "farmers-delight-refabricated",
-                "modrinth": "farmers-delight-refabricated"
+                "curseforge": "farmers-delight",
+                "modrinth": "farmers-delight"
             },
             "name": {
-                "curseforge": "Farmer's Delight Refabricated",
-                "modrinth": "Farmer's Delight Refabricated"
+                "curseforge": "Farmer's Delight",
+                "modrinth": "Farmer's Delight"
             },
             "id": {
-                "curseforge": "993166",
-                "modrinth": "7vxePowz"
+                "curseforge": "398521",
+                "modrinth": "R2OftAxM"
             },
-            "subpath": "content",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "file_name": "FarmersDelight-1.20.1-1.2.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "neoforge",
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5684/645/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
-                    "id": "5684645",
-                    "parent_id": "993166",
+                    "url": "https://edge.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar",
+                    "id": "5051242",
+                    "parent_id": "398521",
                     "hashes": {
-                        "sha1": "40283a0674b58fc42c06bbed3bd41473db07ef35",
-                        "md5": "a6b0cf6e1b8bf0ea0d48c3bdf7f9bea4"
+                        "sha1": "71daa55fd88b6f181c51ec6892600415df591f64",
+                        "md5": "5b6bee961b278a3edd6e3935b061fbaa"
                     },
                     "required_dependencies": [
-                        "306612"
                     ],
-                    "size": 6176978,
-                    "date_published": "2024-09-01T21:11:47.157Z"
+                    "size": 2915349,
+                    "date_published": "2024-01-22T02:07:09.560Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "file_name": "FarmersDelight-1.20.1-1.2.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/NoioB3or/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
-                    "id": "NoioB3or",
-                    "parent_id": "7vxePowz",
+                    "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/AxgOboGq/FarmersDelight-1.20.1-1.2.4.jar",
+                    "id": "AxgOboGq",
+                    "parent_id": "R2OftAxM",
                     "hashes": {
-                        "sha512": "afe960441c735d18f6ccb5a8678b1beb6d37032c89b13a1e7c9b627ba6cde9161b4e51876a73d9972e65c0ca417595e51353e4549b73ebc512fc5da81c2a856a",
-                        "sha1": "40283a0674b58fc42c06bbed3bd41473db07ef35"
+                        "sha512": "bd025d539511beddd6826896604d2aae17b035fd7ae03c4ae659be3df802f4190b91f935b32a07a69842ad98f79bfbdcc3ef6d0e1e540b35989a806c655b4168",
+                        "sha1": "71daa55fd88b6f181c51ec6892600415df591f64"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
                     ],
-                    "size": 6176978,
-                    "date_published": "2024-09-01T21:11:59.808542Z"
+                    "size": 2915349,
+                    "date_published": "2024-01-22T02:29:40.176044Z"
                 }
             ]
         },
@@ -3960,7 +3954,6 @@
         {
             "pakku_id": "5OuRsh1hTuTCAEoW",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "modelfix",
                 "curseforge": "model-gap-fix"
