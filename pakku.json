@@ -293,6 +293,9 @@
         },
         "enchantment-descriptions": {
             "subpath": "utility.client"
+        },
+        "sneaky-curses": {
+            "subpath": "mechanic"
         }
     }
 }
