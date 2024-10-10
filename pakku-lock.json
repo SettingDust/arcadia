@@ -2272,7 +2272,6 @@
                 "eZ0JlukYcEijO32Y"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "every-compat",
                 "modrinth": "every-compat"
@@ -2285,6 +2284,7 @@
                 "curseforge": "628539",
                 "modrinth": "eiktJyw1"
             },
+            "subpath": "decoration",
             "files": [
                 {
                     "type": "curseforge",
@@ -2432,6 +2432,76 @@
                     ],
                     "size": 7136729,
                     "date_published": "2024-09-18T09:52:49.170Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5rZXlDalhpKmpxKt",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "farmers-delight-refabricated",
+                "modrinth": "farmers-delight-refabricated"
+            },
+            "name": {
+                "curseforge": "Farmer's Delight Refabricated",
+                "modrinth": "Farmer's Delight Refabricated"
+            },
+            "id": {
+                "curseforge": "993166",
+                "modrinth": "7vxePowz"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5684/645/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "id": "5684645",
+                    "parent_id": "993166",
+                    "hashes": {
+                        "sha1": "40283a0674b58fc42c06bbed3bd41473db07ef35",
+                        "md5": "a6b0cf6e1b8bf0ea0d48c3bdf7f9bea4"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 6176978,
+                    "date_published": "2024-09-01T21:11:47.157Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7vxePowz/versions/NoioB3or/FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+                    "id": "NoioB3or",
+                    "parent_id": "7vxePowz",
+                    "hashes": {
+                        "sha512": "afe960441c735d18f6ccb5a8678b1beb6d37032c89b13a1e7c9b627ba6cde9161b4e51876a73d9972e65c0ca417595e51353e4549b73ebc512fc5da81c2a856a",
+                        "sha1": "40283a0674b58fc42c06bbed3bd41473db07ef35"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 6176978,
+                    "date_published": "2024-09-01T21:11:59.808542Z"
                 }
             ]
         },

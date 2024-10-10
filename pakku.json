@@ -317,6 +317,9 @@
         },
         "every-compat": {
             "subpath": "decoration"
+        },
+        "farmers-delight-refabricated": {
+            "subpath": "content"
         }
     }
 }
