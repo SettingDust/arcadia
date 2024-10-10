@@ -374,6 +374,40 @@
         },
         "starlight": {
             "subpath": "optimization"
+        },
+        "gputape": {
+            "subpath": "fix.client"
+        },
+        "noisium": {
+            "side": "BOTH",
+            "subpath": "optimization"
+        },
+        "rrls": {
+            "subpath": "utility.client"
+        },
+        "distant-horizons": {
+            "subpath": "decoration.client"
+        },
+        "starlight-forge": {
+            "subpath": "optimization"
+        },
+        "badoptimizations": {
+            "subpath": "optimization.client"
+        },
+        "elo": {
+            "subpath": "optimization"
+        },
+        "zirconium": {
+            "subpath": "optimization"
+        },
+        "bookshelf": {
+            "subpath": "0libs"
+        },
+        "toadlib": {
+            "subpath": "0libs"
+        },
+        "immersive-lanterns": {
+            "subpath": "utility"
         }
     }
 }

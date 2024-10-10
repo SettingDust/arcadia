@@ -578,6 +578,71 @@
             ]
         },
         {
+            "pakku_id": "KTCqj0HwJ6umOePq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "badoptimizations",
+                "modrinth": "badoptimizations"
+            },
+            "name": {
+                "curseforge": "BadOptimizations",
+                "modrinth": "BadOptimizations"
+            },
+            "id": {
+                "curseforge": "949555",
+                "modrinth": "g96Z4WVZ"
+            },
+            "subpath": "optimization.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BadOptimizations-2.1.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5430/253/BadOptimizations-2.1.4-1.20.1.jar",
+                    "id": "5430253",
+                    "parent_id": "949555",
+                    "hashes": {
+                        "sha1": "29c7689d1c4645a902115e1faa4991c47007b7a5",
+                        "md5": "c7e3addc09f7870805d3db35525a587f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 421754,
+                    "date_published": "2024-06-15T06:00:49.520Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BadOptimizations-2.1.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/GydKiUd0/BadOptimizations-2.1.4-1.20.1.jar",
+                    "id": "GydKiUd0",
+                    "parent_id": "g96Z4WVZ",
+                    "hashes": {
+                        "sha512": "a68968e8fab27202f0d2737357511e27282967ced27732cc90d6beaff64cb99359448b7de3e24cdef4e564ecb99ed061ac1e336e07d8ab4771db47bec7c5da45",
+                        "sha1": "29c7689d1c4645a902115e1faa4991c47007b7a5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 421754,
+                    "date_published": "2024-06-15T06:00:50.191020Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tBS61EBeUjvqnTYT",
             "pakku_links": [
                 "Mh3lyIsrv17X2X33"
@@ -1916,6 +1981,71 @@
             ]
         },
         {
+            "pakku_id": "nopY7sPziBhzRjPJ",
+            "type": "MOD",
+            "slug": {
+                "modrinth": "distanthorizons",
+                "curseforge": "distant-horizons"
+            },
+            "name": {
+                "modrinth": "Distant Horizons",
+                "curseforge": "Distant Horizons: A Level of Detail mod"
+            },
+            "id": {
+                "modrinth": "uCdwusMi",
+                "curseforge": "508933"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+                    "id": "20nF6i21",
+                    "parent_id": "uCdwusMi",
+                    "hashes": {
+                        "sha512": "a5059a249283f686bc49bc4c2606fce7b665102983f396996f47c11245fee21059554db5f9bdf63fa41ec954282a9ee3646ea42997f37bedb0af8b14944704f4",
+                        "sha1": "95b8fe605ada8c3f24ea62d45d1fdb065bd81329"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 16521385,
+                    "date_published": "2024-09-03T12:36:00.458663Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5689/279/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+                    "id": "5689279",
+                    "parent_id": "508933",
+                    "hashes": {
+                        "sha1": "95b8fe605ada8c3f24ea62d45d1fdb065bd81329",
+                        "md5": "54dad6f74516f0cc4c92bd6f652ac8b0"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 16521385,
+                    "date_published": "2024-09-03T12:22:17.363Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "D4GpasaYiaRpmoXT",
             "pakku_links": [
                 "vnSjEECkm0HFWsbl"
@@ -2049,6 +2179,53 @@
                     ],
                     "size": 12765792,
                     "date_published": "2024-09-29T19:24:12.516031Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nFroWAjBoqLsLhT3",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "elo"
+            },
+            "name": {
+                "modrinth": "ELO - EntityLOD Optimizer"
+            },
+            "id": {
+                "modrinth": "MKRCS0N2"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "entitylodoptimizer-1.0a.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/MKRCS0N2/versions/cAfoKE86/entitylodoptimizer-1.0a.jar",
+                    "id": "cAfoKE86",
+                    "parent_id": "MKRCS0N2",
+                    "hashes": {
+                        "sha512": "2fe91da3b2ecee65b0a12bafb2401c2f48cd970770df93212d12bb39351afc762bbae384053093b41dae542164e9ffbb79e0bd514b627337ac72a9491354f36c",
+                        "sha1": "54a6d901fa14472da3d71a1c4c19ab8cc11cd6dc"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 64426,
+                    "date_published": "2024-09-25T07:40:46.152269Z"
                 }
             ]
         },
@@ -3180,6 +3357,56 @@
                     ],
                     "size": 319890,
                     "date_published": "2023-10-27T14:59:21.253Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "f1a3A4pm9nwfXPnJ",
+            "type": "MOD",
+            "slug": {
+                "modrinth": "gputape"
+            },
+            "name": {
+                "modrinth": "GpuTape"
+            },
+            "id": {
+                "modrinth": "5CTSrY8X"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "GPUTape-1.0.0-1.18-1.20.4.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/fpJ5PcCQ/GPUTape-1.0.0-1.18-1.20.4.jar",
+                    "id": "fpJ5PcCQ",
+                    "parent_id": "5CTSrY8X",
+                    "hashes": {
+                        "sha512": "dd27effd514b290c169781fac1aad9e2ec02809086c5eb3b5fc780e3ee1032e923dd1012c8dc4b49cae37ef8570f5c4f87f4133bbd90b5712435c9ddc593a801",
+                        "sha1": "0dab30b57aac416f9d5d731f9d0b67fc3d848d63"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 16973,
+                    "date_published": "2024-09-02T18:55:22.364642Z"
                 }
             ]
         },
@@ -4920,6 +5147,74 @@
             ]
         },
         {
+            "pakku_id": "7EcrbLg1E2zYOsEa",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "noisium",
+                "modrinth": "noisium"
+            },
+            "name": {
+                "curseforge": "Noisium",
+                "modrinth": "Noisium"
+            },
+            "id": {
+                "curseforge": "930207",
+                "modrinth": "KuNKN7d2"
+            },
+            "subpath": "optimization",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5650/506/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+                    "id": "5650506",
+                    "parent_id": "930207",
+                    "hashes": {
+                        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+                        "md5": "3a8e9a24408c991b3fb97685884f2cce"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 218152,
+                    "date_published": "2024-08-21T17:24:11.600Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+                    "id": "gbYUKrDP",
+                    "parent_id": "KuNKN7d2",
+                    "hashes": {
+                        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502",
+                        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 218152,
+                    "date_published": "2024-08-21T17:24:14.967570Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DwJ7K4KnPtrgIqUP",
             "pakku_links": [
                 "6U6jmvSXg5m3oy9Y",
@@ -5651,6 +5946,71 @@
                     ],
                     "size": 114936,
                     "date_published": "2024-08-23T10:08:10.660Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bNH4TFkaZsrjKRSj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rrls",
+                "modrinth": "rrls"
+            },
+            "name": {
+                "curseforge": "Remove Reloading Screen",
+                "modrinth": "Remove Reloading Screen"
+            },
+            "id": {
+                "curseforge": "833233",
+                "modrinth": "ZP7xHXtw"
+            },
+            "subpath": "utility.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rrls-4.0.6.1+mc1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5423/270/rrls-4.0.6.1+mc1.20.1-forge.jar",
+                    "id": "5423270",
+                    "parent_id": "833233",
+                    "hashes": {
+                        "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d",
+                        "md5": "6ff0f56b3e745f8da8759cda0a70c236"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 277896,
+                    "date_published": "2024-06-13T10:01:27.230Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "rrls-4.0.6.1+mc1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DMHJY7vL/rrls-4.0.6.1+mc1.20.1-forge.jar",
+                    "id": "DMHJY7vL",
+                    "parent_id": "ZP7xHXtw",
+                    "hashes": {
+                        "sha512": "825f037e40e904b11f2744e2b6fa2823b7cef41ec9e71c10cf71dd89233ed15a9c4687376af32d9e2ec50be92db3bb0ef818712eb88654489aedf35efd726079",
+                        "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 277896,
+                    "date_published": "2024-06-13T10:01:29.612074Z"
                 }
             ]
         },
@@ -6474,67 +6834,67 @@
             ]
         },
         {
-            "pakku_id": "vjpCttS29pQ7OsSh",
+            "pakku_id": "tURuNXaB1fhAiTTr",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "starlight",
-                "modrinth": "starlight"
+                "curseforge": "starlight-forge",
+                "modrinth": "starlight-forge"
             },
             "name": {
-                "curseforge": "Starlight (Fabric)",
-                "modrinth": "Starlight (Fabric)"
+                "curseforge": "Starlight (Forge)",
+                "modrinth": "Starlight (Forge)"
             },
             "id": {
-                "curseforge": "521783",
-                "modrinth": "H8CaAYZC"
+                "curseforge": "526854",
+                "modrinth": "iRfIGC1s"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
+                    "file_name": "starlight-1.1.2+forge.1cda73c.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4572/96/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "4572096",
-                    "parent_id": "521783",
+                    "url": "https://edge.forgecdn.net/files/4631/193/starlight-1.1.2+forge.1cda73c.jar",
+                    "id": "4631193",
+                    "parent_id": "526854",
                     "hashes": {
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
-                        "md5": "a0b391bf55891502c2074bd078bb5899"
+                        "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+                        "md5": "da99a054428fb62342b6767b993c4c8d"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:37:29.753Z"
+                    "size": 110583,
+                    "date_published": "2023-07-08T06:07:12.477Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
+                    "file_name": "starlight-1.1.2+forge.1cda73c.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "XGIsoVGT",
-                    "parent_id": "H8CaAYZC",
+                    "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2+forge.1cda73c.jar",
+                    "id": "cNa0vkNj",
+                    "parent_id": "iRfIGC1s",
                     "hashes": {
-                        "sha512": "6b0e363fc2d6cd2f73b466ab9ba4f16582bb079b8449b7f3ed6e11aa365734af66a9735a7203cf90f8bc9b24e7ce6409eb04d20f84e04c7c6b8e34f4cc8578bb",
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
+                        "sha512": "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026",
+                        "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:51:56.458881Z"
+                    "size": 110583,
+                    "date_published": "2023-07-08T06:10:54.244596Z"
                 }
             ]
         },
@@ -7526,6 +7886,48 @@
                     ],
                     "size": 1151778,
                     "date_published": "2024-06-13T16:08:25.923Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oTWHhTwTrpbFK4mW",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "zirconium"
+            },
+            "name": {
+                "modrinth": "Zirconium"
+            },
+            "id": {
+                "modrinth": "4NKKYcVo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "zirconium-1.0a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/4NKKYcVo/versions/8oq35QzE/zirconium-1.0a.jar",
+                    "id": "8oq35QzE",
+                    "parent_id": "4NKKYcVo",
+                    "hashes": {
+                        "sha512": "539ad77381064eb3f8e924be692a62eb5a3b3d9eace20fde438ad5f56111d4a9bac49d79ef1d74de3e6b34710bb5dc7c8d0a706d9e03c47f00b5e3dd66e9ad68",
+                        "sha1": "948324b8e671eb553b34e7e4b1dbda21d461e03d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 59595,
+                    "date_published": "2024-10-02T23:03:38.437212Z"
                 }
             ]
         },
