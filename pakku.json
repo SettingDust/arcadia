@@ -278,6 +278,21 @@
         },
         "bendy-lib": {
             "subpath": "0libs.client"
+        },
+        "cut-through": {
+            "subpath": "utility"
+        },
+        "block-runner": {
+            "subpath": "utility"
+        },
+        "effect-descriptions": {
+            "subpath": "utility.client"
+        },
+        "stylish-effects": {
+            "subpath": "utility.client"
+        },
+        "enchantment-descriptions": {
+            "subpath": "utility.client"
         }
     }
 }
