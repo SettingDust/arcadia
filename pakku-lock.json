@@ -594,6 +594,85 @@
             ]
         },
         {
+            "pakku_id": "FbnJFz0yItas2jWK",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX",
+                "mfRGu6INpZ1FA91X",
+                "40s41vtYZh8r5Ef0",
+                "s13WO1hhULkOdgjA"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-mob-combat",
+                "modrinth": "better-mob-combat"
+            },
+            "name": {
+                "curseforge": "Better Mob Combat",
+                "modrinth": "Better Mob Combat"
+            },
+            "id": {
+                "curseforge": "1058798",
+                "modrinth": "KU8N7kPc"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5717/986/Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "id": "5717986",
+                    "parent_id": "1058798",
+                    "hashes": {
+                        "sha1": "efdbe6febaca07a08908196d2c84d0da9f53d0fd",
+                        "md5": "402996ea2c134c6aaf15448b21eb4164"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "639842",
+                        "1058791",
+                        "658587"
+                    ],
+                    "size": 264603,
+                    "date_published": "2024-09-12T22:33:03.417Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KU8N7kPc/versions/QQeDVaxe/Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "id": "QQeDVaxe",
+                    "parent_id": "KU8N7kPc",
+                    "hashes": {
+                        "sha512": "d69cc4f5f758d638d2a46551a8acb663a27642e2fceaa9db3e7b83d1b40a62158544283785be7e8ceb440fecf6f143396a7b02eebbd4e1307da950e97b520196",
+                        "sha1": "efdbe6febaca07a08908196d2c84d0da9f53d0fd"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "5sy6g3kz",
+                        "gedNE4y2",
+                        "zkK9lPaS"
+                    ],
+                    "size": 264603,
+                    "date_published": "2024-09-12T22:32:11.913152Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CDmRCO8VJrWnW0iu",
             "type": "MOD",
             "slug": {
@@ -827,7 +906,7 @@
                 "curseforge": "348521",
                 "modrinth": "9s6osm5g"
             },
-            "subpath": "0libs",
+            "subpath": "0libs.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -1263,7 +1342,6 @@
                 "vnSjEECkm0HFWsbl"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "distinguished-potions",
                 "modrinth": "distinguished-potions"
@@ -1276,6 +1354,7 @@
                 "curseforge": "682565",
                 "modrinth": "lX1xTFBZ"
             },
+            "subpath": "utility.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -1683,7 +1762,7 @@
                 "curseforge": "502561",
                 "modrinth": "CYSUVOdj"
             },
-            "subpath": "decoration.client",
+            "subpath": "utility.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -2428,7 +2507,7 @@
                 "curseforge": "521590",
                 "modrinth": "cVNW5lr6"
             },
-            "subpath": "decoration.client",
+            "subpath": "utility.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -2839,7 +2918,7 @@
                 "curseforge": "549275",
                 "modrinth": "AGhiJWsU"
             },
-            "subpath": "decoration.client",
+            "subpath": "utility.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -3050,6 +3129,79 @@
                     ],
                     "size": 36039,
                     "date_published": "2022-06-13T19:40:11.703Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "s13WO1hhULkOdgjA",
+            "pakku_links": [
+                "ZjVRXkiYqcOO3dUX",
+                "40s41vtYZh8r5Ef0"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mob-player-animator",
+                "modrinth": "mob-player-animator"
+            },
+            "name": {
+                "curseforge": "Mob Player Animator",
+                "modrinth": "Mob Player Animator"
+            },
+            "id": {
+                "curseforge": "1058791",
+                "modrinth": "zkK9lPaS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mobplayeranimator-forge-1.20.1-1.3.2-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5756/648/mobplayeranimator-forge-1.20.1-1.3.2-all.jar",
+                    "id": "5756648",
+                    "parent_id": "1058791",
+                    "hashes": {
+                        "sha1": "7f107b582f6a7e5ad90dfcbcd1d5a704514ada2b",
+                        "md5": "f24a903846c373a96543ccc6a7debf22"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "658587"
+                    ],
+                    "size": 219477,
+                    "date_published": "2024-09-25T22:07:48.243Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mobplayeranimator-forge-1.20.1-1.3.2-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zkK9lPaS/versions/rcbtGRrT/mobplayeranimator-forge-1.20.1-1.3.2-all.jar",
+                    "id": "rcbtGRrT",
+                    "parent_id": "zkK9lPaS",
+                    "hashes": {
+                        "sha512": "6b60e2cc42405571aeaeb56fa99db9fe981e40e49d4f99ab876783189af022c4c3e3a6f166c3bf57837c970369df2ed34806dc9e4134c1e38c3cf4f4d07d7e6c",
+                        "sha1": "7f107b582f6a7e5ad90dfcbcd1d5a704514ada2b"
+                    },
+                    "required_dependencies": [
+                        "gedNE4y2",
+                        "9s6osm5g"
+                    ],
+                    "size": 219477,
+                    "date_published": "2024-09-25T22:08:30.792420Z"
                 }
             ]
         },
@@ -3715,7 +3867,7 @@
                 "curseforge": "638111",
                 "modrinth": "1OE8wbN0"
             },
-            "subpath": "0libs",
+            "subpath": "0libs.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -4382,7 +4534,7 @@
                 "curseforge": "1103431",
                 "modrinth": "Es5v4eyq"
             },
-            "subpath": "0libs",
+            "subpath": "0libs.client",
             "files": [
                 {
                     "type": "modrinth",
@@ -5439,6 +5591,72 @@
                     ],
                     "size": 663338,
                     "date_published": "2024-09-18T14:02:32.313Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "r0wJ6UAgweejoFGh",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "bendy-lib",
+                "modrinth": "bendy-lib"
+            },
+            "name": {
+                "curseforge": "bendy-lib",
+                "modrinth": "bendy-lib"
+            },
+            "id": {
+                "curseforge": "623373",
+                "modrinth": "aRnIEV0F"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bendy-lib-forge-4.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4550/371/bendy-lib-forge-4.0.0.jar",
+                    "id": "4550371",
+                    "parent_id": "623373",
+                    "hashes": {
+                        "sha1": "d1e77cc4534cecc753a7d2ba4e84dec412a55025",
+                        "md5": "4f270cbc45ac11b6747c90ce2ca1b89a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 50745,
+                    "date_published": "2023-05-24T08:32:07.573Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bendy-lib-forge-4.0.0.jar",
+                    "mc_versions": [
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aRnIEV0F/versions/df4Yfl6J/bendy-lib-forge-4.0.0.jar",
+                    "id": "df4Yfl6J",
+                    "parent_id": "aRnIEV0F",
+                    "hashes": {
+                        "sha512": "34f07b7d611dd07a0646609c61a3566987b6f56cdedc40caa18708fdc9e7be9d0786f5c5e7b14217a027998a1bf82761777787315c60ea63112cb54503c29e7c",
+                        "sha1": "d1e77cc4534cecc753a7d2ba4e84dec412a55025"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 50745,
+                    "date_published": "2023-05-24T08:33:10.267053Z"
                 }
             ]
         },

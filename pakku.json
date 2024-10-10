@@ -269,6 +269,15 @@
         },
         "distinguished-potions": {
             "subpath": "utility.client"
+        },
+        "better-mob-combat": {
+            "subpath": "0libs"
+        },
+        "mob-player-animator": {
+            "subpath": "0libs"
+        },
+        "bendy-lib": {
+            "subpath": "0libs.client"
         }
     }
 }
