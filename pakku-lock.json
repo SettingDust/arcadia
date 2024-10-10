@@ -2267,6 +2267,74 @@
             ]
         },
         {
+            "pakku_id": "ohAF68b7ngtROYPb",
+            "pakku_links": [
+                "eZ0JlukYcEijO32Y"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "every-compat",
+                "modrinth": "every-compat"
+            },
+            "name": {
+                "curseforge": "Every Compat (Wood Good)",
+                "modrinth": "Every Compat (Wood Good)"
+            },
+            "id": {
+                "curseforge": "628539",
+                "modrinth": "eiktJyw1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "everycomp-1.20-2.6.82.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5792/496/everycomp-1.20-2.6.82.jar",
+                    "id": "5792496",
+                    "parent_id": "628539",
+                    "hashes": {
+                        "sha1": "e8b482d6f4b601439f494eae704a6620d1b5cdca",
+                        "md5": "92860d5c61f653b28d7e125526bd0f81"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 2588852,
+                    "date_published": "2024-10-07T19:18:43.113Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "everycomp-1.20-2.6.82.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UQJguVYQ/everycomp-1.20-2.6.82.jar",
+                    "id": "UQJguVYQ",
+                    "parent_id": "eiktJyw1",
+                    "hashes": {
+                        "sha512": "329cd0640f8c2bf4a584861caee9e00e01272e21b71edd36395b3a0e1c653b76588b1c68e2c59c9e9c533f66aba71ff18a20116d848e19bb4aa3af499a207c87",
+                        "sha1": "e8b482d6f4b601439f494eae704a6620d1b5cdca"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 2588852,
+                    "date_published": "2024-10-07T19:18:51.479920Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "idmS3r2ex2Wy4RUr",
             "type": "MOD",
             "slug": {
@@ -3819,7 +3887,6 @@
         {
             "pakku_id": "5OuRsh1hTuTCAEoW",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "modrinth": "modelfix",
                 "curseforge": "model-gap-fix"
@@ -3832,6 +3899,7 @@
                 "modrinth": "QdG47OkI",
                 "curseforge": "676136"
             },
+            "subpath": "fix.client",
             "files": [
                 {
                     "type": "modrinth",

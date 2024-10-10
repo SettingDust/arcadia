@@ -314,6 +314,9 @@
         },
         "model-gap-fix": {
             "subpath": "fix.client"
+        },
+        "every-compat": {
+            "subpath": "decoration"
         }
     }
 }
