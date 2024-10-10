@@ -465,6 +465,15 @@
         },
         "debugify": {
             "subpath": "fix"
+        },
+        "beans-backpacks": {
+            "subpath": "content"
+        },
+        "notenoughrecipebook": {
+            "subpath": "optimization"
+        },
+        "octo-lib": {
+            "subpath": "0libs"
         }
     }
 }

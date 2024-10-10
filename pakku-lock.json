@@ -643,6 +643,69 @@
             ]
         },
         {
+            "pakku_id": "dEkmtmfLLbXBlFjr",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "beans-backpacks",
+                "modrinth": "beans-backpacks"
+            },
+            "name": {
+                "curseforge": "Beans Backpacks",
+                "modrinth": "Beans Backpacks"
+            },
+            "id": {
+                "curseforge": "946775",
+                "modrinth": "kYt0MSgT"
+            },
+            "subpath": "content",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BeansBackpacks-forge-1.20.1-2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5368/249/BeansBackpacks-forge-1.20.1-2.0.jar",
+                    "id": "5368249",
+                    "parent_id": "946775",
+                    "hashes": {
+                        "sha1": "e5c6a5cfa3d70a214d79244cec28a83a546e441d",
+                        "md5": "d0d8fa7138eac56cfac5fb3bc9989c05"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1184528,
+                    "date_published": "2024-05-24T07:42:33.693Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BeansBackpacks-forge-1.20.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kYt0MSgT/versions/r9Lq0Zp7/BeansBackpacks-forge-1.20.1-2.0.2.jar",
+                    "id": "r9Lq0Zp7",
+                    "parent_id": "kYt0MSgT",
+                    "hashes": {
+                        "sha512": "9db31d71b1fa724e0758d22b0ca4166640459b00727a2d8992efc0963243abdd75a0a12517cb2956b710450a3c5836796bc8cb1db6965d722a56aa76a21a3a9a",
+                        "sha1": "7220c37a8f9d3d637278ea323905c934e476f8dc"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1186920,
+                    "date_published": "2024-06-26T00:14:22.928265Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tBS61EBeUjvqnTYT",
             "pakku_links": [
                 "Mh3lyIsrv17X2X33"
@@ -1915,7 +1978,6 @@
                 "QFkRoDD2cAh8pHAO"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "debugify",
                 "modrinth": "debugify"
@@ -1928,6 +1990,7 @@
                 "curseforge": "596224",
                 "modrinth": "QwxR6Gcd"
             },
+            "subpath": "fix",
             "files": [
                 {
                     "type": "curseforge",
@@ -6068,6 +6131,78 @@
             ]
         },
         {
+            "pakku_id": "LlR0miQoVk35Z8qH",
+            "pakku_links": [
+                "6TZyVD2d3huEjoPl",
+                "Ke4CWEmBk39ZPRWe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "nerb",
+                "curseforge": "notenoughrecipebook"
+            },
+            "name": {
+                "modrinth": "Not Enough Recipe Book [NERB]",
+                "curseforge": "Not Enough Recipe Book [NERB]"
+            },
+            "id": {
+                "modrinth": "bQh7xzFq",
+                "curseforge": "738663"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/xXV9YBzF/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+                    "id": "xXV9YBzF",
+                    "parent_id": "bQh7xzFq",
+                    "hashes": {
+                        "sha512": "599e085062c6d7a7368a4cf0d47ce319bcaf570bf5966ec6f8b9529f006e315a7f4ab3d2f263c38564a501b9d7031e956d4ee881ed2e13999869d61cbc079702",
+                        "sha1": "c0806369f4257149664904db44efc60bd1785c17"
+                    },
+                    "required_dependencies": [
+                        "RH2KUdKJ"
+                    ],
+                    "size": 21667,
+                    "date_published": "2024-09-26T23:46:19.242894Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5760/231/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+                    "id": "5760231",
+                    "parent_id": "738663",
+                    "hashes": {
+                        "sha1": "c0806369f4257149664904db44efc60bd1785c17",
+                        "md5": "fa8240906f36683f66de537b34587643"
+                    },
+                    "required_dependencies": [
+                        "916747",
+                        "419699"
+                    ],
+                    "size": 21667,
+                    "date_published": "2024-09-26T23:45:18.913Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DwJ7K4KnPtrgIqUP",
             "pakku_links": [
                 "6U6jmvSXg5m3oy9Y",
@@ -6135,6 +6270,76 @@
                     ],
                     "size": 470536,
                     "date_published": "2024-08-19T06:49:09.183Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6TZyVD2d3huEjoPl",
+            "pakku_links": [
+                "Ke4CWEmBk39ZPRWe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "octo-lib",
+                "modrinth": "octo-lib"
+            },
+            "name": {
+                "curseforge": "OctoLib",
+                "modrinth": "OctoLib"
+            },
+            "id": {
+                "curseforge": "916747",
+                "modrinth": "RH2KUdKJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OctoLib-FORGE-0.4.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5644/693/OctoLib-FORGE-0.4.2+1.20.1.jar",
+                    "id": "5644693",
+                    "parent_id": "916747",
+                    "hashes": {
+                        "sha1": "d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800",
+                        "md5": "1d54e1330f1f89a2544eeae005c3a4a6"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 401032,
+                    "date_published": "2024-08-19T18:20:15.213Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "OctoLib-FORGE-0.4.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/9dJfM8hR/OctoLib-FORGE-0.4.2+1.20.1.jar",
+                    "id": "9dJfM8hR",
+                    "parent_id": "RH2KUdKJ",
+                    "hashes": {
+                        "sha512": "be8c3ee844e24a6ec68bd805ccae6fc54928aa211f44fb208454a835796e2405765e7cadcff5763782f3d9bc262b44626b69863d83804258501f5e6e0926d96e",
+                        "sha1": "d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 401032,
+                    "date_published": "2024-08-21T12:25:46.019010Z"
                 }
             ]
         },
