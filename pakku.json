@@ -242,6 +242,9 @@
         },
         "libertyvillagers": {
             "subpath": "mechanic"
+        },
+        "selfish-villager": {
+            "subpath": "mechanic"
         }
     }
 }

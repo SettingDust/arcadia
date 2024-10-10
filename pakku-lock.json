@@ -2421,7 +2421,6 @@
                 "Ke4CWEmBk39ZPRWe"
             ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
                 "modrinth": "libertyvillagers",
                 "curseforge": "libertys-villagers"
@@ -2434,6 +2433,7 @@
                 "modrinth": "264clomZ",
                 "curseforge": "700485"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "modrinth",
@@ -3568,6 +3568,54 @@
                     ],
                     "size": 242139,
                     "date_published": "2024-06-19T18:07:57.157Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5ojbW6hZA1y8CKEN",
+            "pakku_links": [
+                "tJAqEPS0J9BkuAQc",
+                "idmS3r2ex2Wy4RUr"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "selfish-villager"
+            },
+            "name": {
+                "modrinth": "Selfish Villager"
+            },
+            "id": {
+                "modrinth": "AAjZBPJv"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "SelfishVillager-0.3.1+sha.3820b04.jar",
+                    "mc_versions": [
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AAjZBPJv/versions/xE3lnmV2/SelfishVillager-0.3.1+sha.3820b04.jar",
+                    "id": "xE3lnmV2",
+                    "parent_id": "AAjZBPJv",
+                    "hashes": {
+                        "sha512": "d29ed48bfa98d80c8dcb9bcd76d2d4ca236727f3f627093f3065a51e8c985be0877c9458f33079cd989ea958e544be2243964b2611f751ec5151c84d8092db7c",
+                        "sha1": "b9fa1733ea763849250c9a1491af72dfc5e1b3a6"
+                    },
+                    "required_dependencies": [
+                        "u58R1TMW",
+                        "Ha28R6CL"
+                    ],
+                    "size": 310579,
+                    "date_published": "2024-04-11T09:40:24.343336Z"
                 }
             ]
         },
