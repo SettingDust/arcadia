@@ -83,7 +83,7 @@
                 "H4aSCPb44mSUz5cC"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "advancement-plaques",
                 "modrinth": "advancement-plaques"
@@ -96,6 +96,7 @@
                 "curseforge": "499826",
                 "modrinth": "9NM0dXub"
             },
+            "subpath": "decoration",
             "files": [
                 {
                     "type": "curseforge",
@@ -656,6 +657,87 @@
                     ],
                     "size": 630483,
                     "date_published": "2024-10-09T09:41:33.520Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qT8371HZo3K41xVv",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "biome-tag-villagers",
+                "modrinth": "biome-tag-villagers"
+            },
+            "name": {
+                "curseforge": "Biome Tag Villagers",
+                "modrinth": "Biome Tag Villagers"
+            },
+            "id": {
+                "curseforge": "912044",
+                "modrinth": "Ah3WA8lg"
+            },
+            "subpath": "decoration",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biome-tag-villagers-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.2-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4747/564/biome-tag-villagers-1.0.0.jar",
+                    "id": "4747564",
+                    "parent_id": "912044",
+                    "hashes": {
+                        "sha1": "08a47dfa2ee2e60dfd708c998f131cedb3524543",
+                        "md5": "0ed8277402cadae4bb1f02d29a5a3a83"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 82498,
+                    "date_published": "2023-09-11T00:01:51.547Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "biome-tag-villagers-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ah3WA8lg/versions/dalhDVZc/biome-tag-villagers-1.0.0.jar",
+                    "id": "dalhDVZc",
+                    "parent_id": "Ah3WA8lg",
+                    "hashes": {
+                        "sha512": "5268cdfbdbf10b13224737e7d80c996da06862fb7c92fdc00aac4bcd49c45c548c0e1bd1e34ec24ec9c879d61e9c878b847dacc1bb5d38113c04a419314231b2",
+                        "sha1": "08a47dfa2ee2e60dfd708c998f131cedb3524543"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 82498,
+                    "date_published": "2023-09-10T23:58:26.157675Z"
                 }
             ]
         },
@@ -2330,6 +2412,74 @@
                     ],
                     "size": 55258,
                     "date_published": "2023-07-24T23:02:22.821486Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cHlZsCfoeCFKTpCX",
+            "pakku_links": [
+                "Ke4CWEmBk39ZPRWe"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "libertyvillagers",
+                "curseforge": "libertys-villagers"
+            },
+            "name": {
+                "modrinth": "Liberty's Villagers",
+                "curseforge": "Liberty's Villagers"
+            },
+            "id": {
+                "modrinth": "264clomZ",
+                "curseforge": "700485"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "libertyvillagers-2.0.0+forge+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/264clomZ/versions/pLlC13lB/libertyvillagers-2.0.0+forge+1.20.1.jar",
+                    "id": "pLlC13lB",
+                    "parent_id": "264clomZ",
+                    "hashes": {
+                        "sha512": "408a853bac1599f4e3709b1234cbf2ceea67afc97d3f2f56694928e7b3f05fa2ce0401ab7303600cfdb26e6143182b883f3dcfade4e0cb364dd03216f3b12e5b",
+                        "sha1": "e871b8087dfb7c287d0dc9baafb695941d73d809"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 286050,
+                    "date_published": "2023-10-16T06:13:06.764386Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "libertyvillagers-2.0.0+forge+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4801/184/libertyvillagers-2.0.0+forge+1.20.1.jar",
+                    "id": "4801184",
+                    "parent_id": "700485",
+                    "hashes": {
+                        "sha1": "e871b8087dfb7c287d0dc9baafb695941d73d809",
+                        "md5": "16d21c08aa3a6d0ea4f9a57cd14434a3"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 286050,
+                    "date_published": "2023-10-16T06:13:05.030Z"
                 }
             ]
         },
@@ -4184,6 +4334,115 @@
                     ],
                     "size": 203357,
                     "date_published": "2024-10-03T20:42:10.185197Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vDN34F9jecAfD0z9",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "villager-armor-layer",
+                "modrinth": "villager-armor-layer"
+            },
+            "name": {
+                "curseforge": "Villager Armor Layer",
+                "modrinth": "Villager Armor Layer"
+            },
+            "id": {
+                "curseforge": "843236",
+                "modrinth": "eTGQghnD"
+            },
+            "subpath": "decoration.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "villagerarmor-5.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4875/212/villagerarmor-5.0.1.jar",
+                    "id": "4875212",
+                    "parent_id": "843236",
+                    "hashes": {
+                        "sha1": "59f88944d339b688303455d59a960d3d70d34e4c",
+                        "md5": "bff155bfdfd28ce2ba840b3fd9eb3ac7"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432298,
+                    "date_published": "2023-11-17T15:35:29.210Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "villagerarmor-5.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eTGQghnD/versions/V4ibsffP/villagerarmor-5.0.1.jar",
+                    "id": "V4ibsffP",
+                    "parent_id": "eTGQghnD",
+                    "hashes": {
+                        "sha512": "aa7c507156f93e97d57cdcecc1ba3c3dae1b10c2ef0c3df8e13a9dcf781e8c159d5a75ffeed57abdd903ff14b46a1fbbdd5c5c33ce8ba60105b30abc61ff82c9",
+                        "sha1": "0789f026770e4cdd60edcb74150bde399b84fa1e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 421967,
+                    "date_published": "2023-11-16T16:07:48.263010Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "59t8qZOLWWO0kviF",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "slug": {
+                "modrinth": "villager-schedules"
+            },
+            "name": {
+                "modrinth": "Villager Schedules"
+            },
+            "id": {
+                "modrinth": "S5ZH1VsW"
+            },
+            "subpath": "debug",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "VillagerSchedules-1.02.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/S5ZH1VsW/versions/7KixVfUR/VillagerSchedules-1.02.jar",
+                    "id": "7KixVfUR",
+                    "parent_id": "S5ZH1VsW",
+                    "hashes": {
+                        "sha512": "7acb06cbc102b2dc80ec2959cac1c4220a991f56135ed54fd6c39b8bea54ac8c2c6997c3cfca458b61cb855ec6d872c1d27aa422810da8122680a3c919343c97",
+                        "sha1": "a6728ffb55c39a0214777b2f28d836ad59b7f440"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 228678,
+                    "date_published": "2023-06-15T18:26:17.399981Z"
                 }
             ]
         },
