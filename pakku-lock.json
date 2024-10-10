@@ -1124,6 +1124,140 @@
             ]
         },
         {
+            "pakku_id": "oKxSTJM5yy1PFFKq",
+            "pakku_links": [
+                "vnSjEECkm0HFWsbl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "diagonal-walls",
+                "modrinth": "diagonal-walls"
+            },
+            "name": {
+                "curseforge": "Diagonal Walls",
+                "modrinth": "Diagonal Walls"
+            },
+            "id": {
+                "curseforge": "969422",
+                "modrinth": "FQgc8dib"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5220/115/DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
+                    "id": "5220115",
+                    "parent_id": "969422",
+                    "hashes": {
+                        "sha1": "9181dcfeb0508786d32436b7270a0293e146884e",
+                        "md5": "f344ce6c0fee84cf354541fe89c03399"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 170992,
+                    "date_published": "2024-03-29T12:35:39.950Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FQgc8dib/versions/BOsg18ZA/DiagonalWalls-v8.0.3-1.20.1-Forge.jar",
+                    "id": "BOsg18ZA",
+                    "parent_id": "FQgc8dib",
+                    "hashes": {
+                        "sha512": "94965109d7c8ed4c7ee2cb82e19d1fa091124db2dbd625b29e8daaeb6c1124338ae12573e4587679a6fae4a6b68e60c8255c36e3e2dd4b6909540dbfa522c2bf",
+                        "sha1": "9181dcfeb0508786d32436b7270a0293e146884e"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 170992,
+                    "date_published": "2024-03-29T12:35:44.160995Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "R75fSV7ogWhdUKl8",
+            "pakku_links": [
+                "vnSjEECkm0HFWsbl"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "diagonal-windows",
+                "modrinth": "diagonal-windows"
+            },
+            "name": {
+                "curseforge": "Diagonal Windows [Forge & Fabric]",
+                "modrinth": "Diagonal Windows"
+            },
+            "id": {
+                "curseforge": "891328",
+                "modrinth": "oOi0CKes"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5220/111/DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
+                    "id": "5220111",
+                    "parent_id": "891328",
+                    "hashes": {
+                        "sha1": "f31f5a4ee901f689eb86d5d01c7725ab993c294f",
+                        "md5": "29976ca706bc66735fb2290adf3356a2"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 180522,
+                    "date_published": "2024-03-29T12:34:45.073Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/oOi0CKes/versions/nf44AqzV/DiagonalWindows-v8.1.4-1.20.1-Forge.jar",
+                    "id": "nf44AqzV",
+                    "parent_id": "oOi0CKes",
+                    "hashes": {
+                        "sha512": "12efa6f25fd036ca902e636cf68a5d61da5d8a910e645b82a5c3838bc17442eef984ac76e48106fc8ed4520f71ff00d7cfcf1d3444e734f2ca0017f750acf996",
+                        "sha1": "f31f5a4ee901f689eb86d5d01c7725ab993c294f"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 180522,
+                    "date_published": "2024-03-29T12:34:49.183947Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Mh3lyIsrv17X2X33",
             "type": "MOD",
             "slug": {
@@ -3362,6 +3496,69 @@
             ]
         },
         {
+            "pakku_id": "vnSjEECkm0HFWsbl",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "puzzles-lib",
+                "modrinth": "puzzles-lib"
+            },
+            "name": {
+                "curseforge": "Puzzles Lib [Forge & Fabric]",
+                "modrinth": "Puzzles Lib"
+            },
+            "id": {
+                "curseforge": "495476",
+                "modrinth": "QAGBst4M"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "PuzzlesLib-v8.1.24-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5783/607/PuzzlesLib-v8.1.24-1.20.1-Forge.jar",
+                    "id": "5783607",
+                    "parent_id": "495476",
+                    "hashes": {
+                        "sha1": "7a3b81fe360b3aafe03a658bfdc23f14f6011933",
+                        "md5": "31d7aea97858a0faa01f35a0c1071614"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1002383,
+                    "date_published": "2024-10-04T20:48:43.097Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "PuzzlesLib-v8.1.24-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/CRWEHl5m/PuzzlesLib-v8.1.24-1.20.1-Forge.jar",
+                    "id": "CRWEHl5m",
+                    "parent_id": "QAGBst4M",
+                    "hashes": {
+                        "sha512": "48d1581151efa084527fbdb8f5fe8721a30e6ed8b8acfdb5636b47af88d3e64620a9be7fc308845a4c9060f24468dc971e538dbe57140f01119fb782ffc0ddd3",
+                        "sha1": "7a3b81fe360b3aafe03a658bfdc23f14f6011933"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1002383,
+                    "date_published": "2024-10-04T20:48:47.934586Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "MHYpE9BWcnIYOxXa",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE"
@@ -3578,7 +3775,6 @@
                 "idmS3r2ex2Wy4RUr"
             ],
             "type": "MOD",
-            "side": "SERVER",
             "slug": {
                 "modrinth": "selfish-villager"
             },
@@ -3588,6 +3784,7 @@
             "id": {
                 "modrinth": "AAjZBPJv"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "modrinth",

@@ -245,6 +245,12 @@
         },
         "selfish-villager": {
             "subpath": "mechanic"
+        },
+        "diagonal-walls": {
+            "subpath": "decoration"
+        },
+        "diagonal-windows": {
+            "subpath": "decoration"
         }
     }
 }
