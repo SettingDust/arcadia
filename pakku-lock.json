@@ -1167,48 +1167,6 @@
             ]
         },
         {
-            "pakku_id": "apCqIFBS1kNHurYY",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "bookshelf",
-                "modrinth": "bookshelf"
-            },
-            "name": {
-                "curseforge": "Bookshelf",
-                "modrinth": "Bookshelf"
-            },
-            "id": {
-                "curseforge": "228525",
-                "modrinth": "VUkUwfUG"
-            },
-            "subpath": "0libs",
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Bookshelf-Forge-1.20.1-20.2.13.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5423/987/Bookshelf-Forge-1.20.1-20.2.13.jar",
-                    "id": "5423987",
-                    "parent_id": "228525",
-                    "hashes": {
-                        "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
-                        "md5": "46c8e7f9bcfa984bd576e448df2beb25"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 343962,
-                    "date_published": "2024-06-13T15:17:32.300Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Mzhm7WYUf3hMfwd7",
             "type": "MOD",
             "slug": {
@@ -2335,6 +2293,288 @@
             ]
         },
         {
+            "pakku_id": "3xiGG54L0TyPilGj",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "emi",
+                "modrinth": "emi"
+            },
+            "name": {
+                "curseforge": "EMI",
+                "modrinth": "EMI"
+            },
+            "id": {
+                "curseforge": "580555",
+                "modrinth": "fRiHVvU7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi-1.1.16+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5793/30/emi-1.1.16+1.20.1+forge.jar",
+                    "id": "5793030",
+                    "parent_id": "580555",
+                    "hashes": {
+                        "sha1": "9c25ea8378f058ac3eccf9349e88b041ae475f24",
+                        "md5": "1b3ab194e1b7eb95e95be4008f48085e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1004847,
+                    "date_published": "2024-10-07T23:13:56.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emi-1.1.16+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/lL5Etb2g/emi-1.1.16+1.20.1+forge.jar",
+                    "id": "lL5Etb2g",
+                    "parent_id": "fRiHVvU7",
+                    "hashes": {
+                        "sha512": "9b90c5e7227cff69238eb4539eeca4e67298dbc7583ee5ea98b012b531dfd2f62840858cfdcf0eb76828833942bc509909ceebad049dc66eb8fe1376b908e210",
+                        "sha1": "9c25ea8378f058ac3eccf9349e88b041ae475f24"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1004847,
+                    "date_published": "2024-10-07T23:13:52.715401Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tg4NVYHJngRImRWc",
+            "pakku_links": [
+                "3xiGG54L0TyPilGj"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "emienchants",
+                "modrinth": "emienchants"
+            },
+            "name": {
+                "curseforge": "EMI Enchants",
+                "modrinth": "EMI Enchants"
+            },
+            "id": {
+                "curseforge": "1036393",
+                "modrinth": "11hKNQb2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.2-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5425/207/EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar",
+                    "id": "5425207",
+                    "parent_id": "1036393",
+                    "hashes": {
+                        "sha1": "d01c60fa55b9bc0700c23b04afc1fb43d579ccc1",
+                        "md5": "9f3d5e832b430994627d9e0f553f5116"
+                    },
+                    "required_dependencies": [
+                        "580555"
+                    ],
+                    "size": 33704,
+                    "date_published": "2024-06-13T20:19:58.177Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/11hKNQb2/versions/Lzvq7JEE/EMIEnchants-forge-1.19.3-1.20.4-1.0.0.jar",
+                    "id": "Lzvq7JEE",
+                    "parent_id": "11hKNQb2",
+                    "hashes": {
+                        "sha512": "ef61bb961d9554b0025e568e40fd8bf1a7a21e27eb3d0ccaf4934f9673e6fc862c931017bea741d2fc8afa274d333d190ed2486d9c01cafb1da5fdd493e8251c",
+                        "sha1": "d01c60fa55b9bc0700c23b04afc1fb43d579ccc1"
+                    },
+                    "required_dependencies": [
+                        "fRiHVvU7"
+                    ],
+                    "size": 33704,
+                    "date_published": "2024-06-13T19:59:04.919763Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ENswY9RsUvmCzRMV",
+            "pakku_links": [
+                "3xiGG54L0TyPilGj",
+                "coZNuZ9oPgo7Z35n"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "emi-loot",
+                "modrinth": "emi-loot"
+            },
+            "name": {
+                "curseforge": "EMI Loot",
+                "modrinth": "EMI Loot"
+            },
+            "id": {
+                "curseforge": "681783",
+                "modrinth": "qbbO7Jns"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi_loot-0.7.4+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5760/210/emi_loot-0.7.4+1.20.1+forge.jar",
+                    "id": "5760210",
+                    "parent_id": "681783",
+                    "hashes": {
+                        "sha1": "07ae3bd3fe084f0a895cbeaec625a9d8e66a3812",
+                        "md5": "930bc18804c891bf1cd628ded6cbe477"
+                    },
+                    "required_dependencies": [
+                        "1005914",
+                        "580555"
+                    ],
+                    "size": 399151,
+                    "date_published": "2024-09-26T23:33:33.360Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emi_loot-0.7.4+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/muA4mic3/emi_loot-0.7.4+1.20.1+forge.jar",
+                    "id": "muA4mic3",
+                    "parent_id": "qbbO7Jns",
+                    "hashes": {
+                        "sha512": "5a2d79545b057149c09455841058bda33215a8ff8b8c5b4bfebddde734d66897fb6cea6fbbd536f66160e3a866390bb20ecbeb7256b851df13cff1f76d6e3973",
+                        "sha1": "07ae3bd3fe084f0a895cbeaec625a9d8e66a3812"
+                    },
+                    "required_dependencies": [
+                        "fRiHVvU7",
+                        "hYykXjDp"
+                    ],
+                    "size": 399151,
+                    "date_published": "2024-09-26T23:25:57.821094Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "P3cI0kH2vQApr8DS",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "emitrades",
+                "curseforge": "emi-trades-villager-trading-emi-plugin"
+            },
+            "name": {
+                "modrinth": "EMI Trades",
+                "curseforge": "EMI Trades (Villager Trading EMI Plugin)"
+            },
+            "id": {
+                "modrinth": "j2HhbEE7",
+                "curseforge": "735523"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "emitrades-forge-1.2.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/j2HhbEE7/versions/LBT7pcVH/emitrades-forge-1.2.1+mc1.20.1.jar",
+                    "id": "LBT7pcVH",
+                    "parent_id": "j2HhbEE7",
+                    "hashes": {
+                        "sha512": "b0344906a3da867373edf6a4d5a7bcb1d0aa0aaf11825244b9d1d5aeb1aec1c5d023b754ab8f881905c7086ba11d2cdc5740ba29ab967b4549346531bcbc1b86",
+                        "sha1": "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 53378,
+                    "date_published": "2023-11-26T01:20:56.880729Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emitrades-forge-1.2.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4901/194/emitrades-forge-1.2.1+mc1.20.1.jar",
+                    "id": "4901194",
+                    "parent_id": "735523",
+                    "hashes": {
+                        "sha1": "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4",
+                        "md5": "1638be6b2bcb2f3d488eb1d761058036"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 53378,
+                    "date_published": "2023-11-26T01:20:58.003Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DWs67yZCN90Z6wBm",
             "pakku_links": [
                 "vnSjEECkm0HFWsbl"
@@ -2471,74 +2711,6 @@
             ]
         },
         {
-            "pakku_id": "zIn92r1Kw8dWURnj",
-            "pakku_links": [
-                "vnSjEECkm0HFWsbl"
-            ],
-            "type": "MOD",
-            "slug": {
-                "modrinth": "effect-descriptions",
-                "curseforge": "new-effect-descriptions"
-            },
-            "name": {
-                "modrinth": "Effect Descriptions",
-                "curseforge": "Effect Descriptions [Forge & Fabric]"
-            },
-            "id": {
-                "modrinth": "Kw73iLDq",
-                "curseforge": "891326"
-            },
-            "subpath": "utility.client",
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "EffectDescriptions-v8.0.2-1.20.1-Forge.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Kw73iLDq/versions/1cLzn1rF/EffectDescriptions-v8.0.2-1.20.1-Forge.jar",
-                    "id": "1cLzn1rF",
-                    "parent_id": "Kw73iLDq",
-                    "hashes": {
-                        "sha512": "6b933b54e728dd69e22142e13f498e9b4f9d02bb7bbad6d98e6c99f10c4edb294e145cf673c1f5139164591eb2b6d6e24b51d09ee8eff608f6d6552e78bd397c",
-                        "sha1": "88c15335c1b1a03e22ed7cbf62d511f6dd0e6877"
-                    },
-                    "required_dependencies": [
-                        "QAGBst4M"
-                    ],
-                    "size": 61214,
-                    "date_published": "2023-08-15T15:18:48.888175Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "EffectDescriptions-v8.0.2-1.20.1-Forge.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4706/348/EffectDescriptions-v8.0.2-1.20.1-Forge.jar",
-                    "id": "4706348",
-                    "parent_id": "891326",
-                    "hashes": {
-                        "sha1": "88c15335c1b1a03e22ed7cbf62d511f6dd0e6877",
-                        "md5": "47ddb61eef0e2a2f479e7802c3178ac5"
-                    },
-                    "required_dependencies": [
-                        "495476"
-                    ],
-                    "size": 61214,
-                    "date_published": "2023-08-15T15:18:44.677Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Mh3lyIsrv17X2X33",
             "type": "MOD",
             "slug": {
@@ -2603,75 +2775,6 @@
                     ],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.240Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "MKvsXkd5b8YxS4o0",
-            "pakku_links": [
-                "apCqIFBS1kNHurYY"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "enchantment-descriptions",
-                "modrinth": "enchantment-descriptions"
-            },
-            "name": {
-                "curseforge": "Enchantment Descriptions",
-                "modrinth": "Enchantment Descriptions"
-            },
-            "id": {
-                "curseforge": "250419",
-                "modrinth": "UVtY3ZAC"
-            },
-            "subpath": "utility.client",
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5598/368/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-                    "id": "5598368",
-                    "parent_id": "250419",
-                    "hashes": {
-                        "sha1": "7fc5a55a350e2f1ff1e121010f9850a3e797c342",
-                        "md5": "06f4b929ffe1135ba5d1f65e32761e5d"
-                    },
-                    "required_dependencies": [
-                        "228525"
-                    ],
-                    "size": 69356,
-                    "date_published": "2024-08-05T11:24:04.637Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/n3plC8IW/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-                    "id": "n3plC8IW",
-                    "parent_id": "UVtY3ZAC",
-                    "hashes": {
-                        "sha512": "3704e620cf9e346437f3e97e163d2102c1d358a6322b416f8a23390c21e86bd6196a23a629c90c0a80299de8330a478f5867c865200c663cc93eca167d21ef3b",
-                        "sha1": "7fc5a55a350e2f1ff1e121010f9850a3e797c342"
-                    },
-                    "required_dependencies": [
-                        "uy4Cnpcm"
-                    ],
-                    "size": 69356,
-                    "date_published": "2024-08-05T11:24:09.106171Z"
                 }
             ]
         },
@@ -3256,7 +3359,6 @@
         {
             "pakku_id": "9kYAS26oQr738X5O",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "faster-random",
                 "modrinth": "faster-random"
@@ -3270,6 +3372,7 @@
                 "modrinth": "RfFxanNh"
             },
             "redistributable": false,
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "curseforge",
@@ -4181,6 +4284,69 @@
                     ],
                     "size": 641972,
                     "date_published": "2024-08-28T20:29:06.403Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aZsakAlJf0v7lP2v",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jei",
+                "modrinth": "jei"
+            },
+            "name": {
+                "curseforge": "Just Enough Items (JEI)",
+                "modrinth": "Just Enough Items"
+            },
+            "id": {
+                "curseforge": "238222",
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jei-1.20.1-forge-15.20.0.104.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5793/297/jei-1.20.1-forge-15.20.0.104.jar",
+                    "id": "5793297",
+                    "parent_id": "238222",
+                    "hashes": {
+                        "sha1": "6d7ebc086f481ed55ee517885c812249d33d91a6",
+                        "md5": "46bf38308872aae3351ce59d9e664437"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1406021,
+                    "date_published": "2024-10-08T02:06:45.407Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "jei-1.20.1-forge-15.20.0.104.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HhYs9HUP/jei-1.20.1-forge-15.20.0.104.jar",
+                    "id": "HhYs9HUP",
+                    "parent_id": "u6dRKJwZ",
+                    "hashes": {
+                        "sha512": "104ee7547280fefd184d8189f116dc0e9310ad3989291a8dc2ccc6291d21e1ebefa14997cba8312ec649c299af4d98c399a5fe9964ad0e75e138cc5f3999bb0c",
+                        "sha1": "6d7ebc086f481ed55ee517885c812249d33d91a6"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1406021,
+                    "date_published": "2024-10-08T02:06:56.962569Z"
                 }
             ]
         },

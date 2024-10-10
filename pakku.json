@@ -372,9 +372,6 @@
         "chunky-autopause": {
             "subpath": "utility"
         },
-        "starlight": {
-            "subpath": "optimization"
-        },
         "gputape": {
             "subpath": "fix.client"
         },
@@ -429,6 +426,21 @@
         },
         "faster-random": {
             "subpath": "optimization"
+        },
+        "emi": {
+            "subpath": "utility"
+        },
+        "emi-loot": {
+            "subpath": "utility"
+        },
+        "emienchants": {
+            "subpath": "utility"
+        },
+        "emitrades": {
+            "subpath": "utility"
+        },
+        "jei": {
+            "subpath": "utility"
         }
     }
 }
