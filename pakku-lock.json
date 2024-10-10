@@ -1583,6 +1583,75 @@
             ]
         },
         {
+            "pakku_id": "gbX2a9Vo2EsIsFFD",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dramatic-doors",
+                "modrinth": "dramatic-doors"
+            },
+            "name": {
+                "curseforge": "Dramatic Doors",
+                "modrinth": "Dramatic Doors"
+            },
+            "id": {
+                "curseforge": "380617",
+                "modrinth": "aQ7h7gal"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DramaticDoors-QuiFabrge-1.20.1-3.2.7_1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5748/92/DramaticDoors-QuiFabrge-1.20.1-3.2.7_1.jar",
+                    "id": "5748092",
+                    "parent_id": "380617",
+                    "hashes": {
+                        "sha1": "bca40e0b3d70f5f9abd82290ffb8f38df517ce39",
+                        "md5": "673109ad88fb70bbbfabbd417d261899"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 12765792,
+                    "date_published": "2024-09-23T00:09:47.197Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DramaticDoors-QuiFabrge-1.20.1-3.2.7_1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aQ7h7gal/versions/dj6BGtE5/DramaticDoors-QuiFabrge-1.20.1-3.2.7_1.jar",
+                    "id": "dj6BGtE5",
+                    "parent_id": "aQ7h7gal",
+                    "hashes": {
+                        "sha512": "ad29d64d57647882760e1252b444cf0df4e31c3227810cbb555f9a4c1cc1ea1b00029fc1e232007605d3d67372a5943999986e80ff86914341533adbbee9537d",
+                        "sha1": "bca40e0b3d70f5f9abd82290ffb8f38df517ce39"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 12765792,
+                    "date_published": "2024-09-29T19:24:12.516031Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DWs67yZCN90Z6wBm",
             "pakku_links": [
                 "vnSjEECkm0HFWsbl"
@@ -4697,7 +4766,6 @@
                 "vnSjEECkm0HFWsbl"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "modrinth": "sneaky-curses",
                 "curseforge": "sneaky-curses-forge"
@@ -4710,6 +4778,7 @@
                 "modrinth": "TivKCwTx",
                 "curseforge": "322733"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "modrinth",

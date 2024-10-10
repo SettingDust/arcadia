@@ -296,6 +296,9 @@
         },
         "sneaky-curses": {
             "subpath": "mechanic"
+        },
+        "dramatic-doors": {
+            "subpath": "decoration"
         }
     }
 }
