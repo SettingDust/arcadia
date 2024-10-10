@@ -441,6 +441,21 @@
         },
         "jei": {
             "subpath": "utility"
+        },
+        "continue": {
+            "subpath": "utility.client"
+        },
+        "flow": {
+            "subpath": "decoration.client"
+        },
+        "sound": {
+            "subpath": "decoration.client"
+        },
+        "fog": {
+            "subpath": "decoration.client"
+        },
+        "mru": {
+            "subpath": "0libs"
         }
     }
 }
