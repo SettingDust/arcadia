@@ -1910,6 +1910,76 @@
             ]
         },
         {
+            "pakku_id": "FlKEymvlwHdUc4XD",
+            "pakku_links": [
+                "QFkRoDD2cAh8pHAO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "debugify",
+                "modrinth": "debugify"
+            },
+            "name": {
+                "curseforge": "Debugify",
+                "modrinth": "Debugify"
+            },
+            "id": {
+                "curseforge": "596224",
+                "modrinth": "QwxR6Gcd"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Debugify-1.20.1+2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4632/961/Debugify-1.20.1+2.0.jar",
+                    "id": "4632961",
+                    "parent_id": "596224",
+                    "hashes": {
+                        "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c",
+                        "md5": "39e6ead07cd3ce225fb24775e0cb0341"
+                    },
+                    "required_dependencies": [
+                        "667299"
+                    ],
+                    "size": 337545,
+                    "date_published": "2023-07-09T08:49:34.163Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Debugify-1.20.1+2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1+2.0.jar",
+                    "id": "6XDJoCks",
+                    "parent_id": "QwxR6Gcd",
+                    "hashes": {
+                        "sha512": "4cbeeafd7daadcf8a54526b6f415eac39c8bd1459d44967f484c499f407b9625c10faa5c8f825946d97529d5d64fd7504669bc13ebc4c3eb2a143aa20b50e4bd",
+                        "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR"
+                    ],
+                    "size": 337545,
+                    "date_published": "2023-07-09T08:49:42.583816Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oKxSTJM5yy1PFFKq",
             "pakku_links": [
                 "vnSjEECkm0HFWsbl"
@@ -3357,6 +3427,82 @@
             ]
         },
         {
+            "pakku_id": "jMUe4xz2d95vmOhK",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fastboot",
+                "modrinth": "fastboot"
+            },
+            "name": {
+                "curseforge": "FastBoot",
+                "modrinth": "FastBoot"
+            },
+            "id": {
+                "curseforge": "1030285",
+                "modrinth": "nRL5uFe0"
+            },
+            "redistributable": false,
+            "subpath": "optimization",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fastboot-1.20.x-1.2.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5696/829/fastboot-1.20.x-1.2.jar",
+                    "id": "5696829",
+                    "parent_id": "1030285",
+                    "hashes": {
+                        "sha1": "0820d6611bdf664cc84bf351089e75998a9f1962",
+                        "md5": "9489df8d4e141724d79e503d85b3d51f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 24477,
+                    "date_published": "2024-09-06T08:48:44.887Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fastboot-1.20.x-1.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nRL5uFe0/versions/aQPUPRB3/fastboot-1.20.x-1.1.jar",
+                    "id": "aQPUPRB3",
+                    "parent_id": "nRL5uFe0",
+                    "hashes": {
+                        "sha512": "916a1dcd5dfafc5ce6d3e28875599db98ad07b78e39068179cc07be6202b0d829e66e0e5b75ee663f5270918bd4d98d95f2f0f6efcd9e2e98f43f907268a31d4",
+                        "sha1": "af34ffcf3e4eb46b13906b522bc33fccdd2b4c45"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 24463,
+                    "date_published": "2024-06-05T06:17:15.196763Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9kYAS26oQr738X5O",
             "type": "MOD",
             "slug": {
@@ -3591,7 +3737,6 @@
                 "ZiHNSUCiCoyQZSG6"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "fog",
                 "modrinth": "fog"
@@ -3604,6 +3749,7 @@
                 "curseforge": "815438",
                 "modrinth": "WuGVWUF2"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -4821,7 +4967,6 @@
         {
             "pakku_id": "ZiHNSUCiCoyQZSG6",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "mru",
                 "modrinth": "mru"
@@ -4834,6 +4979,7 @@
                 "curseforge": "669659",
                 "modrinth": "SNVQ2c0g"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -6258,6 +6404,83 @@
                     ],
                     "size": 95351,
                     "date_published": "2024-09-16T22:23:18.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5f1VlFgqhNePs9rR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pathunderfencegates",
+                "modrinth": "pathunderfencegates"
+            },
+            "name": {
+                "curseforge": "Path Under Fence Gates (Fabric/Quilt)",
+                "modrinth": "Path Under Fence Gates"
+            },
+            "id": {
+                "curseforge": "638805",
+                "modrinth": "MD6yYHfJ"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pathunderfencegates-1.4.0+mc1.20.x.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4786/809/pathunderfencegates-1.4.0+mc1.20.x.jar",
+                    "id": "4786809",
+                    "parent_id": "638805",
+                    "hashes": {
+                        "sha1": "53b27492e8e4d059b87a81a7de21a6bc4442a2eb",
+                        "md5": "daa5a4d638f0b277d5c147e4b5581263"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 187086,
+                    "date_published": "2023-10-07T22:33:42.723Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "pathunderfencegates-1.4.0+mc1.20.x.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MD6yYHfJ/versions/v1YJkzq9/pathunderfencegates-1.4.0+mc1.20.x.jar",
+                    "id": "v1YJkzq9",
+                    "parent_id": "MD6yYHfJ",
+                    "hashes": {
+                        "sha512": "9ee4b765e7ac3dbade47f44a36de3ede82f6f850bd03f50d91896c1e79a0dba0a110d9ee9838e87f44061ba55ef1cf9e1f4154f2a6f5bbc891303bda9ea97ff6",
+                        "sha1": "53b27492e8e4d059b87a81a7de21a6bc4442a2eb"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 187086,
+                    "date_published": "2023-10-07T22:34:05.316176Z"
                 }
             ]
         },

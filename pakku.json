@@ -456,6 +456,15 @@
         },
         "mru": {
             "subpath": "0libs"
+        },
+        "pathunderfencegates": {
+            "subpath": "fix"
+        },
+        "fastboot": {
+            "subpath": "optimization"
+        },
+        "debugify": {
+            "subpath": "fix"
         }
     }
 }
