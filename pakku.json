@@ -311,6 +311,9 @@
         },
         "sleep-tight": {
             "subpath": "mechanic"
+        },
+        "model-gap-fix": {
+            "subpath": "fix.client"
         }
     }
 }

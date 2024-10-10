@@ -152,7 +152,6 @@
                 "eZ0JlukYcEijO32Y"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "amendments",
                 "modrinth": "amendments"
@@ -165,6 +164,7 @@
                 "curseforge": "896746",
                 "modrinth": "6iTJugQR"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "curseforge",
@@ -3817,6 +3817,70 @@
             ]
         },
         {
+            "pakku_id": "5OuRsh1hTuTCAEoW",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "modelfix",
+                "curseforge": "model-gap-fix"
+            },
+            "name": {
+                "modrinth": "Model Gap Fix",
+                "curseforge": "Model Gap Fix"
+            },
+            "id": {
+                "modrinth": "QdG47OkI",
+                "curseforge": "676136"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modelfix-1.15.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar",
+                    "id": "og4A1nN8",
+                    "parent_id": "QdG47OkI",
+                    "hashes": {
+                        "sha512": "b46d6b507b12c63a6fa96ca0571c1b94fc6525e48fdfdbcaa018aa3c4a4801da5c4bb80a173f7cca04b1591854147260163716e25041363b8640f20ff1c736d4",
+                        "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 45246,
+                    "date_published": "2024-03-21T17:21:41.435809Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modelfix-1.15.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5200/949/modelfix-1.15.jar",
+                    "id": "5200949",
+                    "parent_id": "676136",
+                    "hashes": {
+                        "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+                        "md5": "9afd060094be1353e818bd2b7c249cc9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 45246,
+                    "date_published": "2024-03-21T17:21:36.727Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "W9cI8A84yHL651ax",
             "type": "MOD",
             "slug": {
@@ -4967,7 +5031,6 @@
                 "eZ0JlukYcEijO32Y"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "curseforge": "sleep-tight",
                 "modrinth": "sleep-tight"
@@ -4980,6 +5043,7 @@
                 "curseforge": "817564",
                 "modrinth": "tNai0h2Y"
             },
+            "subpath": "mechanic",
             "files": [
                 {
                     "type": "curseforge",
