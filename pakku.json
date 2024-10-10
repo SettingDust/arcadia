@@ -371,6 +371,9 @@
         },
         "chunky-autopause": {
             "subpath": "utility"
+        },
+        "starlight": {
+            "subpath": "optimization"
         }
     }
 }
