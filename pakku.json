@@ -537,6 +537,9 @@
         },
         "data-dumper": {
             "subpath": "utility"
+        },
+        "leawind-third-person": {
+            "subpath": "decoration.client"
         }
     }
 }

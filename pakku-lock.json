@@ -5947,6 +5947,74 @@
             ]
         },
         {
+            "pakku_id": "EGE1JlM5yvGs3bwO",
+            "pakku_links": [
+                "Ke4CWEmBk39ZPRWe"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "leawind-third-person",
+                "modrinth": "leawind-third-person"
+            },
+            "name": {
+                "curseforge": "Leawind's Third Person",
+                "modrinth": "Leawind's Third Person"
+            },
+            "id": {
+                "curseforge": "930880",
+                "modrinth": "S3D3QF0M"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "leawind_third_person-v2.2.0-beta.1-mc1.20-1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5797/693/leawind_third_person-v2.2.0-beta.1-mc1.20-1.20.1-forge.jar",
+                    "id": "5797693",
+                    "parent_id": "930880",
+                    "hashes": {
+                        "sha1": "1bafd1020fdfde859651dd798d744b7ac4f468b0",
+                        "md5": "1529299cbebd72dc07ce1e6f7cee7476"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 337250,
+                    "date_published": "2024-10-09T16:45:45.113Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "leawind_third_person-v2.2.0-beta.1-mc1.20-1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/S3D3QF0M/versions/R5ME0eJB/leawind_third_person-v2.2.0-beta.1-mc1.20-1.20.1-forge.jar",
+                    "id": "R5ME0eJB",
+                    "parent_id": "S3D3QF0M",
+                    "hashes": {
+                        "sha512": "f3a3ff5507eabe103b5d23aee05a5b22b50a962402ad2c3e8cd98d8f2a8e0132f787b332fa03f01058c1d611bea94d573a451f2f3bd7df60831bac8c1b0b9de0",
+                        "sha1": "2f15cd9da5a81dc6b25547d70a56f3d02469772b"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 337250,
+                    "date_published": "2024-10-09T16:30:05.283490Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ApUOqYAy0lejE8X5",
             "pakku_links": [
                 "RHvBdNlPjsRIB1o8",
