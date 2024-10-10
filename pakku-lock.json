@@ -1209,6 +1209,196 @@
             ]
         },
         {
+            "pakku_id": "ke02KZkov2tSqSaO",
+            "type": "MOD",
+            "slug": {
+                "modrinth": "chunky",
+                "curseforge": "chunky-pregenerator-forge"
+            },
+            "name": {
+                "modrinth": "Chunky",
+                "curseforge": "Chunky (Forge/NeoForge)"
+            },
+            "id": {
+                "modrinth": "fALzjamp",
+                "curseforge": "485681"
+            },
+            "aliases": [
+                "chunky-pregenerator"
+            ],
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Chunky-1.3.146.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+                    "id": "4FTDk9wv",
+                    "parent_id": "fALzjamp",
+                    "hashes": {
+                        "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+                        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 341451,
+                    "date_published": "2024-05-06T07:28:42.102951Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Chunky-1.3.146.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5320/28/Chunky-1.3.146.jar",
+                    "id": "5320028",
+                    "parent_id": "485681",
+                    "hashes": {
+                        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+                        "md5": "ed46120ac4f30ec8e03f6416e295577c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 341451,
+                    "date_published": "2024-05-06T07:10:57.567Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ftT4IBHoGNcfXS71",
+            "pakku_links": [
+                "ke02KZkov2tSqSaO"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "chunky-autopause"
+            },
+            "name": {
+                "modrinth": "Chunky Autopause"
+            },
+            "id": {
+                "modrinth": "sFQLq6Xy"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "chunky-autopause-1.20.1-0.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/sFQLq6Xy/versions/Rl0BNZwV/chunky-autopause-1.20.1-0.0.2.jar",
+                    "id": "Rl0BNZwV",
+                    "parent_id": "sFQLq6Xy",
+                    "hashes": {
+                        "sha512": "bad9333fd0153ce2b0b827912926661a548063cf61ab9790be89d73a384cc8bc8d8d7c48db058dd3c66d6ef473c02f354097791e7a6af9d24e965715964c65ca",
+                        "sha1": "1247a17ea451d186f7e9c09110c239a02f6de016"
+                    },
+                    "required_dependencies": [
+                        "fALzjamp"
+                    ],
+                    "size": 11771,
+                    "date_published": "2024-06-07T00:32:40.684440Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sQJFeRkdy9jZEgY2",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE",
+                "ke02KZkov2tSqSaO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "chunkyborder",
+                "curseforge": "chunky-border"
+            },
+            "name": {
+                "modrinth": "Chunky Border",
+                "curseforge": "Chunky Border (Fabric)"
+            },
+            "id": {
+                "modrinth": "s86X568j",
+                "curseforge": "631658"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ChunkyBorder-1.1.53.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/s86X568j/versions/74w5ono0/ChunkyBorder-1.1.53.jar",
+                    "id": "74w5ono0",
+                    "parent_id": "s86X568j",
+                    "hashes": {
+                        "sha512": "b8d0b37cc4dd9dc7e53338cab075cd7ca74a50b571b793421f13b13f9d5229c7cf9c5f471581cdce8b0d1520b373c55015c4ee821d2456d8ba1502c4a4996034",
+                        "sha1": "ecccbc9a971d261405a150e325c09fd22d24f465"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "fALzjamp"
+                    ],
+                    "size": 157179,
+                    "date_published": "2023-10-08T01:34:46.691372Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ChunkyBorder-1.1.53.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4787/15/ChunkyBorder-1.1.53.jar",
+                    "id": "4787015",
+                    "parent_id": "631658",
+                    "hashes": {
+                        "sha1": "ecccbc9a971d261405a150e325c09fd22d24f465",
+                        "md5": "1a80cd2cfcddac3910f416d90952ce69"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "433175"
+                    ],
+                    "size": 157179,
+                    "date_published": "2023-10-08T01:31:24.887Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZjVRXkiYqcOO3dUX",
             "type": "MOD",
             "slug": {
@@ -3758,7 +3948,6 @@
         {
             "pakku_id": "DbB0dEEXha8Kwsyi",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
                 "modrinth": "memoryleakfix"
             },
@@ -3768,6 +3957,7 @@
             "id": {
                 "modrinth": "NRjRiSSD"
             },
+            "subpath": "optimization",
             "files": [
                 {
                     "type": "modrinth",

@@ -359,6 +359,18 @@
         },
         "memoryleakfix": {
             "subpath": "optimization"
+        },
+        "chunky": {
+            "subpath": "utility",
+            "aliases": [
+                "chunky-pregenerator"
+            ]
+        },
+        "chunky-border": {
+            "subpath": "utility"
+        },
+        "chunky-autopause": {
+            "subpath": "utility"
         }
     }
 }

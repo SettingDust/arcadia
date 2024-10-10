@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "optimization",
     "mechanic",
-    "decoration"
+    "decoration",
+    "utility"
   ]
 }
