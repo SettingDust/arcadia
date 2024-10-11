@@ -147,6 +147,78 @@
             ]
         },
         {
+            "pakku_id": "TauFdqnnAoQhOkBk",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "adaptive-tooltips",
+                "modrinth": "adaptive-tooltips"
+            },
+            "name": {
+                "curseforge": "Adaptive Tooltips",
+                "modrinth": "Adaptive Tooltips"
+            },
+            "id": {
+                "curseforge": "704346",
+                "modrinth": "wFv8yCxM"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4773/307/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+                    "id": "4773307",
+                    "parent_id": "704346",
+                    "hashes": {
+                        "sha1": "2ff512a70c437c20523de01ea95b6fc9b164a5c0",
+                        "md5": "608561432bbe3b82dd826e24a9538f73"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 153757,
+                    "date_published": "2023-09-28T22:50:08.900Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wFv8yCxM/versions/MgbaLEPy/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+                    "id": "MgbaLEPy",
+                    "parent_id": "wFv8yCxM",
+                    "hashes": {
+                        "sha512": "4e7e930360a122eef64874a88f3410e5b050559782a8270a37e80803753af2ad1be6d9c6bd68f09ddb88e327428ff37f7e0230991fdecdd10a32b078934c7206",
+                        "sha1": "2ff512a70c437c20523de01ea95b6fc9b164a5c0"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 153757,
+                    "date_published": "2023-09-28T22:50:15.589126Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1d1OrMnl4as1tq8B",
             "pakku_links": [
                 "H4aSCPb44mSUz5cC"
@@ -212,6 +284,87 @@
                     ],
                     "size": 208851,
                     "date_published": "2024-09-27T17:45:43.359526Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "92OGVkaW5sPKxOjM",
+            "pakku_links": [
+                "rJC6pRiL9CVhnAPE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aiming-fix",
+                "modrinth": "aiming-fix"
+            },
+            "name": {
+                "curseforge": "Aiming Fix",
+                "modrinth": "Aiming Fix"
+            },
+            "id": {
+                "curseforge": "944968",
+                "modrinth": "xbTkysjx"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aimingfix-1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4915/9/aimingfix-1.0+1.20.1.jar",
+                    "id": "4915009",
+                    "parent_id": "944968",
+                    "hashes": {
+                        "sha1": "1a0d6c7a552966e06768a24f04bcdc70b3dca16c",
+                        "md5": "76a56e60bcd6a04adf64bd677c261053"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 152683,
+                    "date_published": "2023-11-30T18:46:31.297Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aimingfix-1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xbTkysjx/versions/MYpbgxZJ/aimingfix-1.0+1.20.1.jar",
+                    "id": "MYpbgxZJ",
+                    "parent_id": "xbTkysjx",
+                    "hashes": {
+                        "sha512": "49c40f3bb0a6df1af8a0e33bc1e6bcd2a7c5098a52d550557beb6cd6dadf00c6e9a38e4ef11e21ad5ec95a3b0e0df21274a8ae83c68d73da314300e83f0688bc",
+                        "sha1": "1a0d6c7a552966e06768a24f04bcdc70b3dca16c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 152683,
+                    "date_published": "2023-11-26T18:27:45.270112Z"
                 }
             ]
         },
@@ -2615,6 +2768,147 @@
             ]
         },
         {
+            "pakku_id": "sB7lbGsZNdQsIklm",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "clumps",
+                "modrinth": "clumps"
+            },
+            "name": {
+                "curseforge": "Clumps",
+                "modrinth": "Clumps"
+            },
+            "id": {
+                "curseforge": "256717",
+                "modrinth": "Wnxd13zP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+                    "id": "5278538",
+                    "parent_id": "256717",
+                    "hashes": {
+                        "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+                        "md5": "c9efc71827df6ab51e8dd0e40c3d4975"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20299,
+                    "date_published": "2024-04-21T05:04:02.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+                    "id": "nAHGB5ls",
+                    "parent_id": "Wnxd13zP",
+                    "hashes": {
+                        "sha512": "ffd8ff2438e9f9d260d3926ccdd0cccc4772c6f99f29715690aed4f6e97a76035f3aeaa78168e2a458bc4cccf521e97ebdb6e0b61c819facb04af9ebb3638383",
+                        "sha1": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20300,
+                    "date_published": "2024-04-21T05:04:09.708311Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ssIHE9qduF2bTj0Q",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "collision-fix",
+                "modrinth": "collision-fix"
+            },
+            "name": {
+                "curseforge": "Collision Fix",
+                "modrinth": "Collision Fix"
+            },
+            "id": {
+                "curseforge": "946375",
+                "modrinth": "CBtq0jWL"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CollisionFix-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5114/977/CollisionFix-1.0.1.jar",
+                    "id": "5114977",
+                    "parent_id": "946375",
+                    "hashes": {
+                        "sha1": "a6c39b00357be9309633d58a204c84419c9d8a9f",
+                        "md5": "71dbc72d0b999c38cdfc2718f9979c03"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 58286,
+                    "date_published": "2024-02-17T14:33:06.927Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CollisionFix-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CBtq0jWL/versions/srnyGoVX/CollisionFix-1.0.1.jar",
+                    "id": "srnyGoVX",
+                    "parent_id": "CBtq0jWL",
+                    "hashes": {
+                        "sha512": "e09978362bdebdc41bb2ff354106d021f6bef3c1bf06b217235f65478f5fd854a9f02cf8ff001121506f42422f10599792097e6611904f97362d3448a24169f6",
+                        "sha1": "a6c39b00357be9309633d58a204c84419c9d8a9f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 58286,
+                    "date_published": "2024-02-17T14:29:35.355339Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "K8DFEQF3JLBHEw0a",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE",
@@ -3479,6 +3773,70 @@
                     ],
                     "size": 180522,
                     "date_published": "2024-03-29T12:34:45.073Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yzxHkNANOTRoHGsT",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "dimensional-sync-fixes",
+                "modrinth": "dimensional-sync-fixes"
+            },
+            "name": {
+                "curseforge": "Dimensional Sync Fixes",
+                "modrinth": "Dimensional Sync Fixes"
+            },
+            "id": {
+                "curseforge": "829521",
+                "modrinth": "445bpKSe"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4960/343/dimensionalsycnfixes-1.20.1-0.0.1.jar",
+                    "id": "4960343",
+                    "parent_id": "829521",
+                    "hashes": {
+                        "sha1": "9912745e0ec510cad4211ffc0c21eb2b81a51e9d",
+                        "md5": "b960de4daf0e9e2908ac7ca9b6fdbfb3"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3081,
+                    "date_published": "2023-12-16T07:23:27.893Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/445bpKSe/versions/Czaob9r1/dimensionalsycnfixes-1.20.1-0.0.1.jar",
+                    "id": "Czaob9r1",
+                    "parent_id": "445bpKSe",
+                    "hashes": {
+                        "sha512": "3a6d103aee7af3d4cbcf04c62620cc494f86a904af5e1b3469d429e41831a4e35ce1ec252d6fd96a5cda3c97a73165b9dda4fad1baabf9da471c3cd3f8f84f95",
+                        "sha1": "9912745e0ec510cad4211ffc0c21eb2b81a51e9d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3081,
+                    "date_published": "2023-12-16T08:24:38.137922Z"
                 }
             ]
         },
@@ -6045,6 +6403,70 @@
             ]
         },
         {
+            "pakku_id": "CZOfMQi56kEYsxII",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fixbookgui",
+                "modrinth": "fixbookgui"
+            },
+            "name": {
+                "curseforge": "FixBookGUI",
+                "modrinth": "FixBookGUI"
+            },
+            "id": {
+                "curseforge": "811449",
+                "modrinth": "myKgAJq6"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fixbookgui-mc1.20.1-1.4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4659/109/fixbookgui-mc1.20.1-1.4.1.jar",
+                    "id": "4659109",
+                    "parent_id": "811449",
+                    "hashes": {
+                        "sha1": "920d8b03c66fe9b94481db5589b37b28c9cedf3d",
+                        "md5": "25f68b57f7491161a97f76232d7ce643"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 13661,
+                    "date_published": "2023-07-22T23:05:17.700Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fixbookgui-mc1.20.1-1.4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/myKgAJq6/versions/bw79bNtV/fixbookgui-mc1.20.1-1.4.1.jar",
+                    "id": "bw79bNtV",
+                    "parent_id": "myKgAJq6",
+                    "hashes": {
+                        "sha512": "1a41fc6f981bc1e3c9ec7cf8d9a76402d36244569355a7eb9128ba586e4e232b991b642bcfbd368991c45bee6f62ed6e1566efb091016e0430576053a09f24e1",
+                        "sha1": "920d8b03c66fe9b94481db5589b37b28c9cedf3d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 13661,
+                    "date_published": "2023-07-22T23:05:19.272439Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pHByDAn5jhsAqGH5",
             "pakku_links": [
                 "rJC6pRiL9CVhnAPE",
@@ -6877,6 +7299,82 @@
                     ],
                     "size": 133685,
                     "date_published": "2024-02-26T20:59:07.807Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ymgAsyrYhEF800eE",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "illegal-stack-fixer",
+                "modrinth": "illegal-stack-fixer"
+            },
+            "name": {
+                "curseforge": "Illegal Stack Fixer",
+                "modrinth": "Illegal Stack Fixer"
+            },
+            "id": {
+                "curseforge": "482910",
+                "modrinth": "1P8FCviI"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5018/86/illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar",
+                    "id": "5018086",
+                    "parent_id": "482910",
+                    "hashes": {
+                        "sha1": "62f66112a52c1e6629c2158e8044f824334a892d",
+                        "md5": "e3314048ae0a0f2caea3e3a0c9ddd037"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20954,
+                    "date_published": "2024-01-08T18:43:24.103Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1P8FCviI/versions/KzcF7Ekr/illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar",
+                    "id": "KzcF7Ekr",
+                    "parent_id": "1P8FCviI",
+                    "hashes": {
+                        "sha512": "853682e242cf5d8d84ea7653eebab67fe4fd8ce02e01aa8a19ed2ca1623a69e92a506a9bb8186f7e3d7907e19a81324ccca601ec197ca66e1515acfdedd718cd",
+                        "sha1": "62f66112a52c1e6629c2158e8044f824334a892d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20954,
+                    "date_published": "2024-01-08T18:43:23.537890Z"
                 }
             ]
         },
@@ -8082,7 +8580,7 @@
             "id": {
                 "modrinth": "NRjRiSSD"
             },
-            "subpath": "optimization",
+            "subpath": "fix",
             "files": [
                 {
                     "type": "modrinth",
@@ -9053,6 +9551,70 @@
             ]
         },
         {
+            "pakku_id": "c0AlcjRrPyjeWhKP",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "night-config-fixes",
+                "modrinth": "night-config-fixes"
+            },
+            "name": {
+                "curseforge": "Night Config Fixes [Forge & Fabric]",
+                "modrinth": "Night Config Fixes"
+            },
+            "id": {
+                "curseforge": "813369",
+                "modrinth": "HgALhmVM"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NightConfigFixes-v8.0.0-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4614/68/NightConfigFixes-v8.0.0-1.20.1-Forge.jar",
+                    "id": "4614068",
+                    "parent_id": "813369",
+                    "hashes": {
+                        "sha1": "2de80b00fc76c2cc850512a2d7b9301282d79ce1",
+                        "md5": "b55c8bc6bd1ada8935dd95534d25fc56"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 63763,
+                    "date_published": "2023-06-28T15:05:17.680Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "NightConfigFixes-v8.0.0-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HgALhmVM/versions/w9KFDZkY/NightConfigFixes-v8.0.0-1.20.1-Forge.jar",
+                    "id": "w9KFDZkY",
+                    "parent_id": "HgALhmVM",
+                    "hashes": {
+                        "sha512": "fb643fb9ee00dea24159a70227148ca20d87fda2cd254614b78dcb270b53f645b68a57aa9fc6261219324c8fb3c91ced893133f44dad3b28bb81eb1bbf93b380",
+                        "sha1": "2de80b00fc76c2cc850512a2d7b9301282d79ce1"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 63763,
+                    "date_published": "2023-06-28T15:05:21.482793Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7EcrbLg1E2zYOsEa",
             "type": "MOD",
             "side": "BOTH",
@@ -9469,6 +10031,79 @@
                     ],
                     "size": 2831148,
                     "date_published": "2024-04-28T21:22:38.047Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Pag5Dct8CjU4Gveg",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "packet-fixer",
+                "modrinth": "packet-fixer"
+            },
+            "name": {
+                "curseforge": "Packet Fixer",
+                "modrinth": "Packet Fixer"
+            },
+            "id": {
+                "curseforge": "689467",
+                "modrinth": "c7m1mi73"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5416/166/packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+                    "id": "5416166",
+                    "parent_id": "689467",
+                    "hashes": {
+                        "sha1": "fde1ac873b9a07ec2ad7dab2c2a6249b11151664",
+                        "md5": "7d9df4ab58a48eae97e3ac5279b50b76"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22067,
+                    "date_published": "2024-06-10T19:21:05.747Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/AScUisZl/packetfixer-forge-1.4.2-1.19-to-1.20.1.jar",
+                    "id": "AScUisZl",
+                    "parent_id": "c7m1mi73",
+                    "hashes": {
+                        "sha512": "5117290f545708d2bed4a79a9225008537d6fae5714a534e3b9c16671f09e384db0db98b312f457f09525b5da87b48ff9e1356885285128fbcd8ec5ba4e6dac5",
+                        "sha1": "fde1ac873b9a07ec2ad7dab2c2a6249b11151664"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 22067,
+                    "date_published": "2024-06-10T19:18:42.081511Z"
                 }
             ]
         },
@@ -10517,6 +11152,54 @@
             ]
         },
         {
+            "pakku_id": "3QeQDk6ZkKXtDaKn",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "realistic-rowing"
+            },
+            "name": {
+                "modrinth": "Realistic Rowing"
+            },
+            "id": {
+                "modrinth": "afWvXmW4"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "realistic-rowing-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/afWvXmW4/versions/galT4gMl/realistic-rowing-1.0.0.jar",
+                    "id": "galT4gMl",
+                    "parent_id": "afWvXmW4",
+                    "hashes": {
+                        "sha512": "7911faf43f9475dab7294451b0337f3445fc98bba2b97d36bf2343a24c4ca27725570669081f5a3ccbb7e23fa881ebcd50e486c2008e4c58f3de07494a798a8f",
+                        "sha1": "5354218dd09bdcb055f867257e9abd49d4a725ba"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 61883,
+                    "date_published": "2023-10-13T23:57:00.424180Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KsFAVq9lKeuTnUaF",
             "pakku_links": [
                 "idmS3r2ex2Wy4RUr"
@@ -11062,6 +11745,86 @@
                     ],
                     "size": 42730,
                     "date_published": "2024-10-10T14:33:02.677Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YIVy2kFUZnS3wifJ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "serverpingerfixer",
+                "modrinth": "serverpingerfixer"
+            },
+            "name": {
+                "curseforge": "Server Pinger Fixer",
+                "modrinth": "Server Pinger Fixer"
+            },
+            "id": {
+                "curseforge": "968681",
+                "modrinth": "iqK5uv72"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "serverpingerfixer-1.0.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5069/7/serverpingerfixer-1.0.4.jar",
+                    "id": "5069007",
+                    "parent_id": "968681",
+                    "hashes": {
+                        "sha1": "e68da275e6246fdb4e0241ba1df35182e1d0ffd2",
+                        "md5": "9c94c8925a4535a6d28f8a38b05cd876"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 7158,
+                    "date_published": "2024-01-30T08:45:29.600Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "serverpingerfixer-1.0.4.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iqK5uv72/versions/fHvfA2My/serverpingerfixer-1.0.4.jar",
+                    "id": "fHvfA2My",
+                    "parent_id": "iqK5uv72",
+                    "hashes": {
+                        "sha512": "3362669e03fb8b70c7e90d5506e26971acd6cba6ed95b6042dd097af6f933e05a7801be79662830120eb76184eb624fbbfdde5fde9cba4bbdaad2896ed26d37b",
+                        "sha1": "e68da275e6246fdb4e0241ba1df35182e1d0ffd2"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 7158,
+                    "date_published": "2024-01-30T08:44:52.898574Z"
                 }
             ]
         },
@@ -12245,6 +13008,77 @@
             ]
         },
         {
+            "pakku_id": "KBPAuXschGYoS3be",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "switcher",
+                "modrinth": "switcher"
+            },
+            "name": {
+                "curseforge": "Switcher",
+                "modrinth": "Switcher"
+            },
+            "id": {
+                "curseforge": "667325",
+                "modrinth": "9qFqyStE"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "switcher-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4582/641/switcher-1.1.0.jar",
+                    "id": "4582641",
+                    "parent_id": "667325",
+                    "hashes": {
+                        "sha1": "9bb17fdcdc4d4ebd0c235740099f9cff6c2f9758",
+                        "md5": "55d2834f8a8f63384e64f01c89b645b8"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 240794,
+                    "date_published": "2023-06-12T16:21:47.923Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "switcher-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9qFqyStE/versions/vKzeUPNT/switcher-1.1.0.jar",
+                    "id": "vKzeUPNT",
+                    "parent_id": "9qFqyStE",
+                    "hashes": {
+                        "sha512": "3464cda04f08aac01a7ef1a11868f8574f4344cfd358845cf506fbc394d447979260f5eeded0ca54680c2f4a7d9220e98181ffd7d241ad777013c70660b58f8e",
+                        "sha1": "9bb17fdcdc4d4ebd0c235740099f9cff6c2f9758"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 240794,
+                    "date_published": "2023-06-12T16:20:28.792733Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZDvpc72pxpa6FQgE",
             "pakku_links": [
                 "ZjVRXkiYqcOO3dUX",
@@ -13099,6 +13933,52 @@
             ]
         },
         {
+            "pakku_id": "fbFstmIvHloUoOyx",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "volume-fix"
+            },
+            "name": {
+                "modrinth": "Volume Fix"
+            },
+            "id": {
+                "modrinth": "Iywe4QI4"
+            },
+            "subpath": "fix.client",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "volumefix-1.1.0+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Iywe4QI4/versions/JT0G5l1c/volumefix-1.1.0+1.20.jar",
+                    "id": "JT0G5l1c",
+                    "parent_id": "Iywe4QI4",
+                    "hashes": {
+                        "sha512": "d59b5f5e3ba9a005eba0814ad16f51c9f4ca9faa9012835d717c365b9d5b882ec8266a7b967666a566a614e5ab16400a1fdeab0066cf804ac5468a0dd9a9a6ee",
+                        "sha1": "ad388653a1c84cea3caf56afa66b36c223d8ffb2"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 9460,
+                    "date_published": "2023-06-08T01:33:59.021062Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VpLOmpfiyv34ZDQ9",
             "pakku_links": [
                 "DuBWkC5IokuggOXP",
@@ -13714,6 +14594,45 @@
                     ],
                     "size": 156892,
                     "date_published": "2023-08-14T17:45:01.367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "L44lXx9TYt4XQpSr",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "asahi"
+            },
+            "name": {
+                "modrinth": "asahi"
+            },
+            "id": {
+                "modrinth": "CPo6Ht5f"
+            },
+            "subpath": "fix",
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "asahi-1.1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CPo6Ht5f/versions/6oJsrNKH/asahi-1.1.0+1.20.1.jar",
+                    "id": "6oJsrNKH",
+                    "parent_id": "CPo6Ht5f",
+                    "hashes": {
+                        "sha512": "3023ee4eae8535051c0eccaab6e4f92a05502e75f6b64054d922e041cb09d2121fd864f85956b14683dda0917709f4a4d981385ec8ff5a3849b87dcfcd990381",
+                        "sha1": "a046a905cb9286e89461373f1118d57cb5eddb47"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 8805,
+                    "date_published": "2024-08-04T08:13:39.068154Z"
                 }
             ]
         },

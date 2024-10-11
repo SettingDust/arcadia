@@ -279,7 +279,7 @@
             "subpath": "mechanic"
         },
         "memoryleakfix": {
-            "subpath": "optimization"
+            "subpath": "fix"
         },
         "merchant-markers": {
             "subpath": "utility.client"
@@ -666,6 +666,48 @@
         },
         "yungs-api": {
             "subpath": "0libs"
+        },
+        "aiming-fix": {
+            "subpath": "fix"
+        },
+        "illegal-stack-fixer": {
+            "subpath": "fix"
+        },
+        "night-config-fixes": {
+            "subpath": "fix"
+        },
+        "dimensional-sync-fixes": {
+            "subpath": "fix"
+        },
+        "packet-fixer": {
+            "subpath": "fix"
+        },
+        "adaptive-tooltips": {
+            "subpath": "fix"
+        },
+        "asahi": {
+            "subpath": "fix"
+        },
+        "fixbookgui": {
+            "subpath": "fix.client"
+        },
+        "realistic-rowing": {
+            "subpath": "fix.client"
+        },
+        "serverpingerfixer": {
+            "subpath": "fix.client"
+        },
+        "switcher": {
+            "subpath": "fix.client"
+        },
+        "volume-fix": {
+            "subpath": "fix.client"
+        },
+        "collision-fix": {
+            "subpath": "optimization.client"
+        },
+        "clumps": {
+            "subpath": "optimization"
         }
     }
 }
