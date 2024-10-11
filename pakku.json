@@ -708,6 +708,36 @@
         },
         "clumps": {
             "subpath": "optimization"
+        },
+        "appleskin": {
+            "subpath": "utility"
+        },
+        "better-climbing": {
+            "subpath": "mechanic"
+        },
+        "better-compatibility-checker": {
+            "subpath": "utility"
+        },
+        "better-stats": {
+            "subpath": "utility"
+        },
+        "boat-fall": {
+            "subpath": "mechanic"
+        },
+        "corpse": {
+            "subpath": "mechanic"
+        },
+        "cauldron-dyeing": {
+            "subpath": "mechanic"
+        },
+        "companion": {
+            "subpath": "mechanic"
+        },
+        "connectiblechains": {
+            "subpath": "utility"
+        },
+        "double-doors": {
+            "subpath": "utility"
         }
     }
 }
