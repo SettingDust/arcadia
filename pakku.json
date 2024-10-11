@@ -792,6 +792,129 @@
         },
         "stylish-stiles": {
             "subpath": "utility"
+        },
+        "tax-free-levels": {
+            "subpath": "mechanic"
+        },
+        "treechop": {
+            "subpath": "mechanic"
+        },
+        "unloaded-activity": {
+            "subpath": "mechanic"
+        },
+        "villager-converting": {
+            "subpath": "mechanic"
+        },
+        "villager-transportation": {
+            "subpath": "mechanic"
+        },
+        "wandering-collector": {
+            "subpath": "mechanic"
+        },
+        "y-is-there-autojump": {
+            "subpath": "mechanic"
+        },
+        "urkaz-moon-tools": {
+            "subpath": "utility"
+        },
+        "auto-third-person": {
+            "subpath": "utility.client"
+        },
+        "third-person-maps": {
+            "subpath": "utility.client"
+        },
+        "better-resource-pack-sorting": {
+            "subpath": "utility.client"
+        },
+        "draggable-lists": {
+            "subpath": "utility.client"
+        },
+        "better-advancements": {
+            "subpath": "utility.client"
+        },
+        "better-mount-hud": {
+            "subpath": "utility.client"
+        },
+        "better-taskbar": {
+            "subpath": "utility.client"
+        },
+        "better-trim-tooltips": {
+            "subpath": "utility.client"
+        },
+        "boat-item-view": {
+            "subpath": "utility.client"
+        },
+        "bridging-mod": {
+            "subpath": "utility.client"
+        },
+        "controlify": {
+            "subpath": "utility.client"
+        },
+        "dashboard": {
+            "subpath": "utility.client"
+        },
+        "ding": {
+            "subpath": "utility.client"
+        },
+        "dcwa": {
+            "subpath": "utility.client"
+        },
+        "enhanced-attack-indicator": {
+            "subpath": "utility.client"
+        },
+        "enhancedbookwriting": {
+            "subpath": "utility.client"
+        },
+        "f3-everywhere": {
+            "subpath": "utility.client"
+        },
+        "fadeless": {
+            "subpath": "utility.client"
+        },
+        "fastquit": {
+            "subpath": "utility.client"
+        },
+        "itemswapper": {
+            "subpath": "utility.client"
+        },
+        "justenoughcharacters": {
+            "subpath": "utility.client"
+        },
+        "keepthatmusic": {
+            "subpath": "utility.client"
+        },
+        "keybind-fix": {
+            "subpath": "utility.client"
+        },
+        "dusts-keymap": {
+            "subpath": "utility.client"
+        },
+        "language-reload": {
+            "subpath": "utility.client"
+        },
+        "no-resource-pack-warnings": {
+            "subpath": "utility.client"
+        },
+        "persistent-inventory-search": {
+            "subpath": "utility.client"
+        },
+        "quick-menu": {
+            "subpath": "utility.client"
+        },
+        "raised": {
+            "subpath": "utility.client"
+        },
+        "screenshot-to-clipboard": {
+            "subpath": "utility.client"
+        },
+        "spyglass-improvements": {
+            "subpath": "utility.client"
+        },
+        "tslatentitystatus": {
+            "subpath": "utility.client"
+        },
+        "yungs-menu-tweaks": {
+            "subpath": "utility.client"
         }
     }
 }
