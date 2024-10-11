@@ -756,6 +756,42 @@
         },
         "herdspanic": {
             "subpath": "mechanic"
+        },
+        "inventory-management": {
+            "subpath": "utility"
+        },
+        "labels": {
+            "subpath": "utility"
+        },
+        "mobs-on-rails": {
+            "subpath": "mechanic"
+        },
+        "passable-foliage": {
+            "subpath": "mechanic"
+        },
+        "powershot": {
+            "subpath": "mechanic"
+        },
+        "pvpflag": {
+            "subpath": "mechanic"
+        },
+        "replanting-crops": {
+            "subpath": "mechanic"
+        },
+        "saplanting": {
+            "subpath": "mechanic"
+        },
+        "separatedleaves": {
+            "subpath": "mechanic"
+        },
+        "smarter-farmers-farmers-replant": {
+            "subpath": "mechanic"
+        },
+        "stairdoors-extended": {
+            "subpath": "mechanic"
+        },
+        "stylish-stiles": {
+            "subpath": "utility"
         }
     }
 }
