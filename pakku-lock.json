@@ -715,6 +715,7 @@
                 "curseforge": "838498",
                 "modrinth": "Q8xUICr6"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -1273,7 +1274,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "file_name": "bettermobcombat-forge-1.20.1-1.2.4-all.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1282,25 +1283,25 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/KU8N7kPc/versions/QQeDVaxe/Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
-                    "id": "QQeDVaxe",
+                    "url": "https://cdn.modrinth.com/data/KU8N7kPc/versions/jkRg6sUV/bettermobcombat-forge-1.20.1-1.2.4-all.jar",
+                    "id": "jkRg6sUV",
                     "parent_id": "KU8N7kPc",
                     "hashes": {
-                        "sha512": "d69cc4f5f758d638d2a46551a8acb663a27642e2fceaa9db3e7b83d1b40a62158544283785be7e8ceb440fecf6f143396a7b02eebbd4e1307da950e97b520196",
-                        "sha1": "efdbe6febaca07a08908196d2c84d0da9f53d0fd"
+                        "sha512": "f2bf1bf55b283decb9ad65f8431b15d003891bfef46d732f5a262a584acf99bc57f16383639cef61a2bdedaf7d67346c1e00b44f64b278057c39fdfb8d1a7516",
+                        "sha1": "061d41d24c846654374a6961af81f67385eb09f3"
                     },
                     "required_dependencies": [
-                        "9s6osm5g",
                         "5sy6g3kz",
+                        "gedNE4y2",
                         "zkK9lPaS",
-                        "gedNE4y2"
+                        "9s6osm5g"
                     ],
-                    "size": 264603,
-                    "date_published": "2024-09-12T22:32:11.913152Z"
+                    "size": 264626,
+                    "date_published": "2024-10-10T23:30:13.223898Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
+                    "file_name": "bettermobcombat-forge-1.20.1-1.2.4-all.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1309,21 +1310,21 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5717/986/Better Mob Combat-forge-1.20.1-1.2.2-all.jar",
-                    "id": "5717986",
+                    "url": "https://edge.forgecdn.net/files/5801/570/bettermobcombat-forge-1.20.1-1.2.4-all.jar",
+                    "id": "5801570",
                     "parent_id": "1058798",
                     "hashes": {
-                        "sha1": "efdbe6febaca07a08908196d2c84d0da9f53d0fd",
-                        "md5": "402996ea2c134c6aaf15448b21eb4164"
+                        "sha1": "061d41d24c846654374a6961af81f67385eb09f3",
+                        "md5": "e8d6cec5b86fd52b340184cf0ab89fd0"
                     },
                     "required_dependencies": [
+                        "658587",
                         "348521",
                         "639842",
-                        "1058791",
-                        "658587"
+                        "1058791"
                     ],
-                    "size": 264603,
-                    "date_published": "2024-09-12T22:33:03.417Z"
+                    "size": 264626,
+                    "date_published": "2024-10-10T23:28:57.037Z"
                 }
             ]
         },
@@ -2812,6 +2813,7 @@
                 "curseforge": "257814",
                 "modrinth": "OsZiaDHq"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -3245,7 +3247,7 @@
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "DataDumper-0.5.0.jar",
+                    "file_name": "DataDumper-0.5.1.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -3258,18 +3260,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5799/837/DataDumper-0.5.0.jar",
-                    "id": "5799837",
+                    "url": "https://edge.forgecdn.net/files/5800/403/DataDumper-0.5.1.jar",
+                    "id": "5800403",
                     "parent_id": "1118762",
                     "hashes": {
-                        "sha1": "23ca904a8eaeec905d68fe8c86fa27947c0db075",
-                        "md5": "59606e91ede7150d9454598c0cd080d4"
+                        "sha1": "4ebb5b4a6c7a4d825ca18e08a30672cc3d39a0be",
+                        "md5": "17b3c475f3eeb29e8c30d379b4214d43"
                     },
                     "required_dependencies": [
                         "308769"
                     ],
-                    "size": 42364,
-                    "date_published": "2024-10-10T09:37:22.677Z"
+                    "size": 42354,
+                    "date_published": "2024-10-10T14:38:36.227Z"
                 }
             ]
         },
@@ -7337,7 +7339,7 @@
                 "curseforge": "258587",
                 "modrinth": "aT8BzaOj"
             },
-            "subpath": "decoration.client",
+            "subpath": "decoration",
             "files": [
                 {
                     "type": "curseforge",
@@ -9692,6 +9694,7 @@
                 "curseforge": "421897",
                 "modrinth": "nrikgvxm"
             },
+            "subpath": "decoration.client",
             "files": [
                 {
                     "type": "curseforge",
@@ -12479,7 +12482,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "immersivelanterns-forge-1.0.2-1.20.1.jar",
+                    "file_name": "immersivelanterns-forge-1.0.3-1.20.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -12488,24 +12491,24 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vskzdsyT/versions/zuwTMwS5/immersivelanterns-forge-1.0.2-1.20.1.jar",
-                    "id": "zuwTMwS5",
+                    "url": "https://cdn.modrinth.com/data/vskzdsyT/versions/8k9mTy5r/immersivelanterns-forge-1.0.3-1.20.1.jar",
+                    "id": "8k9mTy5r",
                     "parent_id": "vskzdsyT",
                     "hashes": {
-                        "sha512": "1c29e939eb65a0dbdd878e31c498f8df678d08655f1809f1e658e50c568c9eac9ad3ef935151913deb86886c8e1d42ceb3452afefdac366dd6725b8ad8e9b9b7",
-                        "sha1": "49845cee5ce6f2a2397e274d423acf5e251b5a78"
+                        "sha512": "771f7e1638c873052bf7cdae60b90ae19e739ed977ce434ec06cc33ad80fe55a9e437fbc54bd6343b8c85af58955af9a6dd282f31243ca2546150d4e3e536c38",
+                        "sha1": "4430895c9b9a3cdbfe527d555716de49658ed5a3"
                     },
                     "required_dependencies": [
-                        "PxQSWIcD",
                         "jtmvUHXj",
+                        "PxQSWIcD",
                         "vBbPDuOs"
                     ],
-                    "size": 358116,
-                    "date_published": "2024-10-10T01:17:11.596006Z"
+                    "size": 358189,
+                    "date_published": "2024-10-10T22:56:21.710965Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "immersivelanterns-forge-1.0.2-1.20.1.jar",
+                    "file_name": "immersivelanterns-forge-1.0.3-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -12514,20 +12517,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5799/86/immersivelanterns-forge-1.0.2-1.20.1.jar",
-                    "id": "5799086",
+                    "url": "https://edge.forgecdn.net/files/5801/495/immersivelanterns-forge-1.0.3-1.20.1.jar",
+                    "id": "5801495",
                     "parent_id": "1116812",
                     "hashes": {
-                        "sha1": "49845cee5ce6f2a2397e274d423acf5e251b5a78",
-                        "md5": "19d58a63f529b628093d4f0c85f9d558"
+                        "sha1": "4430895c9b9a3cdbfe527d555716de49658ed5a3",
+                        "md5": "877b4caec9a72c0373a492b2aa41b796"
                     },
                     "required_dependencies": [
                         "551736",
                         "938917",
                         "1104882"
                     ],
-                    "size": 358116,
-                    "date_published": "2024-10-10T01:17:09.190Z"
+                    "size": 358189,
+                    "date_published": "2024-10-10T22:56:20.543Z"
                 }
             ]
         },
@@ -13301,6 +13304,7 @@
                 "curseforge": "421850",
                 "modrinth": "Ua7DFN59"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -14089,6 +14093,7 @@
             "id": {
                 "modrinth": "Y8uFrUil"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "modrinth",
