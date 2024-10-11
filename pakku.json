@@ -738,6 +738,24 @@
         },
         "double-doors": {
             "subpath": "utility"
+        },
+        "shulkerboxtooltip": {
+            "subpath": "utility.client"
+        },
+        "effective": {
+            "subpath": "utility.client"
+        },
+        "effortless": {
+            "subpath": "utility"
+        },
+        "fish-on-the-line": {
+            "subpath": "mechanic"
+        },
+        "fish-of-thieves": {
+            "subpath": "content"
+        },
+        "herdspanic": {
+            "subpath": "mechanic"
         }
     }
 }
