@@ -58,7 +58,10 @@
             "subpath": "0libs"
         },
         "better-modlist": {
-            "subpath": "decoration.client"
+            "subpath": "decoration.client",
+            "aliases": [
+                "modmenu"
+            ]
         },
         "biome-tag-villagers": {
             "side": "BOTH",
@@ -915,6 +918,136 @@
         },
         "yungs-menu-tweaks": {
             "subpath": "utility.client"
+        },
+        "c2me-fabric": {
+            "subpath": "optimization"
+        },
+        "raknetify": {
+            "subpath": "optimization"
+        },
+        "chatpatches": {
+            "subpath": "utility.client"
+        },
+        "tcdcommons": {
+            "subpath": "0libs"
+        },
+        "kiwi": {
+            "subpath": "0libs"
+        },
+        "collective": {
+            "subpath": "0libs"
+        },
+        "ichunutil": {
+            "subpath": "0libs"
+        },
+        "sushi-bar": {
+            "subpath": "0libs"
+        },
+        "particular": {
+            "subpath": "decoration.client"
+        },
+        "leave-my-bars-alone": {
+            "subpath": "utility.client"
+        },
+        "auto-hud": {
+            "subpath": "utility.client"
+        },
+        "lodestone": {
+            "subpath": "0libs"
+        },
+        "accessories-cc-layer": {
+            "subpath": "0libs",
+            "aliases": [
+                "curios"
+            ]
+        },
+        "stained-lenses": {
+            "subpath": "utility"
+        },
+        "connector-extras": {
+            "subpath": "utility"
+        },
+        "arrow-entity-loot-drop": {
+            "subpath": "mechanic"
+        },
+        "axiom": {
+            "redistributable": false,
+            "subpath": "utility"
+        },
+        "better-suggestions": {
+            "subpath": "utility"
+        },
+        "suggestion-tweaker": {
+            "subpath": "utility"
+        },
+        "blabber": {
+            "subpath": "utility"
+        },
+        "heracles-for-blabber": {
+            "subpath": "utility"
+        },
+        "heracles": {
+            "subpath": "utility"
+        },
+        "resourceful-lib": {
+            "subpath": "0libs"
+        },
+        "heracles-for-villagers": {
+            "subpath": "utility"
+        },
+        "wits": {
+            "subpath": "utility"
+        },
+        "commandstructures": {
+            "subpath": "utility"
+        },
+        "data-attributes-directors-cut": {
+            "subpath": "utility"
+        },
+        "datamancer": {
+            "subpath": "utility"
+        },
+        "identifier-translation": {
+            "subpath": "utility"
+        },
+        "inv-view-forge": {
+            "subpath": "utility"
+        },
+        "lmft": {
+            "subpath": "utility"
+        },
+        "log-begone": {
+            "subpath": "utility"
+        },
+        "luckperms": {
+            "subpath": "utility"
+        },
+        "lychee": {
+            "subpath": "utility"
+        },
+        "mclogs": {
+            "subpath": "utility"
+        },
+        "the-mighty-architectury": {
+            "subpath": "utility"
+        },
+        "nbt-autocomplete": {
+            "subpath": "utility"
+        },
+        "neruina": {
+            "subpath": "utility"
+        },
+        "paxi": {
+            "subpath": "utility"
+        },
+        "revelationary": {
+            "subpath": "utility"
+        },
+        "village-spawn-point": {
+            "subpath": "utility"
+        },
+        "notenoughcrashes": {
+            "subpath": "utility"
         }
     }
 }
