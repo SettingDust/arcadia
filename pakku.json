@@ -1086,13 +1086,13 @@
             "subpath": "0libs"
         },
         "creature-compendium": {
-            "subpath": "content.mobs"
+            "subpath": "content.creature"
         },
         "illager-revolution": {
-            "subpath": "content.mobs"
+            "subpath": "content.creature"
         },
         "illager-invasion": {
-            "subpath": "content.mobs"
+            "subpath": "content.creature"
         },
         "summoningrituals": {
             "subpath": "utility"
@@ -1111,6 +1111,27 @@
         },
         "natures-spirit": {
             "subpath": "worldgen.biomes"
+        },
+        "async-pack-scan": {
+            "subpath": "utility"
+        },
+        "respackopts": {
+            "subpath": "utility"
+        },
+        "creeper-overhaul": {
+            "subpath": "content.creature"
+        },
+        "enderman-overhaul": {
+            "subpath": "content.creature"
+        },
+        "nightlights": {
+            "subpath": "decoration"
+        },
+        "ribbits": {
+            "subpath": "content.creature"
+        },
+        "resourceful-config": {
+            "subpath": "0libs"
         }
     }
 }
