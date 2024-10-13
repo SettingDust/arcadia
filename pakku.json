@@ -956,7 +956,7 @@
             "subpath": "0libs"
         },
         "accessories-cc-layer": {
-            "subpath": "0libs",
+            "subpath": "content.rpg",
             "aliases": [
                 "curios"
             ]
@@ -1048,6 +1048,69 @@
         },
         "notenoughcrashes": {
             "subpath": "utility"
+        },
+        "vmct": {
+            "redistributable": false
+        },
+        "vanity-core": {
+            "subpath": "decoration"
+        },
+        "vanity-aesthetic-armory": {
+            "subpath": "decoration"
+        },
+        "vanity-colossal-weapons": {
+            "subpath": "decoration"
+        },
+        "vanity-ornate-weaponry": {
+            "subpath": "decoration"
+        },
+        "vanity-ancient-tool-variants": {
+            "subpath": "decoration"
+        },
+        "vanity-twilight-zone": {
+            "subpath": "decoration"
+        },
+        "pet-cemetery": {
+            "subpath": "utility"
+        },
+        "boatload": {
+            "subpath": "utility"
+        },
+        "clayworks": {
+            "subpath": "utility"
+        },
+        "woodworks": {
+            "subpath": "utility"
+        },
+        "blueprint": {
+            "subpath": "0libs"
+        },
+        "creature-compendium": {
+            "subpath": "content.mobs"
+        },
+        "illager-revolution": {
+            "subpath": "content.mobs"
+        },
+        "illager-invasion": {
+            "subpath": "content.mobs"
+        },
+        "summoningrituals": {
+            "subpath": "utility"
+        },
+        "lukis-grand-capitals": {
+            "subpath": "worldgen.structures"
+        },
+        "terrablender": {
+            "subpath": "0libs",
+            "aliases": [
+                "terrablender-fabric"
+            ]
+        },
+        "geckolib": {
+            "subpath": "0libs"
+        },
+        "natures-spirit": {
+            "subpath": "worldgen.biomes"
         }
     }
 }
