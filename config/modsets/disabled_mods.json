@@ -1,1 +1,11 @@
-["nsight_loader","particlerain","dynamic_textures","fluidvoidfading","controlify","raknetify","draggable_lists","raised"]
+[
+  "nsight_loader",
+  "dynamic_textures",
+  "fluidvoidfading",
+  "controlify",
+  "raknetify",
+  "draggable_lists",
+  "raised",
+  "better_suggestions",
+  "profundis"
+]
