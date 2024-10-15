@@ -1,1592 +1,1638 @@
 {
-  "name": "arcadia",
-  "version": "0.0.1",
-  "overrides": ["config"],
-  "projects": {
-    "3dskinlayers": {
-      "subpath": "decoration.client"
-    },
-    "accessories": {
-      "subpath": "content.rpg"
-    },
-    "accessories-cc-layer": {
-      "aliases": ["curios"],
-      "subpath": "content.rpg"
-    },
-    "accessories-tc-layer": {
-      "aliases": ["trinkets"],
-      "subpath": "content.rpg"
-    },
-    "adaptive-tooltips": {
-      "subpath": "fix"
-    },
-    "additional-rpg-jewelry": {
-      "subpath": "content.rpg"
-    },
-    "advancement-plaques": {
-      "side": "BOTH",
-      "subpath": "decoration"
-    },
-    "aiming-fix": {
-      "subpath": "fix"
-    },
-    "alexs-caves": {
-      "subpath": "worldgen.biome"
-    },
-    "alexscaves-torpedoes": {
-      "subpath": "content"
-    },
-    "alloy-forgery": {
-      "subpath": "mechanic"
-    },
-    "almost-unified": {
-      "subpath": "utility"
-    },
-    "alternate-current": {
-      "subpath": "optimization"
-    },
-    "ambient-environment": {
-      "subpath": "decoration.client"
-    },
-    "amendments": {
-      "subpath": "mechanic"
-    },
-    "animationoverhaul": {
-      "subpath": "decoration.client"
-    },
-    "appleskin": {
-      "subpath": "utility"
-    },
-    "archeological": {
-      "subpath": "content"
-    },
-    "archers": {
-      "subpath": "content.rpg"
-    },
-    "archers-expansion": {
-      "subpath": "content.rpg"
-    },
-    "architectury": {
-      "subpath": "0libs"
-    },
-    "armor-trim-item-fix": {
-      "subpath": "decoration.client"
-    },
-    "armortip": {
-      "subpath": "decoration.client"
-    },
-    "arrow-entity-loot-drop": {
-      "subpath": "mechanic"
-    },
-    "asahi": {
-      "subpath": "fix"
-    },
-    "ash-api": {
-      "subpath": "0libs"
-    },
-    "astikor-carts-redux": {
-      "subpath": "transportation"
-    },
-    "async-pack-scan": {
-      "subpath": "utility"
-    },
-    "auto-hud": {
-      "subpath": "utility.client"
-    },
-    "auto-third-person": {
-      "subpath": "utility.client"
-    },
-    "autotag": {
-      "subpath": "utility"
-    },
-    "axiom": {
-      "redistributable": false,
-      "subpath": "utility"
-    },
-    "azurelib": {
-      "subpath": "0libs"
-    },
-    "azurelib-armor": {
-      "subpath": "0libs"
-    },
-    "bad-horse-fix": {
-      "subpath": "fix.client"
-    },
-    "bad-wither-no-cookie": {
-      "subpath": "utility"
-    },
-    "badoptimizations": {
-      "subpath": "optimization.client"
-    },
-    "balm": {
-      "subpath": "0libs"
-    },
-    "be-style-wither": {
-      "subpath": "mechanic"
-    },
-    "beans-backpacks": {
-      "subpath": "content"
-    },
-    "bedrodium": {
-      "subpath": "optimization.client"
-    },
-    "bendy-lib": {
-      "subpath": "0libs.client"
-    },
-    "berserker-rpg-class": {
-      "subpath": "content.rpg"
-    },
-    "better-advancements": {
-      "subpath": "utility.client"
-    },
-    "better-climbing": {
-      "subpath": "mechanic"
-    },
-    "better-clouds": {
-      "subpath": "decoration.client"
-    },
-    "better-combat": {
-      "subpath": "content.rpg"
-    },
-    "better-compatibility-checker": {
-      "subpath": "utility"
-    },
-    "better-fabric-console": {
-      "subpath": "utility"
-    },
-    "better-mob-combat": {
-      "subpath": "0libs"
-    },
-    "better-modlist": {
-      "aliases": ["modmenu"],
-      "subpath": "decoration.client"
-    },
-    "better-mount-hud": {
-      "subpath": "utility.client"
-    },
-    "better-resource-pack-sorting": {
-      "subpath": "utility.client"
-    },
-    "better-selection": {
-      "subpath": "utility"
-    },
-    "better-stats": {
-      "subpath": "utility"
-    },
-    "better-suggestions": {
-      "subpath": "utility"
-    },
-    "better-taskbar": {
-      "subpath": "utility.client"
-    },
-    "better-trim-tooltips": {
-      "subpath": "utility.client"
-    },
-    "betterf3": {
-      "subpath": "utility.client"
-    },
-    "bettergrassify": {
-      "subpath": "decoration.client"
-    },
-    "bettersmithingtable": {
-      "subpath": "decoration.client"
-    },
-    "biome_particle_weather": {
-      "subpath": "decoration.client"
-    },
-    "biome-tag-villagers": {
-      "side": "BOTH",
-      "subpath": "decoration"
-    },
-    "blabber": {
-      "subpath": "utility"
-    },
-    "blay-waystone-placement-bug-fix": {
-      "subpath": "fix"
-    },
-    "blinkload": {
-      "subpath": "optimization"
-    },
-    "block-runner": {
-      "subpath": "utility"
-    },
-    "blocky-bubbles": {
-      "subpath": "decoration.client"
-    },
-    "blueprint": {
-      "subpath": "0libs"
-    },
-    "boat-fall": {
-      "subpath": "mechanic"
-    },
-    "boat-item-view": {
-      "subpath": "utility.client"
-    },
-    "boatload": {
-      "subpath": "utility"
-    },
-    "bookshelf": {
-      "subpath": "0libs"
-    },
-    "bookshelf-lib": {
-      "subpath": "0libs"
-    },
-    "bosses-of-mass-destruction": {
-      "subpath": "content.creature"
-    },
-    "breezy": {
-      "subpath": "content.transportation"
-    },
-    "bridging-mod": {
-      "subpath": "utility.client"
-    },
-    "c2me-fabric": {
-      "subpath": "optimization"
-    },
-    "call-of-yucutan": {
-      "subpath": "worldgen.structure"
-    },
-    "cameraoverhaul": {
-      "subpath": "decoration.client"
-    },
-    "cardinal-components-api": {
-      "subpath": "0libs"
-    },
-    "cauldron-dyeing": {
-      "subpath": "mechanic"
-    },
-    "cave-dust": {
-      "subpath": "decoration.client"
-    },
-    "chatanimation": {
-      "subpath": "decoration.client"
-    },
-    "chatpatches": {
-      "subpath": "utility.client"
-    },
-    "chunkumulator": {
-      "subpath": "optimization"
-    },
-    "chunky": {
-      "aliases": ["chunky-pregenerator"],
-      "subpath": "utility"
-    },
-    "chunky-autopause": {
-      "subpath": "utility"
-    },
-    "chunky-border": {
-      "subpath": "utility"
-    },
-    "cit-resewn": {
-      "subpath": "decoration.client"
-    },
-    "citadel": {
-      "subpath": "0libs"
-    },
-    "clayworks": {
-      "subpath": "utility"
-    },
-    "clear-void": {
-      "subpath": "decoration.client"
-    },
-    "cloth-config": {
-      "subpath": "0libs.client"
-    },
-    "clumps": {
-      "subpath": "optimization"
-    },
-    "cobaltmod": {
-      "subpath": "optimization.client"
-    },
-    "collective": {
-      "subpath": "0libs"
-    },
-    "collision-fix": {
-      "subpath": "optimization.client"
-    },
-    "combat-roll": {
-      "subpath": "content.rpg"
-    },
-    "commandstructure": {
-      "subpath": "utility"
-    },
-    "companion": {
-      "subpath": "mechanic"
-    },
-    "configured": {
-      "subpath": "utility"
-    },
-    "connectiblechains": {
-      "subpath": "utility"
-    },
-    "connector-extras": {
-      "subpath": "utility"
-    },
-    "continue": {
-      "subpath": "utility.client"
-    },
-    "continuity": {
-      "subpath": "decoration.client"
-    },
-    "controlify": {
-      "subpath": "utility.client"
-    },
-    "coroutil": {
-      "subpath": "0libs"
-    },
-    "corpse": {
-      "subpath": "mechanic"
-    },
-    "creativecore": {
-      "subpath": "0libs"
-    },
-    "creature-compendium": {
-      "subpath": "content.creature"
-    },
-    "creeper-overhaul": {
-      "subpath": "content.creature"
-    },
-    "cristel-lib": {
-      "subpath": "0libs"
-    },
-    "ct-overhaul-village": {
-      "subpath": "worldgen.structure"
-    },
-    "cull-less-leaves-reforged": {
-      "subpath": "optimization.client"
-    },
-    "customskinloader": {
-      "subpath": "decoration.client"
-    },
-    "cut-through": {
-      "subpath": "utility"
-    },
-    "cyanide": {
-      "subpath": "debug"
-    },
-    "damagevignette": {
-      "subpath": "decoration.client"
-    },
-    "dashboard": {
-      "subpath": "utility.client"
-    },
-    "data-attributes-directors-cut": {
-      "subpath": "utility"
-    },
-    "data-dumper": {
-      "subpath": "utility"
-    },
-    "datamancer": {
-      "subpath": "utility"
-    },
-    "dcwa": {
-      "subpath": "utility.client"
-    },
-    "death-but-three": {
-      "subpath": "mechanic"
-    },
-    "death-knights": {
-      "subpath": "content.rpg"
-    },
-    "debugify": {
-      "subpath": "fix"
-    },
-    "diagonal-walls": {
-      "subpath": "decoration"
-    },
-    "diagonal-windows": {
-      "subpath": "decoration"
-    },
-    "dimensional-sync-fixes": {
-      "subpath": "fix"
-    },
-    "ding": {
-      "subpath": "utility.client"
-    },
-    "distant-horizons": {
-      "subpath": "decoration.client"
-    },
-    "distinguished-potions": {
-      "subpath": "utility.client"
-    },
-    "distracting-trims": {
-      "subpath": "mechanic"
-    },
-    "double-doors": {
-      "subpath": "utility"
-    },
-    "draggable-lists": {
-      "subpath": "utility.client",
-      "update_strategy": "NONE"
-    },
-    "dramatic-doors": {
-      "subpath": "decoration"
-    },
-    "druids-of-storm-and-spirit": {
-      "subpath": "content.rpg"
-    },
-    "duckling": {
-      "subpath": "content.creature",
-      "update_strategy": "NONE"
-    },
-    "dungeon-now-loading": {
-      "subpath": "worldgen.structure"
-    },
-    "dusts-keymap": {
-      "subpath": "utility.client"
-    },
-    "dyed": {
-      "subpath": "decoration.client"
-    },
-    "dynamic-textures": {
-      "subpath": "decoration.client"
-    },
-    "dynamic-trim": {
-      "subpath": "decoration.client"
-    },
-    "dynamiccrosshair": {
-      "subpath": "decoration.client"
-    },
-    "dynamiccrosshaircompat": {
-      "subpath": "decoration.client"
-    },
-    "e4mc": {
-      "subpath": "utility"
-    },
-    "easy-anvils": {
-      "subpath": "utility"
-    },
-    "easy-magic": {
-      "subpath": "utility"
-    },
-    "eating-animation": {
-      "subpath": "decoration.client"
-    },
-    "ebe": {
-      "subpath": "optimization.client"
-    },
-    "edgeless-chat-screen": {
-      "subpath": "decoration.client"
-    },
-    "effect-descriptions": {
-      "subpath": "utility.client"
-    },
-    "effective": {
-      "subpath": "utility.client"
-    },
-    "effortless": {
-      "subpath": "utility"
-    },
-    "eldritch-end": {
-      "subpath": "content"
-    },
-    "elemental-wizards-rpg": {
-      "subpath": "content.rpg"
-    },
-    "elo": {
-      "subpath": "optimization"
-    },
-    "elytra-physics": {
-      "subpath": "utility.client"
-    },
-    "elytrabugfix": {
-      "subpath": "mechanic"
-    },
-    "embeddium": {
-      "aliases": ["sodium"],
-      "subpath": "optimization.client"
-    },
-    "emi": {
-      "subpath": "utility"
-    },
-    "emi-loot": {
-      "subpath": "utility"
-    },
-    "emienchants": {
-      "subpath": "utility"
-    },
-    "emitrades": {
-      "subpath": "utility"
-    },
-    "enchantment-descriptions": {
-      "subpath": "utility.client"
-    },
-    "enderman-overhaul": {
-      "subpath": "content.creature"
-    },
-    "endrem": {
-      "subpath": "content"
-    },
-    "enhanced-attack-indicator": {
-      "subpath": "utility.client"
-    },
-    "enhancedbookwriting": {
-      "subpath": "utility.client"
-    },
-    "entity-model-features": {
-      "subpath": "decoration.client"
-    },
-    "entityculling": {
-      "subpath": "optimization.client"
-    },
-    "entitytexturefeatures": {
-      "subpath": "decoration.client"
-    },
-    "equipment-compare": {
-      "subpath": "utility.client"
-    },
-    "esf": {
-      "subpath": "decoration.client"
-    },
-    "euphoria-patches": {
-      "subpath": "decoration.client"
-    },
-    "every-compat": {
-      "subpath": "decoration"
-    },
-    "explosive-enhancement": {
-      "subpath": "decoration.client"
-    },
-    "extra-rpg-attributes": {
-      "subpath": "content.rpg"
-    },
-    "extra-spell-attributes": {
-      "subpath": "content.rpg"
-    },
-    "f3-everywhere": {
-      "subpath": "utility.client"
-    },
-    "fabric-language-kotlin": {
-      "subpath": "0libs"
-    },
-    "fabricskyboxes": {
-      "subpath": "decoration.client"
-    },
-    "fabricskyboxes-interop": {
-      "subpath": "decoration.client"
-    },
-    "faded-widgets": {
-      "subpath": "decoration.client"
-    },
-    "fadeless": {
-      "subpath": "utility.client"
-    },
-    "fallingleaves": {
-      "subpath": "decoration.client"
-    },
-    "fancymenu": {
-      "subpath": "utility"
-    },
-    "fantasy-armor": {
-      "subpath": "content.rpg"
-    },
-    "fantasy-weapons-medieval-series": {
-      "subpath": "content.rpg"
-    },
-    "farmers-delight": {
-      "subpath": "content"
-    },
-    "farmers-delight-refabricated": {
-      "subpath": "content"
-    },
-    "fast-ip-ping": {
-      "subpath": "optimization.client"
-    },
-    "fast-paintings": {
-      "subpath": "optimization"
-    },
-    "fastboot": {
-      "subpath": "optimization"
-    },
-    "faster-random": {
-      "subpath": "optimization"
-    },
-    "fastquit": {
-      "subpath": "utility.client"
-    },
-    "ferrite-core": {
-      "subpath": "optimization"
-    },
-    "first-person-model": {
-      "subpath": "decoration.client"
-    },
-    "fish-of-thieves": {
-      "subpath": "content"
-    },
-    "fish-on-the-line": {
-      "subpath": "mechanic"
-    },
-    "fixbookgui": {
-      "subpath": "fix.client"
-    },
-    "flow": {
-      "subpath": "decoration.client"
-    },
-    "fluidvoidfading": {
-      "subpath": "decoration.client"
-    },
-    "fog": {
-      "subpath": "decoration.client"
-    },
-    "foggy-border": {
-      "subpath": "decoration.client"
-    },
-    "forcemaster-rpg-class": {
-      "subpath": "content.rpg"
-    },
-    "forgery": {
-      "subpath": "utility"
-    },
-    "forgified-fabric-api": {
-      "aliases": ["fabric-api"],
-      "subpath": "0libs"
-    },
-    "formations": {
-      "subpath": "0libs"
-    },
-    "fresh-moves": {
-      "update_strategy": "NONE"
-    },
-    "fullstack-watchdog": {
-      "subpath": "debug"
-    },
-    "fusion-connected-textures": {
-      "subpath": "decoration.client"
-    },
-    "fzzy-config": {
-      "subpath": "0libs"
-    },
-    "gadget": {
-      "subpath": "debug"
-    },
-    "galosphere": {
-      "subpath": "content"
-    },
-    "gazebos": {
-      "side": "BOTH",
-      "subpath": "worldgen.structure"
-    },
-    "geckoanimfix": {
-      "subpath": "fix.client"
-    },
-    "geckolib": {
-      "subpath": "0libs"
-    },
-    "gputape": {
-      "subpath": "fix.client"
-    },
-    "grass-overhaul": {
-      "subpath": "decoration"
-    },
-    "heartbond": {
-      "subpath": "mechanic"
-    },
-    "heracles": {
-      "subpath": "utility"
-    },
-    "heracles-for-blabber": {
-      "subpath": "utility"
-    },
-    "heracles-for-villagers": {
-      "subpath": "utility"
-    },
-    "herdspanic": {
-      "subpath": "mechanic"
-    },
-    "hocon-resource-loader": {
-      "subpath": "utility"
-    },
-    "hopo-better-mineshaft": {
-      "subpath": "worldgen.structure"
-    },
-    "hopo-better-ruined-portals": {
-      "subpath": "worldgen.structure"
-    },
-    "hopo-better-underwater-ruins": {
-      "subpath": "worldgen.structure"
-    },
-    "iceberg": {
-      "subpath": "0libs"
-    },
-    "ichunutil": {
-      "subpath": "0libs"
-    },
-    "identifier-translation": {
-      "subpath": "utility"
-    },
-    "illager-invasion": {
-      "subpath": "content.creature"
-    },
-    "illager-revolution": {
-      "subpath": "content.creature"
-    },
-    "illegal-stack-fixer": {
-      "subpath": "fix"
-    },
-    "imblocker-original": {
-      "subpath": "utility"
-    },
-    "immediatelyfast": {
-      "subpath": "optimization.client"
-    },
-    "immersive-aircraft": {
-      "subpath": "content.transportation"
-    },
-    "immersive-armors": {
-      "subpath": "content"
-    },
-    "immersive-lanterns": {
-      "subpath": "utility"
-    },
-    "immersive-ui": {
-      "subpath": "decoration.client"
-    },
-    "immersive-winds": {
-      "subpath": "decoration.client"
-    },
-    "immersivethunder": {
-      "subpath": "decoration.client"
-    },
-    "infinite-music": {
-      "subpath": "decoration.client"
-    },
-    "inv-view-forge": {
-      "subpath": "utility"
-    },
-    "inventory-management": {
-      "subpath": "utility"
-    },
-    "invocations": {
-      "subpath": "content.rpg"
-    },
-    "item-borders": {
-      "subpath": "decoration.client"
-    },
-    "item-highlighter": {
-      "subpath": "utility.client"
-    },
-    "itemphysic": {
-      "subpath": "decoration"
-    },
-    "itemswapper": {
-      "subpath": "utility.client"
-    },
-    "jade": {
-      "subpath": "utility"
-    },
-    "jei": {
-      "subpath": "utility"
-    },
-    "jewelry": {
-      "subpath": "content.rpg"
-    },
-    "just-dandy": {
-      "subpath": "decoration"
-    },
-    "justenoughcharacters": {
-      "subpath": "utility.client"
-    },
-    "keepthatmusic": {
-      "subpath": "utility.client"
-    },
-    "kevs-library": {
-      "subpath": "0libs"
-    },
-    "kevs-tierify-modifiers": {
-      "subpath": "content"
-    },
-    "keybind-fix": {
-      "subpath": "utility.client"
-    },
-    "kinecraft-serialization": {
-      "subpath": "0libs"
-    },
-    "kiwi": {
-      "subpath": "0libs"
-    },
-    "konkrete": {
-      "subpath": "0libs"
-    },
-    "kotlin-for-forge": {
-      "subpath": "0libs"
-    },
-    "krypton": {
-      "subpath": "optimization"
-    },
-    "labels": {
-      "subpath": "utility"
-    },
-    "language-reload": {
-      "subpath": "utility.client"
-    },
-    "lavender": {
-      "subpath": "0libs"
-    },
-    "leave-my-bars-alone": {
-      "subpath": "utility.client"
-    },
-    "leawind-third-person": {
-      "subpath": "decoration.client"
-    },
-    "ledger": {
-      "subpath": "utility"
-    },
-    "legendary-tooltips": {
-      "subpath": "decoration.client"
-    },
-    "lexiconfig": {
-      "subpath": "0libs"
-    },
-    "libertyvillagers": {
-      "subpath": "mechanic"
-    },
-    "libjf": {
-      "subpath": "0libs"
-    },
-    "list-entry-highlight-fix": {
-      "subpath": "decoration.client"
-    },
-    "lithostitched": {
-      "subpath": "utility"
-    },
-    "lmft": {
-      "subpath": "utility"
-    },
-    "lodestone": {
-      "subpath": "0libs"
-    },
-    "log-begone": {
-      "subpath": "utility"
-    },
-    "lootr": {
-      "subpath": "mechanic"
-    },
-    "luckperms": {
-      "subpath": "utility"
-    },
-    "lukis-grand-capitals": {
-      "subpath": "worldgen.structure"
-    },
-    "luna-slimes": {
-      "subpath": "decoration"
-    },
-    "lychee": {
-      "subpath": "utility"
-    },
-    "majrusz-library": {
-      "subpath": "0libs"
-    },
-    "majruszs-enchantments": {
-      "subpath": "content"
-    },
-    "majruszs-progressive-difficulty": {
-      "subpath": "content.rpg"
-    },
-    "malilib": {
-      "subpath": "0libs"
-    },
-    "mc-dungeons-enchanting": {
-      "subpath": "mechanic"
-    },
-    "mcda": {
-      "subpath": "content"
-    },
-    "mcdar": {
-      "subpath": "content"
-    },
-    "mcdw": {
-      "subpath": "content"
-    },
-    "mclogs": {
-      "subpath": "utility"
-    },
-    "melody": {
-      "subpath": "0libs"
-    },
-    "memoryleakfix": {
-      "subpath": "fix"
-    },
-    "merchant-markers": {
-      "subpath": "utility.client"
-    },
-    "mixin-conflict-helper": {
-      "subpath": "debug"
-    },
-    "mixintrace": {
-      "subpath": "debug"
-    },
-    "mmmmmmmmmmmm": {
-      "subpath": "utility"
-    },
-    "mob-player-animator": {
-      "subpath": "0libs"
-    },
-    "mobs-of-mythology": {
-      "subpath": "content.creature"
-    },
-    "mobs-on-rails": {
-      "subpath": "mechanic"
-    },
-    "model-gap-fix": {
-      "subpath": "fix.client"
-    },
-    "modernfix": {
-      "subpath": "optimization"
-    },
-    "moonlight": {
-      "subpath": "0libs"
-    },
-    "more-profiling": {
-      "subpath": "debug"
-    },
-    "more-rpg-classes": {
-      "subpath": "0libs.rpg"
-    },
-    "moreculling": {
-      "subpath": "optimization.client"
-    },
-    "morecullingextra": {
-      "subpath": "optimization.client"
-    },
-    "moremcmeta": {
-      "subpath": "decoration.client"
-    },
-    "moremcmeta-emissive": {
-      "subpath": "decoration.client"
-    },
-    "mousekeyinventoryfix": {
-      "subpath": "fix.client"
-    },
-    "mowzies-mobs": {
-      "subpath": "content.creature"
-    },
-    "mpalladium": {
-      "subpath": "optimization"
-    },
-    "mru": {
-      "subpath": "0libs"
-    },
-    "mutated-items": {
-      "subpath": "content.creature"
-    },
-    "natures-spirit": {
-      "subpath": "worldgen.biome"
-    },
-    "nbt-autocomplete": {
-      "subpath": "utility"
-    },
-    "necronomicon": {
-      "subpath": "0libs"
-    },
-    "neruina": {
-      "subpath": "utility"
-    },
-    "night-config-fixes": {
-      "subpath": "fix"
-    },
-    "nightlights": {
-      "subpath": "decoration"
-    },
-    "no-resource-pack-warnings": {
-      "subpath": "utility.client"
-    },
-    "no-void-structures": {
-      "subpath": "worldgen.structure"
-    },
-    "noisium": {
-      "side": "BOTH",
-      "subpath": "optimization"
-    },
-    "normal-damage": {
-      "subpath": "mechanic"
-    },
-    "not-enough-animations": {
-      "subpath": "decoration.client"
-    },
-    "notenoughcrashes": {
-      "subpath": "utility"
-    },
-    "notenoughrecipebook": {
-      "subpath": "optimization"
-    },
-    "nsight-loader": {
-      "subpath": "debug"
-    },
-    "obscure-api-fabric": {
-      "subpath": "0libs"
-    },
-    "observable": {
-      "subpath": "debug"
-    },
-    "octo-lib": {
-      "subpath": "0libs"
-    },
-    "oculus": {
-      "subpath": "decoration.client"
-    },
-    "optigui": {
-      "subpath": "decoration.client"
-    },
-    "optipainting": {
-      "subpath": "optimization.client"
-    },
-    "owo-lib": {
-      "subpath": "0libs"
-    },
-    "packet-fixer": {
-      "subpath": "fix"
-    },
-    "paladins-and-priests": {
-      "subpath": "content.rpg"
-    },
-    "panorama-screens": {
-      "subpath": "decoration.client"
-    },
-    "paragliders": {
-      "subpath": "utility"
-    },
-    "particle-core": {
-      "subpath": "optimization.client"
-    },
-    "particle-rain": {
-      "subpath": "decoration.client"
-    },
-    "particle-tweaks": {
-      "subpath": "decoration.client"
-    },
-    "particular": {
-      "subpath": "decoration.client"
-    },
-    "passable-foliage": {
-      "subpath": "mechanic"
-    },
-    "patched": {
-      "subpath": "utility"
-    },
-    "pathunderfencegates": {
-      "subpath": "fix"
-    },
-    "paxi": {
-      "subpath": "utility"
-    },
-    "persistent-inventory-search": {
-      "subpath": "utility.client"
-    },
-    "pet-cemetery": {
-      "subpath": "utility"
-    },
-    "philips-ruins": {
-      "subpath": "worldgen.structure"
-    },
-    "pick-up-notifier": {
-      "subpath": "utility.client"
-    },
-    "playeranimator": {
-      "subpath": "0libs"
-    },
-    "polytone": {
-      "subpath": "decoration.client"
-    },
-    "potion-cauldron": {
-      "subpath": "utility"
-    },
-    "powershot": {
-      "subpath": "mechanic"
-    },
-    "presence-footsteps": {
-      "subpath": "decoration.client"
-    },
-    "prism-lib": {
-      "subpath": "0libs.client"
-    },
-    "profundis": {
-      "subpath": "worldgen.biome"
-    },
-    "puffish-attributes": {
-      "subpath": "content.rpg"
-    },
-    "puffish-skills": {
-      "subpath": "content.rpg"
-    },
-    "purediscstrailstales": {
-      "subpath": "decoration"
-    },
-    "purediscstrickytrials": {
-      "subpath": "decoration"
-    },
-    "puzzles-lib": {
-      "subpath": "0libs"
-    },
-    "pvpflag": {
-      "subpath": "mechanic"
-    },
-    "quick-menu": {
-      "subpath": "utility.client"
-    },
-    "radium": {
-      "subpath": "optimization"
-    },
-    "raised": {
-      "subpath": "utility.client"
-    },
-    "raknetify": {
-      "subpath": "optimization"
-    },
-    "ranged-weapon-api": {
-      "subpath": "0libs"
-    },
-    "real-arrow-tip": {
-      "subpath": "decoration.client"
-    },
-    "realistic-rowing": {
-      "subpath": "fix.client"
-    },
-    "redirector": {
-      "subpath": "optimization"
-    },
-    "registry-blocker": {
-      "subpath": "utility"
-    },
-    "reignited-hud": {
-      "subpath": "decoration.client"
-    },
-    "replanting-crops": {
-      "subpath": "mechanic"
-    },
-    "repurposed-structures": {
-      "subpath": "worldgen.structure"
-    },
-    "reputation-viewer": {
-      "subpath": "utility"
-    },
-    "resource_explorer": {
-      "subpath": "utility"
-    },
-    "resourceful-config": {
-      "subpath": "0libs"
-    },
-    "resourceful-lib": {
-      "subpath": "0libs"
-    },
-    "resourcify": {
-      "subpath": "utility"
-    },
-    "respackopts": {
-      "subpath": "utility"
-    },
-    "revelationary": {
-      "subpath": "utility"
-    },
-    "revive": {
-      "subpath": "mechanic"
-    },
-    "ribbits": {
-      "subpath": "content.creature"
-    },
-    "roasted": {
-      "subpath": "content"
-    },
-    "rogues-and-warriors": {
-      "subpath": "content.rpg"
-    },
-    "rrls": {
-      "subpath": "utility.client"
-    },
-    "runes": {
-      "subpath": "content.rpg"
-    },
-    "saplanting": {
-      "subpath": "mechanic"
-    },
-    "sawmill": {
-      "subpath": "content"
-    },
-    "screenshot-to-clipboard": {
-      "subpath": "utility.client"
-    },
-    "seamless": {
-      "subpath": "decoration.client"
-    },
-    "seamless-loading-screen": {
-      "subpath": "decoration.client"
-    },
-    "selfish-villager": {
-      "subpath": "mechanic"
-    },
-    "separatedleaves": {
-      "subpath": "mechanic"
-    },
-    "serverpingerfixer": {
-      "subpath": "fix.client"
-    },
-    "shield-api": {
-      "subpath": "0libs"
-    },
-    "shield-expansion": {
-      "subpath": "content"
-    },
-    "shield-overhaul": {
-      "subpath": "content.rpg",
-      "update_strategy": "NONE"
-    },
-    "show-me-what-you-got": {
-      "subpath": "utility"
-    },
-    "show-operator-tab": {
-      "subpath": "utility.client"
-    },
-    "shulkerboxtooltip": {
-      "subpath": "utility.client"
-    },
-    "simple-voice-chat": {
-      "subpath": "utility"
-    },
-    "simple-voice-radio": {
-      "subpath": "utility"
-    },
-    "simply-skills": {
-      "subpath": "content"
-    },
-    "sleep-tight": {
-      "subpath": "mechanic"
-    },
-    "smartbrainlib": {
-      "subpath": "0libs"
-    },
-    "smarter-farmers-farmers-replant": {
-      "subpath": "mechanic"
-    },
-    "smooth-scrolling-refurbished": {
-      "subpath": "utility.client"
-    },
-    "sneaky-curses": {
-      "subpath": "mechanic"
-    },
-    "sodium-dynamic-lights": {
-      "subpath": "decoration.client"
-    },
-    "sodium-extras": {
-      "subpath": "optimization.client"
-    },
-    "sodium-options-api": {
-      "subpath": "0libs.client"
-    },
-    "sons-of-sins": {
-      "subpath": "content.creature"
-    },
-    "sound": {
-      "subpath": "decoration.client"
-    },
-    "sound-physics-remastered": {
-      "subpath": "decoration.client"
-    },
-    "spark": {
-      "subpath": "debug"
-    },
-    "species": {
-      "subpath": "content.creature"
-    },
-    "spell-engine": {
-      "subpath": "content.rpg"
-    },
-    "spell-power": {
-      "subpath": "content.rpg"
-    },
-    "spellblades-and-such": {
-      "subpath": "content.rpg"
-    },
-    "spelunkery": {
-      "subpath": "content"
-    },
-    "sprite-arrows": {
-      "subpath": "decoration.client"
-    },
-    "spyglass-improvements": {
-      "subpath": "utility.client"
-    },
-    "stained-lenses": {
-      "subpath": "utility"
-    },
-    "stairdoors-extended": {
-      "subpath": "mechanic"
-    },
-    "stalwart-dungeons": {
-      "subpath": "worldgen.structure"
-    },
-    "starlight-forge": {
-      "subpath": "optimization"
-    },
-    "stormfest": {
-      "subpath": "decoration"
-    },
-    "structory": {
-      "subpath": "worldgen.structure"
-    },
-    "structory-towers": {
-      "subpath": "worldgen.structure"
-    },
-    "structure-pool-api": {
-      "side": "BOTH",
-      "subpath": "0libs"
-    },
-    "structure-void-toggle": {
-      "subpath": "debug"
-    },
-    "stylish-effects": {
-      "subpath": "utility.client"
-    },
-    "stylish-stiles": {
-      "subpath": "utility"
-    },
-    "suggestion-tweaker": {
-      "subpath": "utility"
-    },
-    "summoningrituals": {
-      "subpath": "utility"
-    },
-    "supplementaries": {
-      "subpath": "mechanic"
-    },
-    "sushi-bar": {
-      "subpath": "0libs"
-    },
-    "switcher": {
-      "subpath": "fix.client"
-    },
-    "talkbubbles": {
-      "subpath": "decoration.client"
-    },
-    "tax-free-levels": {
-      "subpath": "mechanic"
-    },
-    "tcdcommons": {
-      "subpath": "0libs"
-    },
-    "terrablender": {
-      "aliases": ["terrablender-fabric"],
-      "subpath": "0libs"
-    },
-    "thats-my-bed": {
-      "subpath": "menchanic"
-    },
-    "the-abyss-runtime": {
-      "subpath": "utility"
-    },
-    "the-lost-castle": {
-      "subpath": "worldgen.structure"
-    },
-    "the-mighty-architectury": {
-      "subpath": "utility"
-    },
-    "third-person-maps": {
-      "subpath": "utility.client"
-    },
-    "tidal-towns": {
-      "subpath": "worldgen.structure"
-    },
-    "tierify": {
-      "subpath": "content"
-    },
-    "tips": {
-      "subpath": "decoration.client"
-    },
-    "tmp": {
-      "subpath": "optimization.client"
-    },
-    "toadlib": {
-      "subpath": "0libs"
-    },
-    "towers-of-the-wild-modded": {
-      "subpath": "worldgen.structure"
-    },
-    "towns-and-towers": {
-      "subpath": "worldgen.structure"
-    },
-    "transparent": {
-      "subpath": "decoration.client"
-    },
-    "travelers-titles": {
-      "subpath": "decoration.client"
-    },
-    "treechop": {
-      "subpath": "mechanic"
-    },
-    "trinkets": {
-      "subpath": "content.rpg"
-    },
-    "tslatentitystatus": {
-      "subpath": "utility.client"
-    },
-    "txnilib": {
-      "subpath": "0libs"
-    },
-    "ukulib": {
-      "subpath": "0libs"
-    },
-    "ukus-armor-hud": {
-      "subpath": "decoration.client"
-    },
-    "under-the-moon": {
-      "subpath": "worldgen.biome"
-    },
-    "underground-villages": {
-      "subpath": "worldgen.structure"
-    },
-    "universal-shortcuts": {
-      "subpath": "fix"
-    },
-    "unloaded-activity": {
-      "subpath": "mechanic"
-    },
-    "unnamed-desert": {
-      "subpath": "worldgen.structure"
-    },
-    "urkaz-moon-tools": {
-      "subpath": "utility"
-    },
-    "vanity-aesthetic-armory": {
-      "subpath": "decoration"
-    },
-    "vanity-ancient-tool-variants": {
-      "subpath": "decoration"
-    },
-    "vanity-colossal-weapons": {
-      "subpath": "decoration"
-    },
-    "vanity-core": {
-      "subpath": "decoration"
-    },
-    "vanity-ornate-weaponry": {
-      "subpath": "decoration"
-    },
-    "vanity-twilight-zone": {
-      "subpath": "decoration"
-    },
-    "victus": {
-      "subpath": "mechanic"
-    },
-    "village-spawn-point": {
-      "subpath": "utility"
-    },
-    "villager-armor-layer": {
-      "subpath": "decoration.client"
-    },
-    "villager-converting": {
-      "subpath": "mechanic"
-    },
-    "villager-schedules": {
-      "subpath": "debug"
-    },
-    "villager-transportation": {
-      "subpath": "mechanic"
-    },
-    "visual-workbench": {
-      "subpath": "utility"
-    },
-    "visuality": {
-      "subpath": "decoration.client"
-    },
-    "vmct": {
-      "redistributable": false
-    },
-    "voice-chat-interaction": {
-      "subpath": "utility"
-    },
-    "volume-fix": {
-      "subpath": "fix.client"
-    },
-    "waig-where-am-i-going": {
-      "subpath": "utility.client"
-    },
-    "wandering-collector": {
-      "subpath": "mechanic"
-    },
-    "watson": {
-      "subpath": "utility"
-    },
-    "waystones": {
-      "subpath": "content"
-    },
-    "weaponmaster": {
-      "subpath": "decoration"
-    },
-    "what-are-they-up-to": {
-      "subpath": "utility"
-    },
-    "what-the-bucket": {
-      "subpath": "utility"
-    },
-    "witcher-rpg-class": {
-      "subpath": "content.rpg"
-    },
-    "wither-spawn-animation": {
-      "subpath": "decoration"
-    },
-    "wits": {
-      "subpath": "utility"
-    },
-    "wizards": {
-      "subpath": "content.rpg"
-    },
-    "woodworks": {
-      "subpath": "utility"
-    },
-    "world-of-wonder": {
-      "subpath": "worldgen.biome"
-    },
-    "world-preview": {
-      "subpath": "utility"
-    },
-    "worldgen-profiling": {
-      "subpath": "debug"
-    },
-    "y-is-there-autojump": {
-      "subpath": "mechanic"
-    },
-    "yacl": {
-      "subpath": "0libs"
-    },
-    "yungs-api": {
-      "subpath": "0libs"
-    },
-    "yungs-better-desert-temples": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-dungeons": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-end-island": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-jungle-temples": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-mineshafts": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-nether-fortresses": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-ocean-monuments": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-strongholds": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-better-witch-huts": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-cave-biome": {
-      "subpath": "worldgen.biome"
-    },
-    "yungs-extras": {
-      "subpath": "worldgen.structure"
-    },
-    "yungs-menu-tweaks": {
-      "subpath": "utility.client"
-    },
-    "zirconium": {
-      "subpath": "optimization"
+    "name": "arcadia",
+    "version": "0.0.1",
+    "overrides": [
+        "config"
+    ],
+    "projects": {
+        "3dskinlayers": {
+            "subpath": "decoration.client"
+        },
+        "accessories": {
+            "subpath": "content.rpg"
+        },
+        "accessories-cc-layer": {
+            "subpath": "content.rpg",
+            "aliases": [
+                "curios"
+            ]
+        },
+        "accessories-tc-layer": {
+            "subpath": "content.rpg",
+            "aliases": [
+                "trinkets"
+            ]
+        },
+        "adaptive-tooltips": {
+            "subpath": "fix"
+        },
+        "additional-rpg-jewelry": {
+            "subpath": "content.rpg"
+        },
+        "advancement-plaques": {
+            "side": "BOTH",
+            "subpath": "decoration"
+        },
+        "aiming-fix": {
+            "subpath": "fix"
+        },
+        "alexs-caves": {
+            "subpath": "worldgen.biome"
+        },
+        "alexscaves-torpedoes": {
+            "subpath": "content"
+        },
+        "alloy-forgery": {
+            "subpath": "mechanic"
+        },
+        "almost-unified": {
+            "subpath": "utility"
+        },
+        "alternate-current": {
+            "subpath": "optimization"
+        },
+        "ambient-environment": {
+            "subpath": "decoration.client"
+        },
+        "amendments": {
+            "subpath": "mechanic"
+        },
+        "animationoverhaul": {
+            "subpath": "decoration.client"
+        },
+        "appleskin": {
+            "subpath": "utility"
+        },
+        "archeological": {
+            "subpath": "content"
+        },
+        "archers": {
+            "subpath": "content.rpg"
+        },
+        "archers-expansion": {
+            "subpath": "content.rpg"
+        },
+        "architectury": {
+            "subpath": "0libs"
+        },
+        "armor-trim-item-fix": {
+            "subpath": "decoration.client"
+        },
+        "armortip": {
+            "subpath": "decoration.client"
+        },
+        "arrow-entity-loot-drop": {
+            "subpath": "mechanic"
+        },
+        "asahi": {
+            "subpath": "fix"
+        },
+        "ash-api": {
+            "subpath": "0libs"
+        },
+        "astikor-carts-redux": {
+            "subpath": "transportation"
+        },
+        "async-pack-scan": {
+            "subpath": "utility"
+        },
+        "auto-hud": {
+            "subpath": "utility.client"
+        },
+        "auto-third-person": {
+            "subpath": "utility.client"
+        },
+        "autotag": {
+            "subpath": "utility"
+        },
+        "axiom": {
+            "redistributable": false,
+            "subpath": "utility"
+        },
+        "azurelib": {
+            "subpath": "0libs"
+        },
+        "azurelib-armor": {
+            "subpath": "0libs"
+        },
+        "bad-horse-fix": {
+            "subpath": "fix.client"
+        },
+        "bad-wither-no-cookie": {
+            "subpath": "utility"
+        },
+        "badoptimizations": {
+            "subpath": "optimization.client"
+        },
+        "balm": {
+            "subpath": "0libs"
+        },
+        "be-style-wither": {
+            "subpath": "mechanic"
+        },
+        "beans-backpacks": {
+            "subpath": "content"
+        },
+        "bedrodium": {
+            "subpath": "optimization.client"
+        },
+        "bendy-lib": {
+            "subpath": "0libs.client"
+        },
+        "berserker-rpg-class": {
+            "subpath": "content.rpg"
+        },
+        "better-advancements": {
+            "subpath": "utility.client"
+        },
+        "better-climbing": {
+            "subpath": "mechanic"
+        },
+        "better-clouds": {
+            "subpath": "decoration.client"
+        },
+        "better-combat": {
+            "subpath": "content.rpg"
+        },
+        "better-compatibility-checker": {
+            "subpath": "utility"
+        },
+        "better-fabric-console": {
+            "subpath": "utility"
+        },
+        "better-mob-combat": {
+            "subpath": "0libs"
+        },
+        "better-modlist": {
+            "subpath": "decoration.client",
+            "aliases": [
+                "modmenu"
+            ]
+        },
+        "better-mount-hud": {
+            "subpath": "utility.client"
+        },
+        "better-resource-pack-sorting": {
+            "subpath": "utility.client"
+        },
+        "better-selection": {
+            "subpath": "utility"
+        },
+        "better-stats": {
+            "subpath": "utility"
+        },
+        "better-suggestions": {
+            "subpath": "utility"
+        },
+        "better-taskbar": {
+            "subpath": "utility.client"
+        },
+        "better-trim-tooltips": {
+            "subpath": "utility.client"
+        },
+        "betterf3": {
+            "subpath": "utility.client"
+        },
+        "bettergrassify": {
+            "subpath": "decoration.client"
+        },
+        "bettersmithingtable": {
+            "subpath": "decoration.client"
+        },
+        "biome_particle_weather": {
+            "subpath": "decoration.client"
+        },
+        "biome-tag-villagers": {
+            "side": "BOTH",
+            "subpath": "decoration"
+        },
+        "blabber": {
+            "subpath": "utility"
+        },
+        "blay-waystone-placement-bug-fix": {
+            "subpath": "fix"
+        },
+        "blinkload": {
+            "subpath": "optimization"
+        },
+        "block-runner": {
+            "subpath": "utility"
+        },
+        "blocky-bubbles": {
+            "subpath": "decoration.client"
+        },
+        "blueprint": {
+            "subpath": "0libs"
+        },
+        "boat-fall": {
+            "subpath": "mechanic"
+        },
+        "boat-item-view": {
+            "subpath": "utility.client"
+        },
+        "boatload": {
+            "subpath": "utility"
+        },
+        "bookshelf": {
+            "subpath": "0libs"
+        },
+        "bookshelf-lib": {
+            "subpath": "0libs"
+        },
+        "bosses-of-mass-destruction": {
+            "subpath": "content.creature"
+        },
+        "breezy": {
+            "subpath": "content.transportation"
+        },
+        "bridging-mod": {
+            "subpath": "utility.client"
+        },
+        "c2me-fabric": {
+            "subpath": "optimization"
+        },
+        "call-of-yucutan": {
+            "subpath": "worldgen.structure"
+        },
+        "cameraoverhaul": {
+            "subpath": "decoration.client"
+        },
+        "cardinal-components-api": {
+            "subpath": "0libs"
+        },
+        "cauldron-dyeing": {
+            "subpath": "mechanic"
+        },
+        "cave-dust": {
+            "subpath": "decoration.client"
+        },
+        "chatanimation": {
+            "subpath": "decoration.client"
+        },
+        "chatpatches": {
+            "subpath": "utility.client"
+        },
+        "chunkumulator": {
+            "subpath": "optimization"
+        },
+        "chunky": {
+            "subpath": "utility",
+            "aliases": [
+                "chunky-pregenerator"
+            ]
+        },
+        "chunky-autopause": {
+            "subpath": "utility"
+        },
+        "chunky-border": {
+            "subpath": "utility"
+        },
+        "cit-resewn": {
+            "subpath": "decoration.client"
+        },
+        "citadel": {
+            "subpath": "0libs"
+        },
+        "clayworks": {
+            "subpath": "utility"
+        },
+        "clear-void": {
+            "subpath": "decoration.client"
+        },
+        "cloth-config": {
+            "subpath": "0libs.client"
+        },
+        "clumps": {
+            "subpath": "optimization"
+        },
+        "cobaltmod": {
+            "subpath": "optimization.client"
+        },
+        "collective": {
+            "subpath": "0libs"
+        },
+        "collision-fix": {
+            "subpath": "optimization.client"
+        },
+        "combat-roll": {
+            "subpath": "content.rpg"
+        },
+        "commandstructure": {
+            "subpath": "utility"
+        },
+        "companion": {
+            "subpath": "mechanic"
+        },
+        "configured": {
+            "subpath": "utility"
+        },
+        "connectiblechains": {
+            "subpath": "utility"
+        },
+        "connector-extras": {
+            "subpath": "utility"
+        },
+        "continue": {
+            "subpath": "utility.client"
+        },
+        "continuity": {
+            "subpath": "decoration.client"
+        },
+        "controlify": {
+            "subpath": "utility.client"
+        },
+        "coroutil": {
+            "subpath": "0libs"
+        },
+        "corpse": {
+            "subpath": "mechanic"
+        },
+        "creativecore": {
+            "subpath": "0libs"
+        },
+        "creature-compendium": {
+            "subpath": "content.creature"
+        },
+        "creeper-overhaul": {
+            "subpath": "content.creature"
+        },
+        "cristel-lib": {
+            "subpath": "0libs"
+        },
+        "ct-overhaul-village": {
+            "subpath": "worldgen.structure"
+        },
+        "cull-less-leaves-reforged": {
+            "subpath": "optimization.client"
+        },
+        "customskinloader": {
+            "subpath": "decoration.client"
+        },
+        "cut-through": {
+            "subpath": "utility"
+        },
+        "cyanide": {
+            "subpath": "debug"
+        },
+        "damagevignette": {
+            "subpath": "decoration.client"
+        },
+        "dashboard": {
+            "subpath": "utility.client"
+        },
+        "data-attributes-directors-cut": {
+            "subpath": "utility"
+        },
+        "data-dumper": {
+            "subpath": "utility"
+        },
+        "datamancer": {
+            "subpath": "utility"
+        },
+        "dcwa": {
+            "subpath": "utility.client"
+        },
+        "death-but-three": {
+            "subpath": "mechanic"
+        },
+        "death-knights": {
+            "subpath": "content.rpg"
+        },
+        "debugify": {
+            "subpath": "fix"
+        },
+        "diagonal-walls": {
+            "subpath": "decoration"
+        },
+        "diagonal-windows": {
+            "subpath": "decoration"
+        },
+        "dimensional-sync-fixes": {
+            "subpath": "fix"
+        },
+        "ding": {
+            "subpath": "utility.client"
+        },
+        "distant-horizons": {
+            "subpath": "decoration.client"
+        },
+        "distinguished-potions": {
+            "subpath": "utility.client"
+        },
+        "distracting-trims": {
+            "subpath": "mechanic"
+        },
+        "double-doors": {
+            "subpath": "utility"
+        },
+        "draggable-lists": {
+            "update_strategy": "NONE",
+            "subpath": "utility.client"
+        },
+        "dramatic-doors": {
+            "subpath": "decoration"
+        },
+        "druids-of-storm-and-spirit": {
+            "subpath": "content.rpg"
+        },
+        "duckling": {
+            "update_strategy": "NONE",
+            "subpath": "content.creature"
+        },
+        "dungeon-now-loading": {
+            "subpath": "worldgen.structure"
+        },
+        "dusts-keymap": {
+            "subpath": "utility.client"
+        },
+        "dyed": {
+            "subpath": "decoration.client"
+        },
+        "dynamic-textures": {
+            "subpath": "decoration.client"
+        },
+        "dynamic-trim": {
+            "subpath": "decoration.client"
+        },
+        "dynamiccrosshair": {
+            "subpath": "decoration.client"
+        },
+        "dynamiccrosshaircompat": {
+            "subpath": "decoration.client"
+        },
+        "e4mc": {
+            "subpath": "utility"
+        },
+        "easy-anvils": {
+            "subpath": "utility"
+        },
+        "easy-magic": {
+            "subpath": "utility"
+        },
+        "eating-animation": {
+            "subpath": "decoration.client"
+        },
+        "ebe": {
+            "subpath": "optimization.client"
+        },
+        "edgeless-chat-screen": {
+            "subpath": "decoration.client"
+        },
+        "effect-descriptions": {
+            "subpath": "utility.client"
+        },
+        "effective": {
+            "subpath": "utility.client"
+        },
+        "effortless": {
+            "subpath": "utility"
+        },
+        "eldritch-end": {
+            "subpath": "content"
+        },
+        "elemental-wizards-rpg": {
+            "subpath": "content.rpg"
+        },
+        "elo": {
+            "subpath": "optimization"
+        },
+        "elytra-physics": {
+            "subpath": "utility.client"
+        },
+        "elytrabugfix": {
+            "subpath": "mechanic"
+        },
+        "embeddium": {
+            "subpath": "optimization.client",
+            "aliases": [
+                "sodium"
+            ]
+        },
+        "emi": {
+            "subpath": "utility"
+        },
+        "emi-loot": {
+            "subpath": "utility"
+        },
+        "emienchants": {
+            "subpath": "utility"
+        },
+        "emitrades": {
+            "subpath": "utility"
+        },
+        "enchantment-descriptions": {
+            "subpath": "utility.client"
+        },
+        "enderman-overhaul": {
+            "subpath": "content.creature"
+        },
+        "endrem": {
+            "subpath": "content"
+        },
+        "enhanced-attack-indicator": {
+            "subpath": "utility.client"
+        },
+        "enhancedbookwriting": {
+            "subpath": "utility.client"
+        },
+        "entity-model-features": {
+            "subpath": "decoration.client"
+        },
+        "entityculling": {
+            "subpath": "optimization.client"
+        },
+        "entitytexturefeatures": {
+            "subpath": "decoration.client"
+        },
+        "equipment-compare": {
+            "subpath": "utility.client"
+        },
+        "esf": {
+            "subpath": "decoration.client"
+        },
+        "euphoria-patches": {
+            "subpath": "decoration.client"
+        },
+        "every-compat": {
+            "subpath": "decoration"
+        },
+        "explosive-enhancement": {
+            "subpath": "decoration.client"
+        },
+        "extra-rpg-attributes": {
+            "subpath": "content.rpg"
+        },
+        "extra-spell-attributes": {
+            "subpath": "content.rpg"
+        },
+        "f3-everywhere": {
+            "subpath": "utility.client"
+        },
+        "fabric-language-kotlin": {
+            "subpath": "0libs"
+        },
+        "fabricskyboxes": {
+            "subpath": "decoration.client"
+        },
+        "fabricskyboxes-interop": {
+            "subpath": "decoration.client"
+        },
+        "faded-widgets": {
+            "subpath": "decoration.client"
+        },
+        "fadeless": {
+            "subpath": "utility.client"
+        },
+        "fallingleaves": {
+            "subpath": "decoration.client"
+        },
+        "fancymenu": {
+            "subpath": "utility"
+        },
+        "fantasy-armor": {
+            "subpath": "content.rpg"
+        },
+        "fantasy-weapons-medieval-series": {
+            "subpath": "content.rpg"
+        },
+        "farmers-delight": {
+            "subpath": "content"
+        },
+        "farmers-delight-refabricated": {
+            "subpath": "content"
+        },
+        "fast-ip-ping": {
+            "subpath": "optimization.client"
+        },
+        "fast-paintings": {
+            "subpath": "optimization"
+        },
+        "fastboot": {
+            "subpath": "optimization"
+        },
+        "faster-random": {
+            "subpath": "optimization"
+        },
+        "fastquit": {
+            "subpath": "utility.client"
+        },
+        "ferrite-core": {
+            "subpath": "optimization"
+        },
+        "first-person-model": {
+            "subpath": "decoration.client"
+        },
+        "fish-of-thieves": {
+            "subpath": "content"
+        },
+        "fish-on-the-line": {
+            "subpath": "mechanic"
+        },
+        "fixbookgui": {
+            "subpath": "fix.client"
+        },
+        "flow": {
+            "subpath": "decoration.client"
+        },
+        "fluidvoidfading": {
+            "subpath": "decoration.client"
+        },
+        "fog": {
+            "subpath": "decoration.client"
+        },
+        "foggy-border": {
+            "subpath": "decoration.client"
+        },
+        "forcemaster-rpg-class": {
+            "subpath": "content.rpg"
+        },
+        "forgery": {
+            "subpath": "utility"
+        },
+        "forgified-fabric-api": {
+            "subpath": "0libs",
+            "aliases": [
+                "fabric-api"
+            ]
+        },
+        "formations": {
+            "subpath": "0libs"
+        },
+        "fresh-moves": {
+            "update_strategy": "NONE"
+        },
+        "fullstack-watchdog": {
+            "subpath": "debug"
+        },
+        "fusion-connected-textures": {
+            "subpath": "decoration.client"
+        },
+        "fzzy-config": {
+            "subpath": "0libs"
+        },
+        "gadget": {
+            "subpath": "debug"
+        },
+        "galosphere": {
+            "subpath": "content"
+        },
+        "gazebos": {
+            "side": "BOTH",
+            "subpath": "worldgen.structure"
+        },
+        "geckoanimfix": {
+            "subpath": "fix.client"
+        },
+        "geckolib": {
+            "subpath": "0libs"
+        },
+        "gputape": {
+            "subpath": "fix.client"
+        },
+        "grass-overhaul": {
+            "subpath": "decoration"
+        },
+        "heartbond": {
+            "subpath": "mechanic"
+        },
+        "heracles": {
+            "subpath": "utility"
+        },
+        "heracles-for-blabber": {
+            "subpath": "utility"
+        },
+        "heracles-for-villagers": {
+            "subpath": "utility"
+        },
+        "herdspanic": {
+            "subpath": "mechanic"
+        },
+        "hocon-resource-loader": {
+            "subpath": "utility"
+        },
+        "hopo-better-mineshaft": {
+            "subpath": "worldgen.structure"
+        },
+        "hopo-better-ruined-portals": {
+            "subpath": "worldgen.structure"
+        },
+        "hopo-better-underwater-ruins": {
+            "subpath": "worldgen.structure"
+        },
+        "iceberg": {
+            "subpath": "0libs"
+        },
+        "ichunutil": {
+            "subpath": "0libs"
+        },
+        "identifier-translation": {
+            "subpath": "utility"
+        },
+        "illager-invasion": {
+            "subpath": "content.creature"
+        },
+        "illager-revolution": {
+            "subpath": "content.creature"
+        },
+        "illegal-stack-fixer": {
+            "subpath": "fix"
+        },
+        "imblocker-original": {
+            "subpath": "utility"
+        },
+        "immediatelyfast": {
+            "subpath": "optimization.client"
+        },
+        "immersive-aircraft": {
+            "subpath": "content.transportation"
+        },
+        "immersive-armors": {
+            "subpath": "content"
+        },
+        "immersive-lanterns": {
+            "subpath": "utility"
+        },
+        "immersive-ui": {
+            "subpath": "decoration.client"
+        },
+        "immersive-winds": {
+            "subpath": "decoration.client"
+        },
+        "immersivethunder": {
+            "subpath": "decoration.client"
+        },
+        "infinite-music": {
+            "subpath": "decoration.client"
+        },
+        "inv-view-forge": {
+            "subpath": "utility"
+        },
+        "inventory-management": {
+            "subpath": "utility"
+        },
+        "invocations": {
+            "subpath": "content.rpg"
+        },
+        "item-borders": {
+            "subpath": "decoration.client"
+        },
+        "item-highlighter": {
+            "subpath": "utility.client"
+        },
+        "itemphysic": {
+            "subpath": "decoration"
+        },
+        "itemswapper": {
+            "subpath": "utility.client"
+        },
+        "jade": {
+            "subpath": "utility"
+        },
+        "jei": {
+            "subpath": "utility"
+        },
+        "jewelry": {
+            "subpath": "content.rpg"
+        },
+        "just-dandy": {
+            "subpath": "decoration"
+        },
+        "justenoughcharacters": {
+            "subpath": "utility.client"
+        },
+        "keepthatmusic": {
+            "subpath": "utility.client"
+        },
+        "kevs-library": {
+            "subpath": "0libs"
+        },
+        "kevs-tierify-modifiers": {
+            "subpath": "content"
+        },
+        "keybind-fix": {
+            "subpath": "utility.client"
+        },
+        "kinecraft-serialization": {
+            "subpath": "0libs"
+        },
+        "kiwi": {
+            "subpath": "0libs"
+        },
+        "konkrete": {
+            "subpath": "0libs"
+        },
+        "kotlin-for-forge": {
+            "subpath": "0libs"
+        },
+        "krypton": {
+            "subpath": "optimization"
+        },
+        "labels": {
+            "subpath": "utility"
+        },
+        "language-reload": {
+            "subpath": "utility.client"
+        },
+        "lavender": {
+            "subpath": "0libs"
+        },
+        "leave-my-bars-alone": {
+            "subpath": "utility.client"
+        },
+        "leawind-third-person": {
+            "subpath": "decoration.client"
+        },
+        "ledger": {
+            "subpath": "utility"
+        },
+        "legendary-tooltips": {
+            "subpath": "decoration.client"
+        },
+        "lexiconfig": {
+            "subpath": "0libs"
+        },
+        "libertyvillagers": {
+            "subpath": "mechanic"
+        },
+        "libjf": {
+            "subpath": "0libs"
+        },
+        "list-entry-highlight-fix": {
+            "subpath": "decoration.client"
+        },
+        "lithostitched": {
+            "subpath": "utility"
+        },
+        "lmft": {
+            "subpath": "utility"
+        },
+        "lodestone": {
+            "subpath": "0libs"
+        },
+        "log-begone": {
+            "subpath": "utility"
+        },
+        "lootr": {
+            "subpath": "mechanic"
+        },
+        "luckperms": {
+            "subpath": "utility"
+        },
+        "lukis-grand-capitals": {
+            "subpath": "worldgen.structure"
+        },
+        "luna-slimes": {
+            "subpath": "decoration"
+        },
+        "lychee": {
+            "subpath": "utility"
+        },
+        "majrusz-library": {
+            "subpath": "0libs"
+        },
+        "majruszs-enchantments": {
+            "subpath": "content"
+        },
+        "majruszs-progressive-difficulty": {
+            "subpath": "content.rpg"
+        },
+        "malilib": {
+            "subpath": "0libs"
+        },
+        "mc-dungeons-enchanting": {
+            "subpath": "mechanic"
+        },
+        "mcda": {
+            "subpath": "content"
+        },
+        "mcdar": {
+            "subpath": "content"
+        },
+        "mcdw": {
+            "subpath": "content"
+        },
+        "mclogs": {
+            "subpath": "utility"
+        },
+        "melody": {
+            "subpath": "0libs"
+        },
+        "memoryleakfix": {
+            "subpath": "fix"
+        },
+        "merchant-markers": {
+            "subpath": "utility.client"
+        },
+        "mixin-conflict-helper": {
+            "subpath": "debug"
+        },
+        "mixintrace": {
+            "subpath": "debug"
+        },
+        "mmmmmmmmmmmm": {
+            "subpath": "utility"
+        },
+        "mob-player-animator": {
+            "subpath": "0libs"
+        },
+        "mobs-of-mythology": {
+            "subpath": "content.creature"
+        },
+        "mobs-on-rails": {
+            "subpath": "mechanic"
+        },
+        "model-gap-fix": {
+            "subpath": "fix.client"
+        },
+        "modernfix": {
+            "subpath": "optimization"
+        },
+        "moonlight": {
+            "subpath": "0libs"
+        },
+        "more-profiling": {
+            "subpath": "debug"
+        },
+        "more-rpg-classes": {
+            "subpath": "0libs.rpg"
+        },
+        "moreculling": {
+            "subpath": "optimization.client"
+        },
+        "morecullingextra": {
+            "subpath": "optimization.client"
+        },
+        "moremcmeta": {
+            "subpath": "decoration.client"
+        },
+        "moremcmeta-emissive": {
+            "subpath": "decoration.client"
+        },
+        "mousekeyinventoryfix": {
+            "subpath": "fix.client"
+        },
+        "mowzies-mobs": {
+            "subpath": "content.creature"
+        },
+        "mpalladium": {
+            "subpath": "optimization"
+        },
+        "mru": {
+            "subpath": "0libs"
+        },
+        "mutated-items": {
+            "subpath": "content.creature"
+        },
+        "natures-spirit": {
+            "subpath": "worldgen.biome"
+        },
+        "nbt-autocomplete": {
+            "subpath": "utility"
+        },
+        "necronomicon": {
+            "subpath": "0libs"
+        },
+        "neruina": {
+            "subpath": "utility"
+        },
+        "night-config-fixes": {
+            "subpath": "fix"
+        },
+        "nightlights": {
+            "subpath": "decoration"
+        },
+        "no-resource-pack-warnings": {
+            "subpath": "utility.client"
+        },
+        "no-void-structures": {
+            "subpath": "worldgen.structure"
+        },
+        "noisium": {
+            "side": "BOTH",
+            "subpath": "optimization"
+        },
+        "normal-damage": {
+            "subpath": "mechanic"
+        },
+        "not-enough-animations": {
+            "subpath": "decoration.client"
+        },
+        "notenoughcrashes": {
+            "subpath": "utility"
+        },
+        "notenoughrecipebook": {
+            "subpath": "optimization"
+        },
+        "nsight-loader": {
+            "subpath": "debug"
+        },
+        "obscure-api-fabric": {
+            "subpath": "0libs"
+        },
+        "observable": {
+            "subpath": "debug"
+        },
+        "octo-lib": {
+            "subpath": "0libs"
+        },
+        "oculus": {
+            "subpath": "decoration.client"
+        },
+        "optigui": {
+            "subpath": "decoration.client"
+        },
+        "optipainting": {
+            "subpath": "optimization.client"
+        },
+        "owo-lib": {
+            "subpath": "0libs"
+        },
+        "packet-fixer": {
+            "subpath": "fix"
+        },
+        "paladins-and-priests": {
+            "subpath": "content.rpg"
+        },
+        "panorama-screens": {
+            "subpath": "decoration.client"
+        },
+        "paragliders": {
+            "subpath": "utility"
+        },
+        "particle-core": {
+            "subpath": "optimization.client"
+        },
+        "particle-rain": {
+            "subpath": "decoration.client"
+        },
+        "particle-tweaks": {
+            "subpath": "decoration.client"
+        },
+        "particular": {
+            "subpath": "decoration.client"
+        },
+        "passable-foliage": {
+            "subpath": "mechanic"
+        },
+        "patched": {
+            "subpath": "utility"
+        },
+        "pathunderfencegates": {
+            "subpath": "fix"
+        },
+        "paxi": {
+            "subpath": "utility"
+        },
+        "persistent-inventory-search": {
+            "subpath": "utility.client"
+        },
+        "pet-cemetery": {
+            "subpath": "utility"
+        },
+        "philips-ruins": {
+            "subpath": "worldgen.structure"
+        },
+        "pick-up-notifier": {
+            "subpath": "utility.client"
+        },
+        "playeranimator": {
+            "subpath": "0libs"
+        },
+        "polytone": {
+            "subpath": "decoration.client"
+        },
+        "potion-cauldron": {
+            "subpath": "utility"
+        },
+        "powershot": {
+            "subpath": "mechanic"
+        },
+        "presence-footsteps": {
+            "subpath": "decoration.client"
+        },
+        "prism-lib": {
+            "subpath": "0libs.client"
+        },
+        "profundis": {
+            "subpath": "worldgen.biome"
+        },
+        "puffish-attributes": {
+            "subpath": "content.rpg"
+        },
+        "puffish-skills": {
+            "subpath": "content.rpg"
+        },
+        "purediscstrailstales": {
+            "subpath": "decoration"
+        },
+        "purediscstrickytrials": {
+            "subpath": "decoration"
+        },
+        "puzzles-lib": {
+            "subpath": "0libs"
+        },
+        "pvpflag": {
+            "subpath": "mechanic"
+        },
+        "quick-menu": {
+            "subpath": "utility.client"
+        },
+        "radium": {
+            "subpath": "optimization"
+        },
+        "raised": {
+            "subpath": "utility.client"
+        },
+        "raknetify": {
+            "subpath": "optimization"
+        },
+        "ranged-weapon-api": {
+            "subpath": "0libs"
+        },
+        "real-arrow-tip": {
+            "subpath": "decoration.client"
+        },
+        "realistic-rowing": {
+            "subpath": "fix.client"
+        },
+        "redirector": {
+            "subpath": "optimization"
+        },
+        "registry-blocker": {
+            "subpath": "utility"
+        },
+        "reignited-hud": {
+            "subpath": "decoration.client"
+        },
+        "replanting-crops": {
+            "subpath": "mechanic"
+        },
+        "repurposed-structures": {
+            "subpath": "worldgen.structure"
+        },
+        "reputation-viewer": {
+            "subpath": "utility"
+        },
+        "resource_explorer": {
+            "subpath": "utility"
+        },
+        "resourceful-config": {
+            "subpath": "0libs"
+        },
+        "resourceful-lib": {
+            "subpath": "0libs"
+        },
+        "resourcify": {
+            "subpath": "utility"
+        },
+        "respackopts": {
+            "subpath": "utility"
+        },
+        "revelationary": {
+            "subpath": "utility"
+        },
+        "revive": {
+            "subpath": "mechanic"
+        },
+        "ribbits": {
+            "subpath": "content.creature"
+        },
+        "roasted": {
+            "subpath": "content"
+        },
+        "rogues-and-warriors": {
+            "subpath": "content.rpg"
+        },
+        "rrls": {
+            "subpath": "utility.client"
+        },
+        "runes": {
+            "subpath": "content.rpg"
+        },
+        "saplanting": {
+            "subpath": "mechanic"
+        },
+        "sawmill": {
+            "subpath": "content"
+        },
+        "screenshot-to-clipboard": {
+            "subpath": "utility.client"
+        },
+        "seamless": {
+            "subpath": "decoration.client"
+        },
+        "seamless-loading-screen": {
+            "subpath": "decoration.client"
+        },
+        "selfish-villager": {
+            "subpath": "mechanic"
+        },
+        "separatedleaves": {
+            "subpath": "mechanic"
+        },
+        "serverpingerfixer": {
+            "subpath": "fix.client"
+        },
+        "shield-api": {
+            "subpath": "0libs"
+        },
+        "shield-expansion": {
+            "subpath": "content"
+        },
+        "shield-overhaul": {
+            "update_strategy": "NONE",
+            "subpath": "content.rpg"
+        },
+        "show-me-what-you-got": {
+            "subpath": "utility"
+        },
+        "show-operator-tab": {
+            "subpath": "utility.client"
+        },
+        "shulkerboxtooltip": {
+            "subpath": "utility.client"
+        },
+        "simple-voice-chat": {
+            "subpath": "utility"
+        },
+        "simple-voice-radio": {
+            "subpath": "utility"
+        },
+        "simply-skills": {
+            "subpath": "content"
+        },
+        "sleep-tight": {
+            "subpath": "mechanic"
+        },
+        "smartbrainlib": {
+            "subpath": "0libs"
+        },
+        "smarter-farmers-farmers-replant": {
+            "subpath": "mechanic"
+        },
+        "smooth-scrolling-refurbished": {
+            "subpath": "utility.client"
+        },
+        "sneaky-curses": {
+            "subpath": "mechanic"
+        },
+        "sodium-dynamic-lights": {
+            "subpath": "decoration.client"
+        },
+        "sodium-extras": {
+            "subpath": "optimization.client"
+        },
+        "sodium-options-api": {
+            "subpath": "0libs.client"
+        },
+        "sons-of-sins": {
+            "subpath": "content.creature"
+        },
+        "sound": {
+            "subpath": "decoration.client"
+        },
+        "sound-physics-remastered": {
+            "subpath": "decoration.client"
+        },
+        "spark": {
+            "subpath": "debug"
+        },
+        "species": {
+            "subpath": "content.creature"
+        },
+        "spell-engine": {
+            "subpath": "content.rpg"
+        },
+        "spell-power": {
+            "subpath": "content.rpg"
+        },
+        "spellblades-and-such": {
+            "subpath": "content.rpg"
+        },
+        "spelunkery": {
+            "subpath": "content"
+        },
+        "sprite-arrows": {
+            "subpath": "decoration.client"
+        },
+        "spyglass-improvements": {
+            "subpath": "utility.client"
+        },
+        "stained-lenses": {
+            "subpath": "utility"
+        },
+        "stairdoors-extended": {
+            "subpath": "mechanic"
+        },
+        "stalwart-dungeons": {
+            "subpath": "worldgen.structure"
+        },
+        "starlight-forge": {
+            "subpath": "optimization"
+        },
+        "stormfest": {
+            "subpath": "decoration"
+        },
+        "structory": {
+            "subpath": "worldgen.structure"
+        },
+        "structory-towers": {
+            "subpath": "worldgen.structure"
+        },
+        "structure-pool-api": {
+            "side": "BOTH",
+            "subpath": "0libs"
+        },
+        "structure-void-toggle": {
+            "subpath": "debug"
+        },
+        "stylish-effects": {
+            "subpath": "utility.client"
+        },
+        "stylish-stiles": {
+            "subpath": "utility"
+        },
+        "suggestion-tweaker": {
+            "subpath": "utility"
+        },
+        "summoningrituals": {
+            "subpath": "utility"
+        },
+        "supplementaries": {
+            "subpath": "mechanic"
+        },
+        "sushi-bar": {
+            "subpath": "0libs"
+        },
+        "switcher": {
+            "subpath": "fix.client"
+        },
+        "talkbubbles": {
+            "subpath": "decoration.client"
+        },
+        "tax-free-levels": {
+            "subpath": "mechanic"
+        },
+        "tcdcommons": {
+            "subpath": "0libs"
+        },
+        "terrablender": {
+            "subpath": "0libs",
+            "aliases": [
+                "terrablender-fabric"
+            ]
+        },
+        "thats-my-bed": {
+            "subpath": "menchanic"
+        },
+        "the-abyss-runtime": {
+            "subpath": "utility"
+        },
+        "the-lost-castle": {
+            "subpath": "worldgen.structure"
+        },
+        "the-mighty-architectury": {
+            "subpath": "utility"
+        },
+        "third-person-maps": {
+            "subpath": "utility.client"
+        },
+        "tidal-towns": {
+            "subpath": "worldgen.structure"
+        },
+        "tierify": {
+            "subpath": "content"
+        },
+        "tips": {
+            "subpath": "decoration.client"
+        },
+        "tmp": {
+            "subpath": "optimization.client"
+        },
+        "toadlib": {
+            "subpath": "0libs"
+        },
+        "towers-of-the-wild-modded": {
+            "subpath": "worldgen.structure"
+        },
+        "towns-and-towers": {
+            "subpath": "worldgen.structure"
+        },
+        "transparent": {
+            "subpath": "decoration.client"
+        },
+        "travelers-titles": {
+            "subpath": "decoration.client"
+        },
+        "treechop": {
+            "subpath": "mechanic"
+        },
+        "trinkets": {
+            "subpath": "content.rpg"
+        },
+        "tslatentitystatus": {
+            "subpath": "utility.client"
+        },
+        "txnilib": {
+            "subpath": "0libs"
+        },
+        "ukulib": {
+            "subpath": "0libs"
+        },
+        "ukus-armor-hud": {
+            "subpath": "decoration.client"
+        },
+        "under-the-moon": {
+            "subpath": "worldgen.biome"
+        },
+        "underground-villages": {
+            "subpath": "worldgen.structure"
+        },
+        "universal-shortcuts": {
+            "subpath": "fix"
+        },
+        "unloaded-activity": {
+            "subpath": "mechanic"
+        },
+        "unnamed-desert": {
+            "subpath": "worldgen.structure"
+        },
+        "urkaz-moon-tools": {
+            "subpath": "utility"
+        },
+        "vanity-aesthetic-armory": {
+            "subpath": "decoration"
+        },
+        "vanity-ancient-tool-variants": {
+            "subpath": "decoration"
+        },
+        "vanity-colossal-weapons": {
+            "subpath": "decoration"
+        },
+        "vanity-core": {
+            "subpath": "decoration"
+        },
+        "vanity-ornate-weaponry": {
+            "subpath": "decoration"
+        },
+        "vanity-twilight-zone": {
+            "subpath": "decoration"
+        },
+        "victus": {
+            "subpath": "mechanic"
+        },
+        "village-spawn-point": {
+            "subpath": "utility"
+        },
+        "villager-armor-layer": {
+            "subpath": "decoration.client"
+        },
+        "villager-converting": {
+            "subpath": "mechanic"
+        },
+        "villager-schedules": {
+            "subpath": "debug"
+        },
+        "villager-transportation": {
+            "subpath": "mechanic"
+        },
+        "visual-workbench": {
+            "subpath": "utility"
+        },
+        "visuality": {
+            "subpath": "decoration.client"
+        },
+        "vmct": {
+            "redistributable": false
+        },
+        "voice-chat-interaction": {
+            "subpath": "utility"
+        },
+        "volume-fix": {
+            "subpath": "fix.client"
+        },
+        "waig-where-am-i-going": {
+            "subpath": "utility.client"
+        },
+        "wandering-collector": {
+            "subpath": "mechanic"
+        },
+        "watson": {
+            "subpath": "utility"
+        },
+        "waystones": {
+            "subpath": "content"
+        },
+        "weaponmaster": {
+            "subpath": "decoration"
+        },
+        "what-are-they-up-to": {
+            "subpath": "utility"
+        },
+        "what-the-bucket": {
+            "subpath": "utility"
+        },
+        "witcher-rpg-class": {
+            "subpath": "content.rpg"
+        },
+        "wither-spawn-animation": {
+            "subpath": "decoration"
+        },
+        "wits": {
+            "subpath": "utility"
+        },
+        "wizards": {
+            "subpath": "content.rpg"
+        },
+        "woodworks": {
+            "subpath": "utility"
+        },
+        "world-of-wonder": {
+            "subpath": "worldgen.biome"
+        },
+        "world-preview": {
+            "subpath": "utility"
+        },
+        "worldgen-profiling": {
+            "subpath": "debug"
+        },
+        "y-is-there-autojump": {
+            "subpath": "mechanic"
+        },
+        "yacl": {
+            "subpath": "0libs"
+        },
+        "yungs-api": {
+            "subpath": "0libs"
+        },
+        "yungs-better-desert-temples": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-dungeons": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-end-island": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-jungle-temples": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-mineshafts": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-nether-fortresses": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-ocean-monuments": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-strongholds": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-better-witch-huts": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-cave-biomes": {
+            "subpath": "worldgen.biome"
+        },
+        "yungs-extras": {
+            "subpath": "worldgen.structure"
+        },
+        "yungs-menu-tweaks": {
+            "subpath": "utility.client"
+        },
+        "zirconium": {
+            "subpath": "optimization"
+        },
+        "l_enders-cataclysm": {
+            "subpath": "content.creature"
+        },
+        "cataclysmic-combat": {
+            "subpath": "mechanic"
+        },
+        "lionfish-api": {
+            "subpath": "0libs"
+        },
+        "alexs-mobs": {
+            "subpath": "content.creature"
+        },
+        "dungeons-and-taverns": {
+            "subpath": "worldgen.structure"
+        },
+        "snow-real-magic": {
+            "subpath": "mechanic"
+        },
+        "relics-mod": {
+            "subpath": "content.rpg"
+        },
+        "ram-compat": {
+            "subpath": "content.rpg"
+        },
+        "rac-compat": {
+            "subpath": "content.rpg"
+        },
+        "beneath-the-wetlands": {
+            "subpath": "content.creature"
+        }
     }
-  }
 }
