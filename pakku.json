@@ -711,12 +711,14 @@
             "subpath": "utility"
         },
         "hopo-better-mineshaft": {
+            "update_strategy": "NONE",
             "subpath": "worldgen.structure"
         },
         "hopo-better-ruined-portals": {
             "subpath": "worldgen.structure"
         },
         "hopo-better-underwater-ruins": {
+            "update_strategy": "NONE",
             "subpath": "worldgen.structure"
         },
         "iceberg": {
@@ -1633,6 +1635,18 @@
         },
         "beneath-the-wetlands": {
             "subpath": "content.creature"
+        },
+        "sniffs-weapons": {
+            "subpath": "content.rpg"
+        },
+        "ribs-compat-pack": {
+            "subpath": "content.rpg"
+        },
+        "cuisine-delight": {
+            "subpath": "content"
+        },
+        "map-atlases": {
+            "subpath": "utility"
         }
     }
 }
