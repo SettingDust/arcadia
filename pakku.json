@@ -4,6 +4,9 @@
     "overrides": [
         "config"
     ],
+    "paths": {
+        "data_packs": "config/paxi/datapacks"
+    },
     "projects": {
         "3dskinlayers": {
             "subpath": "decoration.client"
@@ -1170,7 +1173,10 @@
             "subpath": "mechanic"
         },
         "repurposed-structures": {
-            "subpath": "worldgen.structure"
+            "subpath": "worldgen.structure",
+            "aliases": [
+                "repurposed-structures-fabric"
+            ]
         },
         "reputation-viewer": {
             "subpath": "utility"
@@ -1647,6 +1653,24 @@
         },
         "map-atlases": {
             "subpath": "utility"
+        },
+        "map-atlases-forge": {
+            "subpath": "utility"
+        },
+        "immersive-messages-api": {
+            "subpath": "utility"
+        },
+        "simply-stacked-dimensions": {
+            "subpath": "mechanic"
+        },
+        "the-afterdark": {
+            "subpath": "content.dimension"
+        },
+        "wares": {
+            "subpath": "content"
+        },
+        "monobank": {
+            "subpath": "content"
         }
     }
 }

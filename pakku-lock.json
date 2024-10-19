@@ -4,6 +4,7 @@
         "1.20.1"
     ],
     "loaders": {
+        "datapack": "*",
         "forge": "47.3.10",
         "fabric": "0.16.5"
     },
@@ -1028,6 +1029,29 @@
             },
             "subpath": "mechanic",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "amendments-1.20-1.2.12.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5820/238/amendments-1.20-1.2.12.jar",
+                    "id": "5820238",
+                    "parent_id": "896746",
+                    "hashes": {
+                        "sha1": "b9b55a797ab10fd3d32ef479f50ccac3051226be",
+                        "md5": "164d0d403dfb18d1ba6a0d16dbb5505d"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 995893,
+                    "date_published": "2024-10-17T19:47:32.503Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "amendments-1.20-1.2.11.jar",
@@ -7759,6 +7783,28 @@
             "files": [
                 {
                     "type": "curseforge",
+                    "file_name": "corpse-forge-1.20.1-1.0.17.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5816/907/corpse-forge-1.20.1-1.0.17.jar",
+                    "id": "5816907",
+                    "parent_id": "316582",
+                    "hashes": {
+                        "sha1": "e2e48fd030f9453fd49f4c4d9b3118269171f6ed",
+                        "md5": "46779c77c83adf305237e489d46e566f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 244310,
+                    "date_published": "2024-10-16T14:16:51.307Z"
+                },
+                {
+                    "type": "curseforge",
                     "file_name": "corpse-forge-1.20.1-1.0.15.jar",
                     "mc_versions": [
                         "1.20.1"
@@ -8911,6 +8957,34 @@
             },
             "subpath": "content.rpg",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Death_Knights-0.4.2beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5817/591/Death_Knights-0.4.2beta.jar",
+                    "id": "5817591",
+                    "parent_id": "968119",
+                    "hashes": {
+                        "sha1": "34782a5b119d8ae35b35caab80b310957f22254f",
+                        "md5": "800cdfc7ddef1090ddd72cc4d7da1617"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "912767",
+                        "775518",
+                        "807653",
+                        "586157"
+                    ],
+                    "size": 303635,
+                    "date_published": "2024-10-16T19:31:17.243Z"
+                },
                 {
                     "type": "curseforge",
                     "file_name": "Death_Knights-0.4.1beta+1.20.1.jar",
@@ -14775,6 +14849,31 @@
             "files": [
                 {
                     "type": "curseforge",
+                    "file_name": "forcemaster-class-mod-1.1.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5800/954/forcemaster-class-mod-1.1.2.jar",
+                    "id": "5800954",
+                    "parent_id": "992388",
+                    "hashes": {
+                        "sha1": "6ca384480faf65d29293369868e9b492b5cbe69f",
+                        "md5": "8c922f80b17ecd998963fc8059a216f9"
+                    },
+                    "required_dependencies": [
+                        "912767",
+                        "923030",
+                        "807653"
+                    ],
+                    "size": 628159,
+                    "date_published": "2024-10-10T18:23:38.570Z"
+                },
+                {
+                    "type": "curseforge",
                     "file_name": "forcemaster-class-mod-1.1.1.jar",
                     "mc_versions": [
                         "1.20.1"
@@ -15240,6 +15339,30 @@
             "subpath": "0libs",
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "fzzy_config-0.5.4+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5815/849/fzzy_config-0.5.4+1.20.1+forge.jar",
+                    "id": "5815849",
+                    "parent_id": "1005914",
+                    "hashes": {
+                        "sha1": "d276b3c6b17e9bb67448f0a4b4b82bd64bc8ee9b",
+                        "md5": "95e9cf95796d1f6b4163bd7f4f83bfab"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 1480834,
+                    "date_published": "2024-10-16T02:13:06.080Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "fzzy_config-0.5.2+1.20.1+forge.jar",
                     "mc_versions": [
@@ -15485,6 +15608,76 @@
                     ],
                     "size": 991552,
                     "date_published": "2024-08-29T19:02:04.210722Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5xBwgfuKyUZ71Rmf",
+            "pakku_links": [
+                "Vdadj9DlrXRSYywP"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "goety",
+                "modrinth": "goety"
+            },
+            "name": {
+                "curseforge": "Goety - The Dark Arts",
+                "modrinth": "Goety - The Dark Arts"
+            },
+            "id": {
+                "curseforge": "586095",
+                "modrinth": "4ZVIxU8x"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "goety-2.5.24.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5820/828/goety-2.5.24.0.jar",
+                    "id": "5820828",
+                    "parent_id": "586095",
+                    "hashes": {
+                        "sha1": "0635ea781c5b5d79ecbd33a28f30d57b5070a5e6",
+                        "md5": "aaf6dec9a7abbe8d2b79ba5aecd1f9d8"
+                    },
+                    "required_dependencies": [
+                        "309927"
+                    ],
+                    "size": 45942963,
+                    "date_published": "2024-10-18T01:54:49.960Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "goety-2.5.24.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4ZVIxU8x/versions/rlMk0TEB/goety-2.5.24.0.jar",
+                    "id": "rlMk0TEB",
+                    "parent_id": "4ZVIxU8x",
+                    "hashes": {
+                        "sha512": "0b41d87fe07e800aed11b4d20b3632ac829dbb4f0daa83f50e94038eb4937dce88ef7f80b8e34f8cdfad3cff123f3914dd19f30e3b28e22f5a28f6886d749505",
+                        "sha1": "0635ea781c5b5d79ecbd33a28f30d57b5070a5e6"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH"
+                    ],
+                    "size": 45942963,
+                    "date_published": "2024-10-18T01:56:28.777302Z"
                 }
             ]
         },
@@ -16684,6 +16877,77 @@
             ]
         },
         {
+            "pakku_id": "cVspQ60b36eAMbDi",
+            "pakku_links": [
+                "xfsP5XmJpcrCuT6r"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-messages-api",
+                "modrinth": "immersive-messages-api"
+            },
+            "name": {
+                "curseforge": "Immersive Messages API",
+                "modrinth": "Immersive Messages API"
+            },
+            "id": {
+                "curseforge": "1109713",
+                "modrinth": "6xvrmbjn"
+            },
+            "subpath": "utility",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersivemessages-forge-1.0.14-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5819/661/immersivemessages-forge-1.0.14-1.20.1.jar",
+                    "id": "5819661",
+                    "parent_id": "1109713",
+                    "hashes": {
+                        "sha1": "26b2595735e843e00dcee2fac2b219598da3e629",
+                        "md5": "65ff1b8a656f03bcdc45aae121c4e46f"
+                    },
+                    "required_dependencies": [
+                        "1104882"
+                    ],
+                    "size": 1460120,
+                    "date_published": "2024-10-17T15:48:39.927Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersivemessages-forge-1.0.14-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6xvrmbjn/versions/InTZI8Ml/immersivemessages-forge-1.0.14-1.20.1.jar",
+                    "id": "InTZI8Ml",
+                    "parent_id": "6xvrmbjn",
+                    "hashes": {
+                        "sha512": "6189bdc8c2ab7dee3f86706a7d39da4702e5e93c0687f8ae897a7025294e3e5f70ee0de2ca91617075cf16b205ca1ad484057528214aeb08a66ef21f0a58eb4d",
+                        "sha1": "26b2595735e843e00dcee2fac2b219598da3e629"
+                    },
+                    "required_dependencies": [
+                        "vBbPDuOs"
+                    ],
+                    "size": 1460120,
+                    "date_published": "2024-10-17T15:48:41.637120Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "K8GuZOzo0uix7hPm",
             "pakku_links": [
                 "6TZyVD2d3huEjoPl"
@@ -17269,6 +17533,30 @@
             },
             "subpath": "decoration",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ItemPhysic_FORGE_v1.8.2_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5819/6/ItemPhysic_FORGE_v1.8.2_mc1.20.1.jar",
+                    "id": "5819006",
+                    "parent_id": "258587",
+                    "hashes": {
+                        "sha1": "4805708b0c3afa7b4a3df9e8d25f793752dd004e",
+                        "md5": "b47cb1d8a926a32e877b2e0671ec1f42"
+                    },
+                    "required_dependencies": [
+                        "257814"
+                    ],
+                    "size": 53302,
+                    "date_published": "2024-10-17T10:37:50.417Z"
+                },
                 {
                     "type": "curseforge",
                     "file_name": "ItemPhysic_FORGE_v1.8.1_mc1.20.1.jar",
@@ -20150,6 +20438,48 @@
             ]
         },
         {
+            "pakku_id": "JCH1jOehXIl75Qje",
+            "pakku_links": [
+                "v8C6fOZecinZmQxy"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "map-atlases-forge"
+            },
+            "name": {
+                "curseforge": "Map Atlases [Forge]"
+            },
+            "id": {
+                "curseforge": "519759"
+            },
+            "subpath": "utility",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "map_atlases-1.20-6.0.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5626/93/map_atlases-1.20-6.0.9.jar",
+                    "id": "5626093",
+                    "parent_id": "519759",
+                    "hashes": {
+                        "sha1": "ba116145dbbc1004296a3280178e0e6735d580df",
+                        "md5": "38f17aeaa1d524249c8e9b462e596a98"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 692159,
+                    "date_published": "2024-08-13T22:21:28.837Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DOsMgQ5XHa5MrDg3",
             "type": "MOD",
             "side": "CLIENT",
@@ -21026,6 +21356,71 @@
             ]
         },
         {
+            "pakku_id": "wPkOyALDLJTYJQa9",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "monobank",
+                "modrinth": "monobank"
+            },
+            "name": {
+                "curseforge": "Monobank",
+                "modrinth": "Monobank"
+            },
+            "id": {
+                "curseforge": "817257",
+                "modrinth": "3bSjQuE3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "monobank-1.20.1-1.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5086/245/monobank-1.20.1-1.1.4.jar",
+                    "id": "5086245",
+                    "parent_id": "817257",
+                    "hashes": {
+                        "sha1": "b968e98626117017f7c63848fba276039a69370d",
+                        "md5": "dc0e8b92ac2941720d6491c81fafb117"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 385151,
+                    "date_published": "2024-02-07T02:51:52.350Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "monobank-1.20.1-1.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3bSjQuE3/versions/la4xAKzf/monobank-1.20.1-1.1.4.jar",
+                    "id": "la4xAKzf",
+                    "parent_id": "3bSjQuE3",
+                    "hashes": {
+                        "sha512": "db72b4781f2045b2dde7ae6547e91cab95103c414fe6c81d573a571fe077ce783147aa492fc7ff34b099a823574851f1d3431ad80e723b342ea602927bc1c766",
+                        "sha1": "b968e98626117017f7c63848fba276039a69370d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 385151,
+                    "date_published": "2024-02-07T02:53:53.691294Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "v8C6fOZecinZmQxy",
             "type": "MOD",
             "side": "BOTH",
@@ -21041,6 +21436,7 @@
                 "curseforge": "499980",
                 "modrinth": "twkfQtEc"
             },
+            "subpath": "0libs",
             "files": [
                 {
                     "type": "curseforge",
@@ -22922,12 +23318,12 @@
             ]
         },
         {
-            "pakku_id": "63pBTSZjrMRBvcOK",
+            "pakku_id": "RtnO86jnP0SGLbkz",
             "pakku_links": [
                 "ef5klbGotStdSXTQ",
                 "5sxLlohcnSg5l56f",
-                "lOl9VqYNjSUrbxH8",
-                "r3HIoc5c77b77ywf"
+                "r3HIoc5c77b77ywf",
+                "lOl9VqYNjSUrbxH8"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -22945,33 +23341,6 @@
             },
             "subpath": "content.rpg",
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "paladins-1.3.1+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/9FbzwRpY/paladins-1.3.1+1.20.1.jar",
-                    "id": "9FbzwRpY",
-                    "parent_id": "FxXkHaLe",
-                    "hashes": {
-                        "sha512": "a9b7e6da3205207a7fce6fe35e17f91a4130089c17c1963fb59a51f7875070e10022bd51347db6e6c5a8ba56f5145ff77dd149a628b323476373947467025806",
-                        "sha1": "d47498d495a108bcc79a618f14a73214c9e193c7"
-                    },
-                    "required_dependencies": [
-                        "y9clIFY4",
-                        "XvoWJaA2",
-                        "pduQXSbl",
-                        "P7dR8mSH",
-                        "lP9Yrr1E"
-                    ],
-                    "size": 2520694,
-                    "date_published": "2024-07-24T21:44:39.802615Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "paladins-1.3.1+1.20.1.jar",
@@ -22998,6 +23367,33 @@
                     ],
                     "size": 2520694,
                     "date_published": "2024-07-24T21:44:41.457Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "paladins-1.3.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/9FbzwRpY/paladins-1.3.1+1.20.1.jar",
+                    "id": "9FbzwRpY",
+                    "parent_id": "FxXkHaLe",
+                    "hashes": {
+                        "sha512": "a9b7e6da3205207a7fce6fe35e17f91a4130089c17c1963fb59a51f7875070e10022bd51347db6e6c5a8ba56f5145ff77dd149a628b323476373947467025806",
+                        "sha1": "d47498d495a108bcc79a618f14a73214c9e193c7"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "XvoWJaA2",
+                        "lP9Yrr1E",
+                        "pduQXSbl",
+                        "y9clIFY4"
+                    ],
+                    "size": 2520694,
+                    "date_published": "2024-07-24T21:44:39.802615Z"
                 }
             ]
         },
@@ -25562,6 +25958,660 @@
             ]
         },
         {
+            "pakku_id": "3DuRYQ4ikGN1tTNZ",
+            "pakku_links": [
+                "owziyVudHKt0fz3a"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "repurposed-structures-better-desert-temples-compat",
+                "modrinth": "repurposed-structures-better-desert-temples-compat"
+            },
+            "name": {
+                "curseforge": "Repurposed Structures - Better Desert Temples Compat Datapack",
+                "modrinth": "Repurposed Structures - Better Desert Temples Compat"
+            },
+            "id": {
+                "curseforge": "640296",
+                "modrinth": "mKaYfrOy"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Desert_Temples_v8.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4783/915/Repurposed_Structures-Better_Desert_Temples_v8.zip",
+                    "id": "4783915",
+                    "parent_id": "640296",
+                    "hashes": {
+                        "sha1": "cd172c7e4eef71324df8170c32ca91507879289d",
+                        "md5": "d05bffc921fd3da42130625d7658d1ab"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 6939378,
+                    "date_published": "2023-10-05T23:56:44.913Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Desert_Temples_v8.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mKaYfrOy/versions/fSqJD93x/Repurposed_Structures-Better_Desert_Temples_v8.zip",
+                    "id": "fSqJD93x",
+                    "parent_id": "mKaYfrOy",
+                    "hashes": {
+                        "sha512": "8f2e561f2a2a34c22f5b1f1dd8b898fa48f9256be8b4fb483eb95b466e862256f497c98383fe0b39a0d683f34a78ed84ab072917dbf987db72f21d0aa8580a74",
+                        "sha1": "cd172c7e4eef71324df8170c32ca91507879289d"
+                    },
+                    "required_dependencies": [
+                        "XNlO7sBv"
+                    ],
+                    "size": 6939378,
+                    "date_published": "2023-10-05T23:57:14.189779Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "pvMZhaK5BmcoJBIj",
+            "pakku_links": [
+                "xnTRftA5GtvxDx6j"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-better-dungeons-compat",
+                "curseforge": "repurposed-structures-better-dungeons-datapack"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Better Dungeons Compat",
+                "curseforge": "Repurposed Structures - Better Dungeons Compat Datapack"
+            },
+            "id": {
+                "modrinth": "qUbxpIPN",
+                "curseforge": "554329"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Dungeons_v5.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qUbxpIPN/versions/LruTbLS4/Repurposed_Structures-Better_Dungeons_v5.zip",
+                    "id": "LruTbLS4",
+                    "parent_id": "qUbxpIPN",
+                    "hashes": {
+                        "sha512": "d3879356bac15cde5b156fbd2e6b437702d03733ddc14590bd92e9cb878afee48fc5f1d88765a4266e99199956dbe9ce75f36bf84bddcc8ddacaa0218766d3c6",
+                        "sha1": "30ac8e799318853e150a1b1c4270ebae65de0083"
+                    },
+                    "required_dependencies": [
+                        "o1C1Dkj5"
+                    ],
+                    "size": 119118,
+                    "date_published": "2023-09-12T11:35:04.126203Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Dungeons_v5.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4749/248/Repurposed_Structures-Better_Dungeons_v5.zip",
+                    "id": "4749248",
+                    "parent_id": "554329",
+                    "hashes": {
+                        "sha1": "30ac8e799318853e150a1b1c4270ebae65de0083",
+                        "md5": "a29e84bb8b3c18fba89aeb3f33f25105"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 119118,
+                    "date_published": "2023-09-12T11:34:40.493Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xrl3wuEJOghjAJZq",
+            "pakku_links": [
+                "tub7wu3KFVefNHbV"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-better-jungle-temples",
+                "curseforge": "repurposed-structures-better-jungle-temples-compat"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Better Jungle Temples Compat",
+                "curseforge": "Repurposed Structures - Better Jungle Temples Compat"
+            },
+            "id": {
+                "modrinth": "gAvG8ZeC",
+                "curseforge": "917314"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Jungle_Temples_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gAvG8ZeC/versions/iegdS5oG/Repurposed_Structures-Better_Jungle_Temples_v6.zip",
+                    "id": "iegdS5oG",
+                    "parent_id": "gAvG8ZeC",
+                    "hashes": {
+                        "sha512": "cdd6811d14e9ca2af162013a09d1764d0be48008f4b150371c8e5edc0845131441d0a78d043c6989064d9101c495663e624bb379b1cf160c4860bcd793e9f5b0",
+                        "sha1": "0b8d7d3b18eaa056593f4ecd6776c3e8c25110d4"
+                    },
+                    "required_dependencies": [
+                        "z9Ve58Ih"
+                    ],
+                    "size": 3772298,
+                    "date_published": "2024-01-01T18:21:06.951851Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Jungle_Temples_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4999/733/Repurposed_Structures-Better_Jungle_Temples_v6.zip",
+                    "id": "4999733",
+                    "parent_id": "917314",
+                    "hashes": {
+                        "sha1": "0b8d7d3b18eaa056593f4ecd6776c3e8c25110d4",
+                        "md5": "55058bf0964493868c80499adbbae4ee"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3772298,
+                    "date_published": "2024-01-01T18:20:31.127Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tXiuJjb6iky7iP8c",
+            "pakku_links": [
+                "issOvSlqZvKhJCSm"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-better-nether-fortress-compat",
+                "curseforge": "repurposed-structures-better-nether-fortress"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Better Nether Fortress Compat",
+                "curseforge": "Repurposed Structures - Better Nether Fortress Compat Datapack"
+            },
+            "id": {
+                "modrinth": "7vT7Bwz9",
+                "curseforge": "837728"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Nether_Fortress_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7vT7Bwz9/versions/qpGLXNZK/Repurposed_Structures-Better_Nether_Fortress_v6.zip",
+                    "id": "qpGLXNZK",
+                    "parent_id": "7vT7Bwz9",
+                    "hashes": {
+                        "sha512": "7841b78dbf27fd7dd3bb8ec9cd85737ca044a4f125749de8a367e1d2a802d4dc6c214ba84da8eac0cbbb3baec2f4ca54125debb736ce5c204f1acb340bb09155",
+                        "sha1": "b99f45ecd694b0fb1b8320934111173889453d8b"
+                    },
+                    "required_dependencies": [
+                        "Z2mXHnxP"
+                    ],
+                    "size": 459882,
+                    "date_published": "2023-09-12T23:24:01.265764Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Nether_Fortress_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4750/44/Repurposed_Structures-Better_Nether_Fortress_v6.zip",
+                    "id": "4750044",
+                    "parent_id": "837728",
+                    "hashes": {
+                        "sha1": "b99f45ecd694b0fb1b8320934111173889453d8b",
+                        "md5": "e9ed2a83c5a76b1443b050a1c7fb37b1"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 459882,
+                    "date_published": "2023-09-12T23:22:18.127Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hTRp4803iOm5M7Qo",
+            "pakku_links": [
+                "BFbIilQuffbROxck"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-better-ocean-monuments-compat",
+                "curseforge": "repurposed-structures-better-ocean-monuments"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Better Ocean Monuments Compat",
+                "curseforge": "Repurposed Structures - Better Ocean Monuments Compat Datapack"
+            },
+            "id": {
+                "modrinth": "WQ8xE11Z",
+                "curseforge": "690393"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Monuments_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WQ8xE11Z/versions/S1HbCX1t/Repurposed_Structures-Better_Monuments_v6.zip",
+                    "id": "S1HbCX1t",
+                    "parent_id": "WQ8xE11Z",
+                    "hashes": {
+                        "sha512": "b800db712b41a2ed2e2dbf738e16bfc217b84871fe40ad51e4c100b65c4bafa69363c6ffd74dd1900c91fea82eb46beb94c4f965569359e78977f3d1dbc34415",
+                        "sha1": "b8a3a0582a5ebb659993a8c1a60b83a1ed348848"
+                    },
+                    "required_dependencies": [
+                        "3dT9sgt4"
+                    ],
+                    "size": 3008467,
+                    "date_published": "2023-09-13T00:06:28.413953Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Monuments_v6.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4750/77/Repurposed_Structures-Better_Monuments_v6.zip",
+                    "id": "4750077",
+                    "parent_id": "690393",
+                    "hashes": {
+                        "sha1": "b8a3a0582a5ebb659993a8c1a60b83a1ed348848",
+                        "md5": "7cd55be73ec539c5da650c1e63605f60"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3008467,
+                    "date_published": "2023-09-13T00:05:48.133Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tAxUwCy7nAACg3al",
+            "pakku_links": [
+                "o5IdKuJYjMjG2CsA"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-better-strongholds-compat",
+                "curseforge": "repurposed-structures-better-strongholds-datapack"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Better Strongholds Compat",
+                "curseforge": "Repurposed Structures - Better Strongholds Compat Datapack"
+            },
+            "id": {
+                "modrinth": "uJ0YMl4f",
+                "curseforge": "547822"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Strongholds_v5.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uJ0YMl4f/versions/Mk16m8e6/Repurposed_Structures-Better_Strongholds_v5.zip",
+                    "id": "Mk16m8e6",
+                    "parent_id": "uJ0YMl4f",
+                    "hashes": {
+                        "sha512": "b545b1f327123ebebe5487db9bd08b722c89f477c13710f4513a19e2e33be872c3523c2444d0b61a609d3288fe6af8c4f093b3bce7cf268f40ec7e22b25ddfda",
+                        "sha1": "8fdd9470c6ba56768f708241480dd6de36d3c53a"
+                    },
+                    "required_dependencies": [
+                        "kidLKymU"
+                    ],
+                    "size": 560779,
+                    "date_published": "2023-09-12T11:33:35.834694Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Strongholds_v5.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4749/247/Repurposed_Structures-Better_Strongholds_v5.zip",
+                    "id": "4749247",
+                    "parent_id": "547822",
+                    "hashes": {
+                        "sha1": "8fdd9470c6ba56768f708241480dd6de36d3c53a",
+                        "md5": "029e6efb828616514348a8af93eed89c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 560779,
+                    "date_published": "2023-09-12T11:32:59.760Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ST3lEsXQbBf6wLM1",
+            "pakku_links": [
+                "HamdNXNo6TPWNinE"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "repurposed-structures-better-witch-huts-compat",
+                "modrinth": "repurposed-structures-better-witch-huts-compat"
+            },
+            "name": {
+                "curseforge": "Repurposed Structures - Better Witch Huts Compat Datapack",
+                "modrinth": "Repurposed Structures - Better Witch Huts Compat"
+            },
+            "id": {
+                "curseforge": "634440",
+                "modrinth": "ePaZVJM4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Better_Witch_Huts_v4.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4749/246/Repurposed_Structures-Better_Witch_Huts_v4.zip",
+                    "id": "4749246",
+                    "parent_id": "634440",
+                    "hashes": {
+                        "sha1": "6d4407319ef0d01b19495506ccc46b266facc457",
+                        "md5": "7e38c1f0afaa9a44b6ad743311839462"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 64092,
+                    "date_published": "2023-09-12T11:29:31.987Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Better_Witch_Huts_v4.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ePaZVJM4/versions/Q6deEx42/Repurposed_Structures-Better_Witch_Huts_v4.zip",
+                    "id": "Q6deEx42",
+                    "parent_id": "ePaZVJM4",
+                    "hashes": {
+                        "sha512": "79ab2bded214b6be32185f59fee5a242ec668f84ccff5049a086b3bd2bb5a44c013d7f9d4fb6d9f7f602ef8ca07cd862777d3ec59456dc4ffe77b716b7fffeb2",
+                        "sha1": "6d4407319ef0d01b19495506ccc46b266facc457"
+                    },
+                    "required_dependencies": [
+                        "t5FRdP87"
+                    ],
+                    "size": 64092,
+                    "date_published": "2023-09-12T11:28:34.469368Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6KKSQ50fyEWrntKP",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-farmers-delight-compat",
+                "curseforge": "repurposed-structures-farmers-delight-datapack"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Farmer's Delight Compat",
+                "curseforge": "Repurposed Structures - Farmer's Delight Compat Datapack"
+            },
+            "id": {
+                "modrinth": "P5wB88AS",
+                "curseforge": "554331"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Farmers_Delight_v6.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P5wB88AS/versions/DSuBmePz/Repurposed_Structures-Farmers_Delight_v6.zip",
+                    "id": "DSuBmePz",
+                    "parent_id": "P5wB88AS",
+                    "hashes": {
+                        "sha512": "6ae1085c18dc0c6213996996cc78881c930edcf5eb1d33b0a23645e2f590253f94e367ded82a7f2acda335f88868f0a589c5af60ff75921b6fa0a5f22bfeaa5e",
+                        "sha1": "e170a7c6bd54bf0d663f1db50c233f1c6918069d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 59408,
+                    "date_published": "2023-08-16T23:57:21.881061Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Farmers_Delight_v6.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4708/516/Repurposed_Structures-Farmers_Delight_v6.zip",
+                    "id": "4708516",
+                    "parent_id": "554331",
+                    "hashes": {
+                        "sha1": "e170a7c6bd54bf0d663f1db50c233f1c6918069d",
+                        "md5": "e8d5e26e900b224aeedd11e1ace6201b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 59408,
+                    "date_published": "2023-08-16T23:57:26.023Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hdkkAuNzP5MSQXHM",
+            "pakku_links": [
+                "P4yYGiCo8q6nIWYA",
+                "9eHStb4RlvkGEviu"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-gazebo",
+                "curseforge": "repurposed-structures-gazebo-compat"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Gazebo Compat Datapack",
+                "curseforge": "Repurposed Structures - Gazebo Compat Datapack"
+            },
+            "id": {
+                "modrinth": "H0lxoIBE",
+                "curseforge": "904898"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Gazebo_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/H0lxoIBE/versions/Ui3kVOdx/Repurposed_Structures-Gazebo_v2.zip",
+                    "id": "Ui3kVOdx",
+                    "parent_id": "H0lxoIBE",
+                    "hashes": {
+                        "sha512": "6860133172a20b151f4199420ba9f603b5699d60b2b7100bb797ef8e17bbd83adf8b33f98fc20ff8c8a9e49d2c7647a4ae8d4cb8f9bea105c5fcaabfc31bf2dd",
+                        "sha1": "81645df8fd47118fdcdb877468d80e72b9c914ef"
+                    },
+                    "required_dependencies": [
+                        "muf0XoRe",
+                        "XIpMGI6r"
+                    ],
+                    "size": 42901,
+                    "date_published": "2023-08-20T20:48:14.897705Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Gazebo_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4714/404/Repurposed_Structures-Gazebo_v2.zip",
+                    "id": "4714404",
+                    "parent_id": "904898",
+                    "hashes": {
+                        "sha1": "81645df8fd47118fdcdb877468d80e72b9c914ef",
+                        "md5": "513795d4f3189d8c042ce78c3467b39b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 42901,
+                    "date_published": "2023-08-20T20:47:52.963Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sHcaQQwb10NUPArK",
+            "pakku_links": [
+                "P4yYGiCo8q6nIWYA",
+                "wPkOyALDLJTYJQa9"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "repurposed-structures-monobank-compat",
+                "modrinth": "repurposed-structures-monobank-compat"
+            },
+            "name": {
+                "curseforge": "Repurposed Structures - Monobank Compat Datapack",
+                "modrinth": "Repurposed Structures - Monobank Compat"
+            },
+            "id": {
+                "curseforge": "906110",
+                "modrinth": "e4Kv7ax2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Monobank_v3.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5120/542/Repurposed_Structures-Monobank_v3.zip",
+                    "id": "5120542",
+                    "parent_id": "906110",
+                    "hashes": {
+                        "sha1": "5f48cc508e97e2f27968edb372bd1b95c28cbcdd",
+                        "md5": "5c7ce5d03a2293ccfd7d48258afb464a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 153916,
+                    "date_published": "2024-02-19T13:56:22.503Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Monobank_v3.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/e4Kv7ax2/versions/EzRmtvcX/Repurposed_Structures-Monobank_v3.zip",
+                    "id": "EzRmtvcX",
+                    "parent_id": "e4Kv7ax2",
+                    "hashes": {
+                        "sha512": "6e0fcd3a639dbb088ace6a9434926bcb9018f4ea3d3ff40a0191e879aebf40920c796130ed3987a06d677355b6301561baa202ec5b49a5c25579953232474c82",
+                        "sha1": "5f48cc508e97e2f27968edb372bd1b95c28cbcdd"
+                    },
+                    "required_dependencies": [
+                        "QDNS5oAT",
+                        "3bSjQuE3"
+                    ],
+                    "size": 153916,
+                    "date_published": "2024-02-19T13:57:15.150558Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "P4yYGiCo8q6nIWYA",
             "type": "MOD",
             "side": "SERVER",
@@ -25578,6 +26628,9 @@
                 "curseforge": "368293"
             },
             "subpath": "worldgen.structure",
+            "aliases": [
+                "repurposed-structures-fabric"
+            ],
             "files": [
                 {
                     "type": "modrinth",
@@ -25622,6 +26675,204 @@
                     ],
                     "size": 8131546,
                     "date_published": "2024-05-09T23:38:44.120Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PJchseyIslvmHaIr",
+            "pakku_links": [
+                "RtnO86jnP0SGLbkz",
+                "P4yYGiCo8q6nIWYA"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-paladins",
+                "curseforge": "repurposed-structures-paladins-preists-compat"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Paladins & Preists Compat Datapack",
+                "curseforge": "Repurposed Structures - Paladins & Preists Compat Datapack"
+            },
+            "id": {
+                "modrinth": "L16BPBvl",
+                "curseforge": "904988"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Paladins_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/L16BPBvl/versions/qAZSie1E/Repurposed_Structures-Paladins_v2.zip",
+                    "id": "qAZSie1E",
+                    "parent_id": "L16BPBvl",
+                    "hashes": {
+                        "sha512": "edff7b44e711b53fabb546047fce507567b14e43bcd3e6f059d3f73e3022c9faa4a410d32812374604ad7bab5841e6ec4cea4c525855e33b57db3774df1819de",
+                        "sha1": "846da0b2a76c6e217a6a6953025a634306c5608d"
+                    },
+                    "required_dependencies": [
+                        "FxXkHaLe",
+                        "muf0XoRe"
+                    ],
+                    "size": 74682,
+                    "date_published": "2023-08-21T03:17:51.503380Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Paladins_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4714/856/Repurposed_Structures-Paladins_v2.zip",
+                    "id": "4714856",
+                    "parent_id": "904988",
+                    "hashes": {
+                        "sha1": "846da0b2a76c6e217a6a6953025a634306c5608d",
+                        "md5": "dc562378c73926379c463abe62651937"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 74682,
+                    "date_published": "2023-08-21T03:12:07.023Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nUoNHfpZg63iHefb",
+            "pakku_links": [
+                "P4yYGiCo8q6nIWYA",
+                "jjMVsOzgrgtfWnXA"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "repurposed-structures-wares",
+                "curseforge": "repurposed-structures-wares-compat"
+            },
+            "name": {
+                "modrinth": "Repurposed Structures - Wares Compat",
+                "curseforge": "Repurposed Structures - Wares Compat Datapack"
+            },
+            "id": {
+                "modrinth": "uMZ9Ezla",
+                "curseforge": "905738"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Wares_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uMZ9Ezla/versions/xkc5LtgB/Repurposed_Structures-Wares_v2.zip",
+                    "id": "xkc5LtgB",
+                    "parent_id": "uMZ9Ezla",
+                    "hashes": {
+                        "sha512": "25809f415841ff184eb481ef8e4dfe8664465fc32818a60d43ef98ceb1e1fffc7760d4da7105d9d71e90f81681fb7c28b506863aa474e72d454448d33fbb6ad7",
+                        "sha1": "b076ef4320a9fcc467c716a361c71acf9f08dd95"
+                    },
+                    "required_dependencies": [
+                        "QDNS5oAT",
+                        "Jz71ddli"
+                    ],
+                    "size": 59682,
+                    "date_published": "2023-12-30T16:32:38.665162Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Wares_v2.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4717/972/Repurposed_Structures-Wares_v2.zip",
+                    "id": "4717972",
+                    "parent_id": "905738",
+                    "hashes": {
+                        "sha1": "b076ef4320a9fcc467c716a361c71acf9f08dd95",
+                        "md5": "46dcf637cfa08bb0b7a0771bb61b8537"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 59682,
+                    "date_published": "2023-08-23T00:27:10.923Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "w1Amclr01PiPRGo2",
+            "pakku_links": [
+                "VpLOmpfiyv34ZDQ9",
+                "P4yYGiCo8q6nIWYA"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "repurposed-structures-wizards-compat-datapack",
+                "modrinth": "repurposed-structures-wizards-compat-datapack"
+            },
+            "name": {
+                "curseforge": "Repurposed Structures - Wizards Compat Datapack",
+                "modrinth": "Repurposed Structures - Wizards Compat Datapack"
+            },
+            "id": {
+                "curseforge": "821708",
+                "modrinth": "hl0bs6jf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Repurposed_Structures-Wizards_v3.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4708/547/Repurposed_Structures-Wizards_v3.zip",
+                    "id": "4708547",
+                    "parent_id": "821708",
+                    "hashes": {
+                        "sha1": "a84fb39842cf96f2b18ceaedddc8e353a8d1b1a5",
+                        "md5": "febdf5f1ab6ad4712ef5bf06fa241043"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 84254,
+                    "date_published": "2023-08-17T00:35:33.510Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Repurposed_Structures-Wizards_v3.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hl0bs6jf/versions/eBJE89zS/Repurposed_Structures-Wizards_v3.zip",
+                    "id": "eBJE89zS",
+                    "parent_id": "hl0bs6jf",
+                    "hashes": {
+                        "sha512": "f064d51c84d71ef99761bf2db3a21f5c8d661807ba2f94470b7f5dada47cac6f87e3f19def2680ce6f1e2f46ec15866d443312357877e2e466bcb7fddd0fe0d3",
+                        "sha1": "a84fb39842cf96f2b18ceaedddc8e353a8d1b1a5"
+                    },
+                    "required_dependencies": [
+                        "NkGaQMDA",
+                        "muf0XoRe"
+                    ],
+                    "size": 84254,
+                    "date_published": "2023-08-17T00:35:55.878828Z"
                 }
             ]
         },
@@ -26293,29 +27544,6 @@
             "subpath": "content.rpg",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "ribscompatpack-0.0.3-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5806/188/ribscompatpack-0.0.3-1.20.1.jar",
-                    "id": "5806188",
-                    "parent_id": "1117958",
-                    "hashes": {
-                        "sha1": "844b009a7413ab5bf7bd2c089a96fe3ffe48e81f",
-                        "md5": "acaf6e2021ec6e7d07acdfda1fff3c15"
-                    },
-                    "required_dependencies": [
-                        "739757"
-                    ],
-                    "size": 315957,
-                    "date_published": "2024-10-12T16:54:30.437Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "ribscompatpack-0.0.3-1.20.1.jar",
                     "mc_versions": [
@@ -26337,6 +27565,52 @@
                     ],
                     "size": 315957,
                     "date_published": "2024-10-12T17:11:39.439313Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ribscompatpack-0.0.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5817/397/ribscompatpack-0.0.4-1.20.1.jar",
+                    "id": "5817397",
+                    "parent_id": "1117958",
+                    "hashes": {
+                        "sha1": "e344c49ede6b977d60a18f065a80ae71476a6730",
+                        "md5": "a4c90e4f2eda69d7d693503660f9d864"
+                    },
+                    "required_dependencies": [
+                        "739757"
+                    ],
+                    "size": 350804,
+                    "date_published": "2024-10-16T18:05:37.577Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ribscompatpack-0.0.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5806/188/ribscompatpack-0.0.3-1.20.1.jar",
+                    "id": "5806188",
+                    "parent_id": "1117958",
+                    "hashes": {
+                        "sha1": "844b009a7413ab5bf7bd2c089a96fe3ffe48e81f",
+                        "md5": "acaf6e2021ec6e7d07acdfda1fff3c15"
+                    },
+                    "required_dependencies": [
+                        "739757"
+                    ],
+                    "size": 315957,
+                    "date_published": "2024-10-12T16:54:30.437Z"
                 }
             ]
         },
@@ -27731,6 +29005,45 @@
             ]
         },
         {
+            "pakku_id": "CAuS1gTAXLhaiKHK",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simply-stacked-dimensions"
+            },
+            "name": {
+                "curseforge": "Simply Stacked Dimensions"
+            },
+            "id": {
+                "curseforge": "523416"
+            },
+            "subpath": "mechanic",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simplystacked-1.20-1.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5562/948/simplystacked-1.20-1.0.jar",
+                    "id": "5562948",
+                    "parent_id": "523416",
+                    "hashes": {
+                        "sha1": "c400ff4166daa70df65f7dfa65e2c06c9b5d70c9",
+                        "md5": "2ec63ed2df9509a422debabea97895dc"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 20450,
+                    "date_published": "2024-07-24T23:23:54.183Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tJAqEPS0J9BkuAQc",
             "pakku_links": [
                 "67U1hwTTPyRgehly"
@@ -28161,6 +29474,28 @@
             },
             "subpath": "content.rpg",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sniffsweapons-1.3.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5815/24/sniffsweapons-1.3.1-1.20.1.jar",
+                    "id": "5815024",
+                    "parent_id": "739757",
+                    "hashes": {
+                        "sha1": "4176a90f202a756e645039f59a49822832adb7a8",
+                        "md5": "1ad501bac8ada0833194a760231c8b17"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 804131,
+                    "date_published": "2024-10-15T19:19:56.943Z"
+                },
                 {
                     "type": "curseforge",
                     "file_name": "sniffsweapons-1.2.3-1.20.1.jar",
@@ -30405,6 +31740,30 @@
             "files": [
                 {
                     "type": "curseforge",
+                    "file_name": "TaxFreeLevels-1.4.1-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5817/515/TaxFreeLevels-1.4.1-forge-1.20.1.jar",
+                    "id": "5817515",
+                    "parent_id": "462128",
+                    "hashes": {
+                        "sha1": "25dbcd1fa730d67063374374b88943ca2ee548cc",
+                        "md5": "61675c36acb075292d50a4266864deee"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 219912,
+                    "date_published": "2024-10-16T18:50:12.477Z"
+                },
+                {
+                    "type": "curseforge",
                     "file_name": "TaxFreeLevels-1.3.13-forge-1.20.2.jar",
                     "mc_versions": [
                         "1.20.2",
@@ -30648,6 +32007,46 @@
                     ],
                     "size": 198331,
                     "date_published": "2024-10-14T11:29:54.491627Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Z1fuT0FZF3cV66hL",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "the-afterdark"
+            },
+            "name": {
+                "curseforge": "The Afterdark"
+            },
+            "id": {
+                "curseforge": "1110531"
+            },
+            "subpath": "content.dimension",
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "the_afterdark-1.20.1-forge-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5798/692/the_afterdark-1.20.1-forge-1.0.2.jar",
+                    "id": "5798692",
+                    "parent_id": "1110531",
+                    "hashes": {
+                        "sha1": "366753889466fd318cd8c10228ece27ce591180a",
+                        "md5": "a4b81baf1c3c11e9193caebd7e52dd5c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 289757,
+                    "date_published": "2024-10-09T21:35:12.047Z"
                 }
             ]
         },
@@ -33465,6 +34864,69 @@
                     ],
                     "size": 692153,
                     "date_published": "2023-05-23T19:04:49.836129Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jjMVsOzgrgtfWnXA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "wares",
+                "modrinth": "wares"
+            },
+            "name": {
+                "curseforge": "Wares",
+                "modrinth": "Wares"
+            },
+            "id": {
+                "curseforge": "839158",
+                "modrinth": "Jz71ddli"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wares-1.20.1-1.2.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5726/352/wares-1.20.1-1.2.9.jar",
+                    "id": "5726352",
+                    "parent_id": "839158",
+                    "hashes": {
+                        "sha1": "43138ecd9c06f5d42c541be1727685cc46efb0ef",
+                        "md5": "8655ab3a5857a8830d3ee95d2c4026fa"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 466179,
+                    "date_published": "2024-09-15T18:26:18.860Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "wares-1.20.1-1.2.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Jz71ddli/versions/BHfZrEom/wares-1.20.1-1.2.9.jar",
+                    "id": "BHfZrEom",
+                    "parent_id": "Jz71ddli",
+                    "hashes": {
+                        "sha512": "a7252f76bad926a0455d80c014569530a97a4c7c1084746b9120915397f8df9c863c606f3400cb41149a8b26bc1f15900b4e974bd704d5cc32058bf774757c71",
+                        "sha1": "43138ecd9c06f5d42c541be1727685cc46efb0ef"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 466179,
+                    "date_published": "2024-09-15T18:29:20.864962Z"
                 }
             ]
         },
