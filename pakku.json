@@ -85,6 +85,7 @@
             "subpath": "decoration.client"
         },
         "arrow-entity-loot-drop": {
+            "update_strategy": "NONE",
             "subpath": "mechanic"
         },
         "asahi": {
@@ -158,6 +159,7 @@
             "subpath": "content.rpg"
         },
         "better-compatibility-checker": {
+            "update_strategy": "NONE",
             "subpath": "utility"
         },
         "better-fabric-console": {
@@ -1680,6 +1682,15 @@
         },
         "tectonic": {
             "subpath": "worldgen.terrain"
+        },
+        "subtle-effects": {
+            "subpath": "decoration.client"
+        },
+        "secrets-of-the-void": {
+            "subpath": "content"
+        },
+        "goety": {
+            "subpath": "content"
         }
     }
 }
