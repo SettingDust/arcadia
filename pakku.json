@@ -1691,6 +1691,9 @@
         },
         "goety": {
             "subpath": "content"
+        },
+        "dynamic-brightness": {
+            "subpath": "utility.client"
         }
     }
 }
