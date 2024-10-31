@@ -546,7 +546,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "alexscaves-2.0.1.jar",
+                    "file_name": "alexscaves-2.0.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -555,22 +555,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/aQbhVUVf/alexscaves-2.0.1.jar",
-                    "id": "aQbhVUVf",
+                    "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar",
+                    "id": "lC8HHXOF",
                     "parent_id": "U6GY0xp0",
                     "hashes": {
-                        "sha512": "ef5efd143c0153a595523870e0244362047cc9a74f501fe3feb8115212900836c3b82913fa83f8d2fe11222da85fd6bbee44d4728d34f55155a7ad5402cb2b7d",
-                        "sha1": "d2448fe46ccc5250922351970dfc043e9f76f7c1"
+                        "sha512": "d23092cf507f4cf66ead45d7b393393ea83a9002056962ee6c341e91323ae39e10f2aefbbbc9f5e54409eb3ee522ad0c2dd5661077b09f1e37d034cfdd4333a0",
+                        "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53"
                     },
                     "required_dependencies": [
                         "jJfV67b1"
                     ],
-                    "size": 74845753,
-                    "date_published": "2024-10-21T19:01:25.192940Z"
+                    "size": 74871657,
+                    "date_published": "2024-10-26T17:20:17.825067Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "alexscaves-2.0.1.jar",
+                    "file_name": "alexscaves-2.0.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -579,18 +579,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5831/476/alexscaves-2.0.1.jar",
-                    "id": "5831476",
+                    "url": "https://edge.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar",
+                    "id": "5848216",
                     "parent_id": "924854",
                     "hashes": {
-                        "sha1": "d2448fe46ccc5250922351970dfc043e9f76f7c1",
-                        "md5": "ba031cc86d8362bd5ca618bdb506e102"
+                        "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+                        "md5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
                     },
                     "required_dependencies": [
                         "331936"
                     ],
-                    "size": 74845753,
-                    "date_published": "2024-10-21T19:05:01.863Z"
+                    "size": 74871657,
+                    "date_published": "2024-10-26T17:18:54.087Z"
                 }
             ]
         },
@@ -2747,7 +2747,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "BadOptimizations-2.1.4-1.20.1.jar",
+                    "file_name": "BadOptimizations-2.2.0-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2756,21 +2756,21 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/GydKiUd0/BadOptimizations-2.1.4-1.20.1.jar",
-                    "id": "GydKiUd0",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/DMQXCaTe/BadOptimizations-2.2.0-1.20.1.jar",
+                    "id": "DMQXCaTe",
                     "parent_id": "g96Z4WVZ",
                     "hashes": {
-                        "sha512": "a68968e8fab27202f0d2737357511e27282967ced27732cc90d6beaff64cb99359448b7de3e24cdef4e564ecb99ed061ac1e336e07d8ab4771db47bec7c5da45",
-                        "sha1": "29c7689d1c4645a902115e1faa4991c47007b7a5"
+                        "sha512": "c78af20cc849cf7465b32df263e4bf59a13d1484cbfa4810eee8d768e503903050516a3719887d6400c80e7fee771851497f37332334e766379ced364fe157ed",
+                        "sha1": "33bb2cf6bf05f966d532696ad400cf302bf8a466"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 421754,
-                    "date_published": "2024-06-15T06:00:50.191020Z"
+                    "size": 438559,
+                    "date_published": "2024-10-23T03:31:34.760459Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "BadOptimizations-2.1.4-1.20.1.jar",
+                    "file_name": "BadOptimizations-2.2.0-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2779,17 +2779,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5430/253/BadOptimizations-2.1.4-1.20.1.jar",
-                    "id": "5430253",
+                    "url": "https://edge.forgecdn.net/files/5836/16/BadOptimizations-2.2.0-1.20.1.jar",
+                    "id": "5836016",
                     "parent_id": "949555",
                     "hashes": {
-                        "sha1": "29c7689d1c4645a902115e1faa4991c47007b7a5",
-                        "md5": "c7e3addc09f7870805d3db35525a587f"
+                        "sha1": "33bb2cf6bf05f966d532696ad400cf302bf8a466",
+                        "md5": "328172e88fbca14ee509c2b2116304bd"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 421754,
-                    "date_published": "2024-06-15T06:00:49.520Z"
+                    "size": 438559,
+                    "date_published": "2024-10-23T03:27:13.087Z"
                 }
             ]
         },
@@ -4459,32 +4459,8 @@
             "subpath": "decoration.client",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "BetterGrassify-1.2.3+forge.1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5784/527/BetterGrassify-1.2.3+forge.1.20.1.jar",
-                    "id": "5784527",
-                    "parent_id": "1026394",
-                    "hashes": {
-                        "sha1": "c2ceb1774d09a4e54134c29b10b9d0160ffccb1b",
-                        "md5": "7e80f818c0595cd7a5464c5819117f29"
-                    },
-                    "required_dependencies": [
-                        "667299",
-                        "889079"
-                    ],
-                    "size": 252761,
-                    "date_published": "2024-10-05T06:45:49.180Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "BetterGrassify-1.2.3+forge.1.20.1.jar",
+                    "file_name": "BetterGrassify-1.2.4+forge.1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4492,19 +4468,43 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/zJTCa0a7/BetterGrassify-1.2.3+forge.1.20.1.jar",
-                    "id": "zJTCa0a7",
+                    "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/u4Jac1Cc/BetterGrassify-1.2.4+forge.1.20.1.jar",
+                    "id": "u4Jac1Cc",
                     "parent_id": "m5T5xmUy",
                     "hashes": {
-                        "sha512": "87d6e6f4c17ffd00bfd3950bc7f7569b089e27708c3fa66a56f2b8f896adda69439da6f7b8f4e57dffaa64fe61e0aa5b2f0cca92d3ad16ed7080acee1d59d6f3",
-                        "sha1": "c2ceb1774d09a4e54134c29b10b9d0160ffccb1b"
+                        "sha512": "f8967abfb8b1de43c1d825e105e54f7abfb8543b58aeca1884fa8a4eb39348b2c556fe90a8c02d165677c13c0742deff51945db2529ea21aef5566484cb3e97c",
+                        "sha1": "9a7d1a1a43747549e57a7893978a111edc86b2f6"
                     },
                     "required_dependencies": [
-                        "Aqlf1Shp",
-                        "1eAoo2KR"
+                        "1eAoo2KR",
+                        "Aqlf1Shp"
                     ],
-                    "size": 252761,
-                    "date_published": "2024-10-05T06:45:49.480617Z"
+                    "size": 252872,
+                    "date_published": "2024-10-23T10:17:34.405506Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterGrassify-1.2.4+forge.1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5836/836/BetterGrassify-1.2.4+forge.1.20.1.jar",
+                    "id": "5836836",
+                    "parent_id": "1026394",
+                    "hashes": {
+                        "sha1": "9a7d1a1a43747549e57a7893978a111edc86b2f6",
+                        "md5": "36c8cec45b6d09f198f1e5845e5b8b2e"
+                    },
+                    "required_dependencies": [
+                        "889079",
+                        "667299"
+                    ],
+                    "size": 252872,
+                    "date_published": "2024-10-23T10:17:34.263Z"
                 }
             ]
         },
@@ -6901,33 +6901,8 @@
             "subpath": "0libs",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "collective-1.20.1-7.84.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5631/814/collective-1.20.1-7.84.jar",
-                    "id": "5631814",
-                    "parent_id": "342584",
-                    "hashes": {
-                        "sha1": "522cacd5b741c0be904f573695820b2ffb9affc9",
-                        "md5": "ddd7ae258844d75354a728aff37a8032"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 647473,
-                    "date_published": "2024-08-15T13:33:26.787Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "collective-1.20.1-7.84.jar",
+                    "file_name": "collective-1.20.1-7.87.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -6938,17 +6913,42 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/jo7YkyNS/collective-1.20.1-7.84.jar",
-                    "id": "jo7YkyNS",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/aNzU64AT/collective-1.20.1-7.87.jar",
+                    "id": "aNzU64AT",
                     "parent_id": "e0M1UDsY",
                     "hashes": {
-                        "sha512": "022a6d1a5fd66bb422651052e1f8c26efa0a371c120be1360ea27290220ebe261ac94cb958b600940d15427bf562ecc962d11553a2465f5f5e929314a3d01306",
-                        "sha1": "522cacd5b741c0be904f573695820b2ffb9affc9"
+                        "sha512": "65acb74e5acd56f1507ff83cee86fa2a78efea5ff2577828bd1c38323af4bcb594bfa4deb9d511060035c9503046a5da7fccc034228e6e799c2fb36fbf59e1a8",
+                        "sha1": "6b30430c4737fddf0ee1913a198bcce0f5230a21"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 647473,
-                    "date_published": "2024-08-15T13:33:40.476882Z"
+                    "size": 648876,
+                    "date_published": "2024-10-23T22:45:58.236780Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "collective-1.20.1-7.87.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5840/216/collective-1.20.1-7.87.jar",
+                    "id": "5840216",
+                    "parent_id": "342584",
+                    "hashes": {
+                        "sha1": "6b30430c4737fddf0ee1913a198bcce0f5230a21",
+                        "md5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 648876,
+                    "date_published": "2024-10-23T22:45:46.140Z"
                 }
             ]
         },
@@ -7898,31 +7898,8 @@
             "subpath": "0libs",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5773/883/CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
-                    "id": "5773883",
-                    "parent_id": "257814",
-                    "hashes": {
-                        "sha1": "afefe28ad21ac46a161267cc713aba080b590d89",
-                        "md5": "b4bd39326ed45f0285365ba03cea71db"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 1144775,
-                    "date_published": "2024-10-01T15:17:52.450Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.12.20_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7931,17 +7908,40 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Sxi0GJEU/CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
-                    "id": "Sxi0GJEU",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Kvr2Jjby/CreativeCore_FORGE_v2.12.20_mc1.20.1.jar",
+                    "id": "Kvr2Jjby",
                     "parent_id": "OsZiaDHq",
                     "hashes": {
-                        "sha512": "86cfc62d29a2f512c1a589ca28fa67eb05c520ee77bae7c102b3fc3c6ea6e76b277bbb344d06b34118c2c36caefe1abbf2853f757e68172fcb98196e5e41062d",
-                        "sha1": "afefe28ad21ac46a161267cc713aba080b590d89"
+                        "sha512": "d16438c5960eed78a7ec7e0de1eef116f6c9fc773c72d2ac0c1f06850df9a231d82751bc226b65ad4c2e242383d814db5cb3d8e5cf3de405a77f58aacee54c8e",
+                        "sha1": "7ae21f89801da15a3432633c63fbfea8e81f8b49"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 1144775,
-                    "date_published": "2024-10-01T15:17:49.293754Z"
+                    "size": 1144816,
+                    "date_published": "2024-10-24T21:19:00.241619Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "CreativeCore_FORGE_v2.12.20_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5842/945/CreativeCore_FORGE_v2.12.20_mc1.20.1.jar",
+                    "id": "5842945",
+                    "parent_id": "257814",
+                    "hashes": {
+                        "sha1": "7ae21f89801da15a3432633c63fbfea8e81f8b49",
+                        "md5": "f1074bb950a026b16b96502a84138ce1"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1144816,
+                    "date_published": "2024-10-24T21:19:02.910Z"
                 }
             ]
         },
@@ -8922,36 +8922,8 @@
             "subpath": "content.rpg",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Death_Knights-0.4.2beta.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5817/591/Death_Knights-0.4.2beta.jar",
-                    "id": "5817591",
-                    "parent_id": "968119",
-                    "hashes": {
-                        "sha1": "34782a5b119d8ae35b35caab80b310957f22254f",
-                        "md5": "800cdfc7ddef1090ddd72cc4d7da1617"
-                    },
-                    "required_dependencies": [
-                        "306612",
-                        "912767",
-                        "775518",
-                        "807653",
-                        "586157"
-                    ],
-                    "size": 303635,
-                    "date_published": "2024-10-16T19:31:17.243Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "Death_Knights-0.4.2beta.jar",
+                    "file_name": "Death_Knights-0.5.0beta+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8959,21 +8931,50 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/2EQER1gD/versions/BMgreCib/Death_Knights-0.4.2beta.jar",
-                    "id": "BMgreCib",
+                    "url": "https://cdn.modrinth.com/data/2EQER1gD/versions/AJ6dSpuj/Death_Knights-0.5.0beta+1.20.1.jar",
+                    "id": "AJ6dSpuj",
                     "parent_id": "2EQER1gD",
                     "hashes": {
-                        "sha512": "bebee205ee40bda953473cd13e81e4f72b0dbba4427b2953085f4bb7621404351d99e9a58418a19a6645800925f16cc60bb8cbc684416bc1b67862237064844a",
-                        "sha1": "34782a5b119d8ae35b35caab80b310957f22254f"
+                        "sha512": "8986b9c1e76038332b9408a3071ca40aacb9e46f0092a583228ac8d7294d7cd3ab8718e28c9f05d97cf0b3c47fde30f8b2e1afff0dffd9a32e65cca2dfd0b237",
+                        "sha1": "c5c1e2584472fb7ec733da70e582cc48e01632f6"
                     },
                     "required_dependencies": [
                         "8ooWzSQP",
                         "P1Kv5EAO",
+                        "P7dR8mSH",
                         "XvoWJaA2",
-                        "lP9Yrr1E"
+                        "lP9Yrr1E",
+                        "pduQXSbl"
                     ],
-                    "size": 303635,
-                    "date_published": "2024-10-16T19:30:49.276183Z"
+                    "size": 339791,
+                    "date_published": "2024-10-23T17:25:05.091503Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Death_Knights-0.5.0beta+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5838/126/Death_Knights-0.5.0beta+1.20.1.jar",
+                    "id": "5838126",
+                    "parent_id": "968119",
+                    "hashes": {
+                        "sha1": "c5c1e2584472fb7ec733da70e582cc48e01632f6",
+                        "md5": "5c18b643b7b6194007094adfce570848"
+                    },
+                    "required_dependencies": [
+                        "807653",
+                        "586157",
+                        "912767",
+                        "775518",
+                        "306612"
+                    ],
+                    "size": 339791,
+                    "date_published": "2024-10-23T17:26:03.550Z"
                 }
             ]
         },
@@ -12639,7 +12640,9 @@
                         "1.20.5",
                         "1.20.6",
                         "1.21",
-                        "1.21.1"
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
                     ],
                     "loaders": [
                         "forge"
@@ -12980,7 +12983,9 @@
                         "1.20.5",
                         "1.20.6",
                         "1.21",
-                        "1.21.1"
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric"
@@ -13964,7 +13969,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fastboot-1.20.x-1.1.jar",
+                    "file_name": "fastboot-1.20.x-1.2.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -13978,17 +13983,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nRL5uFe0/versions/aQPUPRB3/fastboot-1.20.x-1.1.jar",
-                    "id": "aQPUPRB3",
+                    "url": "https://cdn.modrinth.com/data/nRL5uFe0/versions/L7hAkvRy/fastboot-1.20.x-1.2.jar",
+                    "id": "L7hAkvRy",
                     "parent_id": "nRL5uFe0",
                     "hashes": {
-                        "sha512": "916a1dcd5dfafc5ce6d3e28875599db98ad07b78e39068179cc07be6202b0d829e66e0e5b75ee663f5270918bd4d98d95f2f0f6efcd9e2e98f43f907268a31d4",
-                        "sha1": "af34ffcf3e4eb46b13906b522bc33fccdd2b4c45"
+                        "sha512": "7c888221c58ba85199feeae6aba539bde4a02c4c996457b49d91cb9274f5a08b19cfecfe6d6c3387343ef15dbfde812f8e2672e4fd7979615045d6a9d16e6aa8",
+                        "sha1": "0820d6611bdf664cc84bf351089e75998a9f1962"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 24463,
-                    "date_published": "2024-06-05T06:17:15.196763Z"
+                    "size": 24477,
+                    "date_published": "2024-10-23T13:40:38.723694Z"
                 },
                 {
                     "type": "curseforge",
@@ -15283,7 +15288,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fzzy_config-0.5.5+1.20.1+forge.jar",
+                    "file_name": "fzzy_config-0.5.6+1.20.1+forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -15292,22 +15297,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/QWmUEJGV/fzzy_config-0.5.5+1.20.1+forge.jar",
-                    "id": "QWmUEJGV",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/uJgdUw8o/fzzy_config-0.5.6+1.20.1+forge.jar",
+                    "id": "uJgdUw8o",
                     "parent_id": "hYykXjDp",
                     "hashes": {
-                        "sha512": "db40120b89a33866abd8b8248766a0ac5cca85070eceaf8ff434b759c83248ccdfe6bfef0aff956cecd7f0330baca43e43dc27677be79e5b6fafcaefc83f07a4",
-                        "sha1": "24ef941efb4b861bb08037247eb418a2212c8c62"
+                        "sha512": "7c3d09b40eb13d145baac81615762923ecacd95504096ecbea75559ff7fcb7033942c2d8dee2fa2877307ca0bb7337718741817ff79583b5b89ae78b205daea3",
+                        "sha1": "a4ccd72d70afea7a51b01462d13d1d048b9ab9c3"
                     },
                     "required_dependencies": [
                         "ordsPcFz"
                     ],
-                    "size": 1495798,
-                    "date_published": "2024-10-21T22:24:49.001363Z"
+                    "size": 1511412,
+                    "date_published": "2024-10-26T20:14:30.464544Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fzzy_config-0.5.5+1.20.1+forge.jar",
+                    "file_name": "fzzy_config-0.5.5-fix1+1.20.1+forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -15316,18 +15321,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5831/869/fzzy_config-0.5.5+1.20.1+forge.jar",
-                    "id": "5831869",
+                    "url": "https://edge.forgecdn.net/files/5835/177/fzzy_config-0.5.5-fix1+1.20.1+forge.jar",
+                    "id": "5835177",
                     "parent_id": "1005914",
                     "hashes": {
-                        "sha1": "24ef941efb4b861bb08037247eb418a2212c8c62",
-                        "md5": "4affed25eb59ecdb3ca5e8082ee95035"
+                        "sha1": "f831a717feeb529a3c898bb9fbf0e046ff98f24d",
+                        "md5": "258e2cdaf7489d059a98fcbc7103d627"
                     },
                     "required_dependencies": [
                         "351264"
                     ],
-                    "size": 1495798,
-                    "date_published": "2024-10-21T22:24:40.870Z"
+                    "size": 1495847,
+                    "date_published": "2024-10-22T21:11:40.123Z"
                 }
             ]
         },
@@ -16474,7 +16479,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Iceberg-1.20.1-forge-1.1.21.jar",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.25.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16483,21 +16488,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/boNnPeth/Iceberg-1.20.1-forge-1.1.21.jar",
-                    "id": "boNnPeth",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
+                    "id": "BQ8rJPXV",
                     "parent_id": "5faXoLqX",
                     "hashes": {
-                        "sha512": "c1ff313558583049648e5612d9698bd1f4a506ccd26e2085d74dd6931d17603d1859a23b23cd8823cbc184564bcb214e0dc344f1df9f3f8da1f2d228597f32af",
-                        "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b"
+                        "sha512": "8612097a014fcd6343a092cfeddb0e9d57c5a665b9ac61603a7760d156abd048ac548db55e750b369700b0475661e554f4b92b44677edf07574d4f9ffa42558c",
+                        "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 133685,
-                    "date_published": "2024-02-26T21:00:02.396530Z"
+                    "size": 134551,
+                    "date_published": "2024-10-23T17:33:04.264521Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Iceberg-1.20.1-forge-1.1.21.jar",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.25.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16506,17 +16511,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5138/899/Iceberg-1.20.1-forge-1.1.21.jar",
-                    "id": "5138899",
+                    "url": "https://edge.forgecdn.net/files/5838/149/Iceberg-1.20.1-forge-1.1.25.jar",
+                    "id": "5838149",
                     "parent_id": "520110",
                     "hashes": {
-                        "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b",
-                        "md5": "7d8be08fbc719d19f9d71c026fb8d5f4"
+                        "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+                        "md5": "cda8af806d0de012f5c7012ea51c155f"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 133685,
-                    "date_published": "2024-02-26T20:59:07.807Z"
+                    "size": 134551,
+                    "date_published": "2024-10-23T17:31:24.767Z"
                 }
             ]
         },
@@ -16616,7 +16621,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "file_name": "ImmediatelyFast-Forge-1.3.0+1.20.4.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -16628,21 +16633,21 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/t7nOFG1k/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-                    "id": "t7nOFG1k",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/HfcDIKwc/ImmediatelyFast-Forge-1.3.0+1.20.4.jar",
+                    "id": "HfcDIKwc",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "7492c6c82d5a6ea288547f5533a990d93ed3858054cd03298d184ee294d9e8a2692456ab286394fb5dd49841833bb551552bfbf018e24f8e9d22e034fb128eca",
-                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239"
+                        "sha512": "c0361a8287dcfbea148a2d926df8b0c1ee76034887bff174620b629e4ccb881c117591c1c648f9ff67d4eb312111dc7576c39546deb77e1ee226e15e660310fb",
+                        "sha1": "2b183a00d16f85ab30fc916ec0d7fefc257252f6"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 432352,
-                    "date_published": "2024-08-28T20:26:22.585777Z"
+                    "size": 456382,
+                    "date_published": "2024-10-23T17:53:20.178396Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "file_name": "ImmediatelyFast-Forge-1.3.0+1.20.4.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -16654,17 +16659,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5672/335/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-                    "id": "5672335",
+                    "url": "https://edge.forgecdn.net/files/5838/235/ImmediatelyFast-Forge-1.3.0+1.20.4.jar",
+                    "id": "5838235",
                     "parent_id": "686911",
                     "hashes": {
-                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239",
-                        "md5": "36889096689f9a60549f2da2a2c2327a"
+                        "sha1": "2b183a00d16f85ab30fc916ec0d7fefc257252f6",
+                        "md5": "7bfe7ad140ac460bc6128ee3e813a40e"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 432352,
-                    "date_published": "2024-08-28T20:26:23.160Z"
+                    "size": 456382,
+                    "date_published": "2024-10-23T17:53:19.937Z"
                 }
             ]
         },
@@ -17782,7 +17787,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "jei-1.20.1-forge-15.20.0.104.jar",
+                    "file_name": "jei-1.20.1-forge-15.20.0.105.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17790,21 +17795,21 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HhYs9HUP/jei-1.20.1-forge-15.20.0.104.jar",
-                    "id": "HhYs9HUP",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iNv5B1Zj/jei-1.20.1-forge-15.20.0.105.jar",
+                    "id": "iNv5B1Zj",
                     "parent_id": "u6dRKJwZ",
                     "hashes": {
-                        "sha512": "104ee7547280fefd184d8189f116dc0e9310ad3989291a8dc2ccc6291d21e1ebefa14997cba8312ec649c299af4d98c399a5fe9964ad0e75e138cc5f3999bb0c",
-                        "sha1": "6d7ebc086f481ed55ee517885c812249d33d91a6"
+                        "sha512": "bdf079afca6f3ed1bf9a1226fa8fc4c4e71ff679c1dc3289a558084c2cfbc2b5cd122636c73a2fd0e25cd468d32efce29175774aaa6389a249ce2c1062075dff",
+                        "sha1": "80520a596f3d2e7dc744591dae257dc87aaa204e"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 1406021,
-                    "date_published": "2024-10-08T02:06:56.962569Z"
+                    "size": 1379051,
+                    "date_published": "2024-10-26T08:07:39.411096Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.20.1-forge-15.20.0.104.jar",
+                    "file_name": "jei-1.20.1-forge-15.20.0.105.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17812,17 +17817,17 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5793/297/jei-1.20.1-forge-15.20.0.104.jar",
-                    "id": "5793297",
+                    "url": "https://edge.forgecdn.net/files/5846/810/jei-1.20.1-forge-15.20.0.105.jar",
+                    "id": "5846810",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "6d7ebc086f481ed55ee517885c812249d33d91a6",
-                        "md5": "46bf38308872aae3351ce59d9e664437"
+                        "sha1": "80520a596f3d2e7dc744591dae257dc87aaa204e",
+                        "md5": "947e4bd94640abf098f05ebbc32d0f43"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 1406021,
-                    "date_published": "2024-10-08T02:06:45.407Z"
+                    "size": 1379051,
+                    "date_published": "2024-10-26T08:07:27.173Z"
                 }
             ]
         },
@@ -18482,7 +18487,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "L_Enders_Cataclysm-2.14 - 1.20.1.jar",
+                    "file_name": "L_Enders_Cataclysm-2.15 - 1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -18491,23 +18496,23 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/46KJle7n/versions/hp6cmtCG/L_Enders_Cataclysm-2.14 - 1.20.1.jar",
-                    "id": "hp6cmtCG",
+                    "url": "https://cdn.modrinth.com/data/46KJle7n/versions/lEmhzgu8/L_Enders_Cataclysm-2.15 - 1.20.1.jar",
+                    "id": "lEmhzgu8",
                     "parent_id": "46KJle7n",
                     "hashes": {
-                        "sha512": "58e02b7d5cbbec99d21149a1ca7d20a424a325fa761af0b613a42db9d0148685d80a3e8369f9df0621fa5ab4c1d5cbebd7f26a63158dac1d62079af3132f3793",
-                        "sha1": "718a8a0fa1fd44fd827907e054d318e5b46b8193"
+                        "sha512": "de466a1801787c04d6fd541378185ac65f3af7c6d88562154704c9cf7e641d874ea7e3fc918d8ab21270d2ebdc17cb8108cec753c1837afcdc93599273ec734e",
+                        "sha1": "58d72561eeddd4261e5c840d2837c772dee7698b"
                     },
                     "required_dependencies": [
                         "FoVacERa",
                         "vvuO3ImH"
                     ],
-                    "size": 71561325,
-                    "date_published": "2024-10-20T12:32:59.722698Z"
+                    "size": 71564103,
+                    "date_published": "2024-10-26T08:55:04.440193Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "L_Enders_Cataclysm-2.14 - 1.20.1.jar",
+                    "file_name": "L_Enders_Cataclysm-2.15 - 1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -18516,19 +18521,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5827/444/L_Enders_Cataclysm-2.14 - 1.20.1.jar",
-                    "id": "5827444",
+                    "url": "https://edge.forgecdn.net/files/5846/903/L_Enders_Cataclysm-2.15 - 1.20.1.jar",
+                    "id": "5846903",
                     "parent_id": "551586",
                     "hashes": {
-                        "sha1": "718a8a0fa1fd44fd827907e054d318e5b46b8193",
-                        "md5": "99f9534f2cee3784a597c0e4d6091948"
+                        "sha1": "58d72561eeddd4261e5c840d2837c772dee7698b",
+                        "md5": "f12f72ab69c9d4b44ba21c42b514bde1"
                     },
                     "required_dependencies": [
-                        "1001614",
-                        "309927"
+                        "309927",
+                        "1001614"
                     ],
-                    "size": 71561325,
-                    "date_published": "2024-10-20T12:34:02.847Z"
+                    "size": 71564103,
+                    "date_published": "2024-10-26T08:52:05.423Z"
                 }
             ]
         },
@@ -19294,30 +19299,8 @@
             "subpath": "utility",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "lithostitched-forge-1.20.1-1.3.1b.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5813/21/lithostitched-forge-1.20.1-1.3.1b.jar",
-                    "id": "5813021",
-                    "parent_id": "936015",
-                    "hashes": {
-                        "sha1": "c430826c415cef2fc3bc649af47976cd80c8fc02",
-                        "md5": "531807ef991a3fbc16b9f24238934594"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 224579,
-                    "date_published": "2024-10-14T23:42:14.223Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "lithostitched-forge-1.20.1-1.3.1b.jar",
+                    "file_name": "lithostitched-forge-1.20.1-1.3.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19325,17 +19308,39 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/F4sKKz7J/lithostitched-forge-1.20.1-1.3.1b.jar",
-                    "id": "F4sKKz7J",
+                    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/BsN3REQF/lithostitched-forge-1.20.1-1.3.3.jar",
+                    "id": "BsN3REQF",
                     "parent_id": "XaDC71GB",
                     "hashes": {
-                        "sha512": "0a606927b16e230a9217006536eb8d6d8d1598d8b5f00c06a473276184d2823991f91eba5bf0c7e1a59ccf85ea9f32382fa2e725ae9cb84c9d97e98e8fd28821",
-                        "sha1": "8a685d6caf1ae7b83ba9a3ebac3ccc8cc0453cad"
+                        "sha512": "ae0eba66e6c4abb5ed81b8e3781d0ba2e52df1a2fb48fd7dbe3e14a21be73a2a429df32b91c47a2fcbb361da35f3d753f337b7d7bd31fa8d3370ebd3c8d7ab4b",
+                        "sha1": "55aa7e60b7a6b7464617a3e693a7bbaf98ca25bb"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 224578,
-                    "date_published": "2024-10-14T23:43:46.394257Z"
+                    "size": 226608,
+                    "date_published": "2024-10-26T03:54:57.377151Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "lithostitched-forge-1.20.1-1.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5846/466/lithostitched-forge-1.20.1-1.3.3.jar",
+                    "id": "5846466",
+                    "parent_id": "936015",
+                    "hashes": {
+                        "sha1": "55aa7e60b7a6b7464617a3e693a7bbaf98ca25bb",
+                        "md5": "ac3c0481a89caef6cb6dc8095ebef55b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 226608,
+                    "date_published": "2024-10-26T03:54:57.147Z"
                 }
             ]
         },
@@ -19860,7 +19865,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "MRU-1.0.3+1.20.1+fabric.jar",
+                    "file_name": "MRU-1.0.4+1.20.1+fabric.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -19869,22 +19874,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/CMRf3REx/MRU-1.0.3+1.20.1+fabric.jar",
-                    "id": "CMRf3REx",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/iug2Tybf/MRU-1.0.4+1.20.1+fabric.jar",
+                    "id": "iug2Tybf",
                     "parent_id": "SNVQ2c0g",
                     "hashes": {
-                        "sha512": "9a89d79311d5a47b709d6301264e114d74ab32170b755dfb76348a375ceac30b349597312edd1587ff8d5fb283439146cab302c0d3ce4ddc708965053d7dcb71",
-                        "sha1": "78436de03785c27158fe912fb68136fcd5107cc4"
+                        "sha512": "2212b321c5b0bad4583c12385932eee57d3ffb6d37e7b63a434fcba0f8f154fa1b57370aaadf2352ad35f85cde12ff138e3b50787afa515ac9ba9d961b03d436",
+                        "sha1": "fe62ff4ff3bc390f0e841bbd868ce219c5caca1e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 104274,
-                    "date_published": "2024-10-19T16:15:38.256701Z"
+                    "size": 104277,
+                    "date_published": "2024-10-26T18:57:09.041291Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "MRU-1.0.3+1.20.1+fabric.jar",
+                    "file_name": "MRU-1.0.4+1.20.1+fabric.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -19893,18 +19898,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5825/3/MRU-1.0.3+1.20.1+fabric.jar",
-                    "id": "5825003",
+                    "url": "https://edge.forgecdn.net/files/5848/514/MRU-1.0.4+1.20.1+fabric.jar",
+                    "id": "5848514",
                     "parent_id": "669659",
                     "hashes": {
-                        "sha1": "78436de03785c27158fe912fb68136fcd5107cc4",
-                        "md5": "7226ce4fd040158698b6d542a241b2dc"
+                        "sha1": "fe62ff4ff3bc390f0e841bbd868ce219c5caca1e",
+                        "md5": "d79bfcbc7d9dc74c632a36c120f11182"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 104274,
-                    "date_published": "2024-10-19T16:15:33.840Z"
+                    "size": 104277,
+                    "date_published": "2024-10-26T18:57:06.153Z"
                 }
             ]
         },
@@ -21337,7 +21342,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "moonlight-1.20-2.13.14-forge.jar",
+                    "file_name": "moonlight-1.20-2.13.15-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21346,21 +21351,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/mNAW7NB1/moonlight-1.20-2.13.14-forge.jar",
-                    "id": "mNAW7NB1",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/fYbCYCTr/moonlight-1.20-2.13.15-forge.jar",
+                    "id": "fYbCYCTr",
                     "parent_id": "twkfQtEc",
                     "hashes": {
-                        "sha512": "141bbede03041540b9ee9fe8332b40946f09b22f784b1174fb60f1c0190274d2a1b00e82717f6267610dfe9e154bf5211ca1ccd4b76ac5b97ba4a0b272734d90",
-                        "sha1": "f67c91cce823219d8df04a77fa15e152832f4ee0"
+                        "sha512": "fae60553326a722dffd1496c80f9baecad4b8c3bd2eb8da8a81b0c94bd8effd25a36a15db3d6741299d7403d4e9b73931fc1f1b6a6686026bb50cff9262ed784",
+                        "sha1": "d2e736d4d89ea1a768e5fda0c28e7939a81b762b"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 1186750,
-                    "date_published": "2024-10-21T19:00:13.852296Z"
+                    "size": 1189945,
+                    "date_published": "2024-10-26T23:06:58.010772Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "moonlight-1.20-2.13.14-forge.jar",
+                    "file_name": "moonlight-1.20-2.13.15-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21369,17 +21374,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5831/465/moonlight-1.20-2.13.14-forge.jar",
-                    "id": "5831465",
+                    "url": "https://edge.forgecdn.net/files/5849/156/moonlight-1.20-2.13.15-forge.jar",
+                    "id": "5849156",
                     "parent_id": "499980",
                     "hashes": {
-                        "sha1": "f67c91cce823219d8df04a77fa15e152832f4ee0",
-                        "md5": "fa2263a15e412144517f21d6e698384c"
+                        "sha1": "d2e736d4d89ea1a768e5fda0c28e7939a81b762b",
+                        "md5": "b750cb2ed5b57c218a387444be618a4a"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 1186750,
-                    "date_published": "2024-10-21T18:59:56.690Z"
+                    "size": 1189945,
+                    "date_published": "2024-10-26T23:06:44.067Z"
                 }
             ]
         },
@@ -24525,7 +24530,7 @@
                 "modrinth": "attributes"
             },
             "name": {
-                "curseforge": "Pufferfish's Attributes [Forge & Fabric]",
+                "curseforge": "Pufferfish's Attributes [Fabric & Forge & NeoForge]",
                 "modrinth": "Pufferfish's Attributes"
             },
             "id": {
@@ -24534,29 +24539,6 @@
             },
             "subpath": "content.rpg",
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "puffish_attributes-0.6.0-1.20-forge.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5806/310/puffish_attributes-0.6.0-1.20-forge.jar",
-                    "id": "5806310",
-                    "parent_id": "991341",
-                    "hashes": {
-                        "sha1": "662bb79c3872052a413ebc08c5de0e43ca5c1401",
-                        "md5": "26c5c33b522bead960873300edbc2f29"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 190864,
-                    "date_published": "2024-10-12T17:44:54.590Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "puffish_attributes-0.6.0-1.20-forge.jar",
@@ -24579,6 +24561,29 @@
                     ],
                     "size": 190864,
                     "date_published": "2024-10-12T17:44:56.167763Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "puffish_attributes-0.6.0-1.20-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5806/310/puffish_attributes-0.6.0-1.20-forge.jar",
+                    "id": "5806310",
+                    "parent_id": "991341",
+                    "hashes": {
+                        "sha1": "662bb79c3872052a413ebc08c5de0e43ca5c1401",
+                        "md5": "26c5c33b522bead960873300edbc2f29"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 190864,
+                    "date_published": "2024-10-12T17:44:54.590Z"
                 }
             ]
         },
@@ -24591,7 +24596,7 @@
                 "modrinth": "skills"
             },
             "name": {
-                "curseforge": "Pufferfish's Skills [Forge & Fabric]",
+                "curseforge": "Pufferfish's Skills [Fabric & Forge & NeoForge]",
                 "modrinth": "Pufferfish's Skills"
             },
             "id": {
@@ -24601,31 +24606,8 @@
             "subpath": "content.rpg",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "puffish_skills-0.13.2-1.20-forge.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5551/784/puffish_skills-0.13.2-1.20-forge.jar",
-                    "id": "5551784",
-                    "parent_id": "835091",
-                    "hashes": {
-                        "sha1": "cfbe57b2148cfcc404958ac71bc50362e283b814",
-                        "md5": "5bd5de4c3081c72ae947649173cc4c01"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 493596,
-                    "date_published": "2024-07-21T16:08:57.557Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "puffish_skills-0.13.2-1.20-forge.jar",
+                    "file_name": "puffish_skills-0.14.0-1.20-forge.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -24634,17 +24616,40 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/suJqRhEh/puffish_skills-0.13.2-1.20-forge.jar",
-                    "id": "suJqRhEh",
+                    "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/Etx8Bh1s/puffish_skills-0.14.0-1.20-forge.jar",
+                    "id": "Etx8Bh1s",
                     "parent_id": "hqQqvaa4",
                     "hashes": {
-                        "sha512": "395d8a704c2126a353b0eb0badcbc07d2a6aab8eb065c49089979d2e30ad8e9c9eaaf4f1811648406a9b9414f418a9938b72e39225355d360b4444b15cd79b6d",
-                        "sha1": "cfbe57b2148cfcc404958ac71bc50362e283b814"
+                        "sha512": "7995c860a883fcb7ba6b924b2ebe13830bb7cdc69b26d16f5306bf12fe2dcbd8a49ee0a55503cf7a20435f350d7f54f76285865ac5f6c7b795d3aeaa364cfb51",
+                        "sha1": "7237a2b1a0577ff0baf003f790a966b957e69621"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 493596,
-                    "date_published": "2024-07-21T16:08:59.413207Z"
+                    "size": 528691,
+                    "date_published": "2024-10-25T11:02:40.346981Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "puffish_skills-0.14.0-1.20-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5844/184/puffish_skills-0.14.0-1.20-forge.jar",
+                    "id": "5844184",
+                    "parent_id": "835091",
+                    "hashes": {
+                        "sha1": "7237a2b1a0577ff0baf003f790a966b957e69621",
+                        "md5": "d1bfb0a0246214c88e19647a6733eace"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 528691,
+                    "date_published": "2024-10-25T11:02:38.450Z"
                 }
             ]
         },
@@ -25011,31 +25016,8 @@
             "subpath": "utility.client",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "raised-forge-1.20.1-4.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5594/829/raised-forge-1.20.1-4.0.0.jar",
-                    "id": "5594829",
-                    "parent_id": "570368",
-                    "hashes": {
-                        "sha1": "000bfcdafff4dd6c574e528bb4a604688ad59c75",
-                        "md5": "9bb8b9cb2a12e429b4e66040760fac2e"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 76488,
-                    "date_published": "2024-08-04T07:52:46.507Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "raised-forge-1.20.1-4.0.0.jar",
+                    "file_name": "raised-forge-1.20.1-4.0.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -25044,17 +25026,40 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nCQRBEiR/versions/Q9gvujWU/raised-forge-1.20.1-4.0.0.jar",
-                    "id": "Q9gvujWU",
+                    "url": "https://cdn.modrinth.com/data/nCQRBEiR/versions/KikwC56L/raised-forge-1.20.1-4.0.1.jar",
+                    "id": "KikwC56L",
                     "parent_id": "nCQRBEiR",
                     "hashes": {
-                        "sha512": "a7ed06817b86c3c2d03060c21053b9096e341f0aaa1a0000ca41d929f45e904e15f7c589932e836b3973e68f35eb973fd89df8e369ba819375f67e9177607ff3",
-                        "sha1": "000bfcdafff4dd6c574e528bb4a604688ad59c75"
+                        "sha512": "0083de47f22b5300a63b10a6356aec6fb6f7e686b827748e73f272f6cd1769266f0b8c9c0b4cdd4e3eda2ece655ffec0f978bcd26f4f0922f86fbbc36eb57ced",
+                        "sha1": "4eeab41b91c763d5f3cb066be780637e1cb72e0f"
                     },
                     "required_dependencies": [
                     ],
-                    "size": 76488,
-                    "date_published": "2024-08-04T04:37:59.330031Z"
+                    "size": 76177,
+                    "date_published": "2024-10-27T00:47:16.951199Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "raised-forge-1.20.1-4.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5849/491/raised-forge-1.20.1-4.0.1.jar",
+                    "id": "5849491",
+                    "parent_id": "570368",
+                    "hashes": {
+                        "sha1": "4eeab41b91c763d5f3cb066be780637e1cb72e0f",
+                        "md5": "699c038b5b25044b0ede921bdae85b7a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 76177,
+                    "date_published": "2024-10-27T01:26:03.880Z"
                 }
             ]
         },
@@ -27041,33 +27046,8 @@
             "subpath": "utility",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Resourcify (1.20-1.20.1-forge)-1.4.2.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5746/359/Resourcify (1.20-1.20.1-forge)-1.4.2.jar",
-                    "id": "5746359",
-                    "parent_id": "870076",
-                    "hashes": {
-                        "sha1": "5c14c5b298eccab5f4b6f5157da7127e6dc2e08c",
-                        "md5": "fabb47003bda913f83593cdac0c315e6"
-                    },
-                    "required_dependencies": [
-                        "351264"
-                    ],
-                    "size": 2443509,
-                    "date_published": "2024-09-22T14:21:40.600Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "Resourcify (1.20-1.20.1-forge)-1.4.2.jar",
+                    "file_name": "Resourcify (1.20-1.20.1-forge)-1.5.0.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -27077,18 +27057,43 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/GKdz9OXy/Resourcify (1.20-1.20.1-forge)-1.4.2.jar",
-                    "id": "GKdz9OXy",
+                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/alV0RqeR/Resourcify (1.20-1.20.1-forge)-1.5.0.jar",
+                    "id": "alV0RqeR",
                     "parent_id": "RLzHAoZe",
                     "hashes": {
-                        "sha512": "02b7e34f2f933494e4808c3ae88c47de2786d50bb9c51ba0f3231e0dcf93be62d61ec27803f8bba3a4f164e6c289154c8a0b08c7164f7dd28fcddb90a70cf166",
-                        "sha1": "5c14c5b298eccab5f4b6f5157da7127e6dc2e08c"
+                        "sha512": "2ab94cc24781b14ed582bf9fdfd3008e1c1e00f81c6bca561b6cfad1c74935bfa93252724f8edd7638755697e070dd3943855fdfa6819bae1568aa2d6279f9fa",
+                        "sha1": "a1f488e77f178344558f275cdaed5b048ee56d9b"
                     },
                     "required_dependencies": [
                         "ordsPcFz"
                     ],
-                    "size": 2443509,
-                    "date_published": "2024-09-22T14:21:48.104844Z"
+                    "size": 2477700,
+                    "date_published": "2024-10-23T18:51:53.662487Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Resourcify (1.20-1.20.1-forge)-1.5.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5838/495/Resourcify (1.20-1.20.1-forge)-1.5.0.jar",
+                    "id": "5838495",
+                    "parent_id": "870076",
+                    "hashes": {
+                        "sha1": "a1f488e77f178344558f275cdaed5b048ee56d9b",
+                        "md5": "4ebf01da4d34e913bf7b228d0cac74be"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 2477700,
+                    "date_published": "2024-10-23T18:51:47.167Z"
                 }
             ]
         },
@@ -28602,7 +28607,9 @@
                         "1.20.5",
                         "1.20.6",
                         "1.21",
-                        "1.21.1"
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric",
@@ -29481,7 +29488,7 @@
                 "modrinth": "snow-real-magic"
             },
             "name": {
-                "curseforge": "Snow! Real Magic! ⛄ (Forge)",
+                "curseforge": "Snow! Real Magic! ⛄ (NeoForge)",
                 "modrinth": "Snow! Real Magic! ⛄"
             },
             "id": {
@@ -29905,33 +29912,8 @@
             "subpath": "decoration.client",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Sounds-2.1.0+1.20.1+fabric.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5740/720/Sounds-2.1.0+1.20.1+fabric.jar",
-                    "id": "5740720",
-                    "parent_id": "925889",
-                    "hashes": {
-                        "sha1": "8124c215c1ad23c9189c54d9851b564519efd23d",
-                        "md5": "b6327c0b17f4d873dc3218dc8988178d"
-                    },
-                    "required_dependencies": [
-                        "306612",
-                        "669659"
-                    ],
-                    "size": 10426717,
-                    "date_published": "2024-09-20T18:52:32.153Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "Sounds-2.1.0+1.20.1+fabric.jar",
+                    "file_name": "Sounds-2.2.0+1.20.1+fabric.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -29940,19 +29922,44 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/7Wra4eBi/Sounds-2.1.0+1.20.1+fabric.jar",
-                    "id": "7Wra4eBi",
+                    "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/GgnyeUEX/Sounds-2.2.0+1.20.1+fabric.jar",
+                    "id": "GgnyeUEX",
                     "parent_id": "ZouiUX7t",
                     "hashes": {
-                        "sha512": "10f362d2ac7a7b3390880dbe5e8fe558a0946d601090ff1e215a746795faf30d32d55967d1733d42b26ec76ee24c7836ef2bf447eb2801f3cc746787c83b5736",
-                        "sha1": "8124c215c1ad23c9189c54d9851b564519efd23d"
+                        "sha512": "d8a7f301be74277f5a7e27cd784fe257bc262bfd56d3c67b8b6a5486366ab0319b71f5911f85f62a45082e7f4d98f1996886fa30b8d106043c7cecc6ef3f4bca",
+                        "sha1": "f1386c213dbe7a07641e861d7ae20f7638df55cb"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "SNVQ2c0g"
                     ],
-                    "size": 10426717,
-                    "date_published": "2024-09-20T18:52:38.830718Z"
+                    "size": 10424708,
+                    "date_published": "2024-10-26T20:39:07.722656Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Sounds-2.2.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5848/828/Sounds-2.2.0+1.20.1+fabric.jar",
+                    "id": "5848828",
+                    "parent_id": "925889",
+                    "hashes": {
+                        "sha1": "f1386c213dbe7a07641e861d7ae20f7638df55cb",
+                        "md5": "3190a6487a0e0c5e23500cc60b61a048"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "669659"
+                    ],
+                    "size": 10424708,
+                    "date_published": "2024-10-26T20:39:02.410Z"
                 }
             ]
         },
@@ -32816,6 +32823,39 @@
             },
             "files": [
                 {
+                    "type": "modrinth",
+                    "file_name": "SodiumTranslations.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/bmWYzqI4/SodiumTranslations.zip",
+                    "id": "bmWYzqI4",
+                    "parent_id": "yfDziwn1",
+                    "hashes": {
+                        "sha512": "c96c998c792dd5191b7d010bb2f335e4475245276a216d63c591ece6310abcf38c0b2a1a8ef3351773278ebb7a1982e73365ce9a82acac33477013e7e5010c18",
+                        "sha1": "67017a3a9eb40514dfa175671b11429a5d72b0d8"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 214626,
+                    "date_published": "2024-10-26T01:39:32.767312Z"
+                },
+                {
                     "type": "curseforge",
                     "file_name": "SodiumTranslations.zip",
                     "mc_versions": [
@@ -32828,49 +32868,18 @@
                         "1.20.4"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5823/355/SodiumTranslations.zip",
-                    "id": "5823355",
+                    "url": "https://edge.forgecdn.net/files/5846/262/SodiumTranslations.zip",
+                    "id": "5846262",
                     "parent_id": "867964",
                     "hashes": {
-                        "sha1": "7f76e12267a8420997922c4832e5dc01584c871e",
-                        "md5": "c9a1c9b0c24a4ef18815c2708ff91ebb"
+                        "sha1": "67017a3a9eb40514dfa175671b11429a5d72b0d8",
+                        "md5": "8468ae9960f31a62ff0c342d73709ffa"
                     },
                     "required_dependencies": [
                         "394468"
                     ],
-                    "size": 214207,
-                    "date_published": "2024-10-19T01:40:41.630Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "SodiumTranslations.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/hFpd78A8/SodiumTranslations.zip",
-                    "id": "hFpd78A8",
-                    "parent_id": "yfDziwn1",
-                    "hashes": {
-                        "sha512": "6fc4c198448d96476f17621c66ba863d44ac79b47439098ea69c9a61e42a3d7a0bf992df8b783a0da72f1d96888d6ed3c7c22b7743989a1fc1c9b3955424b94c",
-                        "sha1": "7f76e12267a8420997922c4832e5dc01584c871e"
-                    },
-                    "required_dependencies": [
-                        "AANobbMI"
-                    ],
-                    "size": 214207,
-                    "date_published": "2024-10-19T01:40:43.718946Z"
+                    "size": 214626,
+                    "date_published": "2024-10-26T01:39:30.140Z"
                 }
             ]
         },
@@ -33633,6 +33642,7 @@
                 "curseforge": "1120548",
                 "modrinth": "IDWIdXwS"
             },
+            "redistributable": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -35057,32 +35067,8 @@
             "subpath": "content",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "waystones-forge-1.20-14.1.5.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5661/122/waystones-forge-1.20-14.1.5.jar",
-                    "id": "5661122",
-                    "parent_id": "245755",
-                    "hashes": {
-                        "sha1": "b0fe1cc86273344960aad4fd43efa1be31aa1172",
-                        "md5": "0bbf1cf815b13131701815f92678610f"
-                    },
-                    "required_dependencies": [
-                        "531761"
-                    ],
-                    "size": 483650,
-                    "date_published": "2024-08-25T05:49:01.337Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "waystones-forge-1.20-14.1.5.jar",
+                    "file_name": "waystones-forge-1.20-14.1.6.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -35091,18 +35077,42 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/W8MOY86K/waystones-forge-1.20-14.1.5.jar",
-                    "id": "W8MOY86K",
+                    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/5LARDzDl/waystones-forge-1.20-14.1.6.jar",
+                    "id": "5LARDzDl",
                     "parent_id": "LOpKHB2A",
                     "hashes": {
-                        "sha512": "f451b94379343fcf25d37eeb846902fbd51d946ffd46114c32b32a79a1719a5943da996b21a4d640995942d191d4bd21b4f6e104db39acb7db36ba6e2d87f621",
-                        "sha1": "b230ba56efd3ef4c92d92651bbc76e8119eb211c"
+                        "sha512": "bc1779174b758ea26abd6858626595f3a5362605bc9cbf5d101f626bff9bff5e92f89ef05266cd5ebebe1ab0ef5f0d9af18e385e280237c116a02010c298e2c7",
+                        "sha1": "5e79f9cd7a8c324250df16199e62a5c633a27247"
                     },
                     "required_dependencies": [
                         "MBAkmtvl"
                     ],
-                    "size": 483650,
-                    "date_published": "2024-08-25T05:50:23.492202Z"
+                    "size": 484221,
+                    "date_published": "2024-10-24T14:15:49.639185Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "waystones-forge-1.20-14.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5841/750/waystones-forge-1.20-14.1.6.jar",
+                    "id": "5841750",
+                    "parent_id": "245755",
+                    "hashes": {
+                        "sha1": "39fd81849da768e5a1ea5331856b6e5d74e3fcdd",
+                        "md5": "c10d7e3725ec43c267871b783164e419"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 484221,
+                    "date_published": "2024-10-24T14:16:14.200Z"
                 }
             ]
         },
@@ -36777,7 +36787,7 @@
             },
             "name": {
                 "curseforge": "YetAnotherConfigLib",
-                "modrinth": "YetAnotherConfigLib"
+                "modrinth": "YetAnotherConfigLib (YACL)"
             },
             "id": {
                 "curseforge": "667299",
@@ -36787,7 +36797,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "YetAnotherConfigLib-3.6.0+1.20.1-fabric.jar",
+                    "file_name": "YetAnotherConfigLib-3.6.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -36795,22 +36805,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/uvooYjoA/YetAnotherConfigLib-3.6.0+1.20.1-fabric.jar",
-                    "id": "uvooYjoA",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/nYfjbBJd/YetAnotherConfigLib-3.6.1+1.20.1-fabric.jar",
+                    "id": "nYfjbBJd",
                     "parent_id": "1eAoo2KR",
                     "hashes": {
-                        "sha512": "977d3adfa88091688cbd33d8331b958e93670c1a82959f0204a0dc9c65f823a1b5fb9fabe98d5649e0fe88e8b5363a6c5a236e4695a8af2a54430d1ce19d00a5",
-                        "sha1": "3d678640a3fda7f70b97dc93794cf705f62c4b67"
+                        "sha512": "b3fa9eb67f853535e32260af86e51c751f232809a1a7f4cae8f90344aed8862609d93e0c6e0fbb6ec89625dbde1fe30245585d710112c8c421780589d323cf1d",
+                        "sha1": "e4f5bbfa8f4d3c61f7862cf225b83989a65e6199"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1165112,
-                    "date_published": "2024-10-19T18:38:22.397565Z"
+                    "size": 1167964,
+                    "date_published": "2024-10-22T18:33:56.019920Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
+                    "file_name": "YetAnotherConfigLib-3.6.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -36818,18 +36828,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5424/129/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
-                    "id": "5424129",
+                    "url": "https://edge.forgecdn.net/files/5834/698/YetAnotherConfigLib-3.6.1+1.20.1-fabric.jar",
+                    "id": "5834698",
                     "parent_id": "667299",
                     "hashes": {
-                        "sha1": "48005e145f5423ff9446ac6fe3d1cb122f977a00",
-                        "md5": "84ec83096ccce215ad670ce6ea8c3055"
+                        "sha1": "e4f5bbfa8f4d3c61f7862cf225b83989a65e6199",
+                        "md5": "737ce6e1174b299166374a2fdd56df02"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1148529,
-                    "date_published": "2024-06-13T16:07:52.897Z"
+                    "size": 1167964,
+                    "date_published": "2024-10-22T18:33:55.337Z"
                 }
             ]
         },
