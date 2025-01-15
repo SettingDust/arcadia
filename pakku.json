@@ -1694,6 +1694,30 @@
         },
         "dynamic-brightness": {
             "subpath": "utility.client"
+        },
+        "coastal-waves": {
+            "subpath": "decoration"
+        },
+        "stone-zone": {
+            "subpath": "decoration"
+        },
+        "sweety-archaeology": {
+            "subpath": "content"
+        },
+        "flerovium": {
+            "subpath": "optimization"
+        },
+        "structure-layout-optimizer": {
+            "subpath": "optimization"
+        },
+        "alltheleaks": {
+            "subpath": "optimization"
+        },
+        "distraction-free-recipes": {
+            "subpath": "utility.client"
+        },
+        "alexs-caves-better-combat": {
+            "subpath": "content"
         }
     }
 }
